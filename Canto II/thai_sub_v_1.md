@@ -7449,7 +7449,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: Tch… We’ve got security guards and Peccatula… This is starting to be a bother…
+        Gregor: Tch... We’ve got security guards and Peccatula... This is starting to be a bother...
         เกรกอร์: ชิ... ทีนี้พวกเราก็มีทั้งการ์ดรักษาความปลอดภัย แล้วก็เป็กคาทูลาอีก... เรื่องนี้ชักจะยุ่งยากขึ้นทุกทีแล้วน้า... 
         ```
 
@@ -7478,11 +7478,11 @@
         * เสียงในหัว
 
             ```
-            Being shoved out of cover by Rodya, Gregor stumbled forward, separated from us…
+            Being shoved out of cover by Rodya, Gregor stumbled forward, separated from us...
             โรดย่าผลักเกรกอร์ออกจากที่กำบังทำให้สะดุดล้มไปข้างหน้าออกจากกลุ่มพวกเรา
             ```
             ```
-            …Then bumping into a slave who was busy digging away at rocks.
+            ...Then bumping into a slave who was busy digging away at rocks.
             ...ก่อนที่จะชนเข้ากับทาสคนหนึ่งที่กำลังยุ่งอยู่กับการขุดหิน
             ```
 
@@ -7520,7 +7520,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: H… Hey there, looks like the way things are going here isn’t all too pretty for the both of us, ‘ne? How about we let this slide?
+        Gregor: H... Hey there, looks like the way things are going here isn’t all too pretty for the both of us, ‘ne? How about we let this slide?
         เกรกอร์: ง... ไงพวก ดูเหมือนเรื่องที่เกิดขึ้นข้างล่างนี้จะไม่ดูไม่เป็นใจสำหรับเราทั้งสองเลยเนอะ? คิดไงกับการปล่อยพวกเราไปล่ะ?
         ```
 
@@ -7555,15 +7555,15 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Captive Debtor: F… Four…
+        Captive Debtor: F... Four...
         นักโทษติดหนี้: ส... สี่...
         ```
         ```
-        Captive Debtor: Forty-seven million, nine hundred and twenty thousand…
+        Captive Debtor: Forty-seven million, nine hundred and twenty thousand...
         นักโทษติดหนี้: สี่สิบเจ็บล้านเก้าแสนสองหมื่น...
         ```
         ```
-        Captive Debtor: Forty-seven million, nine hundred and ten thousand… Forty-seven million, nine hundred thousand…
+        Captive Debtor: Forty-seven million, nine hundred and ten thousand... Forty-seven million, nine hundred thousand...
         นักโทษติดหนี้: สี่สิบเจ็ดล้านเก้าแสนหนึ่งหมื่น... สี่สิบเจ็ดล้านเก้าแสน...
         ```
 
@@ -7592,7 +7592,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: I can’t say for sure, but I think she meant she’ll “break all the remaining fingers” on that person’s hands…
+        Sinclair: I can’t say for sure, but I think she meant she’ll “break all the remaining fingers” on that person’s hands...
         ซินแคร์: ผมก็ไม่แน่ใจนักหรอกครับ แต่ผมคิดว่าสิ่งเธอหมายถึงก็คือ "หักนิ้วที่เหลือ" บนมือของคนนั่นให้หมดน่ะครับ... 
         ```
 
@@ -7601,7 +7601,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <…At this point, I’m more scared of how quickly you got that.>
+        Dante: <...At this point, I’m more scared of how quickly you got that.>
         ดันเต้: <...พอถึงจุดนี้แล้ว ฉันว่าฉันชักรู้สึกกลัวกับความไวในการเข้าใจสิ่งนั่นของนายเลยแฮะ>
         ```
 
@@ -7610,15 +7610,15 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Captive Debtor: Must repay…
+        Captive Debtor: Must repay...
         นักโทษติดหนี้: ต้องจ่ายคืน...
         ```
         ```
-        Captive Debtor: Repay all the debt… before I can go back to my family…
+        Captive Debtor: Repay all the debt... before I can go back to my family...
         นักโทษติดหนี้: จ่ายคืนหนี้ทุกอาน... ก่อนที่ฉันจะได้กลับไปหาครอบครัวของฉัน...
         ```
         ```
-        Captive Debtor: They said they’ll take off 1 Ahn for every swing… Forty-seven… How much…was it… Aack! Don’t talk to me! I have to count…
+        Captive Debtor: They said they’ll take off 1 Ahn for every swing... Forty-seven... How much...was it... Aack! Don’t talk to me! I have to count...
         นักโทษติดหนี้: พวกเขาบอกว่าฉันจะคืนหนี้ 1 อานทุก ๆ ครั้งที่ฉันแกว่งพลั่วนี้... สี่สิบเจ็ด... มันเท่าไหร่นะ... แล้วนะ... อั่ก! อย่าคุยกับฉัน! ฉันต้องนับ...
         ```
 
@@ -7636,7 +7636,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: Ah, shoot…
+        Gregor: Ah, shoot...
         เกรกอร์: เวรล่ะไง...
         ```
 
@@ -7656,15 +7656,15 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: We… We can’t live like this anymore!
+        Gregor: We... We can’t live like this anymore!
         เกรกอร์: เรา... เราทนอยู่แบบนี้ต่อไปไม่ได้อีกแล้ว!
         ```
         ```
-        Gregor: This is… outrageous… tyranny! To tie people up and force them to dig!
+        Gregor: This is... outrageous... tyranny! To tie people up and force them to dig!
         เกรกอร์: นี้มัน... เผด็จการ... ชัด ๆ! แกจับคนมารวมกัน แล้วก็บังคับให้พวกเขาต้องก้มหน้าก้มตาขุดเพื่ออิสระภาพที่ไม่มีอยู่จริง!
         ```
         ```
-        Gregor: Let us all… rise up… and fight our oppressors…! Go, onwaaard!!
+        Gregor: Let us all... rise up... and fight our oppressors...! Go, onwaaard!!
         เกรกอร์: เพื่อนพี่น้องเอ้ย มันถึงเวลาที่เราต้อง... ลุกฮือ... และต่อสู้กับพวกมันจอมเผด็จการ...! ตั้งแต่นี้เป็นต้นไป!! 
         ```
 
@@ -7718,7 +7718,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: Greg, sweetie… Here’s the thing about those people… They ended up here by living their whole lives as scum—exploiters and exploitees.
+        Rodion: Greg, sweetie... Here’s the thing about those people... They ended up here by living their whole lives as scum—exploiters and exploitees.
         โรเดียน: เกรก ที่รัก... บางทีอาจจะผิดที่ฉันเองที่ไม่ได้บอกนาย แต่ว่าสาเหตุคนพวกนั่น ต้องมีชะตากรรมติดอยู่นี้ก็เพราะ... พวกเขาที่ครั้งหนึ่งเคยใช้ชีวิตทั้งชีวิตทำแต่เรื่องชั่ว เช่น การหลอกลวง หรือไม่ก็คดโกง 
         ```
         ```
@@ -7731,7 +7731,7 @@
         <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Outis: …Before you attempt an instigation operation next time, be sure to train your acting skills to at least an intermediate level.
+        Outis: ...Before you attempt an instigation operation next time, be sure to train your acting skills to at least an intermediate level.
         เอาทิส: ...ก่อนที่นายจะทำภารกิจอะไรที่ต้องพูดยุยงปลุกปั่น ฉันว่านายควรฝึกทักษะการแสดงให้อยู่ในระดับพอใช้ให้ได้ก่อนเถอะ
         ```
 
@@ -7740,7 +7740,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: Oh, Greg… Have you never tried acting in your whole life?
+        Rodion: Oh, Greg... Have you never tried acting in your whole life?
         โรเดียน: ฮาฮ่า ถึงจะฟังดูแรงไปหน่อยแต่ เกรก... เอาจริง ๆ นายเคยแสดงสักครั้งในชีวิตไหม? 
         ```
 
@@ -7749,7 +7749,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: Scheibenkleister… Look, I’m embarrassed myself…
+        Gregor: Scheibenkleister... Look, I’m embarrassed myself...
         เกรกอร์: บ้าชะมัด... ขนาดฉันยังรู้สึกอายแทนเลย...
         ```
 
@@ -7775,7 +7775,7 @@
         <img src="../images/Bodyguard2.png" alt="Bodyguard2" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rigid Security: W—Wait… Why are they coming this way?! Stop! I said stop!
+        Rigid Security: W—Wait... Why are they coming this way?! Stop! I said stop!
         การ์ดรักษาความปลอดภัยผู้เข้มงวด: ด-เดี๋ยวก่อน... ทำไมมันถึงมาทางนี้?! หยุด! ฉันบอกให้หยุดไง!
         ```
         ```
@@ -7788,7 +7788,7 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Captive Debtor: …Forty-seven million, nine hundred…
+        Captive Debtor: ...Forty-seven million, nine hundred...
         นักโทษติดหนี้: ...สี่สิบเจ็ดล้านเก้าแสน
         ```
 
@@ -7867,7 +7867,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: I’ve got a bad feeling…
+        Sinclair: I’ve got a bad feeling...
         ซินแคร์: ผมรู้สึกสังหรณ์ใจไม่ดีเลย...
         ```
         ```
@@ -7882,11 +7882,11 @@
         * เสียงในหัว
 
             ```
-            “Well…” was all I could mutter before the answer revealed itself to us.
+            “Well...” was all I could mutter before the answer revealed itself to us.
             “ก็นะ...” เป็นเพียงคำเดียวที่ฉันสามารถพึมพัมออกมา ก่อนที่คำตอบจะเผยออกให้เราเห็น
             ```
             ```
-            The doors of the container opened as it finished operating, and inside…
+            The doors of the container opened as it finished operating, and inside...
             ประตูของคอนเทนเนอร์เปิดออกเมื่อมันทำงานเสร็จสิ้น และข้างใน...
             ```
 
@@ -7946,11 +7946,11 @@
         <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Faust: Hm… It appears they redoubled excavation efforts from this point onward.
+        Faust: Hm... It appears they redoubled excavation efforts from this point onward.
         เฟาสท์: หืม... ดูเหมือนว่าพวกเขาจะเร่งมือในการขุดเจาะเป็นสองเท่าตั้งแต่จุดนี้เป็นต้นไป
         ```
         ```
-        Faust: I can’t think of any other reason to augment humans on a conveyor belt…
+        Faust: I can’t think of any other reason to augment humans on a conveyor belt...
         เฟาสท์: ฉํนคิดเหตุผลอื่นไม่ออกเลยว่าทำไมถึงต้องติดมนุษย์เสริมเข้ากับสายพาน...
         ```
 
@@ -7974,7 +7974,7 @@
         ซินแคร์: รู้สึกเหมือนกับว่ามันหนาวขึ้นเรือ่ย ๆ เลยนะครับ
         ```
         ```
-        Sinclair: What’s up with all this ice around…?
+        Sinclair: What’s up with all this ice around...?
         ซินแคร์: น้ำแข็งที่ติดรอบ ๆ พวกนี้คืออะไรกัน...?
         ```
 
@@ -8001,7 +8001,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: …Sigh. I hope that wasn’t your attempt at a joke. Thanks to you, I’m feeling even colder.
+        Ishmael: ...Sigh. I hope that wasn’t your attempt at a joke. Thanks to you, I’m feeling even colder.
         อิชมาเอล: ...เห้อ หวังว่านั่นจะไม่ใช่มุขที่นายพยายามจะเล่นนะ ขอบคุณมาก เพราะที่นี้ฉันยิ่งรู้สึกหนาวกว่าเดิมอีก 
         ```
 
@@ -8017,7 +8017,7 @@
             ```
 
         ```
-        Dante: <…Because that means we’re getting close to the Golden Bough… right?>
+        Dante: <...Because that means we’re getting close to the Golden Bough... right?>
         ดันเต้: <...ถ้างั้นนั่นก็หมายถึงพวกเรากำลังเข้าใกล้กิ่งทองแล้ว... ใช่ไหม?>
         ```
 
@@ -8061,7 +8061,7 @@
             เบื้องหน้าเราปรากฎอนุสาวรีย์ปราสาทน้ำแข็งขนาดใหญ่ และเสาเข็มที่ถูกแช่แข็งที่ดูจะพังไม่ได้
             ```
             ```
-            And there stood a person…
+            And there stood a person...
             แล้วก็ใครบางคนยืนอยู่...
             ```
             ```
@@ -8074,7 +8074,7 @@
         <img src="../images/Sonya.png" alt="Sonya" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sonya: I came here often whenever I felt the need to clear my thoughts, even though there’s no rocking chairs or whisky you like…
+        Sonya: I came here often whenever I felt the need to clear my thoughts, even though there’s no rocking chairs or whisky you like...
         ซอนย่า: ฉันมักจะมาที่นี้ตอนที่ฉันรู้สึกว่าต้องการชะล้างความคิดของฉัน ถึงแม้ว่ามันจะไม่มีเก้าอี้โยก หรือเหล้าแบบที่เธอชอบ แต่...
         ```
         ```
@@ -8115,7 +8115,7 @@
         ซอนย่า: มันเป็นสิ่งที่เราเรียนรู้จากพวกอัธพาลเจ้าถิ่น ทั้งหมดนี้ก็เพื่อตามหาที่อยู่ของสิ่งที่ถูกฝัง พลังที่ยิ่งใหญ่ ที่กำลังรอที่จะถูกใช้เพื่อสิ่งที่ดีกว่า
         ```
         ```
-        Sonya: Alas, this… area surrounding the Golden Bough was as far as we could go; we didn’t see any way to get closer.
+        Sonya: Alas, this... area surrounding the Golden Bough was as far as we could go; we didn’t see any way to get closer.
         ซอนย่า: แต่น่าเสียดาย ที่... พื้นที่นี้ ที่ห้อมล้อมกิ่งทองมันไกลเกินกว่าที่เราจะเอี่อมถึง และเราก็ไม่เห็นทางที่จะไปใกล้ได้มากกว่านี้ 
         ```
 
@@ -8137,7 +8137,7 @@
         <img src="../images/Sonya.png" alt="Sonya" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sonya: …Did you know, Rodya? This was little more than a somewhat eccentric hollow with frosty walls.
+        Sonya: ...Did you know, Rodya? This was little more than a somewhat eccentric hollow with frosty walls.
         ซอนย่า: ...แล้วเธอรู้หรือเปล่าล่ะ โรดย่า? ว่าตอนแรกที่นี้ก็เป็นแค่กำแพงน้ำแข็งที่มีโพรงประหลาดก็เท่านั่น
         ```
         ```
@@ -8154,7 +8154,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: …You sound like you figured this would happen on my arrival. How’d you know?
+        Rodion: ...You sound like you figured this would happen on my arrival. How’d you know?
         โรเดียน: ...นายพูดอย่างกับว่านายรู้อยู่แล้วว่าถ้าฉันมามันจะเกิดขึ้น นายรู้ได้ไง?
         ```
 
@@ -8163,7 +8163,7 @@
         <img src="../images/Sonya.png" alt="Sonya" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sonya: I have many sources… But that’s none of your business, Rodya.
+        Sonya: I have many sources... But that’s none of your business, Rodya.
         ซอนย่า: ฉันก็มีแหล่งข่าวที่ฉันรู้จักเยอะพอสมควร... แต่นั่นก็ไม่ใช่ธุระกงการอะไรของเธอ โรดย่า
         ```
 
@@ -8203,7 +8203,7 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Resident: That’s all it’s worth? It’s not possible…
+        Resident: That’s all it’s worth? It’s not possible...
         ผู้อยู่อาศัย: ทั้งหมดได้แค่นี้เองเหรอ? เป็นไปไม่ได้...
         ```
 
@@ -8220,7 +8220,7 @@
         สรรพกรผู้ชั่วร้าย: บอกตามตรง คงไม่มีใครอยากจ่ายให้มากถึงสองแสนกับของกิ้งก้องแบบนี้หรอกนะ
         ```
         ```
-        Wicked Tax Collector: And the rest… All worthless garbage.
+        Wicked Tax Collector: And the rest... All worthless garbage.
         สรรพกรผู้ชั่วร้าย: และที่เหลือ... ก็เป็นขยะไร้ค่าทั้งหมด
         ```
         ```
@@ -8237,7 +8237,7 @@
         โรเดียน: ทำไมความยากจนถึงเอาแต่โตเอาโตเอาทุก ๆ ครั้งที่พวกเขาทำงานหนักขึ้น?
         ```
         ```
-        Rodion: It’s ridiculous, isn’t it? While stacks of cash piled up in the pawnbroker’s vault…
+        Rodion: It’s ridiculous, isn’t it? While stacks of cash piled up in the pawnbroker’s vault...
         โรเดียน: ชั่งวิเศษไปเลยใช่ไหมล่ะ? ในขณะที่เงินเป็นฟ้อนถูกกองในห้องนีรภัยของโรงรับจำนำ...
         ```
         ```
@@ -8287,11 +8287,11 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: Sonya, I’m sorry, but that “moment” you kept talking about…
+        Rodion: Sonya, I’m sorry, but that “moment” you kept talking about...
         โรเดียน: ซอนย่า ฉันไม่อยากจะพูดแบบนี้เลย แต่ไอ “จังหวะ” ที่นายเอาแต่พร่ำบอกมาตลอด...
         ```
         ```
-        Rodion: It didn’t come when the Yurodiviye’s youngest… when little Ivan had to sate his hunger with food from the garbage.
+        Rodion: It didn’t come when the Yurodiviye’s youngest... when little Ivan had to sate his hunger with food from the garbage.
         โรเดียน: มันไม่ได้มาหลังจากที่หนูน้อยยูโรดิวีคนนั่น... ตอนที่อีแวนตัวน้อยต้องประทังความหิวโหยของตัวเองด้วยอาหารจากขยะ
         ```
         ```
@@ -8339,7 +8339,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: Absolutely. What our town needed…
+        Rodion: Absolutely. What our town needed...
         โรเดียน: ถูกต้อง สิ่งที่เมืองเราต้องการ...
         ```
         ```
@@ -8377,7 +8377,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: …Gimme a sec. Can’t I pull out of this now?
+        Rodion: ...Gimme a sec. Can’t I pull out of this now?
         โรเดียน: ...ให้เวลาฉันสักเดี๋ยว ทำไมฉันถึงยังออกไปตอนนี้ไม่ได้?
         ```
 
@@ -8408,7 +8408,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: If only that old woman had changed her mind before it came to an end…
+        Rodion: If only that old woman had changed her mind before it came to an end...
         โรเดียน: ก็ถ้าเกิดยายเฆ่าคนนั่นเปลี่ยนใจก่อนที่ทุกอย่างจะมาถึงจุดจบ...
         ```
 
@@ -8417,7 +8417,7 @@
         <img src="../images/Sonya.png" alt="Sonya" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sonya: But Rodya…
+        Sonya: But Rodya...
         ซอนย่า: แต่โรดย่า...
         ```
         ```
@@ -8438,7 +8438,7 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Wicked Tax Collector: Poor Rodion, dear, you seem to be under the delusion that you’re some sort of savior…
+        Wicked Tax Collector: Poor Rodion, dear, you seem to be under the delusion that you’re some sort of savior...
         สรรพกรผู้ชั่วร้าย: โรเดียนผู้น่าสงสาร ที่รัก ดูเหมือนว่าเธอจะหลงผิด คิดว่าตัวเองเป็นฮีโร่ผู้กอบกู้อะไรทำนองนั่น...
         ```
         ```
@@ -8471,7 +8471,7 @@
         โรเดียน: ยังไงซะ ก็ต้องมีบางคนทำมันอยู่แล้ว งั้นฉันผิดหรือไง? 
         ```
         ```
-        Rodion: Unlike the foolish cottager in the fable who gave in to greed and lost out on becoming richer…
+        Rodion: Unlike the foolish cottager in the fable who gave in to greed and lost out on becoming richer...
         โรเดียน: ไม่เหมือนเจ้าของผู้โง่เขลาในนิทาน ผู้ยอมผลีกายให้ความโลภ และสูญเสียทุกสิ่งเพื่อรวยยิ่งขึ้น... 
         ```
         ```
@@ -8492,7 +8492,7 @@
         ซอนย่า: ใช่ ยายเฆ่าที่เธอฆ่าเป็นคนเก็บภาษีผู้ถือครองอำนาจหลายประการในเขต 25
         ```
         ```
-        Sonya: But what gave her so much power… was her sibling’s status as a member of the Middle.
+        Sonya: But what gave her so much power... was her sibling’s status as a member of the Middle.
         ซอนย่า: แต่สิ่งที่ทำให้เธอมีพลังมากขนาดนั่นไม่ใช่เธอ... แต่เป็นสถานภาพที่ญาติเธอเป็นหนึ่งในสมาชิกของเดอะมิลเดิล 
         ```
 
@@ -8501,7 +8501,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: I… struck her down to save my dying neighbors. Is that so wrong?
+        Rodion: I... struck her down to save my dying neighbors. Is that so wrong?
         โรเดียน: ฉัน... แค่ฆ่าเธอก็เพื่อช่วยพี่น้องที่กำลังล้มตายของฉัน แล้วมันผิดขนาดนั่นเลยเหรอ?
         ```
 
@@ -8518,7 +8518,7 @@
         ซอนย่า: เธอยอมรับความจริงที่ว่าเธอไม่ใช่คนพิเศษไม่ได้
         ```
         ```
-        Sonya: Did you know? The Middle… never lets anyone who touches their family go unpunished.
+        Sonya: Did you know? The Middle... never lets anyone who touches their family go unpunished.
         ซอนย่า: เธอรู้หรือเปล่า? เดอะมิลเดิลน่ะ... ไม่เคยปล่อยใครก็ตามที่แตะต้องครอบครัวของพวกเขาไปโดยที่ไม่ลงโทษ
         ```
         ```
@@ -8547,11 +8547,11 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: Since that day… Nothing I held truly felt like it was mine.
+        Rodion: Since that day... Nothing I held truly felt like it was mine.
         โรเดียน: ตั้งแต่วันนั่น... ไม่มีอะไรเลยทีฉันมีแล้วรู้สึกเป็นของตัวเอง
         ```
         ```
-        Rodion: All because of me…
+        Rodion: All because of me...
         โรเดียน: ทุกอย่างก็เป็นเพราะฉัน...
         ```
 
@@ -8568,7 +8568,7 @@
         ซอนย่า: อย่างที่เธอเห็น
         ```
         ```
-        Sonya: To change the world, I perused hundreds of books and thousands of documents…
+        Sonya: To change the world, I perused hundreds of books and thousands of documents...
         ซอนย่า: เพื่อที่จะเปลี่ยนโลก ฉันได้อ่านหนังสือเป็นร้อย ๆ เล่ม และเอกสารอีกพัน ๆ ฉบับ
         ```
         ```
@@ -8592,7 +8592,7 @@
         ซอนย่า: ดูสิ นี้คือโลกที่เราจะเอี่อมถึง
         ```
         ```
-        Sonya: A world… that can be created using the Golden Bough with which you resonated.
+        Sonya: A world... that can be created using the Golden Bough with which you resonated.
         ซอนย่า: โลกที่... ถูกสร้างขึ้นมาได้โดยใช้กิ่งทองที่สะท้อนตัวเธออยู่ 
         ```
         ```
@@ -8604,7 +8604,7 @@
         ซอนย่า: ขอให้ทุก ๆ คนรู้สึกเพลิดเพลินกับสิทธิ์ที่จะไล่ตามความสุขทั้งทางกาย และใจ
         ```
         ```
-        Sonya: …Join hands with me, and I’ll give you that world as a gift.
+        Sonya: ...Join hands with me, and I’ll give you that world as a gift.
         ซอนย่า: ...เพียงจับมือฉันเอาไว้ และฉันจะมอบโลกใบนั่นให้เธอเป็นของขวัญ
         ```
         ```
@@ -8637,7 +8637,7 @@
         โรเดียน: ถ้านี้เป็นความฝัน ฉันก็คงขอให้ตัวเองเป็นส่วนหนึ่งของมัน เพื่อที่ฉันจะได้ไม่ต้องออกไปอีก
         ```
         ```
-        Rodion: And yet…
+        Rodion: And yet...
         โรเดียน: แต่กระนั้น...
         ```
         ```
@@ -8645,7 +8645,7 @@
         โรเดียน: ขอโทษนะ ที่ฉันต้องปฎิเสธข้อเสนอของนาย
         ```
         ```
-        Rodion: How to put it…
+        Rodion: How to put it...
         โรเดียน: จะว่าไงดีล่ะ...
         ```
         ```
@@ -8688,7 +8688,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: The mark? What do you…
+        Rodion: The mark? What do you...
         โรเดียน: เครื่องหมาย? หมายความว่าไง...
         ```
 
@@ -8697,7 +8697,7 @@
         <img src="../images/Sonya.png" alt="Sonya" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sonya: Besides, you can’t see the mark, either. In other words… you don’t have what it takes to be a leader.
+        Sonya: Besides, you can’t see the mark, either. In other words... you don’t have what it takes to be a leader.
         ซอนย่า: อีกอย่างเธอก็มองไม่เห็นเครื่องหมายเหมือนกัน หรือจะให้พูดก็คือ... เธอไม่มีคุณสมบัติในการเป็นหัวหน้า
         ```
         ```
@@ -8714,7 +8714,7 @@
         โรเดียน: ใช่แล้ว ฉันคิดว่าฉันจำได้ว่านายเคยพูดอะไรแบบนั่นตอนนั่งอยู่ที่โต๊ะที่เต็มไปด้วยกองหนังสือ
         ```
         ```
-        Rodion: …That’s why I can’t join you.
+        Rodion: ...That’s why I can’t join you.
         โรเดียน: ...เพราะงั้น ฉันถึงร่วมกับนายไม่ได้
         ```
         ```
@@ -8722,7 +8722,7 @@
         โรเดียน: ฉันยังคงเชื่อว่ามันไม่ใช่คำพูดใหญ่โตหลังบานประตูที่ถูกปิดที่เลี้ยงปากท้องของพี่น้อง
         ```
         ```
-        Rodion: And as I’m sure you’ve learned by now…
+        Rodion: And as I’m sure you’ve learned by now...
         โรเดียน: และจากที่ฉันแน่ใจว่าตอนนี้นายคงรู้แล้ว...
         ```
         ```
@@ -8774,7 +8774,7 @@
             ```
 
         ```
-        Dante: <What the…?>
+        Dante: <What the...?>
         ดันเต้: <อะไรกัน...?>
         ```
 
@@ -8786,7 +8786,7 @@
             ```
 
         ```
-        Dante: <Wait, if this keeps up…>
+        Dante: <Wait, if this keeps up...>
         ดันเต้: <เดี๋ยว ขืนมันยังสั่นต่อไปแบบนี้...>
         ```
 
@@ -8802,7 +8802,7 @@
             ```
 
         ```
-        Dante: <Out… Outside, now!>
+        Dante: <Out... Outside, now!>
         ดันเต้: <ออกไป... ข้างนอก เดี๋ยวนี้!>
         ```
 
@@ -8826,11 +8826,11 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: …Am I seeing this right?
+        Ishmael: ...Am I seeing this right?
         อิชมาเอล: ...นี้ฉันไม่ได้ตาฝาดไปใช่ไหม? 
         ```
         ```
-        Ishmael: The castle isn’t falling apart, it’s like…
+        Ishmael: The castle isn’t falling apart, it’s like...
         อิชมาเอล: ปราสาทไม่ได้กำลังถล่ม แต่เหมือนกับ...
         ```
 
@@ -8857,7 +8857,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <Hoogh… Gahh… I, we ran quite a bit, but what now…?>
+        Dante: <Hoogh... Gahh... I, we ran quite a bit, but what now...?>
         ดันเต้: <ฮูว... แฮ่ก... *.เสียงหอบ* ฉัน พวกเราวิ่งมาสักพักแล้ว แต่นี้เสียงอะไรอีก...?>
         ```
 
@@ -8875,7 +8875,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: …You could just say that something mammoth is after us!
+        Ishmael: ...You could just say that something mammoth is after us!
         อิชมาเอล: ...นี้นายกำลังจะบอกว่ามีตัวอะไรสักอย่างขนาดเท่าแมมมอธตามเราอยู่งั้นรึไง!
         ```
 
@@ -8902,7 +8902,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <G-Gimme a second! I never considered what to do after getting down here…>
+        Dante: <G-Gimme a second! I never considered what to do after getting down here...>
         ดันเต้: <ห-ให้เวลาฉันเดี๋ยวเซ่! ฉันไม่ได้คิดว่าต้องทำอะไรเลยหลังจากที่ลงมาที่นี้...>
         ```
 
@@ -8911,7 +8911,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: The bus… Where’s the bus?
+        Gregor: The bus... Where’s the bus?
         เกรกอร์: รถบัส... บัสอยู่ที่ไหน? 
         ```
 
@@ -8938,7 +8938,7 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff: …I’m smashing your skull to pieces later.
+        Heathcliff: ...I’m smashing your skull to pieces later.
         ฮิธคลิฟฟ์: ...ไว้จบเรื่องนี้่ก่อนเถอะ เดี๋ยวฉันจะเบิ่ดกะโหลกแกเป็นชิ้น ๆ 
         ```
 
@@ -8967,7 +8967,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <We’ll have to distract them somehow before we can get away…>
+        Dante: <We’ll have to distract them somehow before we can get away...>
         ดันเต้: <พวกเราต้องหาวิธีเบี่ยงเบนความสนใจของพวกมันสักอย่าง ก่อนที่พวกเราจะหนีออกไปได้...>
         ```
 
@@ -9038,7 +9038,7 @@
         ซอนย่า: มันเหมือนกับตอนที่เธอควบคุมตัวเองไม่ได้หลังจากที่ใช้ขวานเมื่อวันนั่น
         ```
         ```
-        Sonya: I’m discovering that I might have a similarly… inexplicable drive pushing me.
+        Sonya: I’m discovering that I might have a similarly... inexplicable drive pushing me.
         ซอนย่า: ฉันค้นพบว่าตัวเองก็อาจมีบางอย่างที่เหมือนกัน... บางอย่างที่คอยดันฉันไปข้างหน้าอย่างอธิบายไม่ถูก
         ```
         ```
@@ -9051,7 +9051,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <I… Uh-huh?>
+        Dante: <I... Uh-huh?>
         ดันเต้: <ฉัน... เออ-ฮะ?>
         ```
 
@@ -9079,7 +9079,7 @@
         ซอนย่า: บางทีความเงียบก็พูดดังกว่าที่ได้ยิน ฉันจะเข้าใจว่าตกลงแล้วกันนะ
         ```
         ```
-        Sonya: And one more thing… That child will soon visit you, too.
+        Sonya: And one more thing... That child will soon visit you, too.
         ซอนย่า: แล้วอีกเรื่องหนึ่ง... อีกไม่นาน เด็กคนนั่นจะมาเยี่ยมคุณเหมือนกัน 
         ```
 
@@ -9106,7 +9106,7 @@
         <img src="../images/Sonya.png" alt="Sonya" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sonya: Ah… Sorry. My eyes must have fooled me. I thought I saw something on his forehead for a second…
+        Sonya: Ah... Sorry. My eyes must have fooled me. I thought I saw something on his forehead for a second...
         ซอนย่า: อ้า... โทษที ฉันคงตาถั่วไปเอง เมือกี้นี้ฉันนึกว่า ตัวเองเห็นอะไรอยู่บนหน้าผากเขาแปปนึ่งน่ะ...
         ```
 
@@ -9121,12 +9121,12 @@
             ซอนย่าเชิดคางไปทางบางอย่างที่อยู่ด้านหลังเขา
             ```
             ```
-            A faint light was shining between the fallen blocks of ice, giving a distinctive glow…
+            A faint light was shining between the fallen blocks of ice, giving a distinctive glow...
             แสงจาง ๆ เปล่งออกมาระหว่างบล็อกน้ำแข็งที่ถล่ม ปรากฎเรืองแสงเรืองที่เป็นเอกลักษณ์
             ```
 
         ```
-        Dante: <The Golden Bough…>
+        Dante: <The Golden Bough...>
         ดันเต้: <กิ่งทอง...>
         ```
 
@@ -9154,11 +9154,11 @@
             หลังจากที่ซอนย่าทิ้งพวกเรากับข้อความสั่งเสียปริศนา พวกยูโรดีวีก็พากันปรากฎตัวคนแล้วคนเล่า
             ```
             ```
-            Well… This may have been as good a time as any for touching farewells like “I won’t forget you!”
+            Well... This may have been as good a time as any for touching farewells like “I won’t forget you!”
             ก็นะ... นี้ก็คงเป็นช่วงเวลาอันดีที่จะได้กอดลาพรางพูดอะไรที่มันโรแมนติกอย่างเช่น “ฉันจะไม่ทางลืมนาย!”
             ```
             ```
-            …Then I saw that Rodya was the first to sprint for the exit.
+            ...Then I saw that Rodya was the first to sprint for the exit.
             ...ก่อนที่ฉันจะเห็นว่าโรดย่าเป็นคนแรกที่วิ่งไปยังทางออก
             ```
 
@@ -9203,7 +9203,7 @@
         <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Yi Sang: …Truly, an ideal form of friendship.
+        Yi Sang: ...Truly, an ideal form of friendship.
         ยี่ซัง: ...เป็นมิตรภาพในแบบอุมคติอย่างแท้จริง
         ```
 
@@ -9214,7 +9214,7 @@
         * เสียงในหัว
 
             ```
-            Sometime later…
+            Sometime later...
             ต่อมา...
             ```
             ```
@@ -9231,15 +9231,15 @@
         <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: …I see, so that’s your story. There’s just one thing that bothers me, though.
+        Vergilius: ...I see, so that’s your story. There’s just one thing that bothers me, though.
         วอร์จิลิอุส: ...เข้าใจแล้ว ว่านั่นเป็นเรื่องราวของนาย แต่มีเรื่องเดียวที่ยังตะกิดใจฉันอยู่
         ```
         ```
-        Vergilius: This man… Sonya, was it? His actions during those final moments don’t quite seem to match the beliefs he told you.
+        Vergilius: This man... Sonya, was it? His actions during those final moments don’t quite seem to match the beliefs he told you.
         วอร์จิลิอุส: ผู้ชายคนนั่น... ซอนย่า ใช่ไหม? การกระทำของเขาในโค้งสุดท้ายพวกนั่น ดูไม่เข้ากับความเชื่อที่เขาบอกนายเลยสักกะนิด
         ```
         ```
-        Vergilius: Which is why we should scrutinize his true intentions…
+        Vergilius: Which is why we should scrutinize his true intentions...
         วอร์จิลิอุส: ซึ่งเป็นเหตุผลว่าทำไมเราถึงควรกลั่นกลองความตั้งใจแท้จริงของเขา
         ```
 
@@ -9256,7 +9256,7 @@
         โรเดียน: ตอนแรกก็ยี่ซัง แล้วตอนนี้ก็นายอีกเหรอ? ทำไมทุกคนถึงเอาแต่แคร์ซอนย่ามากกว่าฉัน? ทั้ง ๆ ที่เส้นใต้ก็ขีดสรุปไว้ชัดเจนอยู่แล้ว ว่าในท้ายที่สุดเราได้กิ่งทองมา
         ```
         ```
-        Rodion: As a plus… Check this out, everyone~
+        Rodion: As a plus... Check this out, everyone~
         โรเดียน: นอกจากนี้... ดูนี้สิทุกคน~
         ```
 
@@ -9307,7 +9307,7 @@
         <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: …What do you think, Charon?
+        Vergilius: ...What do you think, Charon?
         วอร์จิลิอุส: ...เธอคิดว่าไงล่ะ ชารอน?
         ```
 
@@ -9316,7 +9316,7 @@
         <img src="../images/Charon.png" alt="Charon" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Charon: …Mmm.
+        Charon: ...Mmm.
         ชารอน: ...อืมมม
         ```
         ```
@@ -9329,7 +9329,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: Gah, of all the things you could mention…
+        Gregor: Gah, of all the things you could mention...
         เกรกอร์: เห้อ ในบรรดาสิ่งที่เธอพูดได้...
         ```
 
@@ -9360,7 +9360,7 @@
         โรเดียน: อย่างนี้สิค่อยเข้าท่า วอร์ค
         ```
         ```
-        Rodion: After all’s said and done…
+        Rodion: After all’s said and done...
         โรเดียน: หลังจากทุกอย่างจบลงแล้ว...
         ```
 
@@ -9397,7 +9397,7 @@
         เฮอแมน: ยอดเยี่ยมมาก ยูโรดิวี
         ```
         ```
-        Hermann: Not only did you manage to clear out the legion of foes…
+        Hermann: Not only did you manage to clear out the legion of foes...
         เฮอแมน: ไม่ใช่แค่พวกเธอสามารถจัดการกับพยุหะอริศัตรูของเราได้...
         ```
         ```
@@ -9432,7 +9432,7 @@
         <img src="../images/Sonya.png" alt="Sonya" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sonya: …I showed Rodya that world.
+        Sonya: ...I showed Rodya that world.
         ซอนย่า: ...ผมแสดงโลกนั่นให้กับโรดย่า 
         ```
         ```
@@ -9440,7 +9440,7 @@
         ซอนย่า: ความเป็นจริงในอุมคติที่ทำให้ผมหลงใหล
         ```
         ```
-        Sonya: Alas…
+        Sonya: Alas...
         ซอนย่า: แต่น่าเศร้า...
         ```
 
@@ -9471,7 +9471,7 @@
         <img src="../images/Hermann.png" alt="Hermann" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Hermann: So, do you find this… regrettable?
+        Hermann: So, do you find this... regrettable?
         เฮอแมน: แล้วเธอมองว่านี้เป็นเรื่อง... น่าเสียดายไหมจ๊ะ?
         ```
 
@@ -9480,7 +9480,7 @@
         <img src="../images/Sonya.png" alt="Sonya" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sonya: Well…
+        Sonya: Well...
         ซอนย่า: ก็นะ...
         ```
         ```
@@ -9496,7 +9496,7 @@
         ซอนย่า: โรดย่าไม่ได้หวังโลกที่สมบูรณ์แบบที่ไร้ซึ่งข้อบกพร่องใด ๆ ทั้งนั่น 
         ```
         ```
-        Sonya: Rather, she might have felt…
+        Sonya: Rather, she might have felt...
         ซอนย่า: กลับกัน เธอคงรู้สึก...
         ```
         ```
@@ -9513,7 +9513,7 @@
         <img src="../images/Hermann.png" alt="Hermann" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Hermann: I thought her to be a woman of virtue, principles unshakable…
+        Hermann: I thought her to be a woman of virtue, principles unshakable...
         เฮอแมน: ฉันก็นึกว่าเธอจะเป็นผู้หญิงที่เปี่ยมไปด้วยคุณธรรม เป็นรากฐานที่มิอาจสั่นคลอนได้ซะอีก...
         ```
         ```
@@ -9530,7 +9530,7 @@
         ซอนย่า: ผมมั่นใจว่า เธอยังมีเส้นทางอีกยาวไกลที่ต้องไป 
         ```
         ```
-        Sonya: …She won’t want to admit it, though.
+        Sonya: ...She won’t want to admit it, though.
         ซอนย่า: ...ถึงอย่างนั่น เธอก็ไม่อยากที่จะยอมรับมัน
         ```
 
@@ -9561,7 +9561,7 @@
         เฮอแมน: การตำหนิไม่ช่วยให้กิ่งมาอยู่ที่เท้าของเราหรอก ใช่ไหมจ๊ะ?
         ```
         ```
-        Hermann: It’s fine. Wherever the Boughs may be right now…
+        Hermann: It’s fine. Wherever the Boughs may be right now...
         เฮอแมน: มันเป็นเรื่องช่วยไม่ได้ ไม่ว่าตอนนี้กิ่งจะอยู่ไหนก็ตาม...
         ```
         ```

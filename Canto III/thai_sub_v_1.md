@@ -7599,7 +7599,1433 @@
 
     * **Episode: 22 | ตอนที่ 22<br>Location: District 11 - LC Branch Interior | เขต 11 - ภายในสาขาแยกเอลซี**
 
-        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: Well I’ll be… You’ve all… gotten better at fighting, haven’t you…?
+        บุคคลปริศนา: ให้ตายสิ... พวกเธอทุกคน... สู้กันเก่งขึ้นแล้วใช่ไหมเนีย...?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            A faint voice calls to us from the corner.
+            เสียงที่อ่อนเพลียเรียกพวกเราจากมุมหนึ่งของห้อง
+            ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Saude…?
+        เกรกอร์: เซาเด...?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Saude was resting against the wall, exhausted.
+            เมื่อตามต้นตอของเสียงที่เรียกขาน เราก็พบกับเซาเดที่กำลังนั่งพักพิงกับกำแพง
+            ```
+            ```
+            She was covered in bites and gnawings left by the Peccatula.
+            บนร่างเธอเต็มไปด้วยรอยกัด และร่องรอยของการถูกแทะที่หลงเหลืออยู่จากฝีมือของเป็กคาทูลา
+            ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: Are you alright? Can you get up easily?
+        อิชมาเอล: นี้เธอโอเคหรือเปล่า? ลุกไหวไหม?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Saude could barely talk, let alone stand on her feet; she slowly began to speak, each word filled with pain.
+            ลำพังเซาเดแค่จะพูดยังทำไม่ได้ แล้วนับประสาอะไรกับเธอที่ต้องยืนด้วยสองขาของตัวเอง; ก่อนที่เธอจะเริ่มค่อย ๆ พูดออกมา ทีละคำ ทีละคำ ด้วยความเจ็บปวด   
+            ```
+
+        ---
+
+        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Saude: Effie… How is he…?
+        เซาเด: เอฟฟี่... หมอนั่นเป็นไงบ้าง...?
+        ```
+        ```
+        Saude: Alive, yeah? You… must’ve met outside…
+        เซาเด: ยังมีชีวิตอยู่ใช่ไหม? พวกนาย... คงเจอเขาด้านนอกนั่นแล้ว...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Everyone is hesitant to answer Saude’s desperate question
+            ทุกคนลังเลที่จะตอบคำถามชวนสิ้นหวังของเซาเด
+            ```
+            ```
+            How could any of us inform her of the morbid state Effie was in and how we had to put him out of his misery?
+            แล้วเราสักคนจะบอกเธอเกี่ยวกับสภาพที่เอฟฟี่เป็น กับวิธีที่เราใช้เพื่อปลดปล่อยเขาให้พ้นทุกข์ยังไง?
+            ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Hong Lu: …Yes, he’s doing fine now.
+        ฮงหลู่: ...ใช่ขอรับ เขายังสบายดี
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Hong Lu answered quietly.
+            ฮงหลู่ตอบอย่างเงียบ ๆ
+            ```
+            ```
+            No Sinner came forward to elaborate.
+            โดยที่ไม่มีคนบาปเพียงสักคนเข้าไปก้าวก่าย และขัดขว้างสิ่งที่เกิดขึ้น
+            ```
+            
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: That’s enough chatter.
+        เอาทิส: คุยกันมากพอแล้ว
+        ```
+        ```
+        Outis: It seems more of those oddities are crawling our way.
+        เอาทิส: ดูเหมือนว่าพวกสัตว์ประหลาดพวกนั่นที่มากันเพิ่มจะกำลังคลานมาทางพวกเรา
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            A swarm of Peccatula approached us.
+            เป็กคาทูลาฝูงหนึ่งเข้าใกล้พวกเรา
+            ```
+            ```
+            It was as though our guilt about lying to her had gained physical form.
+            ราวกับว่าความรู้สึกผิดของเราเกี่ยวกับเรื่องที่โกหกเธอไปจะก่อตัวเป็นกายเนื้อได้ยังไงอย่างงั้น
+            ```
+
+    ---
+
+    * **Episode: 23 | ตอนที่ 23<br>Location: District 11 - LC Branch Interior | เขต 11 - ภายในสาขาแยกเอลซี**
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            I heard that familiar yet ominous sound of a nail being dragged across the floor from not too far away.
+            ฉันได้ยินเสียงคุ้นเคยที่ทำให้รู้สึกสังหรณ์ใจไม่ดีของตะปูที่ถูกลากผ่านพื้นไม่ไกลนัก
+            ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: …Manager. If I may be forward, I would suggest soon including steps in your combat protocol to confirm that our foes are dead.
+        เอาทิส: ...ท่านผู้จัดการ หากไม่เป็นการเสียมารยาท ฉันอยากเสนอข้อปฎิบัติเพิ่มเติมในมาตรการต่อสู้ของท่าน เพื่อยืนยันว่าศัตรูที่เราเคยเผชิญหน้าเสียชีวิตในสนามรบแล้วจริง ๆ 
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            The thought of his return makes what hair I have stand on end.
+            พอคิดว่าเขาจะกลับมาอีกครั้งก็ทำเอาฉันขนลุกสู้ไม่หยุดเลย
+            ```
+
+        ---
+
+        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Guido: Ye Heretics… must be exterminated.
+        กวีโด: เจ้าพวกนอกรีตทั้งหลาย... จักต้องมลายหายให้สิ้นซาก
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Dante: <How long have you been…>
+        ดันเต้: <แกอยู่นี้ตั้งแต่ตอนไหน...>
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        * เสียงในหัว
+
+            ```
+            Guido approaches at a slower gait than before, but his gaze is firmly fixed on me.
+            กวีโดประชิดเข้ามาด้วยย่างก้าวที่ช้ากว่าเมื่อก่อน แต่สายตาของเขากลับจับจ้องมาที่ฉันตลอดเวลา
+            ```
+
+        ---
+
+        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Guido: And… the rest… shall be purified.
+        กวีโด: และ... ที่เหลือ... จักถูกชำระล้างให้สะอาดเอี่ยม
+        ```
+
+        --- 
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        * เสียงในหัว
+
+            ```
+            I needed to rewind the clock.
+            ฉันต้องย้อนนาฬิกากลับไป
+            ```
+            ```
+            Most of the Sinners were either dead or gravely injured.
+            คนบาปส่วนใหญ่ถ้าไม่ตายก็บาดเจ็บสาหัส
+            ```
+            ```
+            There was no way an effectively non-combatant manager and someone barely holding on to her life could take him.
+            ไม่มีทางเลยที่ผู้จัดการอย่างฉันที่ต่อสู้ไม่เป็น กับคนที่กุมชีวิตของเธอในกำมือจะเอาชนะได้ 
+            ```
+
+        ---
+
+        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Saude: Please stop…
+        เซาเด: ช่วยหยุดแค่นั่นด้วย...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        * เสียงในหัว
+
+            ```
+            Just then, Saude pulled out a gun.
+            ทันใดนั่นเอง เซาเดก็ควักปืนออกมา
+            ```
+            ```
+            She pointed the barrel at me.
+            และเล็งปลายกระบอกมาที่ฉัน
+            ```
+
+        ---
+
+        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Saude: I need you… to keep still…
+        เซาเด: ฉันต้องการให้นาย... อยู่นิ่ง ๆ...
+        ```
+        ```
+        Saude: The moment you try to turn that clock, my gun… will blow off your head…
+        เซาเด: วินาทีนาย พยายามที่จะหมุนนาฬิกานั่น ปืนของฉัน... จะเปากระบานนาย...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Dante: <Saude…?>
+        ดันเต้: <เซาเด...?>
+        ```
+
+        ---
+
+        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Saude: Don’t look at me… like that… I can’t hear you. But, I can tell you this.
+        เซาเด: อย่ามองฉัน... อย่างนั่นสิ.... ถึงฉันจะไม่ด้ยินนาย แต่ฉันก็บอกนายเรื่องนี้ได้
+        ```
+        ```
+        Saude: They promised… to let Effie go… if I helped to get rid of you…
+        เซาเด: พวกเขาสัญญา... ว่าจะปล่อยเอฟฟี่ไป... ถ้าหากว่าฉันกำจัดนายได้...
+        ```
+
+        ---
+
+        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;"
+
+
+        ```
+        Guido: I let too much time pass.
+        กวีโด: เห็นทีว่าข้าจักปล่อยให้เวลาล่วงเลยผ่านไปนานกว่าที่ควร
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        * เสียงในหัว
+
+            ```
+            Guido comes to me and grabs me by the neck.
+            กวีโดเข้ามาหาฉัน และจับฉันเข้าที่คอ
+            ```
+
+        ```
+        Dante: <Kahk, ghhng…>
+        ดันเต้: <อั่ก, อึก...>
+        ```
+
+        * เสียงในหัว
+
+            ```
+            Then, he grips my head tightly with his other hand as if to crush it.
+            ก่อนที่เขาจะจับหัวของฉันอย่างแน่นด้วยมืออีกข้างราวกับจะบีบมันให้แตกเป็นเสี่ยง ๆ 
+            ```
+
+        ```
+        Dante: <Nngh…>
+        ดันเต้: <ย๊ากก...>
+        ```
+
+        * เสียงในหัว
+
+            ```
+            Creaks, cracks, and rattles ring inside my head.
+            เสียงเอี็ยด, แตกร้าว, และสั่นไปสั่นมาดังก้องอยู่ในหัวของฉัน
+            ```
+            ```
+            His fingers being inches away from shattering my head terrifies me.
+            นิ้วเขาอยู่ถัดไปอีกเพียงไม่กี่ เซน/นิ้ว ก่อนที่บดขยี้ผมจนละเอียด มันทำให้ฉันรู้สึกกลัว
+            ```
+            ```
+            Is this it? Is this how I die?
+            นี้มันจบแล้วเหรอ? นี้ฉันต้องมาตายแบบนี้จริง ๆ เหรอ?
+            ```
+            ```
+            Could this… have turned out differently if I was a better manager?
+            นี้จะ... แตกต่างไปบ้างไหมนะ ถ้าเกิดฉันเป็นผู้จัดการที่ดีกว่านี้? 
+            ```
+            ```
+            I remember Heathcliff menacingly asking if there was a way to open up my head so he could see what’s inside.
+            ฉันจำได้ว่าฮิธคลิฟฟ์เคยถามฉันด้วยท่าทีที่ดูน่ากลัวว่า มันมีทางไหนบ้างรึเปล่าที่จะเปิดหัวฉันออกมาเพื่อที่ว่าเขาจะได้ดูว่าอะไรอยู่ข้างใน
+            ```
+            ```
+            Tough luck, Heathcliff.
+            โชคไม่ดีเลยนะ ฮีธคลิฟฟ์
+            ```
+            ```
+            You’ll be missing out on a good show…
+            ที่นายกำลังจะพลาดดูของดีซะได้...
+            ```
+            ```
+            I heard a sound.
+            และแล้วฉันก็ยินเสียง
+            ```
+            ```
+            It was the sound of something breaking.
+            ของบางอย่างที่แตกออก
+            ```
+            ```
+            Fortunately for me…
+            แต่โชคยังดีสำหรับฉัน ที่เสียงนั่น...
+            ```
+
+        ---
+
+        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Guido: Ngh…
+        กวีโด: ฮึก...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        * เสียงในหัว
+
+            ```
+            It didn’t come from my head.
+            ไม่ได้มาจากหัวของฉัน
+            ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Sinclair: Huff, hoogh… Hahk.
+        ซินแคร์: ฮัฟ... ฮูห์... แค่ก
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        * เสียงในหัว
+
+            ```
+            Guido staggers.
+            กวีโดเสียหลังโซซัดโซเซ
+            ```
+            ```
+            A nail was lodged in his back, and Sinclair was gasping for air behind him.
+            ตะปูดอกหนึ่งถูกแทงลงบนแผ่นหลังของเขา และซินแคร์ที่กำลังพยายามสูดอากาศอยู่ด้านหลัง
+            ```
+            ```
+            He was nearly unconscious, lying still until moments ago—it’s a miracle that he managed to get up and do this.
+            ตอนแรกเขาเกือบที่จะหมดสติ ล้มลงนอนแน่นิ่งจนไม่กี่อึดใจต่อมา—มันเป็นปฎิหาริย์ที่เขายังลุกขึ้นมาได้ และทำแบบนี้
+            ```
+            ```
+            I could escape Guido’s grasp thanks to him…
+            เพราะเขาเลย ฉันถึงรอดพ้นจากแรงบีบของกวีโด...
+            ```
+            ```
+            But Guido stood firm despite Sinclair’s desperate attack; he collected his breath and slowly turned around.
+            ถึงอย่างนั้น กวีโดกลับยืนนิ่งสนิทแม้จะโดนการโจมตีที่ สุดแสนสิ้นหวัง/อับจนหนทางนั่น ของซินแคร์ไปแล้ว; ก่อนที่หมอนั่นจะรวบรวมลมอากาศหายใจ และค่อย ๆ หันกลับไป
+            ```
+
+        ---
+
+        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Guido: …I see.
+        กวีโด: ...ข้าเห็นแล้ว
+        ```
+        ```
+        Guido: You, too, are a filthy heretic…
+        กวีโด: ว่าเจ้าเองก็เป็นผู้นอกรีตสกปรกโสกโครก...
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Sinclair: You’re… all insane… out of your minds…
+        ซินแคร์: พวกแก... มันบ้า... เสียสติกันไปหมดแล้ว...
+        ```
+
+        ---
+
+        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Guido: The One Who Grips had once said…
+        กวีโด: ครั้งหนึ่ง ท่านผู้กุมกำเคยตรัสว่า...
+        ```
+        ```
+        Guido: That you could have become the One as well.
+        กวีโด: เจ้าอาจเป็นเช่นเดียวกับท่านผู้นั่น
+        ```
+        ```
+        Guido: What a shame…
+        กวีโด: แต่ชั่งน่าเสียดาย...
+        ```
+        ```
+        Guido: You grip with the wrong direction.
+        กวีโด: ที่เจ้ากลับกุมผิดทาง
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        
+        ```
+        Dante: <Sinclair… run away… I can’t… help you…>
+        ดันเต้: <ซินแคร์... หนีไป... ฉันช่วย... นายไม่ได้...>
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Sinclair: No… I’m not running anymore.
+        ซินแคร์: ไม่... ผมจะวิ่งหนีอีกแล้ว
+        ```
+
+        ---
+
+        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+
+        Saude: …I like that answer, Sinclair.
+        เซาเด: ...ฉันชอบคำตอบนั่นนะ ซินแคร์
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        * เสียงในหัว
+
+            ```
+            Gunfire filled my ears.
+            เสียงปืนดังขึ้นกลบทุกอย่างที่หูฉันได้ยิน
+            ```
+            ```
+            But the bullet struck Guido’s head.
+            แต่กระสุนกลับพุ่งติดหัวกวีโด
+            ```
+
+        ---
+
+        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Guido: ......
+        กวีโด: ......
+        ```
+        ```
+        Guido: You, who bring ruination upon yourselves…
+        กวีโด: เจ้า คือผู้ที่นำพามาซึ่งหายนะสู่ตนเอง...
+        ```
+        ```
+        Guido: The Hammer shall continue to pursue you…
+        กวีโด: เช่นนั้น ค้อนจักไล่ตามเจ้าต่อไป...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        * เสียงในหัว
+
+            ```
+            With those words…
+            เมื่อสิ้นประโยค...
+            ```
+            ```
+            Guido fell to the floor, motionless.
+            กวีโดก็ล่วงลงนอนกองกับพื้น ไม่ขยับ
+            ```
+            ```
+            And in that hush…
+            และในความเงียบงันนั่นเอง...
+            ```
+            ```
+            I heard her handgun drop to the floor.
+            ฉันก็ได้ยินเสียงปืนของเธอที่หล่นลงพื้ัน
+            ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Dante: <…Saude.>
+        ดันเต้: <...เซาเด>
+        ```
+
+        ---
+
+        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+        
+        ```
+        Saude: Effie, he’s… he’s dead, isn’t he?
+        เซาเด: เอฟฟี่ เขา... เขาตายแล้วใช่ไหม?
+        ```
+        ```
+        Saude: You’re all terrible liars. At least try to make it somewhat believable.
+        เซาเด: พวกนายนี้แม่งเป็นคนโกหกที่ห่วยที่สุดเท่าที่ฉันเคยเจอมาเลย อย่างน้อยก็ช่วยทำให้มันน่าเชื่อถือหน่อยไม่ได้หรือไง
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Gregor: …C’mon Saude, let’s get out of here. You’ll be okay… Just gotta stop the bleeding, and… get you patched up.
+        เกรกอร์: ...เอาน่า เซาเด พวกเรารีบออกไปจากที่นี้กัน เธอจะไม่เป็นไร... แค่ต้องห้ามเลือด แล้วก็... รักษาแผลพวกนั่น
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Ishmael: Right. I’ll get a tourniquet…
+        อิชมาเอล: ใช่แล้ว ฉันไปเอาสายรัดมา...
+        ```
+
+        ---
+
+        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Saude: Don’t be stupid. I can hardly lift a finger.
+        เซาเด: อย่าโง่ไปหน่อยเลย กะอีแค่กระดิกนิ้วฉันยังทำแทบไม่ได้
+        ```
+        ```
+        Saude: Besides, those Inquisitors will keep on coming, won’t they? You guys need to keep moving down.
+        เซาเด: อีกอย่าง เจ้าพวกผู้ไต่สวนพวกนั่นจะดาหน้ามาเรื่อย ๆ ใช่ไหมล่ะ? และพวกนายก็ต้องวิ่งหนีต่อไป
+        ```
+        ```
+        Saude: I’ll hold them off here. You should go.
+        เซาเด: เพราะงั้น ฉันจะรั้งพวกมันไว้นี้เอง พวกนายไปเถอะ
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;"
+        
+        ```
+        Sinclair: You can’t—You can’t do that…
+        ซินแคร์: คุณไม่มีสิทธิ์—จะพูดอย่างนั่นนะ...
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Ishmael: You said yourself that you can hardly lift a finger. I can’t let you watch our backs when you’re in such a mess… Please?
+        อิชมาเอล: เธอบอกเองไม่ใช่หรือไงว่าแค่กระดิกนิ้วยังทำไม่ได้ ฉันจะไม่ยอมปล่อยให้เธอต้องดูหลังพวกเราในขณะที่เธอเละขนาดหรอกนะ... ได้โปรด?
+        ```
+
+        ---
+
+        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Saude: You know… in moments like this… you’re supposed to just nod at me and be on your way.
+        เซาเด: รู้ไหม... ว่าในเวลาแบบนี้... สิ่งที่พวกนายควรทำก็คือพยักหน้าให้ฉัน แล้วก็ไปซะ
+        ```
+        ```
+        Saude: Why do you care so much about the one who volunteered to stay behind?
+        เซาเด: ทำไมพวกนายถึงต้องแคร์คนที่ตั้งใจจะถูกทิ้งอยู่ข้างหลังด้วยล่ะ?
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Sinclair: You can’t… You can’t just…
+        ซินแคร์: ไม่ได้นะ... อย่าทำแบบนี้...
+        ```
+
+        ---
+
+        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Saude: Aw… You’re making this pretty awkward, you know that? Here I thought I could have a cool farewell.
+        เซาเด: แหม... พวกนายกำลังให้เรื่องมัน อึดอัด/ยุ่งยาก นะ รู้ไหม? ทั้ง ๆ ที่นึกว่าตัวเองจะได้สั่งลาเท่ ๆ อยู่แล้วเชียว
+        ```
+        ```
+        Saude: Faust, please take these absolute dorks out of here.
+        เซาเด: เฟาสท์ ช่วยพาพวกซื่อบื่อพวกนี้ออกไปจากที่นี้ที
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Faust: I’ll make sure to give Vergilius your regards.
+        เฟาสท์: ฉันสัญญาว่าฉันจะบอกวอร์จิลิอุสว่าเธอนับถือเขา
+        ```
+
+        ---
+
+        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Saude: No need.
+        เซาเด: ไม่จำเป็น/ไม่เป็นไร
+        ```
+        ```
+        Saude: …Just tell him to come visit and say hello someday. You know what I mean?
+        เซาเด: ...แค่ช่วยบอกเขาก็พอว่าให้มาเยี่ยมฉัน และทักทายในสักวัน เธอเข้าใจใช่ไหม?
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Faust: ......
+        เฟาสท์: ......
+        ```
+        ```
+        Faust: Of course.
+        เฟาสท์: แน่นอน
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        * เสียงในหัว
+
+            ```
+            We headed for the next area, leaving Saude to die.
+            พวกเรามุ่งหน้าไปยังพื้นที่ถัดไป และปล่อยให้เซาเดต้องตาย
+            ```
+            ```
+            We all stayed silent for a long while.
+            พวกเราอยู่ในความโศกเศร้าไม่พูดไม่จาไปซักพัก
+            ```
+
+    ---
+
+    * **Episode: 24 | ตอนที่ 24<br>Location: District 11 - LC Branch Interior | เขต 11 - ภายในสาขาแยกเอลซี**
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Heathcliff: …You hear beasts crawling around somewhere?
+        ฮิธคลิฟฟ์: ...มีใครได้ยินเสียงป่ากำลังคลานไปคลานมาอยู่บ้างไหม?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        * เสียงในหัว
+
+            ```
+            There certainly is the sound of something moving along the floor.
+            แน่นอนว่ามันเป็นเสียงของบางสิ่งที่กำลังเคลื่อนไหวอยู่บนพื้น
+            ```
+
+        ---
+
+        <img src="../images/Abnormality_Employee.png" alt="Abnormality_Employee" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        ???: Nnh… Ghhhgn…
+        ตัวประหลาด(?): อื้อ... อึก..
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Gregor: Are those Abnormalities?
+        เกรกอร์: ไอพวกนั่นคือแอบนอร์มาลิตี้เหรอ?
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Ishmael: Take a closer look—they aren’t Abnormalities. See that emblem…
+        อิชมาเอล: ลองมองใกล้ ๆ สิ—พวกมันไม่ใช่แอบนอร์มาลิตี้ เห็นตรานั่นไหม...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        * เสียงในหัว
+
+            ```
+            Ishmael whispered softly to us.
+            อิชมาเอลกระซิบอย่างนุ่มนวลบอกพวกเรา
+            ```
+            ```
+            Upon closer inspection, I could spot the emblems she mentioned. They were the ones worn by the Inquisitors.
+            พอมองใกล้ ๆ ดูแล้ว ฉันก็มองเห็นตราที่เธอหมายถึง พวกมันเป็นแบบเดียวกันกับที่พวกผู้ไต่สวนใส่
+            ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Faust: E.G.O Corrosion has wrested them.
+        เฟาสท์: การกัดกร่อนของ E.G.O/อีโก้ แย่งชิงตัวตนของพวกเขา  
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Gregor: You mean that nauseating state…?
+        เกรกอร์: นี้เธอหมายถึงสภาวะที่ชวนอ้วกนั่นน่ะนะ...?
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Ishmael: I think it happened to me in battle once when I was on the verge of a breakdown… It was like I was being devoured.
+        อิชมาเอล: ฉันคิดว่ามันเคยเกิดขึ้นกับฉันในการต่อสู้ครั้งหนึ่ง ตอนที่ฉันจวนเจียนจะเสียสติ... มันเหมือนกับว่าฉันกำลังถูกกลืนกิน
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Faust: Although it’s not quite like consumption in the conventional sense… I do suppose that it is a serviceable analogy, seeing as it eats away at your essence.
+        เฟาสท์: ถึงแม้ว่ามันจะไม่ใช่การ “กิน” แบบกินจริง ๆ ในความหมายโดยทั่วไป... แต่ก็ถือว่าเป็นการเปรียนเปรยที่ใช้ได้ เมื่ออ้างอิงจากลักษณะของอาการที่ค่อย ๆ กลืนกินตัวตนของผู้ป่วยทีละนิด
+        ```
+        ```
+        Faust: …And in observation, unlike the last floor, this place does not seem to be exclusively for torturing prosthesis users.
+        เฟาสท์: ...และเมื่อสังเกตให้ดี จะพบว่าที่นี้ไม่เหมือนกับชั้นก่อน ชั้นนี้ดูเหมือนจะไม่ได้ถูกกำหนดให้เป็นสถานที่จำเพาะสำหรับทรมาณผู้ใช้ร่างเทียม
+        ```
+        ```
+        Faust: It would be fair to say that its purpose is to induce Corrosion unto oneself.
+        เฟาสท์: หรือพูดได้ว่าหน้าที่ของมันคือการเป็นสถานที่สำหรับเร่งปฎิกิริยากัดกร่อนตัวเอง
+        ```
+
+        ---
+
+        <img src="../images/Abnormality_Employee.png" alt="Abnormality_Employee" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Corroded Inquisitor: Urg… Ghh… Arrh…
+        ผู้ไต่สวนที่ถูกกัดกิน: อื้อ... อึก... อ๊าก..
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        * เสียงในหัว
+
+            ```
+            Staring at those beings stumbling about…
+            พอจ้องมองไปยังเจ้าพวกนั่นที่พากันเดินโซซัดโซเซไปมาอย่างไร้จุดหมายแล้ว...
+            ```
+            ```
+            It evoked complex feelings that made me sigh.
+            มันก็ปลุกความรู้สึกซับซ้อนบางอย่างที่ทำเอาฉันถอนหายใจ
+            ```
+            ```
+            Is my artificial head really worth raging over, so much so that they would transform themselves into something far more hideous than having a clock for a head?
+            หัวเทียมของฉันนี้ มันมีค่ามากขนาดนั่นเลยเหรอ... มันมีค่าขนาดที่ต้อง แลก/สละ ทุกอย่าง จนถึงขั้นที่พวกเขาต้องยอมกลายสภาพตัวเองเป็นบางสิ่งที่น่าขยะแขยง ซะยิ่งกว่าการที่มีนาฬิกาอยู่บนหัวน่ะนะ?
+            ```
+            ```
+            Choosing to lose themselves, being possessed…
+            การเลือกที่จะสูญเสียสิ่งที่ตนเป็น และถูกบงการ...
+            ```
+            ```
+            What about when they claim the Golden Bough after going to these lengths…?
+            แล้วพวกเขาจะทำยังไงต่อในตอนที่พวกเขาเก็บกู้กิ่งทองได้สำเร็จ หลังจากที่เดินมาไกลขนาดนี้...?
+            ```
+            ```
+            Will it even be used for their benefit?
+            มันจะถูกใช้เพื่อผลประโยชน์ของพวกเขาเองบ้างหรือเปล่า?
+            ```
+            ```
+            Then, it occurred to me.
+            แล้วความคิดบางอย่างก็โผล่มาในหัวฉัน
+            ```
+            ```
+            Am I really so different from those unsightly zealots…
+            ว่าตัวเองต่างอะไรกับไอพวกหัวรุนแรงพวกนั่นกัน...
+            ```
+            ```
+            …when I’m searching for the Golden Boughs without even knowing what they’ll be used for?
+            ...ในเมื่อ ฉันเองก็กำลังตามหากิ่งทองโดยที่ไม่รู้ด้วยซ้ำว่ามันจะถูกใช้เพื่อทำอะไร?
+            ```
+
+    ---
+
+    * **Episode: 25 | ตอนที่ 25<br>Location: Unending Hill of Corpses | หุบเขาไร้สิ้นสุดแห่งซากศพ**
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+
+        * เสียงในหัว
+
+            ```
+            I see endless mounds of dead bodies.
+            ฉํนเห็นเนินนับไม่ถ้วนของร่างไร้วิญญาณ
+            ```
+            ```
+            The Inquisitors were raising their arms in unison as if to worship something.
+            พร้อมกันกับพวกผู้ไต่สวนที่กำลังยกแขนตัวเองขึ้นอย่างพร้อมเพรียง ราวกับเพื่อบูชาบางสิ่ง
+            ```
+            ```
+            And there Kromer stood at the highest peak.
+            และโครเมอร์ที่ยืนอยู่บนจุดยอด
+            ```
+            ```
+            She held out her hands in a prayerlike gesture toward the Golden Bough atop an altar.
+            เธอกางมือออกมาเสมือนท่าสำหรับการอธิษฐานที่เบื่องหน้ากิ่งทองบนแท่นบูชา
+            ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;"
+
+        ```
+        Faust: The fathoms of the ego are already open. I see someone has resonated with the Bough before us.
+        เฟาสท์: แก่นแท้/เนื้อแท้ แห่งอีโก้ได้ถูกเปิดออกแล้ว และใครบางคนก็สะท้อนกังวาลกับกิ่งก่อนหน้าพวกเรา
+        ```
+
+        ---
+
+        ```
+        Gregor: The hell are they up to? What’re they raising their hands for?
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Faust: …Prayer.
+        เฟาสท์: 
+        ```
+        ```
+        Faust: Once upon a time… people used to believe in gods, or so I heard.
+        เฟาสท์: 
+        ```
+
+        ---
+
+        ```
+        Ishmael: …What is this sound?
+        อิชมาเอล: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: This feels awfully familiar… Somehow annoyingly tingly… and unpleasant…
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Gregor: …It’s a school bell. Our boy hated school that much, eh.
+        เกรกอร์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            The playful conversation seemed to lighten the mood of the Sinners.
+            ```
+            ```
+            Save for one.
+            ```
+            ```
+            The one who should have been the owner of the fathoms still showed unease.
+            ```
+
+        ---
+
+        ```
+        Sinclair: N-No… I don’t want to show my memories, they, they’re…
+        ซินแคร์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Unfortunately, his plea held no power over the realm.
+            ```
+            
+        ---
+        
+        ```
+        Kromer: Alright, everyone! Listen up!
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        An Inquisitor: The One Who Grips so declares.
+        ผู้ไต่สวนคนหนึ่ง: 
+        ```
+
+        ---
+
+        ```
+        Fellow Inquisitor: The One Who Grips so declares.
+        สหายผู้ไต่สวน: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Not only are those heretics disturbing our sacred rite, they are now after the offering that is rightfully ours to consecrate!
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        An Inquisitor: Disgraceful and defiled are they.
+        ผู้ไต่สวนคนหนึ่ง: 
+        ```
+
+        ---
+
+        ```
+        Fellow Inquisitor: Disgraceful and defiled are they.
+        สหายผู้ไต่สวน: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Go forth and die! Do not fear your end!
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: As long as the offering of gold is with us, you shall be brought back to life again and again!
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        An Inquisitor: We shall fear not, for the One Who Grips is with us.
+        ผู้ไต่สวนคนหนึ่ง: 
+        ```
+        
+        ---
+
+        ```
+        Fellow Inquisitor: We shall fear not, for the One Who Grips is with us.
+        สหายผู้ไต่สวน: 
+        ```
+
+        ---
+
+        ```
+        Kromer: And... Sinclair.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Hurry over. You belong in my hands.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        An Inquisitor: No greater joy exists than to be wielded by the One Who Grips.
+        ผู้ไต่สวนคนหนึ่ง: 
+        ```
+
+        ---
+
+        ```
+        Fellow Inquisitor: No greater joy exists than to be wielded by the One Who Grips.
+        สหายผู้ไต่สวน: 
+        ```
+
+        ---
+        
+        ```
+        Sinclair: I—I…
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Sinclair.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Did you bring the coin?
+        โครเมอร์: 
+        ```
+
+        ---
+
+        **Location: Rowdy Classroom | ห้องเรียนที่สุดแสนวุ่นวาย**
+
+        ---
+
+        ```
+        Sinclair: …The breaks between classes are always lively since everyone gathers around to talk.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: The adults would often watch us from afar and take this as a heartwarming sight.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: But there’s something they don’t realize.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: When you take a closer look, these merry interactions are brimming with envy, vainglory, pride, and guile.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Children are crafty creatures.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Reminisced Classmate: I heard Rahul from the next class over’s getting surgery on both arms by his father. Gonna be with some new tech that’s never been shown before. How cool is that?
+        เพื่อนร่วมชั้นที่ชวนให้นึกถึง: 
+        ```
+        ```
+        Reminisced Classmate: You know this actor on all the magazine covers? Did I ever mention they’re getting an eye transplant at my mom’s clinic? The waitlist was so long, they personally begged to be moved up.
+        เพื่อนร่วมชั้นที่ชวนให้นึกถึง:
+        ```
+
+        ---
+
+        ```
+        Sinclair: I grow more anxious with each boastful story my classmates tell.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: What can I share? Their expecting eyes pointed at me felt like they could turn into scoffing leers at any moment.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: T-This is a secret, but…
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I swallowed nervously.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Maybe they weren’t asking me for a story after all.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: But I had to keep their curious eyes on me.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I knew for sure that I’d become an outcast the moment they looked away.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: My dad… signed a contract with P Corp. They saw the technology he was working on and agreed to give their full support.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: My goodness, just what was I thinking when I spilled that?
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Out of the fear that I’d be isolated from my peers, I carelessly spelled my own ruin.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Maybe I was compelled by some childish urge, or an inherent desire to be recognized by the other students.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: “Now Emil, this is a confidential agreement for our business. You mustn’t tell another soul.” His insistent reminder echoed in my head—I could see his face.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Reminisced Classmate: Whoa… Is that for real, Sinclair?
+        เพื่อนร่วมชั้นที่ชวนให้นึกถึง:
+        ```
+        ```
+        Reminisced Classmate: P Corp? Like that Wing?! Wow… I’m jealous. 
+        เพื่อนร่วมชั้นที่ชวนให้นึกถึง: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: I became the center of conversation in a split second. I can feel the stimulated eyes of the other kids in class drawn to me.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Superiority was pretty damn sweet.
+        ซินแคร์:  
+        ```
+        ```
+        Sinclair: I guess I was driven by a depraved craving for attention.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Reminisced Classmate: Oh right, Sinclair! Your procedure’s soon, isn’t it? Y’know, the prosthetics.
+        เพื่อนร่วมชั้นที่ชวนให้นึกถึง: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Y—Yeah, of course. They told me I’ll get the… newest model.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: If they paid just a bit of attention to my face…
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: They’d have noticed the reluctance in my expression.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Fortunately, no one ever pointed it out.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: A massive wave of guilt eventually washed over me after our break was over and I was finally left alone.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I was supposed to keep that a secret… What if Father finds out?
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Ah…
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Blood was leaking from my fingertip.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: The bad habit of biting my nails whenever I felt anxious ended up hurting me.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I tried clipping them as short as I could to work on breaking it…
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: But I never considered that I might bite into my skin instead.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Watching blood droplets fall on the desk, I thought of something.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Once I graduate, I’ll get a prosthetic replacement…
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: And then I’ll never get hurt or see my blood ever again.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: But… Is that really…
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: You’re… bleeding.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Someone casts a shadow over my desk with a whimsical whistle.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: She was a classmate I rarely talked to, so I could barely remember her name. 
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Flustered, I stuttered out my response awkwardly.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Wuh… What… was that?
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Listen, what you said earlier… Is it legit?
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Um, y-yeah... it's legit.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: I see. Your father must be a real big deal, isn’t he?
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Yeah, uhm… I guess.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Her unexpected flattery has me embarrassed.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: As if my father’s greatness were somehow my own.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Though… Why did you make that face?
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: H—Huh?
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: You know… You were thinking it to yourself.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Then she lowers her head and whispers for only me to hear.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: That it’s filthy.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: My eyes widen.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Not just because I was surprised by how she knew what I was thinking…
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: But the fact that a total stranger like her had been able to figure out exactly what I’d been hiding.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: H-How did you know?
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I could’ve gotten away with it if I’d just denied her accusations, but tactlessly, I asked her that with a dumbfounded look on my face.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Pffh… Because… I agree with you on that.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: You… You agree?
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: You can see a lot from those who are on the same wavelength as you
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Nice to meet you. I’m Kromer.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Ever since then…
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Kromer and I became friends who’d talk often.
+        ซินแคร์: 
+        ```
+
+    ---
+
+    * **Episode: 26 | ตอนที่ 26**
 
         ```
 

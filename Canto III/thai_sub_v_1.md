@@ -25,7 +25,7 @@
             ```
             ```
             I found myself singing along in my head to that strangely familiar tune.
-            รู้ตัวอีกทีฉันก็ร้องตามเสียงนั่นในหัว ทำนองที่คุ้นเคยอย่างน่าประหลาด 
+            รู้ตัวอีกทีฉันก็ร้องตามเสียงนั่นในหัว กับทำนองที่คุ้นเคยอย่างน่าประหลาด 
             ```
 
         ---
@@ -7776,7 +7776,7 @@
 
         ---
 
-        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Guido: Ye Heretics… must be exterminated.
@@ -7785,7 +7785,7 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <How long have you been…>
@@ -7794,7 +7794,7 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -7805,7 +7805,7 @@
 
         ---
 
-        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Guido: And… the rest… shall be purified.
@@ -7814,7 +7814,7 @@
 
         --- 
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -7833,7 +7833,7 @@
 
         ---
 
-        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Saude: Please stop…
@@ -7842,7 +7842,7 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -7857,7 +7857,7 @@
 
         ---
 
-        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Saude: I need you… to keep still…
@@ -7870,7 +7870,7 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <Saude…?>
@@ -7879,7 +7879,7 @@
 
         ---
 
-        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Saude: Don’t look at me… like that… I can’t hear you. But, I can tell you this.
@@ -7892,7 +7892,7 @@
 
         ---
 
-        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;">
 
 
         ```
@@ -7902,7 +7902,7 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -7973,7 +7973,7 @@
 
         ---
 
-        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Guido: Ngh…
@@ -7982,7 +7982,7 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -7993,7 +7993,7 @@
 
         ---
 
-        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Huff, hoogh… Hahk.
@@ -8002,7 +8002,7 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -8029,7 +8029,7 @@
 
         ---
 
-        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Guido: …I see.
@@ -8042,7 +8042,7 @@
 
         ---
 
-        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: You’re… all insane… out of your minds…
@@ -8051,7 +8051,7 @@
 
         ---
 
-        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Guido: The One Who Grips had once said…
@@ -8072,7 +8072,7 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Dante: <Sinclair… run away… I can’t… help you…>
@@ -8081,7 +8081,7 @@
 
         ---
 
-        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: No… I’m not running anymore.
@@ -8090,14 +8090,14 @@
 
         ---
 
-        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         Saude: …I like that answer, Sinclair.
         เซาเด: ...ฉันชอบคำตอบนั่นนะ ซินแคร์
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -8112,7 +8112,7 @@
 
         ---
 
-        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Guido: ......
@@ -8129,7 +8129,7 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -8152,7 +8152,7 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <…Saude.>
@@ -8161,7 +8161,7 @@
 
         ---
 
-        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Saude: Effie, he’s… he’s dead, isn’t he?
@@ -8174,7 +8174,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: …C’mon Saude, let’s get out of here. You’ll be okay… Just gotta stop the bleeding, and… get you patched up.
@@ -8183,7 +8183,7 @@
 
         ---
 
-        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Right. I’ll get a tourniquet…
@@ -8192,7 +8192,7 @@
 
         ---
 
-        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Saude: Don’t be stupid. I can hardly lift a finger.
@@ -8209,7 +8209,7 @@
 
         ---
 
-        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Sinclair: You can’t—You can’t do that…
@@ -8218,7 +8218,7 @@
 
         ---
 
-        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: You said yourself that you can hardly lift a finger. I can’t let you watch our backs when you’re in such a mess… Please?
@@ -8227,7 +8227,7 @@
 
         ---
 
-        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Saude: You know… in moments like this… you’re supposed to just nod at me and be on your way.
@@ -8240,7 +8240,7 @@
 
         ---
 
-        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: You can’t… You can’t just…
@@ -8249,7 +8249,7 @@
 
         ---
 
-        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Saude: Aw… You’re making this pretty awkward, you know that? Here I thought I could have a cool farewell.
@@ -8262,7 +8262,7 @@
 
         ---
 
-        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: I’ll make sure to give Vergilius your regards.
@@ -8271,7 +8271,7 @@
 
         ---
 
-        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Saude: No need.
@@ -8284,7 +8284,7 @@
 
         ---
 
-        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: ......
@@ -8297,7 +8297,7 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -8314,7 +8314,7 @@
 
     * **Episode: 24 | ตอนที่ 24<br>Location: District 11 - LC Branch Interior | เขต 11 - ภายในสาขาแยกเอลซี**
 
-        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: …You hear beasts crawling around somewhere?
@@ -8323,7 +8323,7 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -8334,7 +8334,7 @@
 
         ---
 
-        <img src="../images/Abnormality_Employee.png" alt="Abnormality_Employee" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Abnormality_Employee.png" alt="Abnormality_Employee" width="100" style="display: block; margin: 0 auto;">
 
         ```
         ???: Nnh… Ghhhgn…
@@ -8343,7 +8343,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Are those Abnormalities?
@@ -8352,7 +8352,7 @@
 
         ---
 
-        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Take a closer look—they aren’t Abnormalities. See that emblem…
@@ -8361,7 +8361,7 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -8376,7 +8376,7 @@
 
         ---
 
-        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: E.G.O Corrosion has wrested them.
@@ -8385,7 +8385,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: You mean that nauseating state…?
@@ -8394,7 +8394,7 @@
 
         ---
 
-        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: I think it happened to me in battle once when I was on the verge of a breakdown… It was like I was being devoured.
@@ -8403,7 +8403,7 @@
 
         ---
 
-        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: Although it’s not quite like consumption in the conventional sense… I do suppose that it is a serviceable analogy, seeing as it eats away at your essence.
@@ -8420,7 +8420,7 @@
 
         ---
 
-        <img src="../images/Abnormality_Employee.png" alt="Abnormality_Employee" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Abnormality_Employee.png" alt="Abnormality_Employee" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Corroded Inquisitor: Urg… Ghh… Arrh…
@@ -8429,7 +8429,7 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -8474,7 +8474,7 @@
 
     * **Episode: 25 | ตอนที่ 25<br>Location: Unending Hill of Corpses | หุบเขาไร้สิ้นสุดแห่งซากศพ**
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -8497,7 +8497,7 @@
 
         ---
 
-        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;"
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: The fathoms of the ego are already open. I see someone has resonated with the Bough before us.

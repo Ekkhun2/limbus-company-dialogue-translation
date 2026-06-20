@@ -8092,8 +8092,10 @@
 
         <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
+        ```
         Saude: …I like that answer, Sinclair.
         เซาเด: ...ฉันชอบคำตอบนั่นนะ ซินแคร์
+        ```
 
         ---
 
@@ -8161,7 +8163,7 @@
 
         ---
 
-        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Saude: Effie, he’s… he’s dead, isn’t he?
@@ -8192,7 +8194,7 @@
 
         ---
 
-        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Saude: Don’t be stupid. I can hardly lift a finger.
@@ -8227,7 +8229,7 @@
 
         ---
 
-        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Saude: You know… in moments like this… you’re supposed to just nod at me and be on your way.
@@ -8249,7 +8251,7 @@
 
         ---
 
-        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Saude: Aw… You’re making this pretty awkward, you know that? Here I thought I could have a cool farewell.
@@ -8271,7 +8273,7 @@
 
         ---
 
-        <img src="../images/Saude.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Saude: No need.
@@ -8480,7 +8482,7 @@
 
             ```
             I see endless mounds of dead bodies.
-            ฉํนเห็นเนินนับไม่ถ้วนของร่างไร้วิญญาณ
+            ฉํนเห็นพะเนินกองนับไม่ถ้วนของร่างไร้วิญญาณ
             ```
             ```
             The Inquisitors were raising their arms in unison as if to worship something.
@@ -8506,180 +8508,226 @@
 
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: The hell are they up to? What’re they raising their hands for?
-        เกรกอร์: 
+        เกรกอร์: พวกมันทำบ้าอะไรกันอยู่? จะยกมือตัวเองชี้โบ๊ชี้เบ๊เพื่ออะไร?
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: …Prayer.
-        เฟาสท์: 
+        เฟาสท์: ...ผู้สวดภาวนา
         ```
         ```
         Faust: Once upon a time… people used to believe in gods, or so I heard.
-        เฟาสท์: 
+        เฟาสท์: กาลครั้งหนึ่ง... ผู้คนเคยเชื่อในสิ่งที่เรียกว่าพระเจ้าเท่าที่ฉันเคยได้ยินมา
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: …What is this sound?
-        อิชมาเอล: 
+        อิชมาเอล: ...นี้เสียงอะไร?
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: This feels awfully familiar… Somehow annoyingly tingly… and unpleasant…
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: ความรู้สึกนี้คุ้นชะมัด... ไอความรู้สึกที่เสียวซ่านยิบ ๆ จนน่าหงุดหงิด... และขัดหูขัดตา
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: …It’s a school bell. Our boy hated school that much, eh.
-        เกรกอร์: 
+        เกรกอร์: ...มันคือเสียงระฆังโรงเรียนน่ะ ดูท่าไอหนุ่มของเราจะเกลียดโรงเรียนเข้าไส้เลยสิท่า หิ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             The playful conversation seemed to lighten the mood of the Sinners.
+            บทสนทนาที่ขี้เล่นดูเหมือนจะทำให้อารมณ์ของเหล่าคนบาปดีขึ้น
             ```
             ```
             Save for one.
+            เยี่ยมไปเลย
             ```
             ```
             The one who should have been the owner of the fathoms still showed unease.
+            แต่คนที่น่าจะเป็นเจ้าของของห้วงลึกแห่งนี้กลับยังแสดงท่าทีที่ไม่สบายใจ
             ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: N-No… I don’t want to show my memories, they, they’re…
-        ซินแคร์: 
+        ซินแคร์: ม-ไม่... ผมไม่อยากที่จะแสดงความทรงจำของผม ไม่งั้น พวกเขาจะ...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Unfortunately, his plea held no power over the realm.
+            ชั่งน่าเสียดาย ที่คำขอของเขาไร้พลังในดินแดนแห่งนี้
             ```
             
         ---
+
+        <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Kromer: Alright, everyone! Listen up!
-        โครเมอร์: 
+        โครเมอร์: เอาหละ ทุกคน! ฟังทางนี้!
         ```
 
         ---
+
+        <img src="../images/N_Employee1.png" alt="N_Employee1" width="100" style="display: block; margin: 0 auto;">
 
         ```
         An Inquisitor: The One Who Grips so declares.
-        ผู้ไต่สวนคนหนึ่ง: 
+        ผู้ไต่สวนคนหนึ่ง: ท่านผู้กุมกำกำลังจะตรัสบางสิ่ง
         ```
 
         ---
+
+        <img src="../images/N_Employee2.png" alt="N_Employee2" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Fellow Inquisitor: The One Who Grips so declares.
-        สหายผู้ไต่สวน: 
+        สหายผู้ไต่สวน: ท่านผู้กุมกำกำลังจะตรัสบางสิ่ง
         ```
 
         ---
+
+        <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Not only are those heretics disturbing our sacred rite, they are now after the offering that is rightfully ours to consecrate!
-        โครเมอร์: 
+        โครเมอร์: ไม่เพียงแต่พวกนอกรีตพวกนั่นที่รบกวนพิธีกรรมอันศักดิ์สิทธิ์ของพวกเรา แต่บัดนี้ พวกมันยังตามล่าเครื่องบูชาอันเป็นของเราโดยชอบธรรมที่จักอุทิศถวาย!
         ```
 
         ---
 
+        <img src="../images/N_Employee1.png" alt="N_Employee1" width="100" style="display: block; margin: 0 auto;">
+
         ```
         An Inquisitor: Disgraceful and defiled are they.
-        ผู้ไต่สวนคนหนึ่ง: 
+        ผู้ไต่สวนคนหนึ่ง: พวกมันชั่งน่าละอาย และสกปรก
         ```
 
         ---
 
         ```
         Fellow Inquisitor: Disgraceful and defiled are they.
-        สหายผู้ไต่สวน: 
+        สหายผู้ไต่สวน: พวกมันชั่งน่าละอาย และสกปรก
         ```
 
         ---
+
+        <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Go forth and die! Do not fear your end!
-        โครเมอร์: 
+        โครเมอร์: เฉกเช่นนั้น พวกเจ้าจงออกไปข้างหน้าเสีย และพลีกายเยี่ยงวีรบุรุษ! จงอย่าได้หวาดกลัวจุดจบของเจ้า!
         ```
         ```
         Kromer: As long as the offering of gold is with us, you shall be brought back to life again and again!
-        โครเมอร์: 
+        โครเมอร์: ตราบใดที่เครื่องบูชาแห่งทองคำยังคงอยู่กับเรา พวกเจ้าจักกลับมามีชีวิตอีกครั้ง และอีกครั้ง!
         ```
 
         ---
+
+        <img src="../images/N_Employee1.png" alt="N_Employee1" width="100" style="display: block; margin: 0 auto;">
 
         ```
         An Inquisitor: We shall fear not, for the One Who Grips is with us.
-        ผู้ไต่สวนคนหนึ่ง: 
+        ผู้ไต่สวนคนหนึ่ง: พวกเราหาได้กลัวไม่ แด่ท่านผู้กุมกำที่สถิตในกายเรา
         ```
         
         ---
+
+        <img src="../images/N_Employee2.png" alt="N_Employee2" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Fellow Inquisitor: We shall fear not, for the One Who Grips is with us.
-        สหายผู้ไต่สวน: 
+        สหายผู้ไต่สวน: พวกเราหาได้กลัวไม่ แด่ท่านผู้กุมกำที่สถิตในกายเรา
         ```
 
         ---
+
+        <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: And... Sinclair.
-        โครเมอร์: 
+        โครเมอร์: และ... ซินแคร์
         ```
         ```
         Kromer: Hurry over. You belong in my hands.
-        โครเมอร์: 
+        โครเมอร์: จงรีบเร่งมือเสีย เจ้าอยู่ในอุ้งมือของข้า
         ```
 
         ---
+
+        <img src="../images/N_Employee1.png" alt="N_Employee1" width="100" style="display: block; margin: 0 auto;">
 
         ```
         An Inquisitor: No greater joy exists than to be wielded by the One Who Grips.
-        ผู้ไต่สวนคนหนึ่ง: 
+        ผู้ไต่สวนคนหนึ่ง: ความสุขใดเล่าจะน่าปลื้มปิติยิ่งใหญ่เกินกว่าการถูกโอบกอดโดยท่านผู้กุมกำ
         ```
 
         ---
+
+        <img src="../images/N_Employee2.png" alt="N_Employee2" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Fellow Inquisitor: No greater joy exists than to be wielded by the One Who Grips.
-        สหายผู้ไต่สวน: 
+        สหายผู้ไต่สวน: ความสุขใดเล่าจะน่าปลื้มปิติยิ่งใหญ่เกินกว่าการถูกโอบกอดโดยท่านผู้กุมกำ
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Sinclair: I—I…
-        ซินแคร์: 
+        ซินแคร์: ผม—ผม...
         ```
 
         ---
 
+        <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Kromer: Sinclair.
-        โครเมอร์: 
+        โครเมอร์: ซินแคร์เอ้ย
         ```
         ```
         Kromer: Did you bring the coin?
-        โครเมอร์: 
+        โครเมอร์: เจ้านำเหรียญมาด้วยหรือเปล่า?
         ```
 
         ---
@@ -8688,348 +8736,557 @@
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: …The breaks between classes are always lively since everyone gathers around to talk.
-        ซินแคร์: 
+        ซินแคร์: ...ช่วงพักระหว่างคาบเรียนเป็นช่วงเวลาที่มีชีวิตชีวาอยู่เสมอ ทุกคนต่างพากันรวมตัว และพูดคุยแลกเปลี่ยนสารทุกข์สุกดิบ
         ```
         ```
         Sinclair: The adults would often watch us from afar and take this as a heartwarming sight.
-        ซินแคร์: 
+        ซินแคร์: พวกผู้ใหญ่มักแอบมองดูพวกเราจากที่ไกล ๆ พร้อมกับสายตาที่ชวนให้รู้สึกอบอุ่นหัวใจ
         ```
         ```
         Sinclair: But there’s something they don’t realize.
-        ซินแคร์: 
+        ซินแคร์: แต่มีบางสิ่งที่พวกเขายังไม่รู้ตัว
         ```
         ```
         Sinclair: When you take a closer look, these merry interactions are brimming with envy, vainglory, pride, and guile.
-        ซินแคร์: 
+        ซินแคร์: พอลองมามองใกล้ ๆ แล้ว ปฎิสัมพันธ์เหล่านี้ที่ดูร่าเริง และสนุกสนาน แท้จริงแล้วกลับเต็มไปด้วยความริษยา, ไร้แก่นสาร, หยิ่งทระนง, และมายาภาพ 
         ```
         ```
         Sinclair: Children are crafty creatures.
-        ซินแคร์: 
+        ซินแคร์: เด็ก ๆ เป็นสิ่งมีชีวิตที่เจ้าเล่ห์
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Reminisced Classmate: I heard Rahul from the next class over’s getting surgery on both arms by his father. Gonna be with some new tech that’s never been shown before. How cool is that?
-        เพื่อนร่วมชั้นที่ชวนให้นึกถึง: 
-        ```
-        ```
-        Reminisced Classmate: You know this actor on all the magazine covers? Did I ever mention they’re getting an eye transplant at my mom’s clinic? The waitlist was so long, they personally begged to be moved up.
-        เพื่อนร่วมชั้นที่ชวนให้นึกถึง:
+        เพื่อนร่วมชั้นชายที่ชวนให้นึกถึง: ฉันได้ยินว่าราหุลจากห้องข้าง ๆ กำลังจะได้รับการผ่าตัดแขนทั้งสองข้างโดยปะป๊าของเขา คงเป็นเทคโนโลยีใหม่แกะกล่องที่ไม่เคยมีใครเห็นมาก่อนแหง จะเจ๋งขนาดไหนกันเชียวนะ?
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Reminisced Classmate: You know this actor on all the magazine covers? Did I ever mention they’re getting an eye transplant at my mom’s clinic? The waitlist was so long, they personally begged to be moved up.
+        เพื่อนร่วมชั้นหญิงที่ชวนให้นึกถึง: พวกเธอรู้จักนักแสดงชายคนนี้บนปกนิตยสารบ้างหรือเปล่า? ฉันเคยบอกไปยังว่าเขาเองก็กำลังจะปลูกถ่ายตาข้างหนึ่งที่คลินิกของแม่ฉัน? แล้วคิวมันก็ยาวมากเลย ถึงขนาดที่เขาต้องขอร้องให้ช่วยเลื่อนคิวเป็นการส่วนตัวเลยนะ จะบอกให้
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: I grow more anxious with each boastful story my classmates tell.
-        ซินแคร์: 
+        ซินแคร์: ผมกังวลมากขึ้นมากขึ้นกับเรื่องราวแสนโออวดแต่ละเรื่องที่เพื่อนร่วมชั้นของผมเล่า
         ```
         ```
         Sinclair: What can I share? Their expecting eyes pointed at me felt like they could turn into scoffing leers at any moment.
-        ซินแคร์: 
+        ซินแคร์: ว่าผมจะเล่าอะไรดี? ดวงตาที่คาดหวังของพวกเขาจับจ้องมาที่ผม ราวกับว่าสายตาเจ้าเล่ห์พวกนั่นจะแปรเปลี่ยนไปแล้วเยาะเย้ยผมได้ทุกเมื่อ
         ```
         ```
         Sinclair: T-This is a secret, but…
-        ซินแคร์: 
+        ซินแคร์: ร-เรื่องนี้เป็นความลับนะ แต่ว่า...
         ```
         ```
         Sinclair: I swallowed nervously.
-        ซินแคร์: 
+        ซินแคร์: ผมกลืนน้ำลายด้วยความรู้กังวล
         ```
         ```
         Sinclair: Maybe they weren’t asking me for a story after all.
-        ซินแคร์: 
+        ซินแคร์: แม้บางที พวกเขาอาจไม่ได้ต้องการเรื่องเล่าตั้งแต่แรกอยู่แล้ว
         ```
         ```
         Sinclair: But I had to keep their curious eyes on me.
-        ซินแคร์: 
+        ซินแคร์: แต่ผมก็ต้องดึงสายตาใคร่สงสัยพวกนั่นมาที่ผมให้ได้
         ```
         ```
         Sinclair: I knew for sure that I’d become an outcast the moment they looked away.
-        ซินแคร์: 
+        ซินแคร์: ผมรู้อยู่แก่ใจ ว่าผมจะกลายเป็นคนนอก ณ วินาทีที่พวกเขาเลิกมองผม
         ```
         ```
         Sinclair: My dad… signed a contract with P Corp. They saw the technology he was working on and agreed to give their full support.
-        ซินแคร์: 
+        ซินแคร์: พ่อผม... พึ่งเซ็นท์สัญญากับพีคอร์ปน่ะครับ พวกเขาเห็นทคโนโลยีที่พ่อผมกำลังทำอยู่ แล้วก็ตกลงที่จะให้การสนับสนุนอย่างเต็มที่
         ```
         ```
         Sinclair: My goodness, just what was I thinking when I spilled that?
-        ซินแคร์: 
+        ซินแคร์: ไม่อยากจะเชื่อเลย ว่าผมคิดอะไรอยู่ตอนที่พูดเรื่องนั่นออกไป?
         ```
         ```
         Sinclair: Out of the fear that I’d be isolated from my peers, I carelessly spelled my own ruin.
-        ซินแคร์: 
+        ซินแคร์: ด้วยความกลัวจากก้นบึ้งหัวใจว่าตัวเองอาจถูกแยกจากเพื่อน ๆ ให้ต้องอยู่อย่างโดดเดี่ยวตัวคนเดียว ผมก็เลยพลั้งปากพูดเรื่องที่ไม่ควรพูดออกไป
         ```
         ```
         Sinclair: Maybe I was compelled by some childish urge, or an inherent desire to be recognized by the other students.
-        ซินแคร์: 
+        ซินแคร์: หรือไม่ ผมก็ถูกสัญชาตญาณความเป็นเด็กเข้าครอบงำ กับความปราถนาในใจลึก ๆ ที่อยากได้การยอมรับจากนักเรียนคนอื่น ๆ
         ```
         ```
         Sinclair: “Now Emil, this is a confidential agreement for our business. You mustn’t tell another soul.” His insistent reminder echoed in my head—I could see his face.
-        ซินแคร์: 
+        ซินแคร์: “ทีนี้ ลูก... ก็จงจำให้ขึ้นใจเอมิล ว่านี้เป็นสัญญาลับสุดยอดของธุรกิจเรา ลูกไม่ควรที่จะบอกเรื่องนี้กับใครโดยเด็ดขาด” เสียงเตือนที่ขยั้นขยอของเขาเอาแต่ดังก้องอยู่ในหัวผมไม่หยุด—จนผมเห็นหน้าเขาลอยมาด้วยซ้ำ
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Reminisced Classmate: Whoa… Is that for real, Sinclair?
-        เพื่อนร่วมชั้นที่ชวนให้นึกถึง:
-        ```
-        ```
-        Reminisced Classmate: P Corp? Like that Wing?! Wow… I’m jealous. 
-        เพื่อนร่วมชั้นที่ชวนให้นึกถึง: 
+        เพื่อนร่วมชั้นที่ชวนให้นึกถึง: โว้ว... นั่นเรื่องจริงเหรอ ซินแคร์?
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Reminisced Classmate: P Corp? Like that Wing?! Wow… I’m jealous. 
+        เพื่อนร่วมชั้นที่ชวนให้นึกถึง: พีคอร์ป? วิงส์นั่นน่ะนะ?! ว้าว... ฉันอิจฉาจัง
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: I became the center of conversation in a split second. I can feel the stimulated eyes of the other kids in class drawn to me.
-        ซินแคร์: 
+        ซินแคร์: ไม่กี่อึดใจ ผมก็กลายเป็นศูนย์กลางของการสนทนา ผมรู้สึกได้ถึงดวงตาที่ถูกปลุกเร้าพวกนั่นของเด็กคนอื่น ๆ ในห้องที่จ้องมองมาทางผม
         ```
         ```
         Sinclair: Superiority was pretty damn sweet.
-        ซินแคร์:  
+        ซินแคร์: การอยู่เหนือกว่านี้มัน... ชั่งหอมหวานเหลือเกิน
         ```
         ```
         Sinclair: I guess I was driven by a depraved craving for attention.
-        ซินแคร์: 
+        ซินแคร์: ผมเดาว่าในตอนนี้ ตัวเองคงกำลังถูกขับเคลื่อนด้วยความอยากอันต่ำทรามที่ต้องการความสนใจ
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Reminisced Classmate: Oh right, Sinclair! Your procedure’s soon, isn’t it? Y’know, the prosthetics.
-        เพื่อนร่วมชั้นที่ชวนให้นึกถึง: 
+        เพื่อนร่วมชั้นที่ชวนให้นึกถึง: ใช่สิ ซินแคร์! นายเองก็กำลังจะผ่าตัดในเร็ว ๆ นี้ใช่ไหม? แบบว่า ไอร่างเทียมอะไรนั่นน่ะ
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Y—Yeah, of course. They told me I’ll get the… newest model.
-        ซินแคร์: 
+        ซินแคร์: ช-ช่าย แน่นอน เขาบอกผมว่าผมจะได้... โมเดลรุ่นใหม่ล่าสุด
         ```
         ```
         Sinclair: If they paid just a bit of attention to my face…
-        ซินแคร์: 
+        ซินแคร์: ถ้าอย่างน้อยพวกเขาตั้งใจที่จะดูหน้าผมสักหน่อย...
         ```
         ```
         Sinclair: They’d have noticed the reluctance in my expression.
-        ซินแคร์: 
+        ซินแคร์: ป่านี้ พวกเขาก็สังเกตเห็นสีหน้าค่าตาที่ไม่เต็มใจของผมไปแล้ว
         ```
         ```
         Sinclair: Fortunately, no one ever pointed it out.
-        ซินแคร์: 
+        ซินแคร์: โชคยังดี ที่ไม่มีใครทักท้วงออกมา
         ```
         ```
         Sinclair: A massive wave of guilt eventually washed over me after our break was over and I was finally left alone.
-        ซินแคร์: 
+        ซินแคร์: ในท้ายที่สุด คลื่นยักษ์แห่งความรู้สึกผิดก็พัดผ่านผมไปหลังจากทีช่วงพักสิ้นสุดลง และผมก็ได้อยู่กับตัวเองสักที
         ```
         ```
         Sinclair: I was supposed to keep that a secret… What if Father finds out?
-        ซินแคร์: 
+        ซินแคร์: ทั้ง ๆ ผมควรที่จะเก็บเรื่องนั่นเป็นความลับแท้ ๆ... จะเกิดอะไรขึ้นถ้าคุณพ่อรุ้เรื่องนี้? 
         ```
         ```
         Sinclair: Ah…
-        ซินแคร์: 
+        ซินแคร์: อา...
         ```
         ```
         Sinclair: Blood was leaking from my fingertip.
-        ซินแคร์: 
+        ซินแคร์: เลือดกำลังไหลนองออกมาจากปลายนิ้วผมไม่หยุด
         ```
         ```
         Sinclair: The bad habit of biting my nails whenever I felt anxious ended up hurting me.
-        ซินแคร์: 
+        ซินแคร์: นิสัยเสียของการกัดเล็บตัวเอง ทุกครั้งที่ผมรู้สึกเครียด ในตอนนี้กลับทำให้ผมเจ็บตัว
         ```
         ```
         Sinclair: I tried clipping them as short as I could to work on breaking it…
-        ซินแคร์: 
+        ซินแคร์: ผมพยายามที่จะตัดพวกมันให้สั้นเข้าไว้ก็เพื่อดัดนิสัยตัวเองไม่ให้ทำอีก...
         ```
         ```
         Sinclair: But I never considered that I might bite into my skin instead.
-        ซินแคร์: 
+        ซินแคร์: แต่ผมก็ไม่เคยนึกเลยว่าสุดท้ายแล้วผมจะกัดเนื้อตัวเองแทนซะอย่างนั่น
         ```
         ```
         Sinclair: Watching blood droplets fall on the desk, I thought of something.
-        ซินแคร์: 
+        ซินแคร์: ใครจะนึกล่ะ ว่าการที่ได้มองดูหยดเลือดล่วงหล่นลงบนโต๊ะ จะทำให้ผมคิดอะไรได้
         ```
         ```
         Sinclair: Once I graduate, I’ll get a prosthetic replacement…
-        ซินแคร์: 
+        ซินแคร์: เมื่อผมเรียนจบ ผมจะเข้ารับการผ่าตัดเปลี่ยนถ่ายอวัยวะเทียม...
         ```
         ```
         Sinclair: And then I’ll never get hurt or see my blood ever again.
-        ซินแคร์: 
+        ซินแคร์: แล้วหลังจากนั่น ผมก็จะไม่เจ็บตัว หรือต้องเห็นเลือดตัวเองอีกแล้ว 
         ```
         ```
         Sinclair: But… Is that really…
-        ซินแคร์: 
+        ซินแคร์: แต่... มันจะเป็นอย่างนั่นจริง ๆ หรือเปล่า...
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: You’re… bleeding.
-        โครเมอร์: 
+        โครเมอร์: นายกำลัง... เลือดไหลอยู่นะ
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Someone casts a shadow over my desk with a whimsical whistle.
-        ซินแคร์: 
+        ซินแคร์: เงาของใครบางคนสาดกระทบลงบนโต๊ะของผมพร้อมกันกับเสียงกระซิบที่แปลกประหลาด
         ```
         ```
         Sinclair: She was a classmate I rarely talked to, so I could barely remember her name. 
-        ซินแคร์: 
+        ซินแคร์: เธอคือเพื่อนร่วมห้องที่นาน ๆ ทีผมจะคุยด้วย เพราะงั้น ผมถึงแทบจำชื่อเธอไม่ได้เลยด้วยซ้ำ
         ```
         ```
         Sinclair: Flustered, I stuttered out my response awkwardly.
-        ซินแคร์: 
+        ซินแคร์: ด้วยความ ประหม่า/ลนลาน ผมก็เลยพูดตอบอย่างติด ๆ ขัด ๆ ติดอ่างจนชวนอืดอัด
         ```
         ```
         Sinclair: Wuh… What… was that?
-        ซินแคร์: 
+        ซินแคร์: มา... มี... อะไรหรือเปล่า?
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Listen, what you said earlier… Is it legit?
-        โครเมอร์: 
+        โครเมอร์: ฟังนะ สิ่งที่นายพูดก่อนหน้านี้... มันจริงอะป่าว?
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Um, y-yeah... it's legit.
-        ซินแคร์: 
+        ซินแคร์: อืม ช-ช่าย... มันก็จริงอยู่แล้วสิ
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: I see. Your father must be a real big deal, isn’t he?
-        โครเมอร์: 
+        โครเมอร์: เข้าใจล่ะ งั้นพ่อนายก็เป็น หัวแถว/ตัวบิ๊ก ตัวจริงเสียงจริง เลยใช่ม้า?
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Yeah, uhm… I guess.
-        ซินแคร์: 
+        ซินแคร์: ช่าย อืมม... คิดว่านะครับ
         ```
         ```
         Sinclair: Her unexpected flattery has me embarrassed.
-        ซินแคร์: 
+        ซินแคร์: คำเยินยอที่ไม่คาดคิดของเธอทำเอาผมรู้สึกอาย
         ```
         ```
         Sinclair: As if my father’s greatness were somehow my own.
-        ซินแคร์: 
+        ซินแคร์: ทำอย่างกับว่าความยิ่งใหญ่ของพ่อผมเป็นของผมด้วยยังไงอย่างงั้น
         ```
 
         ---
+    
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Though… Why did you make that face?
-        โครเมอร์: 
+        โครเมอร์: แล้ว... ทำไมนายถึงทำหน้าอย่างงั้นล่ะ?
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: H—Huh?
-        ซินแคร์: 
+        ซินแคร์: ห—หะ?
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: You know… You were thinking it to yourself.
-        โครเมอร์: 
+        โครเมอร์: ก็แบบ... ใบหน้าที่เหมือนกับว่านายกำลังคิดอะไรอยู่ในใจ
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Then she lowers her head and whispers for only me to hear.
-        ซินแคร์: 
+        ซินแคร์: จากนั่น เธอก็ก้มหัวต่ำลง และกระซิบบางอย่างให้ผมคนเดียวได้ยิน
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: That it’s filthy.
-        โครเมอร์: 
+        โครเมอร์: นายนี้... น่ารังเกลียดจังเลยนะ
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: My eyes widen.
-        ซินแคร์: 
+        ซินแคร์: ตาทั้งสองข้างของผมเบิกกว้าง
         ```
         ```
         Sinclair: Not just because I was surprised by how she knew what I was thinking…
-        ซินแคร์: 
+        ซินแคร์: ไม่ใช่แค่เพราะว่าผมตกใจที่เธอรู้ได้ไงว่าผมกำลังคิดอะไรอยู่...
         ```
         ```
         Sinclair: But the fact that a total stranger like her had been able to figure out exactly what I’d been hiding.
-        ซินแคร์: 
+        ซินแคร์: แต่เป็นความจริงที่ว่าคนที่ไม่ได้สนิทกันอย่างเธอทำไมถึงรู้ได้ว่าผมกำลังแอบซ่อนอะไรอยู่
         ```
         ```
         Sinclair: H-How did you know?
-        ซินแคร์: 
+        ซินแคร์: ธ-เธอรู้ได้ไง?
         ```
         ```
         Sinclair: I could’ve gotten away with it if I’d just denied her accusations, but tactlessly, I asked her that with a dumbfounded look on my face.
-        ซินแคร์: 
+        ซินแคร์: ผมคงจะรอดตัวไปได้แล้ว ถ้าหากแค่ผมปฎิเสธคำกล่าวอ้างของเธอ แล้วลอยหน้าลอยตาต่อไป แต่แทนที่จะเป็นอย่างนั่น ผมกลับถามเธอกลับอย่างไร้ไหวพริบด้วยใบหน้าที่ตกตะลึงจนพูดไม่ออก
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Pffh… Because… I agree with you on that.
-        โครเมอร์: 
+        โครเมอร์: ฟิ่บ... ก็เพราะ... ว่าฉันเห็นด้วยกับนายไงเล่า
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: You… You agree?
-        ซินแคร์: 
+        ซินแคร์: เธอ... เห็นด้วยเหรอ?
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: You can see a lot from those who are on the same wavelength as you
-        โครเมอร์: 
+        โครเมอร์: นายจะเห็นอะไรได้มากขึ้นจากพวกคนที่ เป็นเหมือนกับนาย/มีคลื่นแบบเดียวกับนาย
         ```
         ```
         Kromer: Nice to meet you. I’m Kromer.
-        โครเมอร์: 
+        โครเมอร์: ยินดีที่ได้รู้จัก ฉันโครเมอร์
         ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: Ever since then…
-        ซินแคร์: 
+        ซินแคร์: นับตั้งแต่นั้นเป็นต้นมา...
         ```
         ```
         Sinclair: Kromer and I became friends who’d talk often.
-        ซินแคร์: 
+        ซินแคร์: โครเมอร์ และผมก็กลายเป็นเพื่อนที่มักจะคุยกันอยู่ไม่ขาด
         ```
 
     ---
 
     * **Episode: 26 | ตอนที่ 26**
 
-        ```
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
+        Sinclair: As a household rule, my family used to have breakfast at the same table every morning.
+        ซินแคร์: ตามกฎข้อหนึ่งในบ้าน ครอบครัวผมเคยชินกับการกินอาหารมื้อแรกบนโต๊ะอาหารอย่างพร้อมเพรียงกันในทุก ๆ เช้า
+        ```
+        ```
+        Sinclair: It was a pleasant time when our whole family would share stories and encouraging words.
+        ซินแคร์: มันเป็นช่วงเวลาที่เปี่ยมไปด้วยความสุข ในตอนที่ทุกคนในครอบครัวได้แบ่งปันเรื่องราว และคำพูดที่ให้กำลังใจกัน
+        ```
+        ```
+        Sinclair: I liked those mornings, that rule was ever so kind and gentle to my heart.
+        ซินแคร์: ผมชอบเช้าพวกนั่นที่สุดเลย กฎข้อนั่นเองก็ชั่งใจดี และอ่อนโยนกับหัวใจผม
+        ```
+        ```
+        Sinclair: A natural and unchanging world that belonged to me. My world.
+        ซินแคร์: เป็นธรรมชาติ และโลกที่ไม่เปลี่ยนแปลงของผม โลกของผม
+        ```
+        ```
+        Sinclair: That world began to feel alienating one day…
+        ซินแคร์: แต่วันหนึ่งโลกใบนั่นเองก็เริ่มที่จะรู้สึกแปลกออกไป...
+        ```
+        ```
+        Sinclair: The day when my sister sat at that table after her prosthetic transformation was complete.
+        ซินแคร์: ในวันที่พี่สาวของผมนั่งอยู่ที่โต๊ะนั่นหลังการผ่าตัดดัดแปลงเสร็จสิ้น
+        ```
+        ```
+        Sinclair: My world had begun to change when my father’s head was replaced with an unfamiliar contraption of steel, circuits, and wires.
+        ซินแคร์: โลกของผมก็เริ่มที่จะเปลี่ยนไป เมื่อหัวของพ่อผมถูกแทนที่ด้วย
+        ```
+        ```
+        Sinclair: Our family breakfast no longer provided warmth and connection. It became an occasion of detachment where I talked less and less.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Ah… I had started to feel an inherent abhorrence for prostheses.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: “That’s filthy…”
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: My heart couldn’t accept the idea of replacing one’s flesh and bones with something else, let alone the need for it.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Why do we use prosthetic bodies?
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I carefully asked for an explanation, and the reply was simple.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: The human body, in its unmodified state, is too “old-fashioned”.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: It needs to be sustained with food, revitalized with sleep lest it should fail from fatigue, and injuries take a long time to heal.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: All this makes the human body incredibly inefficient.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: He concluded that prostheses will grow more commonplace as time goes on, and ultimately become a regular part of our daily lives.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I thought to myself:
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: “Why don’t I just fall behind the times then if that’s what the mainstream will be?”
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: …Though that wasn’t an argument rooted in logic.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        **Location: Classroom | ห้องเรียน**
+        
+        ---
+
+        ```
+        Kromer: Yo, Sinclair… You don’t actually wanna take the replacement procedure, do you?
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: But your parents sure wouldn’t like it if you confessed that.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: But your parents sure wouldn’t like it if you confessed that.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Isn’t it frustrating that there’s nothing you can do about it?
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: I nod again.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: What if I helped you out? You could live a free life with no worries about any of that junk.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: B-But, how?
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: That, you’ll find out next time.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: In exchange…
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: In return for helping you with your problem, you’ll help me deal with a grudge of my own too.
+        โครเมอร์: 
+        ```
+
+    ---
+
+    * **Episode: 27 | ตอนที่ 27<br>Location: Classroom | ห้องเรียน**
+    
+    ---
+
+    ```
+    ```
 ---
 
 ### เพิ่มเติม

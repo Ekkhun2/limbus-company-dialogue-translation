@@ -1797,7 +1797,7 @@
 
             ```
             Vergilius casually pushed his way through the line of armed guards and leaned against a wall.
-            วอร์จิลิอุสดันเหล่าการ์ดติดอาวุธที่ขวางตนออกจากทางของเขา และพิงตัวกับกำแพง
+            วอร์จิลิอุสดันเหล่าการ์ดติดอาวุธที่ขวางออกจากทางของเขา และพิงตัวกับกำแพง
             ```
             ```
             He then crossed his arms, as if to further drive home that he’ll remain a spectator.
@@ -4189,7 +4189,7 @@
 
         ---
 
-        <img src="../images/Effie.png" alt="Effie" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/EpiLCC.png" alt="Effie" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Effie: *Pzzt Zzzt Zzzt* This is… *Pzzz…*
@@ -4226,7 +4226,7 @@
 
         ---
 
-        <img src="../images/Effie.png" alt="Effie" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/EpiLCC.png" alt="Effie" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Effie: “…You shall bear here your every sin and be purified.”
@@ -9072,7 +9072,7 @@
         ```
         ```
         Sinclair: But the fact that a total stranger like her had been able to figure out exactly what I’d been hiding.
-        ซินแคร์: แต่เป็นความจริงที่ว่าคนที่ไม่ได้สนิทกันอย่างเธอทำไมถึงรู้ได้ว่าผมกำลังแอบซ่อนอะไรอยู่
+        ซินแคร์: แต่เป็นความจริงที่ว่าคนที่ไม่ได้สนิทกันอย่างเธอทำไมถึงรู้ได้ว่าผมกำลังแอบซ่อนอะไรไว้
         ```
         ```
         Sinclair: H-How did you know?
@@ -9135,19 +9135,19 @@
 
         ```
         Sinclair: As a household rule, my family used to have breakfast at the same table every morning.
-        ซินแคร์: ตามกฎข้อหนึ่งในบ้าน ครอบครัวผมเคยชินกับการกินอาหารมื้อแรกบนโต๊ะอาหารอย่างพร้อมเพรียงกันในทุก ๆ เช้า
+        ซินแคร์: ตามกฎข้อหนึ่งในบ้าน ครอบครัวผมเคยชินกับการกินข้าวมื้อแรกบนโต๊ะอาหารอย่างพร้อมเพรียงกันในทุก ๆ เช้า
         ```
         ```
         Sinclair: It was a pleasant time when our whole family would share stories and encouraging words.
-        ซินแคร์: มันเป็นช่วงเวลาที่เปี่ยมไปด้วยความสุข ในตอนที่ทุกคนในครอบครัวได้แบ่งปันเรื่องราว และคำพูดที่ให้กำลังใจกัน
+        ซินแคร์: มันเป็นช่วงเวลาที่เปี่ยมไปด้วยความสุข ในตอนที่ทุกคนในครอบครัวได้แบ่งปันเรื่องราว และคำพูดให้กำลังใจกัน
         ```
         ```
         Sinclair: I liked those mornings, that rule was ever so kind and gentle to my heart.
-        ซินแคร์: ผมชอบเช้าพวกนั่นที่สุดเลย กฎข้อนั่นเองก็ชั่งใจดี และอ่อนโยนกับหัวใจผม
+        ซินแคร์: ผมชอบเช้าพวกนั่นที่สุดเลย กฎข้อนั่นเองก็ชั่งใจดี และอ่อนโยนต่อใจผม
         ```
         ```
         Sinclair: A natural and unchanging world that belonged to me. My world.
-        ซินแคร์: เป็นธรรมชาติ และโลกที่ไม่เปลี่ยนแปลงของผม โลกของผม
+        ซินแคร์: เป็นธรรมชาติ และโลกที่ไม่ทางเปลียนไปโดยมีตัวผมอยู่ในนั่น ในโลกของผม
         ```
         ```
         Sinclair: That world began to feel alienating one day…
@@ -9155,63 +9155,63 @@
         ```
         ```
         Sinclair: The day when my sister sat at that table after her prosthetic transformation was complete.
-        ซินแคร์: ในวันที่พี่สาวของผมนั่งอยู่ที่โต๊ะนั่นหลังการผ่าตัดดัดแปลงเสร็จสิ้น
+        ซินแคร์: ทั้งวันที่พี่สาวของผมนั่งอยู่ที่โต๊ะนั่นหลังการผ่าตัดดัดแปลงที่เสร็จสิ้น
         ```
         ```
         Sinclair: My world had begun to change when my father’s head was replaced with an unfamiliar contraption of steel, circuits, and wires.
-        ซินแคร์: โลกของผมก็เริ่มที่จะเปลี่ยนไป เมื่อหัวของพ่อผมถูกแทนที่ด้วย
+        ซินแคร์: โลกของผมก็เริ่มที่จะเปลี่ยนไป เมื่อหัวของพ่อผมถูกแทนที่ด้วยเครื่องกลโลหะที่ไม่คุ้นตา ทั้งหัวเต็มไปด้วยวงจร และสายไฟระโยงระยาง
         ```
         ```
         Sinclair: Our family breakfast no longer provided warmth and connection. It became an occasion of detachment where I talked less and less.
-        ซินแคร์: 
+        ซินแคร์: ตั้งแต่นั่นมา มื้อเช้าของครอบครัวเราก็ไร้ซึ่งความอบอุ่น และสายสัมพันธ์ที่ฉีกสะบั้นจนไม่อาจหวนคืนได้ มันกลายเป็นเพียงโอกาศแห่งการสั่งลาครั้งสุดท้าย พร้อม ๆ กันกับตัวผมที่ค่อย ๆ พูดน้อยลงทุกที
         ```
         ```
         Sinclair: Ah… I had started to feel an inherent abhorrence for prostheses.
-        ซินแคร์: 
+        ซินแคร์: อา... ผมเริ่มที่จะรู้สึกถึงความเกลียดชังอย่างสุดหัวใจต่อร่างเทียม
         ```
         ```
         Sinclair: “That’s filthy…”
-        ซินแคร์: 
+        ซินแคร์: ว่ามัน “ชั่งน่ารังเกลียด...” อะไรเยี่ยงนี้
         ```
         ```
         Sinclair: My heart couldn’t accept the idea of replacing one’s flesh and bones with something else, let alone the need for it.
-        ซินแคร์: 
+        ซินแคร์: ใจผมไม่อาจยอมรับแนวคิดของการเปลี่ยนเนื้อหนังมังสาของใครบางคน และกระดูกด้วยสิ่งอื่น ผมพูดมันออกมาด้วยใจจริงโดยที่แม้แต่จะคิดถึงความจำเป็นของมันเลยด้วยซ้ำ
         ```
         ```
         Sinclair: Why do we use prosthetic bodies?
-        ซินแคร์: 
+        ซินแคร์: ทำไมเราถึงต้องใช้ร่างเทียมด้วยล่ะครับ?
         ```
         ```
         Sinclair: I carefully asked for an explanation, and the reply was simple.
-        ซินแคร์: 
+        ซินแคร์: ผมถามอย่างใจจดใจจ่อเพื่อหวังคำอธิบาย และคำตอบมันก็ง่ายนิดเดียว
         ```
         ```
         Sinclair: The human body, in its unmodified state, is too “old-fashioned”.
-        ซินแคร์: 
+        ซินแคร์: นั่นก็เพราะ ร่างกายของมนุษย์ในสภาวะที่ไม่ได้ดัดแปลงมันดู “ตกยุค” เกินไป
         ```
         ```
         Sinclair: It needs to be sustained with food, revitalized with sleep lest it should fail from fatigue, and injuries take a long time to heal.
-        ซินแคร์: 
+        ซินแคร์: มันต้องกินเพื่อซึมซับพลังงาน ต้องนอนเพื่อให้มีชีวิตชีวาแล้วร่างกายจะได้ไม่เจ็บป่วยจากความเหนื่อยล้า กับบาดแผลที่ต้องใช้ระยะเวลานานในการรักษา
         ```
         ```
         Sinclair: All this makes the human body incredibly inefficient.
-        ซินแคร์: 
+        ซินแคร์: ทั้งหมดนี้ทำให้ร่างกายของมนุษย์ไร้ประสิทธิภาพอย่างไม่น่าเชื่อ
         ```
         ```
         Sinclair: He concluded that prostheses will grow more commonplace as time goes on, and ultimately become a regular part of our daily lives.
-        ซินแคร์: 
+        ซินแคร์: เขาสรุปว่าอวัยวะเทียมจะค่อย ๆ กลายเป็นความปกติเมื่อเวลาผ่านไป และท้ายที่สุดก็จะกลายเป็นส่วนหนึ่งในชีวิตประจำวันของพวกเรา
         ```
         ```
         Sinclair: I thought to myself:
-        ซินแคร์: 
+        ซินแคร์: ผมนั่งคิดกับตัวเอง
         ```
         ```
         Sinclair: “Why don’t I just fall behind the times then if that’s what the mainstream will be?”
-        ซินแคร์: 
+        ซินแคร์: ว่า “ทำไมเราถึงไม่แค่ยอมปล่อยให้ตัวเองตกยุคไปพร้อมกับกาลเวลา แทนที่มันจะต้องเป็นคลื่นกระแสหลักที่ทุกคนต้องว่ายตาม?”
         ```
         ```
         Sinclair: …Though that wasn’t an argument rooted in logic.
-        ซินแคร์: 
+        ซินแคร์: ...ถึงอย่างนั้น นั่นก็ไม่ใช่ข้อโต้แย้งที่ตั้งอยู่บนหลักตรรกะ และเหตุผล
         ```
 
         ---
@@ -9220,73 +9220,674 @@
         
         ---
 
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Kromer: Yo, Sinclair… You don’t actually wanna take the replacement procedure, do you?
-        โครเมอร์: 
+        โครเมอร์: โย้ ซินแคร์... นายคงไม่ได้จะรับการผ่าตัดดัดแปลงร่างกายจริง ๆ ใช่ม้า? 
         ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Sinclair: But your parents sure wouldn’t like it if you confessed that.
-        ซินแคร์: 
+        Sinclair: I nodded without a word.
+        ซินแคร์: ผมพงักหน้าโดยที่ไม่พูดอะไร
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: But your parents sure wouldn’t like it if you confessed that.
-        โครเมอร์: 
+        โครเมอร์: แต่คงยากหน่อยที่ครอบครัวของนายคงไม่ชอบใจแน่ถ้านายสารภาพไปตรง ๆ 
         ```
         ```
         Kromer: Isn’t it frustrating that there’s nothing you can do about it?
-        โครเมอร์: 
+        โครเมอร์: มันไม่น่าหงุดหงิดไปหน่อยเหรอที่ไม่มีอะไรเลยที่นายทำได้?
         ```
 
         ---
 
         ```
         Sinclair: I nod again.
-        ซินแคร์: 
+        ซินแคร์: ผมพงักหน้าอีกครั้ง
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: What if I helped you out? You could live a free life with no worries about any of that junk.
-        โครเมอร์: 
+        โครเมอร์: ถ้างั้นจะว่ายังไงล่ะถ้าฉันจะช่วยนาย? นายจะได้ใช้ชีวิตอย่างอิสระโดยที่ไม่ต้องกังวลเกี่ยวกับขยะพวกนั่นเลยสักนิด
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: B-But, how?
-        ซินแคร์: 
+        ซินแคร์: ต-แต่ ยังไง?
         ```
 
         ---
 
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Kromer: That, you’ll find out next time.
-        โครเมอร์: 
+        โครเมอร์: เรื่องนั่น เดี๋ยวนายก็รู้เอง นั่นแหละ/รอบหน้า
         ```
         ```
         Kromer: In exchange…
-        โครเมอร์: 
+        โครเมอร์: แต่เพื่อเป็นการแลกเปลี่ยน...
         ```
         ```
         Kromer: In return for helping you with your problem, you’ll help me deal with a grudge of my own too.
-        โครเมอร์: 
+        โครเมอร์: ที่ฉันช่วยนายแก้ไขปัญหา นายเองก็ต้องช่วยฉันสะสาง เรื่องคาใจ/ความแค้น ของฉันด้วยเหมือนกัน
         ```
 
     ---
 
     * **Episode: 27 | ตอนที่ 27<br>Location: Classroom | ห้องเรียน**
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
     
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: One day, a new transfer student named Demian was placed in the class next to mine.
+        ซินแคร์: วันหนึ่ง นักเรียนแลกเปลี่ยนคนใหม่ที่ชื่อเดเมียนก็ย้ายเขามาในห้องเรียนถัดจากผม
+        ```
+        ```
+        Sinclair: He was surrounded by a crowd every time I saw him.
+        ซินแคร์: เขาถูกรุมล้อมด้วยฝูงชนในทุกครั้งที่ผมเห็นเขา
+        ```
+        ```
+        Sinclair: But I got the sensation that he didn’t feel attached to anyone around him.
+        ซินแคร์: แต่ผมกลับมีความรู้สึกที่ว่าเขาไม่ได้สนิทกับใครที่อยู่รอบตัวนั่นเลย
+        ```
+        ```
+        Sinclair: To me, he seemed as if he were almost floating in the air; he was aloof like that.
+        ซินแคร์: สำหรับผม มันดูเหมือนกับว่าเขากำลังลอยตัวอยู่ในอากาศยังไงอย่างงั้น; หรือเขาเป็นคน สันโดษ/โดดเดี่ยว นั่นแหละ
+        ```
+        ```
+        Sinclair: Likewise, he didn’t seem too interested in me, either.
+        ซินแคร์: ในทำนองเดียวกัน เขาก็ดูจะไม่ได้สนใจในตัวผม
+        ```
+        ```
+        Sinclair: That’s how it was at first, at least.
+        ซินแคร์: อย่างน้อย ๆ มันก็เป็นแบบนั่นในตอนแรก
+        ```
+        ```
+        Sinclair: It happened during a boring engineering class.
+        ซินแคร์: มันเกิดขึ้นตอนช่วงระหว่างคาบวิศวกรรมอันแสนน่าเบื่อ
+        ```
+        ```
+        Sinclair: My eyes kept drifting away from the board, and before I knew it, they were looking out the window instead.
+        ซินแคร์: ตาของผมทั้งสองข้างที่กำลังค่อย ๆ เลื่อนลอยไปจากกระดาน และพอรู้ตัวอีกที ในตอนนี้ พวกมันก็กำลังมองออกไปนอกแทน
+        ```
+        ```
+        Sinclair: Through that window, I saw him taking a walk.
+        ซินแคร์: ผ่านหน้าต่างบานนั่นเอง ผมเห็นเขาที่กำลังเดินอยู่
+        ```
+        ```
+        Sinclair: Like usual, he was surrounded by his fellow students, wearing a faint smile.
+        ซินแคร์: เหมือนอย่างเคย เขาก็ยังถูกรุมล้อมโดยเหล่าเพื่อนสหายชาวนักเรียน พร้อมกับสวมรอยยิ้มเจื่อน ๆ ให้พวกเขา
+        ```
+        ```
+        Sinclair: Even his expression felt different from the kind someone his age should make; that smile carried a mature yet solitary aura.
+        ซินแคร์: แม้ว่าสีหน้าค่าตาของเขาจะดูแตกต่างจากเด็กรุ่นราวคราวเดียวกัน; แต่รอยยิ้มนั่นกลับแฝงไปด้วยความเป็นผู้ใหญ่ที่โดดเดี่ยว
+        ```
+        ```
+        Sinclair: Basking in the sunlight, he stroked his hair.
+        ซินแคร์: พลางอาบแดดใต้แสงตะวัน เขาลูบผมตัวเองอย่างแผ่วเบา
+        ```
+        ```
+        Sinclair: Huh?
+        ซินแคร์: หะ?
+        ```
+        ```
+        Sinclair: I thought I caught a glimpse of some weird red thing on his forehead.
+        ซินแคร์: ผมคิดว่าผมพึ่งจะเห็นพริบตาของบางสิ่งบางอย่างที่มีแดงบนกลางหน้าผากของเขา
+        ```
+        ```
+        Sinclair: Was I mistaken? Maybe it was the blinding sunlight reflecting off his skin.
+        ซินแคร์: ผมเข้าใจผิดอะไรไปหรือเปล่า? บางที มันก็อาจเป็นผลจากแสงแดดจ้าที่ตกกระทบแล้วสะท้อนผิวของเขาก็ได้
+        ```
+        ```
+        Sinclair: And then…
+        ซินแคร์: และจากนั่น...
+        ```
+        ```
+        Sinclair: I had the feeling I made eye contact with him.
+        ซินแคร์: ผมก็รู้สึกตัวว่าตัวเองได้สบตากับเขาไปซะแล้ว
+        ```
+
+        ---
+
+        <img src="../images/Demian.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Demian: ......
+        เดเมียน: ......
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Some students were still chatting outside.
+        ซินแคร์: นักเรียนบางคนยังคงคุยกันอยู่ข้างนอก
+        ```
+        ```
+        Sinclair: As soon as I felt his gaze, I quickly averted my eyes and looked down at my desk.
+        ซินแคร์: ทันทีที่ผมรู้สีกถึงสายตาของเขาที่จ้องกลับ ผมก็รีบเบือนหน้าหนี และก้มลงมองที่โต๊ะตัวเอง
+        ```
+        ```
+        Sinclair: Ever since that strange incident, Demian started to talk to me in a friendly manner.
+        ซินแคร์: ตั้งแต่เหตุการณ์ที่ประหลาดนั่น เดเมียนก็เริ่มที่จะคุยกับผมด้วยท่าทีที่เป็นมิตร
+        ```
+        ```
+        Sinclair: Oddly enough, on the days when Demian approached me, Kromer didn’t come to greet me.
+        ซินแคร์: ที่แปลกไปกว่านั่นก็คือ ในวันที่เดเมียนเข้าหาผม โครเมอร์กลับไม่เข้ามาเพื่อทักทายผมซะอย่างนั่น
+        ```
+        ```
+        Sinclair: Nevertheless, whenever she had a chance to, she’d come and make sure that I remembered our promise.
+        ซินแคร์: ทั้ง ๆ ที่ก่อนหน้านี้ ไม่ว่าเป็นตอนไหนที่เธอมีโอกาศ เธอก็มาหา และทำให้แน่ใจว่าผมยังคงจำสัญญาของเราได้
+        ```
+
+        ---
+
+        **Location: Classroom | ห้องเรียน**
+
+        ---
+
+        <img src="../images/Demian_School.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Demian: I often have this dream, Sinclair.
+        เดเมียน: ผมมักจะฝันแบบนี้น่ะ ซินแคร์
+        ```
+        ```
+        Demian: In it, I climb an endlessly long ladder. Then everything down below comes into view. The Nest, the Backstreets, the Outskirts, all of it.
+        เดเมียน: ในนั่น ผมปืนบรรไดลิงที่ทอดยาวไปไม่รู้จบ และทุกอย่างที่อยู่ข้างใต้นั่นก็เข้ามาในตาผม ทั้งเนส เบลคสตรีท เอาต์สเกิร์ตส์ ทุกที่เลย
+        ```
+        ```
+        Demian: And when I look beneath my feet, all the lights are out in the City, as if the end of all things had come.
+        เดเมียน: และเมื่อตอนที่ผมเหลือบมองข้างใต้เท้าตัวเอง แสงสว่างที่เคยมีอยู่ในเดอะซิตี้ก็พลันหายไป ราวกับว่าจุดจบของทุกสิ่งกำลังมา 
+        ```
+        ```
+        Demian: Fallen into silent death, empty of any motion.
+        เดเมียน: ล่วงหล่นสู่ความตายอันเงียบงัน ไร้การเคลื่อนไหวของทุกสิ่ง
+        ```
+        ```
+        Demian: Indeed, it’s the state of death itself.
+        เดเมียน: ใช่แล้ว มันเป็นสภาวะของความตายนั่นเอง
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Demian, have you been to the Outskirts?
+        ซินแคร์: เดเมียน นายเคยไปที่ นอกเมือง/เอาต์สเกิร์ตส์ เหรอ?
+        ```
+        ```
+        Sinclair: I whispered to him, frightened.
+        ซินแคร์: ผมกระซิบบอกเขาด้วยความกลัว
+        ```
+        ```
+        Sinclair: He was talking about a forbidden place where no one could or should go.
+        ซินแคร์: เขากำลังพูดถึงสถานที่ห้วงห้ามที่มีใครไปได้ หรือควรไป
+        ```
+
+        ---
+
+        <img src="../images/Demian_School.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Demian: Sinclair, the world as people want to define it can’t be divided into places of where you should and shouldn’t go.
+        เดเมียน: ซินแคร์ โลกในแบบที่ผู้คนต้องการนิยามมันไม่อาจถูกแบ่งเป็นสถานที่ที่นายควรไป หรือไม่ควรหรอกนะ
+        ```
+        ```
+        Demian: Do you think love and freedom can be found within the confines of this Nest? Compared to here, life is much richer in the Outskirts.
+        เดเมียน: นายคิดว่าความรัก และอิสระภาพสามารถถูกพบได้ภายในกรอบของเนสแห่งนี้อย่างนั่นเหรอ? ไม่ พอเทียบกับที่นี้แล้ว ชีวิตในเอาต์สเกิร์ตส์กลับมีชีวิตชีวาซะยิ่งกว่า
+        ```
+        ```
+        Demian: There’s something I’ve been pondering for a long time, and I thought that maybe that’s where I could find the answer.
+        เดเมียน: มันมีบางสิ่งที่ฉันครุ่นคิดมานานมากแล้ว และผมก็คิดว่าบางทีแล้วที่นั่นก็อาจเป็นที่ที่ผมจะพบคำตอบที่ตามหา
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Whenever I spoke with Demian, I could feel my soul mature a little.
+        ซินแคร์: ทุกครั้งที่ผมคุยกับเดเมียน มันเหมือนกับว่า จิต/วิญญาณ ของผมโตขึ้นทีละนิต
+        ```
+        ```
+        Sinclair: But I never mentioned my fears about the upcoming prosthetic procedure or my peculiar relationship with Kromer.
+        ซินแคร์: แต่ผมก็ไม่เคยพูดถึงความกลัวของตัวเองเกี่ยวกับการเข้ารับการผ่าตัด หรือความสัมพันธ์ที่แปลกประหลาดระหว่างผมกับโครเมอร์
+        ```
+        ```
+        Sinclair: Even though he wanted to know more about me, I was hesitant to share my secrets.
+        ซินแคร์: ถึงแม้ว่าเขาจะอยากรู้จักผมให้มากกว่านี้ แต่ผมก็ยังลังเลที่จะแบ่งปันความลับของตัวเอง
+        ```
+        ```
+        Sinclair: I was too ashamed to bear my deeply hidden fears before him.
+        ซินแคร์: ผมละอายเกินไปที่จะแบกรับความกลัวที่ซุกซ้อนในใจลึก ๆ ก่อนเขาซะอีก
+        ```
+        ```
+        Sinclair: And finally…
+        ซินแคร์: และในที่สุด...
+        ```
+        ```
+        Sinclair: The promised day had come.
+        ซินแคร์: วันแห่งคำมั่นสัญญาก็มาถึง
+        ```
+
+        ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Kromer: Yo, Sinclair, can you show me your basement?
+        โครเมอร์: โย้ ซินแคร์ นายช่วยพาฉันไปดูห้องใต้ดินนายหน่อยได้ไหม?
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Her words struck me out of nowhere, yet they were as light as a feather.
+        ซินแคร์: คำพูดของเธอถาโถมเข้ามาอย่างไม่ทันตั้งตัว แต่ถึงอย่างนั่น มันกลับเบาซะยิ่งกว่าขนนก
+        ```
+        ```
+        Sinclair: She asked me that as though it were something as simple as picking up an eraser, and I almost caught myself agreeing to it.
+        ซินแคร์: เธอขอร้องผมด้วยคำขอที่ง่ายดายไม่ต่างอะไรกับการหยิบยางลบที่ล่วงลงพื้น และผมก็เกือบที่จะติดกับตามน้ำกับสิ่งที่เธอขอ
+        ```
+        ```
+        Sinclair: W-Why our basement, exactly?
+        ซินแคร์: ท-ทำไมต้องห้องใต้ดินด้วยล่ะ?
+        ```
+
+        ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Kromer: If the rumor I just so happened to hear is right, your house is connected to a scandalous place. There’s something I’ve got to check.
+        โครเมอร์: พอดีว่ามีข่าวลือที่ฉันบังเอิญไปได้ยินมา ว่าบ้านของนายเชื่อมกับสถานที่อื้อฉาวแห่งหนึ่ง และมีบางอย่างที่ฉันอยากจะตรวจเช็ค
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: But my parents…
+        ซินแคร์: แต่พ่อแม่ของผม...
+        ```
+        ```
+        Sinclair: “…won’t like it.” I couldn’t even bring myself to finish this humiliating sentence.
+        ซินแคร์: “...คงไม่ชอบมันแน่” ผมไม่อาจดึงสติตัวเองเพื่อพูดให้จบประโยคที่แสนน่าอายนี้ได้ 
+        ```
+
+        ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Kromer: If you let me check it out, Sinclair…
+        โครเมอร์: ถ้านายยอมให้ฉันสำรวจมันนะ ซินแคร์...
+        ```
+        ```
+        Kromer: I swear I’ll keep that promise with you, cross my heart.
+        โครเมอร์: ฉันสาบานว่าฉันจะรักษาสัญญานั่นที่ให้ไว้กับนาย เกี่ยวก้อยได้เลย
+        ```
+        ```
+        Kromer: Just sneak me the basement key and I can navigate just fine…
+        โครเมอร์: แค่แอบเอากุญแจห้องใต้ดินมาให้ฉัน แล้วงานสำรวจที่เหลือเดี๋ยวฉันจัดการเอง...
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Unable to detect the faint, familiar feeling hidden in her words, I slowly nodded…
+        ซินแคร์: ไม่อาจตรวจจับจุดมุ่งหมายแอบแฝงที่แผ่วเบานั่นได้เลย ความรู้สึกคุ้นเคยที่ถูกเก็บงำในคำพูดของเธอ ก่อนที่ผมจะพยักหน้าอย่างช้า ๆ...
+        ```
+        ```
+        Sinclair: Thus, the world of evil began there, right in the middle of our house.
+        ซินแคร์: และแล้ว โลกแห่งความชั่วร้ายก็อุบัติใหม่ ณ จุดศูนย์กลางของพายุ ตาแห่งความโกลาหล ที่ตอนนี้กำลังก่อตัวขึ้นในบ้านผม
+        ```
+
     ---
 
-    ```
-    ```
+    * **Episode: 28 | ตอนที่ 28**
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: After stealing the key without my parents noticing, I took Kromer to the basement of my estate as I had promised.
+        ซินแคร์: หลังจากที่ขโมยกุญแจโดยไม่ให้พ่อแม่ผมรู้ตัว ผมก็พาโครเมอร์ไปยังห้องใต้ดินที่อยู่ในบ้านตามที่ผมสัญญาเอาไว้
+        ``` 
+        ```
+        Sinclair: From there, she led me to a dirty air vent.
+        ซินแคร์: จากที่นั่น เธอนำทางผมไปพบช่องระบายอากาศที่แสนสกปรก
+        ```
+        ```
+        Sinclair: Crawling in the unlit vent for a while, a dank, grimy odor and the sounds of small critters scuttling about assaulted my senses.
+        ซินแคร์: คลานไปมาอยู่ในช่องระบายอากาศอันมืดมิดไปได้สักพัก พลางสัมผัสกับพื้นผิวที่ชื้นแฉะ กลิ่นของเสียที่คละคลุ้ง และเสียงของเหล่าสัตว์ตัวจ้อยที่พากันวิ่งหนีอลมาน สิ่งเหล่านั่นกำลังค่อย ๆ พรากประสาทสัมผัสผมไปทีละนิด
+        ```
+        ```
+        Sinclair: My clothes were stained with filth, my throat was parched, and I was overcome with the desire to go back.
+        ซินแคร์: เสื้อผ้าของผมเปรอะเปื้อนไปด้วยคราบสกปรก คอเองก็แห้งผาก และผมก็ถูกเอาชนะด้วยความรู้สึกที่อยากกลับไป
+        ```
+        ```
+        Sinclair: That’s when I noticed that the smell my nose picked up had just changed from the stench so far.
+        ซินแคร์: นั่นเป็นตอนที่ผมรู้ตัวว่ากลิ่นที่จมูกผมสูดดม จู่ ๆ ก็แปรเปลี่ยนไปจากกลิ่นเหม็นที่เคยสัมผัสมาตลอดจนถึงตอนนี้
+        ```
+
+        ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Kromer: Can you feel it?
+        โครเมอร์: นายรู้สึกถึงมันเหรือเปล่า?
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Kromer whispered to me.
+        ซินแคร์: โครเมอร์กระซิบบอกผม
+        ```
+
+        ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Kromer: There’s something up ahead…!
+        โครเมอร์: มันมีอะไรบางอย่างอยู่ข้างหน้านี้...!
+        ```
+
+        ---
+
+        ```
+        Sinclair: This might have been the last chance I had to turn back.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: It might have been better to dissuade her with all kinds of sweet placations to leave and come back later.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Even if I knew that empty flattery wouldn’t work on her.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: But before I could try, a vile curiosity came over me.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I was entering a world where villains belonged for the first time.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: And for some reason…
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I gave up turning back.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: All while knowing in my heart that I was squandering my last chance.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Oh, the loathsome sight I had to witness; it was something I couldn’t think to behold twice.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Could “monstrosity” be an apt description for what I saw?
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: It seemed too sentient for that, yet it also seemed decidedly wrong to say that it was even remotely human.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Huk… Guhgh…
+        ซินแคร์:  
+        ```
+        ```
+        Sinclair: Shuddering in fear, I started to regret stepping into this world.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Sinclair, you idiot, look at yourself. Hoping by some miracle to get another chance right after you’ve wasted it.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Along with my regret, I had the feeling that I’d never forget what I saw that day until the moment I die.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: K—Kro…mer… I… I’ve gotta go back…
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: On the other hand, Kromer was enraptured.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: She was mesmerized by the scene, watching intently as though she had made a discovery of a lifetime.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: ......
+        โครเมอร์: ......
+        ```
+
+        ---
+
+        ```
+        Sinclair: Leaving Kromer all enamored to herself, I crawled backward for the exit.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Why is my basement connected to such a horrid place?
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: How did Kromer know this?
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Why isn’t she scared, either?
+        ซินแคร์:
+        ```
+        ```
+        Sinclair: I could almost hear Kromer’s spine-chilling whistles with the wind blowing from behind.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: The very next day, Kromer came to school as if nothing had happened.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Sinclair, thank you so much more for showing me precious things.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Take these as my thanks.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: She handed two mysterious coins to me.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Always keep them at your side. Got it?
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: All I could do was nod.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Since then, the things I saw in that vent constantly haunted my mind.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: And I began to consciously avoid Kromer.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I could picture myself involuntarily trembling in terror just by looking at her.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: But there was something I needed to take back from her.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: The basement key.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: My parents could find out at any moment. One minute of sorting the keys is all it would take.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: For the first time, I betrayed my parents living in a world of warmth…
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I was afraid that my deviation from their world would end up becoming an irrefutable fact.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Kromer… Won’t you give it back now?
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Give back what?
+        โครเมอร์: 
+        ```
+        
+        ---
+
+        ```
+        Sinclair: The… basement key…
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: ...Pft.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: I mustered the courage to ask one day.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Kromer burst into laughter, as though she didn’t expect this from me. Intimidated, I slowly stepped back.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Pwahahaha!!! Oh, and here I was wondering what you were struggling so hard to say…
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Fine, you can have it, Sinclair. We don’t need the key anymore.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: And besides…
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Your grudge will most certainly bear fruit, Sinclair. You didn’t want to get your procedure, right?
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: You remember our promise? You fulfilled my grudge, so it’s only fair that I pay you back.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: I was too absorbed in the relief of getting my key back to realize what Kromer was really talking about, and I curse my ignorance for it.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: About what Kromer’s “we” really meant
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: About why she said it’s not needed any more, and how she was going to fulfill my grudge…
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I didn’t think to question a single thing, and for that…
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I regret my inaction; I curse my foolishness.
+        ซินแคร์: 
+        ```
+
+    ---
+
+    * **Episode: 29 | ตอนที่ 29**
+
+        ```
+        
+        ```
 ---
 
 ### เพิ่มเติม

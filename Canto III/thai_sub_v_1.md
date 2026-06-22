@@ -4261,7 +4261,7 @@
 
         ```
         Sinclair: Whistles…
-        ซินแคร์: เสียงกระซิบ...
+        ซินแคร์: เสียงผิวปาก...
         ```
         
         ---
@@ -4279,7 +4279,7 @@
 
         ```
         Sinclair: You heard the whistles! Right at the end… Faintly…
-        ซินแคร์: คุณก็ได้ยินเสียงกระซิบนั่น! ในตอนท้าย... เป็นเสียงที่แผ่วเบา...
+        ซินแคร์: คุณก็ได้ยินเสียงผิวปากนั่น! ในตอนท้าย... เป็นเสียงที่แผ่วเบา...
         ```
 
         ---
@@ -4306,7 +4306,7 @@
 
         ```
         Dante: <Calm down, Sinclair. What do you mean by whistles, and who is this “wretched” woman?>
-        ดันเต้: <ใจเย็นก่อน ซินแคร์ นายหมายความว่าไงที่ได้ยินเสียงกระซิบ และใครคือนาง “ตัวร้าย” ที่นายพูดถึง?>
+        ดันเต้: <ใจเย็นก่อน ซินแคร์ นายหมายความว่าไงที่ได้ยินเสียงผิวปาก และใครคือนาง “ตัวร้าย” ที่นายพูดถึง?>
         ```
 
         ---
@@ -9370,7 +9370,7 @@
 
         ---
 
-        <img src="../images/Demian.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Demian_School.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Demian: ......
@@ -9628,81 +9628,85 @@
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: This might have been the last chance I had to turn back.
-        ซินแคร์: 
+        ซินแคร์: นี้คงเป็นโอกาศสุดท้ายที่ผมจะ หันหลังกลับ/เปลี่ยนใจ
         ```
         ```
         Sinclair: It might have been better to dissuade her with all kinds of sweet placations to leave and come back later.
-        ซินแคร์: 
+        ซินแคร์: มันคงจะเป็นการดีกว่าที่จะห้ามปรามเธอด้วยถ้อยคำปลอบประโลมอันอ่อนหวานนานัปการเพื่อออกไป แล้วค่อยกลับมาทีหลัง
         ```
         ```
         Sinclair: Even if I knew that empty flattery wouldn’t work on her.
-        ซินแคร์: 
+        ซินแคร์: ถึงผมจะรู้อยู่แก่ใจแล้วก็เถอะ ว่าคำเยินยอที่แสนว่างเปล่าพวกนั่นไม่อาจใช้ได้ผลกับเธอ
         ```
         ```
         Sinclair: But before I could try, a vile curiosity came over me.
-        ซินแคร์: 
+        ซินแคร์: แต่ก่อนที่ผมจะได้ลองดู ความอยากรู้อยากเห็นอันโสมมก็เข้ามาในตัวผม
         ```
         ```
         Sinclair: I was entering a world where villains belonged for the first time.
-        ซินแคร์: 
+        ซินแคร์: ผมกำลังเข้ามาในโลกที่พวกวายร้ายใช้ชีวิตอยู่เป็นครั้งแรก
         ```
         ```
         Sinclair: And for some reason…
-        ซินแคร์: 
+        ซินแคร์: และด้วยเหตุผลบางอย่าง...
         ```
         ```
         Sinclair: I gave up turning back.
-        ซินแคร์: 
+        ซินแคร์: ผมก็สลัดความคิดทั้งหมดที่อยากจะกลับไป
         ```
         ```
         Sinclair: All while knowing in my heart that I was squandering my last chance.
-        ซินแคร์: 
+        ซินแคร์: โดยรู้อยู่เต็มอกว่าผมกำลังใช้โอกาศสุดท้ายของตัวเองอย่าง ทิ้ง ๆ ขว้าง ๆ/สุรุ่ยสุร่าย
         ```
         ```
         Sinclair: Oh, the loathsome sight I had to witness; it was something I couldn’t think to behold twice.
-        ซินแคร์: 
+        ซินแคร์: โอ้ ทิวทัศน์สุดน่ารังเกียจที่ผมต้องเป็นพยานนี้; ชั่งเป็นอะไรที่ผมไม่คิดอยากจะมองเป็นครั้งที่สอง
         ```
         ```
         Sinclair: Could “monstrosity” be an apt description for what I saw?
-        ซินแคร์: 
+        ซินแคร์: บางที “ความชั่วร้าย” อาจเป็นคำอธิบายที่เหมาะแล้วก็ได้กับสิ่งที่ผมได้เห็น?  
         ```
         ```
         Sinclair: It seemed too sentient for that, yet it also seemed decidedly wrong to say that it was even remotely human.
-        ซินแคร์: 
+        ซินแคร์: แต่มันกลับดูมีสำนึกรู้คิดเกินกว่าจะเป็นเพียงสิ่งนั้น ถึงอย่างไง มันก็ไม่ถูกซะทีเดียวที่จะพูดว่าทั้งหมดนี้เป็นฝีมือของมนุษย์
         ```
         ```
         Sinclair: Huk… Guhgh…
-        ซินแคร์:  
+        ซินแคร์:  อึก... ฮ๊ากก...
         ```
         ```
         Sinclair: Shuddering in fear, I started to regret stepping into this world.
-        ซินแคร์: 
+        ซินแคร์: ทั้งตัวสั่นระรึกไปด้วยความกลัว ผมเริ่มที่จะรู้สึกเสียใจที่ก้าวเข้ามาในโลกแห่งนี้
         ```
         ```
         Sinclair: Sinclair, you idiot, look at yourself. Hoping by some miracle to get another chance right after you’ve wasted it.
-        ซินแคร์: 
+        ซินแคร์: ซินแคร์ ไอ โง่บรม/งี่เง่า เอ้ย ช่วยมองดูตัวเองสักทีซิ ยังเอาแต่หวังให้เกิดปฏิหาริย์มอบโอกาศใหม่ครั้งแล้วครั้งเล่าหลังจากที่นายพึ่งปล่อยมันไป  
         ```
         ```
         Sinclair: Along with my regret, I had the feeling that I’d never forget what I saw that day until the moment I die.
-        ซินแคร์: 
+        ซินแคร์: พร้อมกันกับความรู้สึกเสียใจ ผมมีความรู้สึกที่ว่าตัวเองไม่มีทางที่จะลืมเลือนสิ่งที่ผมเห็นไปในวันนั้นได้จนตัวตาย
         ```
         ```
         Sinclair: K—Kro…mer… I… I’ve gotta go back…
-        ซินแคร์: 
+        ซินแคร์: ค-โคร...เมอร์... คือว่า... ผมต้องกลับแล้ว... 
         ```
         ```
         Sinclair: On the other hand, Kromer was enraptured.
-        ซินแคร์: 
+        ซินแคร์: ในทางกลับกัน โครเมอร์กลับมีท่าทีที่ดูปิติยินดี
         ```
         ```
         Sinclair: She was mesmerized by the scene, watching intently as though she had made a discovery of a lifetime.
-        ซินแคร์: 
+        ซินแคร์: เธอตราตรึงกับสิ่งที่ตนเห็น เฝ้ามองมันอย่างใจจดใจจ่อ ราวกับว่าเธอกำลังค้นพบสิ่งใหม่ที่ไม่เคยเจอในชีวิต
         ```
 
         ---
 
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+        
         ```
         Kromer: ......
         โครเมอร์: ......
@@ -9710,180 +9714,532 @@
 
         ---
 
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: Leaving Kromer all enamored to herself, I crawled backward for the exit.
-        ซินแคร์: 
+        ซินแคร์: ปล่อยให้โครเมอร์มัวลุ่มหลงไปคนเดียว ผมเลือกที่จะคลานกลับเพื่อออกไป
         ```
         ```
         Sinclair: Why is my basement connected to such a horrid place?
-        ซินแคร์: 
+        ซินแคร์: ทำไมห้องใต้ดินของผมถึงเชื่อมกับสถานที่ที่น่าสยดสยองนั่นได้?
         ```
         ```
         Sinclair: How did Kromer know this?
-        ซินแคร์: 
+        ซินแคร์: โครเมอร์รู้เรื่องนี้ได้ไง?
         ```
         ```
         Sinclair: Why isn’t she scared, either?
-        ซินแคร์:
+        ซินแคร์: แล้วทำไมเธอถึงไม่มีท่าทีหวาดกลัวเลย?
         ```
         ```
         Sinclair: I could almost hear Kromer’s spine-chilling whistles with the wind blowing from behind.
-        ซินแคร์: 
+        ซินแคร์: ผมได้ยินเสียงผิวปากของโครเมอร์ที่ชวนให้รู้สึกขนลุกสู้อยู่จาง ๆ ล่องลอยตามกระแสลมที่พัดผ่านจากด้านหลัง
         ```
         ```
         Sinclair: The very next day, Kromer came to school as if nothing had happened.
-        ซินแคร์: 
+        ซินแคร์: ในวันถัดมา โครเมอร์ก็มาโรงเรียน ราวกับว่าไม่มีอะไรเกิดขึ้น
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Sinclair, thank you so much more for showing me precious things.
-        โครเมอร์: 
+        โครเมอร์: ซินแคร์ ต้องขอบคุณนายจริง ๆ ที่พาฉันไปดูหลาย ๆ อย่างที่ล้ำค่า
         ```
         ```
         Kromer: Take these as my thanks.
-        โครเมอร์: 
+        โครเมอร์: ถือว่าเอานี้ไปแทนคำขอบคุณของฉํน
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: She handed two mysterious coins to me.
-        ซินแคร์: 
+        ซินแคร์: เธอยื่นเหรียญปริศนาสองเหรียญมาให้ผม
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Always keep them at your side. Got it?
-        โครเมอร์: 
+        โครเมอร์: เก็บพวกมันไว้กับตัวเสมอล่ะ เข้าใจไหม?
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: All I could do was nod.
-        ซินแคร์: 
+        ซินแคร์: สิ่งเดียวที่ผมทำได้ก็คือพยักหน้าตอบ
         ```
         ```
         Sinclair: Since then, the things I saw in that vent constantly haunted my mind.
-        ซินแคร์: 
+        ซินแคร์: ตั้งแต่ตอนนั่น สิ่งที่ผมเห็นในช่องระบายอากาศนั่น ยังคงตามหลอกหลอนผมไม่หยุดหยอน
         ```
         ```
         Sinclair: And I began to consciously avoid Kromer.
-        ซินแคร์: 
+        ซินแคร์: และสุดท้ายผมก็เริ่มที่จะตีตัวออกห่างจากโครเมอร์ 
         ```
         ```
         Sinclair: I could picture myself involuntarily trembling in terror just by looking at her.
-        ซินแคร์: 
+        ซินแคร์: เพียงแค่ผมมองไปที่เธอ ผมก็เห็นภาพตัวเองที่กำลังสั่นเทาไปทั้งตัวด้วยความหวาดกลัวสุดขีดโดยที่ไม่ได้สมัครใจ  
         ```
         ```
         Sinclair: But there was something I needed to take back from her.
-        ซินแคร์: 
+        ซินแคร์: แต่มันมีบางสิ่งบางอย่างที่ผมต้องเอาคืนมาจากเธอ
         ```
         ```
         Sinclair: The basement key.
-        ซินแคร์: 
+        ซินแคร์: กุญแจห้องใต้ดิน
         ```
         ```
         Sinclair: My parents could find out at any moment. One minute of sorting the keys is all it would take.
-        ซินแคร์: 
+        ซินแคร์: พ่อแม่ผมอาจรู้ตัวในตอนไหนก็ได้ ใช้เวลาเรียงกุญแจแค่นาทีเดียวก็คงรู้แล้ว
         ```
         ```
         Sinclair: For the first time, I betrayed my parents living in a world of warmth…
-        ซินแคร์: 
+        ซินแคร์: เป็นครั้งแรกเลย ที่ผมทรยศพ่อแม่ของตัวเองในโลกที่เต็มไปด้วยความอบอุ่น...
         ```
         ```
         Sinclair: I was afraid that my deviation from their world would end up becoming an irrefutable fact.
-        ซินแคร์: 
+        ซินแคร์: ผมกลัวเหลือเกินว่าแปลกแยกของผมจากโลกของพวกเขาในท้ายที่สุดจะกลายเป็นความจริงที่ไม่อาจหักล้างได้
         ```
         ```
         Sinclair: Kromer… Won’t you give it back now?
-        ซินแคร์: 
+        ซินแคร์: โครเมอร์... ช่วยคืนตอนนี้ได้ไหม?
         ```
 
         ---
 
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Kromer: Give back what?
-        โครเมอร์: 
+        โครเมอร์: คืนอะไรล่ะ?
         ```
         
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: The… basement key…
-        ซินแคร์: 
+        ซินแคร์: ก็... กุญแจห้องใต้ดิน...
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: ...Pft.
-        โครเมอร์: 
+        โครเมอร์: ...ฟิ่บ
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: I mustered the courage to ask one day.
-        ซินแคร์: 
+        ซินแคร์: ผมรวบรวมความกล้าแล้วถามออกไปในวันหนึ่ง
         ```
         ```
         Sinclair: Kromer burst into laughter, as though she didn’t expect this from me. Intimidated, I slowly stepped back.
-        ซินแคร์: 
+        ซินแคร์: โครเมอร์กลั้นขำไม่ไหว และหัวเราะออกมา ราวกับว่าเธอไม่ได้คาดหวังคำนี้จากปากผม ก่อนที่ผมจะรู้สึกกลัวแล้วถอยกลับ
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Pwahahaha!!! Oh, and here I was wondering what you were struggling so hard to say…
-        โครเมอร์: 
+        โครเมอร์: ฮ่าฮ่าฮ่าฮ่า!!! โอ้ ฉันก็นึกว่านายพยายามจะพูดอะไรซะอีก...
         ```
         ```
         Kromer: Fine, you can have it, Sinclair. We don’t need the key anymore.
-        โครเมอร์: 
+        โครเมอร์: ได้สิ นายเอาไปได้เลย ซินแคร์ ยังไงซะพวกเราก็ไม่ต้องการกุญแจนั่นอีกต่อไปแล้ว
         ```
         ```
         Kromer: And besides…
-        โครเมอร์: 
+        โครเมอร์: และอีกอย่าง...
         ```
         ```
         Kromer: Your grudge will most certainly bear fruit, Sinclair. You didn’t want to get your procedure, right?
-        โครเมอร์: 
+        โครเมอร์: เรื่องคาใจของนายที่สั่งสมไว้ย่อมออกดอกออกได้ในสักวัน ซินแคร์ นายเคยบอกฉันใช่ไหมว่านายไม่อยากที่จะเข้ารับการผ่าตัดดัด?
         ```
         ```
         Kromer: You remember our promise? You fulfilled my grudge, so it’s only fair that I pay you back.
-        โครเมอร์: 
+        โครเมอร์: นายยังจำคำมั่นของพวกเราที่เคยสัญญากันได้หรือเปล่า? นายเติมเต็มความต้องการของฉัน เพราะงั้นมันจะแฟร์ก็ต่อเมื่อฉันชดใช้ให้นายกลับ
         ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: I was too absorbed in the relief of getting my key back to realize what Kromer was really talking about, and I curse my ignorance for it.
-        ซินแคร์: 
+        ซินแคร์: ผมรู้สึกโล่งใจมากที่จะได้กุญแกของผมกลับมา ก่อนที่จะรู้สึกตัวว่าโครเมอร์กำลังหมายถึงอะไร และผมก็สาปแช่งตัวเองให้กับความซื่อบื่อไร้สมองที่เมินเฉยสิ่งที่เธอพูด
         ```
         ```
         Sinclair: About what Kromer’s “we” really meant
-        ซินแคร์: 
+        ซินแคร์: เกี่ยวกับ “พวกเรา” ที่โครเมอร์หมายถึงจริง ๆ
         ```
         ```
         Sinclair: About why she said it’s not needed any more, and how she was going to fulfill my grudge…
-        ซินแคร์: 
+        ซินแคร์: แต่ไม่ว่าเธอจะพูดอะไร มันก็ไม่จำเป็นอีกต่อไปแล้ว ที่สำคัญกว่าก็คือเธอจะเติมเต็มความต้องการของผมได้ยังไง... 
         ```
         ```
         Sinclair: I didn’t think to question a single thing, and for that…
-        ซินแคร์: 
+        ซินแคร์: ผมไม่ได้แม้แต่จะคิดที่จะตั้งคำถามเลยสักข้อ และนั่นเอง... 
         ```
         ```
         Sinclair: I regret my inaction; I curse my foolishness.
-        ซินแคร์: 
+        ซินแคร์: ก็จะกลายเป็นตราบาปแห่งความเฉยเมย เกียจคร้าน; แล้วผมก็สมเพซในความโง่เขลาของตัวเอง
         ```
 
     ---
 
     * **Episode: 29 | ตอนที่ 29**
+
+        <img src="../images/Demian_School.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Demian: So you ended up giving Kromer the key.
+        เดเมียน: สุดท้ายแล้วนายก็ยอมให้กุญแจกับโครเมอร์
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: How do you know that?
+        ซินแคร์: นายรู้เรื่องนั่นได้ไง?
+        ```
+        ```
+        Sinclair: Demian had this ability to get a grip on things I’d never mentioned to him.
+        ซินแคร์: เดเมียนมีความสามารถนี้ที่ทำให้เขาจับต้นชนปลายเรื่องราวต่าง ๆ ได้ทั้งที่ผมไม่เคยเล่าให้เขาฟังเลยด้วยซ้ำ
+        ```
+        ```
+        Sinclair: When I asked him about it, he just said it's “something you learn by carefully observing others”, and didn’t elaborate further.
+        ซินแคร์: ตอนที่ผมถามเขาเกี่ยวกับมัน เขาก็จะพูดประมาณว่ามันเป็น “บางสิ่งที่นายเรียนรู้ได้จากการสังเกตผู้อื่น” โดยที่ไม่เคยขยายความมากไปกว่านั่น
+        ```
+
+        ---
+
+        <img src="../images/Demian_School.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Demian: Sinclair, a series of much more painful events may await you in the future.
+        เดเมียน: ซินแคร์ บรรดาเหตุการณ์ที่สุดแสนเจ็บปวดอีกมากอาจกำลังรอนายอยู่ในอนาคต
+        ```
+        ```
+        Demian: But you mustn’t give up.
+        เดเมียน: แต่นายต้องห้ามยอมแพ้เด็ดขาด
+        ```
+        ```
+        Demian: That pain will foster your growth into a beautiful being.
+        เดเมียน: ความเจ็บปวดนั่นจะโอบอุ้มนายให้โตไปเป็นสิ่งที่สวยงาม
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: No matter how complicated and perplexing those statements seemed, Demian’s mystic charm made them all sound convincing.
+        ซินแคร์: ไม่ว่าคำกล่าวพวกนั่นจะฟังดูซับซ้อน และน่าฉงนสักแค่ไหน เสน่ห์อันลึกลับของเดเมียนกลับไปทำให้พวกมันดูน่าไว้ใจอย่างบอกไม่ถูก
+        ```
+        ```
+        Sinclair: Listening to his speech gave me the hope that I could really grow. I was hopeful that I could become a worthy being.
+        ซินแคร์: การที่ได้ฟังคำพูดของเขามอบความหวังให้กับผมว่าตัวเองจะสามารถโตขึ้นได้จริง ๆ ผมเปี่ยมไปด้วยความหวังที่ว่าตัวเองจะกลายเป็นคนที่มีค่าพอในสักวัน
+        ```
+        ```
+        Sinclair: Yeah… But I don’t really get it though, Demian.
+        ซินแคร์: อืมแน่นอน... ถึงแม้ว่าผมจะไม่ค่อยเข้าใจเลยก็เถอะนะ เดเมียน 
+        ```
+
+        ---
+
+        <img src="../images/Demian_School.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Demian: It’s up to you to find out. Make sure to tell me your answer when you do.
+        เดเมียน: มันขึ้นอยู่กับนายที่ตามหามัน สัญญากับผมสิว่าเมื่อถึงวันนั่น ในวันที่คุณได้คำตอบมาแล้ว คุณจะช่วยบอกคำตอบนั่นให้กับผมได้หรือเปล่า
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: His voice was soft, and his eyes imparted pleasantness, but I still felt compelled to do as he said.
+        ซินแคร์: น้ำเสียงของเขาชั่งนุ่มนวลเหลือเกิน กับดวงตาคู่นั่นที่มอบความสบายใจให้กับผม แต่ตอนนี้ผมก็ยังรู้สึกว่าตัวเองกำลังบังคับให้ทำในสิ่งที่เขาพูด 
+        ```
+        ```
+        Sinclair: His eyes must have held some kind of power.
+        ซินแคร์: ดวงตาตาของเขาอาจเป็นพลังวิเศษอะไรบางอย่าง
+        ```
+        ```
+        Sinclair: Disarming those who make eye contact with him, sapping them of mental strength.
+        ซินแคร์: ที่ปลดอาวุธทางใจของผู้คนที่สบตาเขา บั่นทอนกำลังจิตที่อยู่ในตัวพวกเขา
+        ```
+        ```
+        Sinclair: But…
+        ซินแคร์: แต่ว่า...
+        ```
+        ```
+        Sinclair: If that’s the case, why didn’t he warn me?
+        ซินแคร์: ถ้าเป็นแบบนั่นจริง แล้วทำไมเขาถึงไม่เตือนผม?
+        ```
+        ```
+        Sinclair: It’s something I still ask myself to this day.
+        ซินแคร์: มันเป็นบางสิ่งที่ตัวผมเองก็ยังคงหาคำตอบมาจนถึงทุกวันนี้
+        ```
+
+    ---
+
+    * **Episode: 30 | ตอนที่ 30**
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: It was Christmas Eve, and the whole town was filled with jingles and joy.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Under the blessing of the holy night, I was planning to confess my sin to my family.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I wanted to tell them that I made the foolish mistake of stealing the basement key and that I’d go back to being a good son.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: That the short time I spent away from the right path was agonizing. That I learned how peaceful and fulfilling the world I’d been living in truly was.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: My family might be surprised at first, but I was sure they’d welcome me back into their paradise.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: That was how it should’ve been.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: However...
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Huh…?
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I was supposed to hear a robot dog greet me when I stood at the gate, but my home was covered in silence and darkness.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: When I walked inside, I was confronted with a fallen paradise.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Sister: Sinclair... Run... 
+        พี่สาว: 
+        ```
+
+        ---
+        
+        ```
+        Father: Si... Sincl... S-S-Sisisi―
+        คุณพ่อ: 
+        ```
+
+        ---
+        ]
+        ```
+        Sinclair: Someone smashes my father’s head.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: It’s a disturbing individual wearing rusty silver armor.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        ???: How unsightly of these non-humans to still admire humanity and display false emotion.
+        บุคคลปริศนา: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Let those impure things be, Guido. It’s their survival instincts kicking in.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Or should I say… they’re scared of shutting down? Haha!
+        โครเมอร์: 
+        ```
+
+        ---
+
+        Sinclair: Pieces of metal, flesh, and blood fly into the air before hitting the floor.
+        ซินแคร์: 
+
+        ---
+
+        ```
+        Kromer: Sinclair! You’re here!!!
+        โคาเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Ah... Ahh...
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Kromer approaches, carrying a hammer stained with blood and flesh.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Oh, this thing?
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Ever since I was little, I couldn’t stand being involved with filthy affronts to humanity like these.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Because I’m a humanitarian who loves all things human!
+        โครเมอร์:  
+        ```
+        ```
+        Kromer: Now imagine how it feels to face the son of a pack of those affronts to humanity…
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Just what should I do with you, Sinclair? Hmm?
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: My legs have long given up.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: My mouth couldn’t move. It was as if my whole body refused to cooperate.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I saw Kromer standing right before me. I couldn’t dare look up. Terror kicked in with the realization that she was so close to me, and my eyes shut themselves tight.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: The thought that the same hammer that crushed my father, mother, and sister would now come for me was unbearable.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: ......
+        ซินแคร์: ......
+        ```
+        ```
+        Sinclair: But nothing happened.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Confused, I carefully opened my eyes and lifted my head.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Kromer was watching me.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Making a perfect smile just like the one she’d made when she first came to my desk and told me her name.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Well, you are my hero, Sinclair.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: She then reaches into the pocket on my school shirt and takes out a coin.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: It’s one of the two she handed me the other day.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: From now on… You’ll doubt everything, be anxious of everything… and live in ever-constant terror as your memories of me haunt you.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Nhh… Ungh…
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: And, when the time comes… I will call for you.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Hey! Someone take this kid to safety! Lay a finger on him and I’ll make you regret it.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Amidst the piercing noise, storms of heavy footsteps, and disorientation…
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I lost consciousness.
+        ซินแคร์: 
+        ```
+
+    ---
+
+    * **Episode: 31 | ตอนที่ 31<br>Location: Middle of an Alleyway | ใจกลางตรอกซอกซอย**
 
         ```
         

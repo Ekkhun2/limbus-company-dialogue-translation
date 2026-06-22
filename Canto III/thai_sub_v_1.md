@@ -9296,8 +9296,6 @@
     * **Episode: 27 | ตอนที่ 27<br>Location: Classroom | ห้องเรียน**
 
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
-    
-        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: One day, a new transfer student named Demian was placed in the class next to mine.

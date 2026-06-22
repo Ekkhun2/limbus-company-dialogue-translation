@@ -10016,135 +10016,155 @@
 
         ```
         Sinclair: It was Christmas Eve, and the whole town was filled with jingles and joy.
-        ซินแคร์: 
+        ซินแคร์: มันเป็นวันคริสต์มาสอีฟ และทั้งเมืองก็ถูกเติมเต็มไปด้วยเสียงกรุ๋งกิ๋ง และความสุข
         ```
         ```
         Sinclair: Under the blessing of the holy night, I was planning to confess my sin to my family.
-        ซินแคร์: 
+        ซินแคร์: ภายใต้คำอวยพรแห่งค่ำคืนอันศักดิ์สิทธิ์ ผมตั้งใจที่จะสารภาพบาปของตัวเองกับครอบครัว
         ```
         ```
         Sinclair: I wanted to tell them that I made the foolish mistake of stealing the basement key and that I’d go back to being a good son.
-        ซินแคร์: 
+        ซินแคร์: ผมอยากที่จะบอกพวกเขาว่าผมได้ทำเรื่องที่สุดแสนจะโง่เง่าลงไปแล้ว อย่างการขโมยกุญแกห้องใต้ดิน ผมสำนึกผิด ขอโทษ และจะกลับไปเป็นลูกที่ดี
         ```
         ```
         Sinclair: That the short time I spent away from the right path was agonizing. That I learned how peaceful and fulfilling the world I’d been living in truly was.
-        ซินแคร์: 
+        ซินแคร์: นั่นเป็นช่วงเวลาสั้น ๆ ที่ผมใช้ไปกับการเดินนอกลู่นอกทางที่ชั่งเจ็บปวดทุกข์ทรมาณแสนสาหัสเหลือเกิน ตอนนี้ ผมรู้แล้วว่าความสงบ และโลกที่ถูกเติมเต็มจนเต็มแก้วที่ผมใช้ชีวิตอยู่แท้จริงแล้วเป็นยังไง
         ```
         ```
         Sinclair: My family might be surprised at first, but I was sure they’d welcome me back into their paradise.
-        ซินแคร์: 
+        ซินแคร์: ครอบครัวผมคงตกใจในตอนแรก แต่ผมมั่นใจว่าพวกเขาจะโอบกอดต้อนรับผมกลับไปยังสรวงสวรรค์ของพวกเขา
         ```
         ```
         Sinclair: That was how it should’ve been.
-        ซินแคร์: 
+        ซินแคร์: นั่นคือสิ่งที่มันควรเป็น
         ```
         ```
         Sinclair: However...
-        ซินแคร์: 
+        ซินแคร์: แต่ถึงอย่างนั้น...
         ```
         ```
         Sinclair: Huh…?
-        ซินแคร์: 
+        ซินแคร์: หะ...?
         ```
         ```
         Sinclair: I was supposed to hear a robot dog greet me when I stood at the gate, but my home was covered in silence and darkness.
-        ซินแคร์: 
+        ซินแคร์: ตามปกติผมควรจะได้ยินเสียงสุนัขหุ่นยนต์ที่มาต้อนรับผมตอนอยู่ที่หน้าประตู แต่ตอนนี้บ้านของผมกลับถูกปกคลุมไปด้วยความเงียบงัน และความมืด
         ```
         ```
         Sinclair: When I walked inside, I was confronted with a fallen paradise.
-        ซินแคร์: 
+        ซินแคร์: เมื่อผมเดินเข้าไปข้างใน โดยเชื่อสุดใจว่าจะได้พบกับสรวงสวรรค์ ที่ล่วงหล่น/บนโลกมนุษย์
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sister: Sinclair... Run... 
-        พี่สาว: 
+        พี่สาว: ซินแคร์... หนีไป...
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Father: Si... Sincl... S-S-Sisisi―
-        คุณพ่อ: 
+        คุณพ่อ: ซิ... ซินแค... ซ-ซ-ซิซิซิ―
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
         ]
         ```
         Sinclair: Someone smashes my father’s head.
-        ซินแคร์: 
+        ซินแคร์: ใครบางคนทุบหัวพ่อผม
         ```
         ```
         Sinclair: It’s a disturbing individual wearing rusty silver armor.
-        ซินแคร์: 
+        ซินแคร์: มันคือคน ๆ นั่นที่ทำให้ผมรู้สึกรำคาญใจ เธอผู้นั่นที่กำลังสวมใส่ชุดเกราะเงินขึ้นสนิม
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
         ???: How unsightly of these non-humans to still admire humanity and display false emotion.
-        บุคคลปริศนา: 
+        บุคคลปริศนา: ชั่งเป็นภาพที่ไม่น่าเชยชมของเหล่าอมนุษย์ที่ยังคง เทิดทูน/ชื่นชม มนุษย์ชาติ และแสดงออกซึ่งอารมณ์ที่ปลอมเปลือก
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Let those impure things be, Guido. It’s their survival instincts kicking in.
-        โครเมอร์: 
+        โครเมอร์: อย่าไปใส่ใจสิ่งที่ไอพวกไม่บริสุทธิ์พวกนี้ทำ กวีโด มันก็เป็นเพียงสัญชาตญาณเอาตัวรอดของพวกมันที่ตื่นขึ้น
         ```
         ```
         Kromer: Or should I say… they’re scared of shutting down? Haha!
-        โครเมอร์: 
+        โครเมอร์: หรือจะให้ฉันพูดงี้ดี... ว่าพวกมันกลัวที่ตัวเองต้องถูกชัตดาวน์น่ะ? ฮาฮ่า!
         ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         Sinclair: Pieces of metal, flesh, and blood fly into the air before hitting the floor.
-        ซินแคร์: 
+        ซินแคร์: แผ่นของโลหะ ชิ้นเนื้อ และเลือดลอยกระเด็นไปในอากาศก่อนที่จะร่วงหล่นเจิ่งนองเต็มพื้น
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Sinclair! You’re here!!!
-        โคาเมอร์: 
+        โคาเมอร์: ซินแคร์! นายอยู่นี้!!!
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Ah... Ahh...
-        ซินแคร์: 
+        ซินแคร์: อา... อาา...
         ```
         ```
         Sinclair: Kromer approaches, carrying a hammer stained with blood and flesh.
-        ซินแคร์: 
+        ซินแคร์: โครเมอร์เดินเข้ามา พร้อมกับถือค้อนที่เปรอะเปื้อนไปด้วยเลือด และชิ้นเนื้อ
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Oh, this thing?
-        โครเมอร์: 
+        โครเมอร์: โอ้ นี้น่ะเหรอ?
         ```
         ```
         Kromer: Ever since I was little, I couldn’t stand being involved with filthy affronts to humanity like these.
-        โครเมอร์: 
+        โครเมอร์: ตั้งแต่ตอนที่ฉันยังเป็นเด็ก ฉันทนไม่ได้เลยที่ต้องอยู่ร่วมกับคำสบประสาทแสนโสโครกที่พวกมันมองพวกเรามนุษย์แบบนี้
         ```
         ```
         Kromer: Because I’m a humanitarian who loves all things human!
-        โครเมอร์:  
+        โครเมอร์: เพราะงั้น ฉันในฐานะนักมนุษยธรรมผู้ชื่นชอบทุกสิ่งที่เป็นมนุษย์!
         ```
         ```
         Kromer: Now imagine how it feels to face the son of a pack of those affronts to humanity…
-        โครเมอร์: 
+        โครเมอร์: ทีนี้ก็ลองนึกภาพดูสิว่ามันต้องรู้ยังไงที่ต้องเผชิญหน้ากับลูกหลงฝูงของพวกที่ดูหมิ่นมนุษย์ชาติ...
         ```
         ```
         Kromer: Just what should I do with you, Sinclair? Hmm?
-        โครเมอร์: 
+        โครเมอร์: แล้วฉันควรทำยังไงกับนายกันนะ ซินแคร์? หืมม? 
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: My legs have long given up.
@@ -10242,7 +10262,7 @@
     * **Episode: 31 | ตอนที่ 31<br>Location: Middle of an Alleyway | ใจกลางตรอกซอกซอย**
 
         ```
-        
+
         ```
 ---
 

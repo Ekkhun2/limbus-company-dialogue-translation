@@ -9563,7 +9563,7 @@
 
         ```
         Sinclair: Unable to detect the faint, familiar feeling hidden in her words, I slowly nodded…
-        ซินแคร์: ไม่อาจตรวจจับจุดมุ่งหมายแอบแฝงที่แผ่วเบานั่นได้เลย ความรู้สึกคุ้นเคยที่ถูกเก็บงำในคำพูดของเธอ ก่อนที่ผมจะพยักหน้าอย่างช้า ๆ...
+        ซินแคร์: ไม่อาจรู้ถึงจุดมุ่งหมายแอบแฝงที่แผ่วเบานั่นได้เลย ความรู้สึกคุ้นเคยของบางสิ่งที่ถูกเก็บงำในคำพูดของเธอ ก่อนที่ผมจะพยักหน้าให้อย่างช้า ๆ...
         ```
         ```
         Sinclair: Thus, the world of evil began there, right in the middle of our house.
@@ -10111,7 +10111,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         Sinclair: Pieces of metal, flesh, and blood fly into the air before hitting the floor.
-        ซินแคร์: แผ่นของโลหะ ชิ้นเนื้อ และเลือดลอยกระเด็นไปในอากาศก่อนที่จะร่วงหล่นเจิ่งนองเต็มพื้น
+        ซินแคร์: แผ่นโลหะ ชิ้นเนื้อ และหยดเลือดลอยกระเด็นไปในอากาศ ก่อนที่จะร่วงหล่นเจิ่งนองเต็มพื้น
 
         ---
 
@@ -10145,7 +10145,7 @@
         ```
         ```
         Kromer: Ever since I was little, I couldn’t stand being involved with filthy affronts to humanity like these.
-        โครเมอร์: ตั้งแต่ตอนที่ฉันยังเป็นเด็ก ฉันทนไม่ได้เลยที่ต้องอยู่ร่วมกับคำสบประสาทแสนโสโครกที่พวกมันมองพวกเรามนุษย์แบบนี้
+        โครเมอร์: ตั้งแต่ตอนที่ฉันยังเป็นเด็ก ฉันทนไม่ได้เลยกับการที่ต้องอยู่ร่วมกับคำสบประสาทแสนโสโครกที่พวกมันมองพวกเรามนุษย์ด้วยสาตาแบบนี้
         ```
         ```
         Kromer: Because I’m a humanitarian who loves all things human!
@@ -10157,7 +10157,7 @@
         ```
         ```
         Kromer: Just what should I do with you, Sinclair? Hmm?
-        โครเมอร์: แล้วฉันควรทำยังไงกับนายกันนะ ซินแคร์? หืมม? 
+        โครเมอร์: ฉันควรจะทำยังไงกับนายดีน้า ซินแคร์? หืมม? 
         ```
 
         ---
@@ -10166,19 +10166,19 @@
 
         ```
         Sinclair: My legs have long given up.
-        ซินแคร์: 
+        ซินแคร์: ขาทั้งสองข้างของผมถอดใจไปตั้งนานแล้ว
         ```
         ```
         Sinclair: My mouth couldn’t move. It was as if my whole body refused to cooperate.
-        ซินแคร์: 
+        ซินแคร์: ปากผมเองก็ขยับไม่ได้เหมือนกัน ราวกับว่าร่างกายผมปฎิเสธที่จะให้ความร่วมมือ
         ```
         ```
         Sinclair: I saw Kromer standing right before me. I couldn’t dare look up. Terror kicked in with the realization that she was so close to me, and my eyes shut themselves tight.
-        ซินแคร์: 
+        ซินแคร์: ผมเห็นโครเมอร์ที่กำลังยืนอยู่หน้าผม ผมไม่กล้าที่จะมองขึ้นไป ความหวาดกลัวเอาแต่ผุดขึ้นมาไม่หยุดหย่อนเมื่อรู้ว่าเธออยู่ใกล้กับผมมากขนาดนี้ และตาผมก็ปิดลง 
         ```
         ```
         Sinclair: The thought that the same hammer that crushed my father, mother, and sister would now come for me was unbearable.
-        ซินแคร์: 
+        ซินแคร์: ความคิดที่ว่าค้อน เต้า/อัน เดียวกันที่ทุบพ่อ, แม่, และพี่สาวของผม ในท้ายที่สุดก็มาหาผมอย่างเลี่ยงไม่ได้
         ```
         ```
         Sinclair: ......
@@ -10186,78 +10186,792 @@
         ```
         ```
         Sinclair: But nothing happened.
-        ซินแคร์: 
+        ซินแคร์: แต่กลับไม่มีอะไรเกิดขึ้น
         ```
         ```
         Sinclair: Confused, I carefully opened my eyes and lifted my head.
-        ซินแคร์: 
+        ซินแคร์: ด้วยความมึนงง ผมค่อย ๆ เปิดตาออกออก และเงยหน้าขึ้น
         ```
         ```
         Sinclair: Kromer was watching me.
-        ซินแคร์: 
+        ซินแคร์: พบกับโครเมอร์ที่กำลังเฝ้ามองผมอยู่
         ```
         ```
         Sinclair: Making a perfect smile just like the one she’d made when she first came to my desk and told me her name.
-        ซินแคร์: 
+        ซินแคร์: กับรอยยิ้มแบบเดียวกันกับที่เธอเคยทำในตอนนั่น ตอนที่เธอเดินมาที่โต๊ะผม และบอกชื่อของเธอให้กับผมเป็นครั้งแรก
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
 
         ```
         Kromer: Well, you are my hero, Sinclair.
-        โครเมอร์: 
+        โครเมอร์: ใช่สิ นายเป็นฮีโร่ของฉันนี้เนอะ ซินแคร์
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
 
         ```
         Sinclair: She then reaches into the pocket on my school shirt and takes out a coin.
-        ซินแคร์: 
+        ซินแคร์: ก่อนที่เธอจะเอื่อมมือเข้าไปในกระเป๋าเสื้อนักเรียนของผม และหยิบเหรียญที่อยู่ในนั่นออกมาเหรียญหนึ่ง
         ```
         ```
         Sinclair: It’s one of the two she handed me the other day.
-        ซินแคร์: 
+        ซินแคร์: มันคือหนึ่งจากสองเหรียญที่เธอให้มาในวันนั่น
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: From now on… You’ll doubt everything, be anxious of everything… and live in ever-constant terror as your memories of me haunt you.
-        โครเมอร์: 
+        โครเมอร์: ตั้งแต่นี้เป็นต้นไป... นายจะเคลือบแคลงในทุกสิ่ง เป็นกังวลต่อทุกอย่าง... และใช้ชีวิตอยู่ในฝันร้ายแห่งความกลัวของห้วงความทรงจำที่ฉันตามหลอกหลอนนาย 
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Nhh… Ungh…
-        ซินแคร์: 
+        ซินแคร์: อั่ก... ฮึก...
         ```
 
         ---
+
+        <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: And, when the time comes… I will call for you.
-        โครเมอร์: 
+        โครเมอร์: และ เมื่อเวลานั่นมาถึง... ฉันจะเรียกขานนาย
         ```
         ```
         Kromer: Hey! Someone take this kid to safety! Lay a finger on him and I’ll make you regret it.
-        โครเมอร์: 
+        โครเมอร์: เฮ้! ใครก็ได้ช่วยพาเด็กคนนี้ไปยังที่ปลอดภัยหน่อย! แต่ถ้าข้ารู้ว่าเจ้าบังอาจลงไม้ลงมือกับเขาแม้เพียงปลายเล็บล่ะก็ ข้าจะทำให้มั่นใจว่าเจ้าต้องเสียใจที่สิ่งที่ตนทำ
         ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: Amidst the piercing noise, storms of heavy footsteps, and disorientation…
-        ซินแคร์: 
+        ซินแคร์: ท่ามกลางเสียงแหลมบาดหูที่ดังก้อง กลับปรากฎห่าหายุเสียงเท้าอันหนักอิ้ง และอารการปวดหัว
         ```
         ```
         Sinclair: I lost consciousness.
-        ซินแคร์: 
+        ซินแคร์: ก่อนที่ผมจะหมดสติไป
         ```
 
     ---
 
     * **Episode: 31 | ตอนที่ 31<br>Location: Middle of an Alleyway | ใจกลางตรอกซอกซอย**
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: When I came to my senses, I found myself in an alleyway at midday, heated by the sun.
+        ซินแคร์: เมื่อผมฟื้นคืนสติกลับมา ผมก็พบว่าตัวเองกำลังอยู่สถานที่ที่เหมือนกับ... ตรอกซอกซอยในตอนกลางวันแสก ๆ ร้อนอบอ้าวจากแสงที่ดวงอาทิตย์สาดส่อง
+        ```
+        ```
+        Sinclair: I stayed there on the ground, dazed and confused.
+        ซินแคร์: ผมนอนอยู่อย่างนั่นบนพื้น ด้วยความรู้สึกตาพร่า และมึนงง
+        ```
+        ```
+        Sinclair: I could see a haze rise from the surface.
+        ซินแคร์: ก่อนที่ผมจะเห็นหมอกควันลอยคลุ้งขึ้นมาจากพื้นผิว
+        ```
+
+        ---
+
+        <img src="../images/Demian_School.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Demian: Sinclair. A crack has been made in your world.
+        เดเมียน: ซินแคร์ รอยร้าวได้ถูกสร้างขึ้นมาในโลกนายแล้ว
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: I felt like I was starting to understand what the strange feeling I often got from Demian was.
+        ซินแคร์: ผมรู้สึกว่าตัวเองเริ่มที่จะเข้าใจความรู้สึกประหลาดนี้ที่ผมรับรู้ได้บ่อยครั้งเวลาที่ได้คุยกับเดเมียน
+        ```
+        ```
+        Sinclair: I always found it weird how I never heard his footsteps.
+        ซินแคร์: พอมาคิด ๆ ดู ผมว่ามันก็แปลกดีทีผมไม่เคยได้ยินเสียงฝีเท้าของเขาเลยสักครั้ง
+        ```
+        ```
+        Sinclair: Why does everything arrive in desolate silence as if it belongs to no world at all?
+        ซินแคร์: ทำไมทุกสิ่งทุกอย่างต้องมาบรรจบกันด้วยความว่างเปล่าอันเงียบงันด้วยล่ะ ถ้าพวกมันไม่ได้อยู่ในโลกนี้ตั้งแต่แรกเลยด้วยซ้ำ?
+        ```
+        ```
+        Sinclair: The loss of my family, the world of evil, all this despair…
+        ซินแคร์: ทั้งการสูญเสียครอบครัวไปของผม โลกแห่งความชั่วร้าย ความสิ้นหวังทั้งหมดทั้งมวลนี้... 
+        ```
+        ```
+        Sinclair: And you, too.
+        ซินแคร์: และนายก็ด้วย
+        ```
+
+        ---
+
+        <img src="../images/Demian_School.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Demian: Are you scared, Sinclair?
+        เดเมียน: นายกลัวรึเปล่า ซินแคร์?
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: He spoke to me.
+        ซินแคร์: เขาพูดกับผม
+        ```
+        ```
+        Sinclair: He had the eyes of a person who saw through everything, and the attitude of someone who predicted this series of events.
+        ซินแคร์: เขามีดวงตาในแบบของคนที่มองเห็นทุกสิ่งอย่างทุกอย่างอย่างทะลุปรุโปร่ง และท่าทีที่เหมือนกับว่าจะรับรู้ชุดเหตุการณ์พวกนี้อยู่ก่อนแล้ว
+        ```
+        ```
+        Sinclair: He didn’t even wait for me to reply, like he knew what I was going to say.
+        ซินแคร์: เขาไม่ได้รอให้ผมตอบกลับเลยด้วยซ้ำ เหมือนกับว่าเขารู้แล้วว่าผมจะพูดอะไร
+        ```
+
+        ---
+
+        <img src="../images/Demian_School.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Demian: One day, you’ll break it altogether and soar.
+        เดเมียน: วันหนึ่ง นายจะหลุดพ้นจากพันธนาการพวกนี้ และโผบินไปสู่อิสระ
+        ```
+        ```
+        Demian: And I… wish to see you completely bare.
+        เดเมียน: และฉัน... ก็หวังว่าจะได้เจอกับนายที่เป็นนายจริง ๆ 
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Sinclair: He responded as if he already knew the answer I was hesitating on.
+        ซินแคร์: เขาตอบผมราวกับว่ารู้คำตอบอยู่ก่อนแล้ว คำตอบของคำถามที่ผมยังลังเล
+        ```
+        ```
+        Sinclair: Although his words seemed to radiate warmth…
+        ซินแคร์: แม้ว่าคำพูดของเขาจะดูเหมือนกับประกายอุ่น...
+        ```
+        ```
+        Sinclair: I felt a certain chill, like biting into the cold insides of a half-cooked turkey…
+        ซินแคร์: แต่ผมกลับรู้สึกถึงความหนาวเหน็บเหมือบกับการกัดลงไปบนด้านเย็นของไก่ยวงที่สุกแค่ครึ่งตัว...
+        ```
+        ```
+        Sinclair: I couldn’t help but fall unconscious again.
+        ซินแคร์: ผมทำอะไรไม่ได้นอกจากหมดสติไปอีกครั้ง
+        ```
+
+    ---
+
+    * **Episode: 32 | ตอนที่ 32<br>Location: Unending Hill of Corpses | หุบเขาไร้สิ้นสุดแห่งซากศพ**
+
+        <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Kromer: Well? Sinclair? Were you able to find an answer in your heart’s path?
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: ...Kromer.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Ahaha, don’t give me that look.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: It’s not even time yet…
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: You're making me want to kill you.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Ahu… No, no. I should abstain… I can’t let immediate entertainment distract me from the more important things.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Faust: Sinclair, the only way to retrieve a Golden Bough that’s begun to resonate is…
+        เฟาสท์: 
+        ```
+
+        ---
+        
+        ```
+        Sinclair: I know.
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Even if it weren’t for our mission…
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I’d still tear that bitch to pieces… and drink up her remains.
+        ซินแคร์: 
+        ```
+
+        ---
+        
+        ```
+        Kromer: Pfh… Ahahaha!!
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Kuhuu… Oh, Sinclair…! When did you learn to act so tough? That’s not like you at all… What a riot… Pfft.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Still… Well, I guess you’ve made some friends since then.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: You won’t run away this time, will you?
+        โครเมอร์: 
+        ```
+
+        ---
+
+        **Location: Unending Hill of Corpses | หุบเขาไร้สิ้นสุดแห่งซากศพ**
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            The Sinners were fatigued and damaged, some already dead.
+            ```
+            ```
+            As opposed to us, Kromer still stands triumphantly. She reaches for the inside of Sinclair’s coat in what seems like a declaration of his fate.
+            ```
+
+        ---
+
+        ```
+        Kromer: Now then, it’s time, Sinclair.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: I’ll be taking the second coin… your last chance.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Why are you… doing this to me…
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: Why… me…
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Sinclair, do you wanna know why I gave you back the basement key when you asked?
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Listen close. It’s not because I’d made my discovery or baked a copy of it.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: It’s because you were my key.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: You see, I happen to know of a way to take a peek at the futures that might come true.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: I saw one among them where you and I travel from Nest to Nest, slaughtering heretics together all around the City.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Even though you were raised by heretics bearing revolting metal bodies…
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Part of you still felt disgusted by them. Funny, isn’t it?
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: You would stab them in the head with your halberd!
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: D-Don’t you lie to me…
+        ซินแคร์: 
+        ```
+
+        ---
+        
+        ```
+        Kromer: While I smash their heads with a hammer!
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Stop it…!
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Ahaha… In that world, you looked like the freest person in the universe, transcending everything.
+        โครเมอร์: 
+        ```
+
+        ---
+        
+        ```
+        Sinclair: No...
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: You’re lying!!!
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Whether I’m lying or not…
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Ufu.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Kromer suddenly cracked a wry laugh and stopped moving.
+            ```
+
+        ---
+
+        ```
+        Dante: <The Golden Bough…!>
+        ดันเต้: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            The Golden Bough on the altar resonated with her cackle, and began to glow brighter.
+            ```
+            ```
+            Then...
+            ```
+
+        ---
+
+        ```
+        Kromer: Aah…! It’s begun… At last, my final grudge will be fulfilled!
+        โครเมอร์: 
+        ```
+        
+        ---
+
+        * เสียงในหัว
+
+            ```
+            A mass of flesh engulfs her lower half.
+            ```
+            ```
+            From the hideous organic growth, bundles of ambiguous appendages stretch outward in countless numbers.
+            ```
+            ```
+            As if desire and madness were made manifest…
+            ```
+
+        ---
+
+        ```
+        Kromer: Come… Sinclair.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Rip me up and chew me down.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: If you can, that is… Keheh.
+        โครเมอร์: 
+        ```
+
+        ---
+
+        **Location: UNending Hill of Corpses | หุบเขาไร้สิ้นสุดแห่งซากศพ**
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            The fleshy hill exuded potent acid, melting Sinclair’s legs. All the other Sinners were being dissolved by the caustic secretion too.
+            ```
+            ```
+            He trips and hits the ground. No, perhaps I should say he was thrown off his feet.
+            ```
+            ```
+            In spite of that, he still crawls towards Kromer.
+            ```
+
+        ---
+
+        ```
+        Kromer: Yes! That’s it! It hurts, doesn’t it? You’re filled with rage, aren’t you? Accept it all! Welcome it with open arms!
+        โคเมอร์: 
+        ```
+        ```
+        Kromer: And watch me! Watch my glorious body, closer to the purest form of humanity than ever before! This flesh here! The sheer, unmatched strength of purity!
+        ```
+        ```
+        Kromer: Ahh, Sinclair… Look at how human you are! You can become like me too!
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: I’ll… You’re…
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Sinclair, you were scared all along, weren’t you? You lost your family, and you had to ride a bus with these strangers, forced to do things you didn’t want.
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: You knew in your heart that you didn’t belong there, right?
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Didn’t you want to run? Didn’t you want to quit it all? Am I wrong?
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: I swear, I…
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Join me, Sinclair! Don’t avoid this, embrace it! Complete my grudge!
+        โครเมอร์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            The arm Sinclair was using to hold his weapon was growing limp by the second.
+            ```
+            ```
+            He nevertheless continues in Kromer’s direction.
+            ```
+
+        ---
+
+        ```
+        Kromer: You must accept the pain! Only when we have transcended suffering itself can we be reborn!
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Bloat the flesh, spill the blood! Adding on the most human things each second!
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: To the purest world where the impurities plaguing the city of all folks have been filtered out!
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Mama... Papa... Sis...
+        ซินแคร์: มะม๊า... ปะป๊า... พี่...
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Sinclair vacantly mutters, looking at the faces of his now dead fellow Sinners.
+            ```
+            ```
+            I couldn’t leave him like this.
+            ```
+
+        ---
+
+        ```
+        Dante: <Sinclair! Listen to me!>
+        ดันเต้: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            I’m embarrassed that it took me so long to take action, but it was better late than never.
+            ```
+            ```
+            Act like the manager I am.
+            ```
+
+        ---
+
+        ```
+        Dante: <I know you think a lot! I know there’s a lot going on in your head that you can’t share with others!>
+        ดันเต้: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            That’s how he was.
+            ```
+            ```
+            Worried that he might be a burden, he constantly put his mind through doubts and ruminations, most of which he never let on about.
+            ```
+            ```
+            He’s chewed up many a thought in the form of guilt.
+            ```
+
+        ---
+
+        ```
+        Sinclair: My family died because of me...
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: I said stuff I really shouldn’t have…
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Kromer: Exactly! It’s all your fault—so embrace it! That’s the way to become wholly reborn!
+        โครเมอร์: 
+        ```
+        ```
+        Kromer: Follow me… and rest in my grip!
+        โครเมอร์: 
+        ```
+
+        ---
+
+        ```
+        Dante: <Don’t listen to her!>
+        ดันเต้: 
+        ```
+        ```
+        Dnate: <You have to see! Look at her! Observe her carefully!>
+        ดันเต้: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Alas, my voice didn’t seem to reach him.
+            ```
+
+        ---
+
+        ```
+        Sinclair: Ah…
+        ซินแคร์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Sinclair’s weapon leaves his hand and lands on the ground.
+            ```
+            ```
+            His advance for Kromer has stopped.
+            ```
+            ```
+            Yep, looks like this is the end for us.
+            ```
+            ```
+            I can feel my body melting into the mound.
+            ```
+            ```
+            I knew I’d die trying to play the proper manager sooner or later.
+            ```
+            ```
+            But…
+            ```
+
+        ---
+
+        ```
+        Dante: <Sinclair...>
+        ดันเต้: <ซินแคร์...>
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            I have to tell him more.
+            ```
+            ```
+            I have to tell him that Kromer’s spewing a heap of lies, threats, hypocrisy, and exaggeration.
+            ```
+            ```
+            Every nerve in my body is screaming that I shouldn’t give up on him.
+            ```
+            ```
+            I can feel the burning pain of my melting body…
+            ```
+
+        ---
+
+        ```
+        Dante: <Look, look closely! Sinclair!>
+        ดันเต้: 
+        ```
+        ```
+        Dante: <Not with your eyes, but with your heart!>
+        ดันเต้: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            I screech at Sinclair.
+            ```
+
+        ---
+
+        ```
+        Dante: <Only then… will you see what matters most.>
+        ดันเต้: 
+        ```
+
+        ---
+
+        ```
+        Demian: Only then… will you see what matters most.
+        เดเมียน: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            In that moment…
+            ```
+            ```
+            Someone quietly appeared.
+            ```
+
+        ---
+
+        ```
+        Demian: And when you can see the things that matter most…
+        เดเมียน: 
+        ```
+        ```
+        Demian: You won’t have to stifle yourself with shallow threats or cheap tricks.
+        เดเมียน: 
+        ```
+        ```
+        Demian: …Isn’t that right, Sinclair?
+        เดเมียน: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            He moved with grace and airiness, as though he floated in the air.
+            ```
+            ```
+            He seemed lighter than anyone else, unbound by anything.
+            ```
+            ```
+            Contrary to his impression of freedom from all worldly longings, an oppressive air seemed to accompany every step he took.
+            ```
+            ```
+            And, with just a wave of his right arm…
+            ```
+            ```
+            Kromer’s upper body vanished in a clean cut.
+            ```
+
+    ---
+
+    * **Episode: 33 | ตอนที่ 33<br>Location: Unending Hill of Corpses | หุบเขาไร้สิ้นสุดแห่งซากศพ**
 
         ```
 

@@ -10277,11 +10277,11 @@
 
         ```
         Sinclair: When I came to my senses, I found myself in an alleyway at midday, heated by the sun.
-        ซินแคร์: เมื่อผมฟื้นคืนสติกลับมา ผมก็พบว่าตัวเองกำลังอยู่สถานที่ที่เหมือนกับ... ตรอกซอกซอยในตอนกลางวันแสก ๆ ร้อนอบอ้าวจากแสงที่ดวงอาทิตย์สาดส่อง
+        ซินแคร์: เมื่อผมฟื้นคืนสติกลับมา ผมก็พบว่าตัวเองกำลังอยู่สถานที่ที่เหมือนกับ... ตรอกซอกซอยในตอนกลางวันแสก ๆ ร้อนอบอ้าวจากแสงของดวงอาทิตย์ที่สาดส่อง
         ```
         ```
         Sinclair: I stayed there on the ground, dazed and confused.
-        ซินแคร์: ผมนอนอยู่อย่างนั่นบนพื้น ด้วยความรู้สึกตาพร่า และมึนงง
+        ซินแคร์: ผมนอนอยู่อย่างนั่นบนพื้น ด้วยความรู้สึกพร่ามัว และมึนงง
         ```
         ```
         Sinclair: I could see a haze rise from the surface.
@@ -10311,15 +10311,15 @@
         ```
         ```
         Sinclair: Why does everything arrive in desolate silence as if it belongs to no world at all?
-        ซินแคร์: ทำไมทุกสิ่งทุกอย่างต้องมาบรรจบกันด้วยความว่างเปล่าอันเงียบงันด้วยล่ะ ถ้าพวกมันไม่ได้อยู่ในโลกนี้ตั้งแต่แรกเลยด้วยซ้ำ?
+        ซินแคร์: ทำไมทุกสิ่งทุกอย่างถึงต้องมาจบลงที่ความว่างเปล่าอันเงียบงันด้วยล่ะ ถ้าพวกมันไม่ได้อยู่ในโลกนี้ตั้งแต่แรกแล้ว?
         ```
         ```
         Sinclair: The loss of my family, the world of evil, all this despair…
-        ซินแคร์: ทั้งการสูญเสียครอบครัวไปของผม โลกแห่งความชั่วร้าย ความสิ้นหวังทั้งหมดทั้งมวลนี้... 
+        ซินแคร์: ทั้งการสูญเสียครอบครัวไปของผม โลกแห่งความชั่วร้าย ความสิ้นหวังทั้งหมดทั้งมวลพวกนี้... 
         ```
         ```
         Sinclair: And you, too.
-        ซินแคร์: และนายก็ด้วย
+        ซินแคร์: แล้วก็นาย
         ```
 
         ---
@@ -10341,11 +10341,11 @@
         ```
         ```
         Sinclair: He had the eyes of a person who saw through everything, and the attitude of someone who predicted this series of events.
-        ซินแคร์: เขามีดวงตาในแบบของคนที่มองเห็นทุกสิ่งอย่างทุกอย่างอย่างทะลุปรุโปร่ง และท่าทีที่เหมือนกับว่าจะรับรู้ชุดเหตุการณ์พวกนี้อยู่ก่อนแล้ว
+        ซินแคร์: เขามีดวงตาในแบบของคนที่มองเห็นทุกสิ่งทุกอย่างอย่างทะลุปรุโปร่ง และท่าทีที่เหมือนกับว่าคาดการณ์ชุดเหตุการณ์พวกนี้ไว้ตั้งแต่ต้น
         ```
         ```
         Sinclair: He didn’t even wait for me to reply, like he knew what I was going to say.
-        ซินแคร์: เขาไม่ได้รอให้ผมตอบกลับเลยด้วยซ้ำ เหมือนกับว่าเขารู้แล้วว่าผมจะพูดอะไร
+        ซินแคร์: เขาไม่ได้รอให้ผมตอบกลับเลยด้วยซ้ำเหมือนเขารู้ว่าผมจะพูดอะไร <*คล้าย>
         ```
 
         ---
@@ -10367,7 +10367,7 @@
         
         ```
         Sinclair: He responded as if he already knew the answer I was hesitating on.
-        ซินแคร์: เขาตอบผมราวกับว่ารู้คำตอบอยู่ก่อนแล้ว คำตอบของคำถามที่ผมยังลังเล
+        ซินแคร์: เขาตอบผมราวกับว่ารู้คำตอบอยู่ก่อนแล้ว คำตอบของคำถามที่ผมยังลังเล <*คล้าย>
         ```
         ```
         Sinclair: Although his words seemed to radiate warmth…
@@ -10390,74 +10390,84 @@
 
         ```
         Kromer: Well? Sinclair? Were you able to find an answer in your heart’s path?
-        โครเมอร์: 
+        โครเมอร์: ไงบ้าง? ซินแคร์? นายหาคำตอบจากเส้นทางหัวใจตัวเองได้หรือยัง?
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: ...Kromer.
-        ซินแคร์: 
+        ซินแคร์: ...โครเมอร์
         ```
 
         ---
+
+        <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Ahaha, don’t give me that look.
-        โครเมอร์: 
+        โครเมอร์: อาฮ่าฮ่า อย่ามองฉันด้วยสายตาอย่างนั่นสิ
         ```
         ```
         Kromer: It’s not even time yet…
-        โครเมอร์: 
+        โครเมอร์: มันยังไม่ถึงเวลานั่น...
         ```
         ```
         Kromer: You're making me want to kill you.
-        โครเมอร์: 
+        โครเมอร์: แต่นายกลับกำลังทำให้ฉันรู้สึกอยากฆ่านายนะรู้ไหม
         ```
         ```
         Kromer: Ahu… No, no. I should abstain… I can’t let immediate entertainment distract me from the more important things.
-        โครเมอร์: 
+        โครเมอร์: อาหู่ว... ไม่สิ ไม่ ฉันควรที่จะอดทนเอาไว้... ฉันจะปล่อยให้ความบันเทิงระยะสั้นมาทำให้ตัวเองวอกแวกอย่างนี้ไม่ได้
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: Sinclair, the only way to retrieve a Golden Bough that’s begun to resonate is…
-        เฟาสท์: 
+        เฟาสท์: ซินแคร์ หนทางเดียวที่นายจะได้กิ่งทองที่เริ่มสะท้อนกังวาลไปแล้วก็มีแต่...
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Sinclair: I know.
-        ซินแคร์: 
+        ซินแคร์: ผู้รู้แล้ว
         ```
         ```
         Sinclair: Even if it weren’t for our mission…
-        ซินแคร์: 
+        ซินแคร์: ถึงแม้ว่ามันจะไม่ใช่เพื่อภารกิจ...
         ```
         ```
         Sinclair: I’d still tear that bitch to pieces… and drink up her remains.
-        ซินแคร์: 
+        ซินแคร์: แต่ผมก็จะฉีกกระฉากนางสารเลวนั่นเป็นชิ้น ๆ... และดื่มกินเลือดทุกหยดที่เหลือ
         ```
 
         ---
+
+        <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Kromer: Pfh… Ahahaha!!
-        โครเมอร์: 
+        โครเมอร์: ฟิ่บ... อาฮ่าฮ่าฮ่า!!!
         ```
         ```
         Kromer: Kuhuu… Oh, Sinclair…! When did you learn to act so tough? That’s not like you at all… What a riot… Pfft.
-        โครเมอร์: 
+        โครเมอร์: ฮุ้ยยย... โอ้ ซินแคร์...! นายเรียนรู้ตั้งแต่เมื่อไรกันที่จะทำตัวเหมือนกับว่านายแกร่ง? นั่นไม่สมกับเป็นนายเลยสักนิด... ชั่งน่าขำเสียจริง... ฟิ่บ
         ```
         ```
         Kromer: Still… Well, I guess you’ve made some friends since then.
-        โครเมอร์: 
+        โครเมอร์: อีกอย่าง... ดูเหมือนว่านายจะมีเพื่อนใหม่มากขึ้นตั้งแต่ครั้งล่าสุดที่เราเจอกัน
         ```
         ```
         Kromer: You won’t run away this time, will you?
-        โครเมอร์: 
+        โครเมอร์: หวังว่าครั้งนี้นายจะไม่หนีไปอีกใช่ไหม?
         ```
 
         ---
@@ -10466,182 +10476,214 @@
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         * เสียงในหัว
 
             ```
             The Sinners were fatigued and damaged, some already dead.
+            เหล่าคนบาปต่างเหนื่อยล้า และบาดเจ็บ บ้างก็ตายไปแล้ว
             ```
             ```
             As opposed to us, Kromer still stands triumphantly. She reaches for the inside of Sinclair’s coat in what seems like a declaration of his fate.
+            ในทางตรงกันข้ามกับเรา โครเมอร์กลับยังยืนหยัดเปี่ยมไปด้วยชัยชนะอย่างขาดลอย ก่อนที่เธอจะเอี่อมมือเข้าไปในเสื้อคลุมของซินแคร์เสมือบกับประกาศเกล้าถึงโชคชะตาที่เหลือของเขา
             ```
 
         ---
 
+        <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Kromer: Now then, it’s time, Sinclair.
-        โครเมอร์: 
+        โครเมอร์: ถ้างั้น มันก็ถึงเวลาแล้ว ซินแคร์
         ```
         ```
         Kromer: I’ll be taking the second coin… your last chance.
-        โครเมอร์: 
+        โครเมอร์: ฉันจะเอาเหรียญที่สองไป... โอกาศครั้งสุดท้ายของนาย
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Why are you… doing this to me…
-        ซินแคร์: 
+        ซินแคร์: ทำไมแก... ถึงต้องทำเรื่องพวกนี้กับผมด้วย...
         ```
         ```
         Sinclair: Why… me…
-        ซินแคร์: 
+        ซินแคร์: ทำไม... ต้องเป็นผม...
         ```
 
         ---
+
+        <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Sinclair, do you wanna know why I gave you back the basement key when you asked?
-        โครเมอร์: 
+        โครเมอร์: ซินแคร์ นายอยากรู้หรือเปล่าล่ะว่าทำไมฉันถึงคืนกุญแจห้องใต้ดินให้นายในตอนนั่น?
         ```
         ```
         Kromer: Listen close. It’s not because I’d made my discovery or baked a copy of it.
-        โครเมอร์: 
+        โครเมอร์: ฟังให้ดีล่ะ มันไม่ใช่เพราะฉันได้พบคำตอบที่ตามหาแล้ว หรือปั้มกุญแจสำรองไว้
         ```
         ```
         Kromer: It’s because you were my key.
-        โครเมอร์: 
+        โครเมอร์: มันเป็นเพราะว่านายคือกุญแจของฉัน 
         ```
         ```
         Kromer: You see, I happen to know of a way to take a peek at the futures that might come true.
-        โครเมอร์: 
+        โครเมอร์: อันที่จริง ฉันรู้วิธีบางอย่างที่ทำให้ฉันสามารถแอบดูในความเป็นไปได้ของอนาคตที่อาจเกิด
         ```
         ```
         Kromer: I saw one among them where you and I travel from Nest to Nest, slaughtering heretics together all around the City.
-        โครเมอร์: 
+        โครเมอร์: และฉันก็มองเห็นหนึ่งในความเป็นไปได้พวกนั่นที่ฉัน และนายร่อนเร่ไปสู่เนสแล้วเนสเล่าคอยสังหารพวกนอกรีตพวกนั่นไปไหนมากไหนด้วยกันในเดอะซิตี้
         ```
         ```
         Kromer: Even though you were raised by heretics bearing revolting metal bodies…
-        โครเมอร์: 
+        โครเมอร์: ถึงแม้ว่านายจะถูกชุบเลี้ยงโดยพวกนอกรีตที่แบกร่างโลหะอันน่ารังเกียจพวกนั่นไปไหนมาไหน...
         ```
         ```
         Kromer: Part of you still felt disgusted by them. Funny, isn’t it?
-        โครเมอร์: 
+        โครเมอร์: แต่ส่วนหนึ่งของนายก็ยังคงรังเกียจพวกมัน น่าตลก ใช่ไหมล่ะ?
         ```
         ```
         Kromer: You would stab them in the head with your halberd!
-        โครเมอร์: 
+        โครเมอร์: และนายก็อาจแทงพวกมันไปที่หัวด้วยฮาลเบิร์ดของนาย!
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: D-Don’t you lie to me…
-        ซินแคร์: 
+        ซินแคร์: อ-อย่ามาโกหกผมนะ...
         ```
 
         ---
+
+        <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Kromer: While I smash their heads with a hammer!
-        โครเมอร์: 
+        โครเมอร์: ในขณะที่ฉันกำลังทุบหัวพวกมันด้วยค้อน!
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Stop it…!
-        ซินแคร์: 
+        ซินแคร์: หยุดนะ...!
         ```
 
         ---
+
+        <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Ahaha… In that world, you looked like the freest person in the universe, transcending everything.
-        โครเมอร์: 
+        โครเมอร์: อาฮ่าฮ่า... ในโลกใบนั่น นายดูเหมือนกับคนที่อิสระที่สุดในจักรวาลผู้ก้าวข้ามทุกสิ่ง
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Sinclair: No...
-        ซินแคร์: 
+        ซินแคร์: ไม่...
         ```
         ```
         Sinclair: You’re lying!!!
-        ซินแคร์: 
+        ซินแคร์: คุณโกหก!!!
         ```
 
         ---
+
+        <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Whether I’m lying or not…
-        โครเมอร์: 
+        โครเมอร์: ไม่ว่าฉันจะโกหก หรือไม่...
         ```
         ```
         Kromer: Ufu.
-        โครเมอร์: 
+        โครเมอร์: อู่ฟู
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Kromer suddenly cracked a wry laugh and stopped moving.
+            จู่ ๆ โครเมอร์ก็หลุดขำออกมาด้วยเสียงหัวเราะที่ขื่นขม และหยุดเคลื่อนไหว
             ```
-
-        ---
 
         ```
         Dante: <The Golden Bough…!>
-        ดันเต้: 
+        ดันเต้: <กิ่งทอง...!>
         ```
-
-        ---
 
         * เสียงในหัว
 
             ```
             The Golden Bough on the altar resonated with her cackle, and began to glow brighter.
+            กิ่งทองที่อยู่บนแท่นบูชาได้สะท้อนกังวาลกับเสียงหัวเราะของเธอ และเริ่มที่จะสว่างขึ้น
             ```
             ```
             Then...
+            ก่อนที่จะ...
             ```
 
         ---
 
+        <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Kromer: Aah…! It’s begun… At last, my final grudge will be fulfilled!
-        โครเมอร์: 
+        โครเมอร์: อ้า...! ในที่สุด... มันก็เริ่มแล้วสิ ความปราถณาสุดท้ายของฉันจะได้ถูกเติมเต็ม!
         ```
         
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             A mass of flesh engulfs her lower half.
+            มวลเนื้อขนาดใหญ่กลืนกินครึ่งล่างของเธอ
             ```
             ```
             From the hideous organic growth, bundles of ambiguous appendages stretch outward in countless numbers.
+            จากเนื้อเยื่อที่งอกขยายอย่างน่าสะพรึงกลัว พร้อมกันกับกลุ่มอวัยวะต่อท้ายอันคลุมเคลือที่ยืดออกไปจนนับไม่ได้
             ```
             ```
             As if desire and madness were made manifest…
+            ราวกับถ้าตัวตนของความปราถณา และบ้าคลั่งถูกปั้นรวมกันเป็นรูปเป็นร่างให้ประจักษ์...
             ```
 
         ---
 
+        <img src="../images/CromerMonster.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Kromer: Come… Sinclair.
-        โครเมอร์: 
+        โครเมอร์: มาสิ... ซินแคร์
         ```
         ```
         Kromer: Rip me up and chew me down.
-        โครเมอร์: 
+        โครเมอร์: ฉีกฉันเป็นชิ้น ๆ และกินฉันสิ
         ```
         ```
         Kromer: If you can, that is… Keheh.
-        โครเมอร์: 
+        โครเมอร์: ถ้านายทำได้ล่ะก็นะ... เหะ ๆ
         ```
 
         ---
@@ -10650,95 +10692,119 @@
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         * เสียงในหัว
 
             ```
             The fleshy hill exuded potent acid, melting Sinclair’s legs. All the other Sinners were being dissolved by the caustic secretion too.
+            หุบเขาก้อนเนื้อนั่นหลั่งกรดแรงสูงออกมา ก่อนที่มันจะละลายขาของซินแคร์ และคนบาปคนอื่น ๆ เองก็ถูกย่อยสลายไปโดยสารคัดหลั่งที่มีฤทธิ์กัดกร่อนนั่นไม่ต่างกัน
             ```
             ```
             He trips and hits the ground. No, perhaps I should say he was thrown off his feet.
+            เขาสะดุด และล้มลงตรงที่พื้น ไม่สิ บางที พูดว่าถูกตัดตกจากขาตัวเองน่าจะถูกกว่า
             ```
             ```
             In spite of that, he still crawls towards Kromer.
+            แต่ทั้ง ๆ ที่เป็นอย่างนั้น เขากลับยังคงตะเกียดตะกายคลานเข้าไปหาโครเมอร์
             ```
 
         ---
 
+        <img src="../images/CromerMonster.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Kromer: Yes! That’s it! It hurts, doesn’t it? You’re filled with rage, aren’t you? Accept it all! Welcome it with open arms!
-        โคเมอร์: 
+        โคเมอร์: ใช่ใช่! นั่นแหละ! มันเจ็บใช่ไหมล่ะ? นายโกรธมากเลยใช่ไหม? จงน้อมรับมันทั้งหมด! และอ้าแขนต้อนรับมัน!
         ```
         ```
         Kromer: And watch me! Watch my glorious body, closer to the purest form of humanity than ever before! This flesh here! The sheer, unmatched strength of purity!
+        โครเมอร์: ดูฉันสิ! จงเบิกตาดูร่างกายที่น่าสรรเสริญนี้ของฉัน ร่างที่ใกล้เคียงกับรูปมนุษย์อันบริสุทธิ์ที่สุดที่เคยมีมา! ก้อนเนื้อนี้! คือความแข็งแกร่งพิศุทธิ์ที่มิอาจมีผู้ใดเทียมเคียงได้!
         ```
         ```
         Kromer: Ahh, Sinclair… Look at how human you are! You can become like me too!
-        โครเมอร์: 
+        โครเมอร์: อ้าา ซินแคร์... ดูสิว่านายเป็นมนุษย์ขนาดไหน! นายเองก็เป็นแบบเดียวกับฉันได้เหมือนกัน!
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: I’ll… You’re…
-        ซินแคร์: 
+        ซินแคร์: ผมจะ... แกซะ...
         ```
 
         ---
+
+        <img src="../images/CromerMonster.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Sinclair, you were scared all along, weren’t you? You lost your family, and you had to ride a bus with these strangers, forced to do things you didn’t want.
-        โครเมอร์: 
+        โครเมอร์: ซินแคร์ นายเองก็หวาดกลัวมาโดยตลอดเลยไม่ใช่เหรอ? ตั้งแต่ที่นายสูญเสียครอบครัวของตัวเองไป และนายก็เลยต้องนั่งรถบัสกับพวกคนแปลกหน้าพวกนั่น โดนบังคังนู่นบังคับนี้ให้ต้องทำในสิ่งที่นายไม่ชอบ
         ```
         ```
         Kromer: You knew in your heart that you didn’t belong there, right?
-        โครเมอร์: 
+        โครเมอร์: นายรู้อยู่แก่ใจของนายอยู่แล้ว ว่าตัวเองไม่ได้ส่วนหนึ่งกับพวกเขาตั้งแต่แรกอยู่แล้ว? 
         ```
         ```
         Kromer: Didn’t you want to run? Didn’t you want to quit it all? Am I wrong?
-        โครเมอร์: 
+        โครเมอร์: ไม่ใช่ว่านายอยากที่จะวิ่งหนี? ไม่ใช่ว่านายอยากที่ล้มเลิกทุกสิ่ง? ฉันพูดอะไรผิดไปหรือเปล่าน้า?
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: I swear, I…
-        ซินแคร์: 
+        ซินแคร์: ฉันสาบานว่าผม...
         ```
 
         ---
+
+        <img src="../images/CromerMonster.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Join me, Sinclair! Don’t avoid this, embrace it! Complete my grudge!
-        โครเมอร์: 
+        โครเมอร์: มาร่วมกับฉันสิ ซินแคร์! อย่าพยายามหลีกหนีเลย จงโอบกอดมัน! และเติมเต็มความปราถณาของฉันเสีย!
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             The arm Sinclair was using to hold his weapon was growing limp by the second.
+            แขนข้างที่ซินแคร์กำลังใช้ถืออาวุธของเขา กำลังมีแขนงอกออกมา
             ```
             ```
             He nevertheless continues in Kromer’s direction.
+            แต่ถึงอย่างนั้น เขาก็ไม่ล้มเลิกที่จะพุ่งตรงเข้าไปยังทิศทางของโครเมอร์
             ```
 
         ---
 
+        <img src="../images/CromerMonster.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Kromer: You must accept the pain! Only when we have transcended suffering itself can we be reborn!
-        โครเมอร์: 
+        โครเมอร์: นายต้องยอมรับความเจ็บปวด! เมื่อยามที่เราก้าวข้ามความทรมาณแล้วเท่านั่นที่เราจะเกิดใหม่! 
         ```
         ```
         Kromer: Bloat the flesh, spill the blood! Adding on the most human things each second!
-        โครเมอร์: 
+        โครเมอร์: จงพองเนื้อหนังมังสา ละเลงเลือดไปให้ทั่ว! แล้วสรรค์สร้างเพิ่มสิ่งที่เป็นมนุษย์เข้าไปอีกในทุกช่วงวินาทีที่หายใจ!
         ```
         ```
         Kromer: To the purest world where the impurities plaguing the city of all folks have been filtered out!
-        โครเมอร์: 
+        โครเมอร์: สู่โลกอันพิสุทธิ์ใสที่ความไม่บริสุทธิ์แพร่กระจายไปทั่วนครเมืองแห่งผู้คนที่ถูกชำระล้าง! 
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Mama... Papa... Sis...
@@ -10747,85 +10813,95 @@
 
         ---
 
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         * เสียงในหัว
 
             ```
             Sinclair vacantly mutters, looking at the faces of his now dead fellow Sinners.
+            ซินแคร์พึมพรำอย่างเหม่อลอย พลางมองไปยังใบหน้าของเหล่าสหายคนบาปที่ล้มตาย 
             ```
             ```
             I couldn’t leave him like this.
+            ผมจะปล่อยให้เขาเป็นแบบนี้ไม่ได้
             ```
 
         ---
 
         ```
         Dante: <Sinclair! Listen to me!>
-        ดันเต้: 
+        ดันเต้: <ซินแคร์! ฟังฉัน!>
         ```
-
-        ---
 
         * เสียงในหัว
 
             ```
             I’m embarrassed that it took me so long to take action, but it was better late than never.
+            มันน่าอายจริง ๆ ที่ฉันใช้เวลามากถึงขนาดนี้กว่าจะลงมือทำสักอย่าง แต่ ช้าก็ดีกว่าไม่มาเลย/สายก็ดีกว่าขาด
             ```
             ```
             Act like the manager I am.
+            มันถึงเวลาที่ฉันต้องทำตัวให้สมกับเป็นผู้จัดการแล้ว
             ```
-
-        ---
 
         ```
         Dante: <I know you think a lot! I know there’s a lot going on in your head that you can’t share with others!>
-        ดันเต้: 
+        ดันเต้: <ฉันรู้ว่านายกำลังคิดมาก! ฉันรู้ว่ามันมีหลายสิ่งในหัวนายที่ไม่อาจแบ่งปันกับคนอื่นได้!>
         ```
-
-        ---
-
+        
         * เสียงในหัว
 
             ```
             That’s how he was.
+            นั่นคือสิ่งที่เขาเป็น
             ```
             ```
             Worried that he might be a burden, he constantly put his mind through doubts and ruminations, most of which he never let on about.
+            กังวลว่าตัวเองจะถูกฝังกลบ ตลอดมาเขาก็เลยเอาแต่จูงความคิดตัวเองผ่านความสงสัย และครุ่นคิด ที่ส่วนมากเขาไม่เคยบอกให้เรารู้
             ```
             ```
             He’s chewed up many a thought in the form of guilt.
+            เขาครุ่นคิดเรื่องนั่นไม่หยุดหย่อน ติดอยู่ในบ่วงแห่งห้วงความรู้สึกผิดในรูปของความผิดพลาดนานับประการ
             ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: My family died because of me...
-        ซินแคร์: 
+        ซินแคร์: ทุกคนในครอบครัวต้องมาตายเพราะผม...
         ```
         ```
         Sinclair: I said stuff I really shouldn’t have…
-        ซินแคร์: 
+        ซินแคร์: เพียงเพราะผมพูดในสิ่งที่ผมไม่ควร...
         ```
 
         ---
+
+        <img src="../images/Cromer.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: Exactly! It’s all your fault—so embrace it! That’s the way to become wholly reborn!
-        โครเมอร์: 
+        โครเมอร์: ใช่แล้ว! มันเป็นความผิดทั้งหมดของนาย—เพราะงั้นจงโอบกอดมัน! นั่นคือทางที่เราจะจุติใหม่โดยสมบูรณ์!
         ```
         ```
         Kromer: Follow me… and rest in my grip!
-        โครเมอร์: 
+        โครเมอร์: ตามฉันมา... และพักกายในอ้อมอกของฉัน!
         ```
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dante: <Don’t listen to her!>
-        ดันเต้: 
+        ดันเต้: <อย่าฟังเธอนะ!>
         ```
         ```
-        Dnate: <You have to see! Look at her! Observe her carefully!>
-        ดันเต้: 
+        Dante: <You have to see! Look at her! Observe her carefully!>
+        ดันเต้: <นายจะต้องเห็น! มองไปที่เธอ! และสังเกตดูดี ๆ!>
         ```
 
         ---
@@ -10840,7 +10916,7 @@
 
         ```
         Sinclair: Ah…
-        ซินแคร์: 
+        ซินแคร์: อา...
         ```
 
         ---
@@ -10983,3 +11059,4 @@
 * <*รูปภาพ> หมายถึง มีการใช้รูปภาพภายในข้อความแล้วไม่สามารถใส่ได้ไม่ว่ากรณีใดก็ตาม
 * <*ไม่แน่ใจ> หมายถึง บทสนทนาที่แปลหรือประโยคคำพูดที่อาจไม่ตรงตามวัตถุประสงค์หรือบริบท์แท้จริง
 * <*ระดับภาษา> หมายถึง บทสนทนนาที่เแปลแล้วอาจไม่ตรงบริบทของตัวละครในเชิงของระดับภาษา เช่น สรรพนามที่ใช้เรียกตัวเองหรือผู้อื่น คำลงท้ายประโยค
+* <*คล้าย> หมายถึง คำที่ถูกใช้ในบทสนทนามีความซ้ำซากกับบทสนทนาอื่น

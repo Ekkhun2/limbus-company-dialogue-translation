@@ -10698,7 +10698,7 @@
 
             ```
             The fleshy hill exuded potent acid, melting Sinclair’s legs. All the other Sinners were being dissolved by the caustic secretion too.
-            หุบเขาก้อนเนื้อนั่นหลั่งกรดแรงสูงออกมา ก่อนที่มันจะละลายขาของซินแคร์ และคนบาปคนอื่น ๆ เองก็ถูกย่อยสลายไปโดยสารคัดหลั่งที่มีฤทธิ์กัดกร่อนนั่นไม่ต่างกัน
+            หุบเขาก้อนเนื้อนั่นหลั่งกรดแรงสูงออกมา ก่อนที่มันจะละลายขาของซินแคร์ รวมถึงคนบาปคนอื่น ๆ เองก็ถูกย่อยสลายด้วยสารคัดหลั่งที่มีฤทธิ์กัดกร่อนนั่นไม่ต่างกัน
             ```
             ```
             He trips and hits the ground. No, perhaps I should say he was thrown off his feet.
@@ -10715,15 +10715,15 @@
 
         ```
         Kromer: Yes! That’s it! It hurts, doesn’t it? You’re filled with rage, aren’t you? Accept it all! Welcome it with open arms!
-        โคเมอร์: ใช่ใช่! นั่นแหละ! มันเจ็บใช่ไหมล่ะ? นายโกรธมากเลยใช่ไหม? จงน้อมรับมันทั้งหมด! และอ้าแขนต้อนรับมัน!
+        โคเมอร์: ใช่ใช่! นั่นแหละ! มันเจ็บใช่ไหมล่ะ? นายโกรธมากเลยใช่ไหม? จงน้อมรับมันทั้งหมด! และอ้าแขนต้อนรับเสีย!
         ```
         ```
         Kromer: And watch me! Watch my glorious body, closer to the purest form of humanity than ever before! This flesh here! The sheer, unmatched strength of purity!
-        โครเมอร์: ดูฉันสิ! จงเบิกตาดูร่างกายที่น่าสรรเสริญนี้ของฉัน ร่างที่ใกล้เคียงกับรูปมนุษย์อันบริสุทธิ์ที่สุดที่เคยมีมา! ก้อนเนื้อนี้! คือความแข็งแกร่งพิศุทธิ์ที่มิอาจมีผู้ใดเทียมเคียงได้!
+        โครเมอร์: ดูฉันสิ! จงเบิกตาดูร่างกายที่น่าสรรเสริญนี้ของฉัน ร่างที่ใกล้เคียงกับรูปมนุษย์อันบริสุทธิ์ที่สุดที่เคยมีมา! ก้อนเนื้อนี้! คือความแข็งแกร่งพิศุทธิ์ที่มิอาจมีผู้ใดทัดเทียมได้!
         ```
         ```
         Kromer: Ahh, Sinclair… Look at how human you are! You can become like me too!
-        โครเมอร์: อ้าา ซินแคร์... ดูสิว่านายเป็นมนุษย์ขนาดไหน! นายเองก็เป็นแบบเดียวกับฉันได้เหมือนกัน!
+        โครเมอร์: อ้าา ซินแคร์... ดูสิว่านายเป็นมนุษย์ถึงเพียงไหน! นายเองก็เป็นแบบเดียวกับฉันได้เหมือนกัน!
         ```
 
         ---
@@ -10741,11 +10741,11 @@
 
         ```
         Kromer: Sinclair, you were scared all along, weren’t you? You lost your family, and you had to ride a bus with these strangers, forced to do things you didn’t want.
-        โครเมอร์: ซินแคร์ นายเองก็หวาดกลัวมาโดยตลอดเลยไม่ใช่เหรอ? ตั้งแต่ที่นายสูญเสียครอบครัวของตัวเองไป และนายก็เลยต้องนั่งรถบัสกับพวกคนแปลกหน้าพวกนั่น โดนบังคังนู่นบังคับนี้ให้ต้องทำในสิ่งที่นายไม่ชอบ
+        โครเมอร์: ซินแคร์ นายเองก็หวาดกลัวมาโดยตลอดเลยไม่ใช่เหรอ? ตั้งแต่ที่นายสูญเสียครอบครัวของตัวเองไป และทำให้นายก็ต้องร่อนเร่นั่งรถบัสกับพวกคนแปลกหน้าพวกนั่น โดนบังคังนู่นบังคับนี้ให้ต้องทำในสิ่งที่นายไม่ชอบ
         ```
         ```
         Kromer: You knew in your heart that you didn’t belong there, right?
-        โครเมอร์: นายรู้อยู่แก่ใจของนายอยู่แล้ว ว่าตัวเองไม่ได้ส่วนหนึ่งกับพวกเขาตั้งแต่แรกอยู่แล้ว? 
+        โครเมอร์: นายรู้อยู่แก่ใจลึก ๆ ของนายอยู่แล้ว ว่าตัวเองไม่ได้เป็นส่วนหนึ่งกับพวกเขาตั้งแต่แรก? 
         ```
         ```
         Kromer: Didn’t you want to run? Didn’t you want to quit it all? Am I wrong?
@@ -10758,7 +10758,7 @@
 
         ```
         Sinclair: I swear, I…
-        ซินแคร์: ฉันสาบานว่าผม...
+        ซินแคร์: ผมสาบานว่าผม...
         ```
 
         ---
@@ -10767,7 +10767,7 @@
 
         ```
         Kromer: Join me, Sinclair! Don’t avoid this, embrace it! Complete my grudge!
-        โครเมอร์: มาร่วมกับฉันสิ ซินแคร์! อย่าพยายามหลีกหนีเลย จงโอบกอดมัน! และเติมเต็มความปราถณาของฉันเสีย!
+        โครเมอร์: มาร่วมกับฉันสิ ซินแคร์! อย่าพยายามหลีกหนีอีกเลย จงโอบกอดมัน! และเติมเต็มความปราถณาของฉันเสีย!
         ```
 
         ---
@@ -10782,7 +10782,7 @@
             ```
             ```
             He nevertheless continues in Kromer’s direction.
-            แต่ถึงอย่างนั้น เขาก็ไม่ล้มเลิกที่จะพุ่งตรงเข้าไปยังทิศทางของโครเมอร์
+            แต่ถึงอย่างนั้น เขาก็ไม่ล้มเลิกที่จะพุ่งตรงเข้าไปยังทิศทางที่โครเมอร์ยืนอยู่
             ```
 
         ---
@@ -10791,11 +10791,11 @@
 
         ```
         Kromer: You must accept the pain! Only when we have transcended suffering itself can we be reborn!
-        โครเมอร์: นายต้องยอมรับความเจ็บปวด! เมื่อยามที่เราก้าวข้ามความทรมาณแล้วเท่านั่นที่เราจะเกิดใหม่! 
+        โครเมอร์: นายต้องยอมรับความเจ็บปวด! เมื่อยามที่เราก้าวผ่านความทรมาณแล้วเท่านั่นที่เราจะเกิดใหม่! 
         ```
         ```
         Kromer: Bloat the flesh, spill the blood! Adding on the most human things each second!
-        โครเมอร์: จงพองเนื้อหนังมังสา ละเลงเลือดไปให้ทั่ว! แล้วสรรค์สร้างเพิ่มสิ่งที่เป็นมนุษย์เข้าไปอีกในทุกช่วงวินาทีที่หายใจ!
+        โครเมอร์: จงพองเนื้อหนังมังสา ละเลงเลือดไปให้ทั่ว! แล้วสรรค์สร้างเพิ่มสิ่งที่เป็นมนุษย์เข้าไปอีกในทุกช่วงเสี้ยววิที่หายใจ!
         ```
         ```
         Kromer: To the purest world where the impurities plaguing the city of all folks have been filtered out!
@@ -10820,11 +10820,11 @@
 
             ```
             Sinclair vacantly mutters, looking at the faces of his now dead fellow Sinners.
-            ซินแคร์พึมพรำอย่างเหม่อลอย พลางมองไปยังใบหน้าของเหล่าสหายคนบาปที่ล้มตาย 
+            ซินแคร์พึมพรำอย่างเหม่อลอย พลางมองไปยังใบหน้าของเหล่าสหายคนบาปที่ล้มตาย
             ```
             ```
             I couldn’t leave him like this.
-            ผมจะปล่อยให้เขาเป็นแบบนี้ไม่ได้
+            ผมจะปล่อยให้เขาเป็นแบบนี้ต่อไปไม่ได้
             ```
 
         ---
@@ -10842,12 +10842,12 @@
             ```
             ```
             Act like the manager I am.
-            มันถึงเวลาที่ฉันต้องทำตัวให้สมกับเป็นผู้จัดการแล้ว
+            มันถึงเวลาแล้วที่ฉันต้องทำตัวให้สมกับเป็นผู้จัดการ
             ```
 
         ```
         Dante: <I know you think a lot! I know there’s a lot going on in your head that you can’t share with others!>
-        ดันเต้: <ฉันรู้ว่านายกำลังคิดมาก! ฉันรู้ว่ามันมีหลายสิ่งในหัวนายที่ไม่อาจแบ่งปันกับคนอื่นได้!>
+        ดันเต้: <ฉันรู้ว่านายกำลังคิดมาก! ฉันรู้ว่ามันมีหลายสิ่งหลายอย่างในหัวนายที่ไม่อาจแบ่งปันให้คนอื่นได้!>
         ```
         
         * เสียงในหัว
@@ -10858,7 +10858,7 @@
             ```
             ```
             Worried that he might be a burden, he constantly put his mind through doubts and ruminations, most of which he never let on about.
-            กังวลว่าตัวเองจะถูกฝังกลบ ตลอดมาเขาก็เลยเอาแต่จูงความคิดตัวเองผ่านความสงสัย และครุ่นคิด ที่ส่วนมากเขาไม่เคยบอกให้เรารู้
+            กังวลว่าตัวเองจะถูกถอดทิ้ง ตลอดมาเขาก็เลยเอาแต่จูงความคิดตัวเองผ่านความสงสัย และครุ่นคิด ที่ส่วนมากเขาไม่เคยบอกให้เรารู้
             ```
             ```
             He’s chewed up many a thought in the form of guilt.
@@ -10871,11 +10871,11 @@
 
         ```
         Sinclair: My family died because of me...
-        ซินแคร์: ทุกคนในครอบครัวต้องมาตายเพราะผม...
+        ซินแคร์: ทุกคนในครอบครัวต้องมาตายทั้งหมดก็เพราะผม...
         ```
         ```
         Sinclair: I said stuff I really shouldn’t have…
-        ซินแคร์: เพียงเพราะผมพูดในสิ่งที่ผมไม่ควร...
+        ซินแคร์: เพียงเพราะผมพูดในสิ่งที่ไม่ควร...
         ```
 
         ---
@@ -10884,11 +10884,11 @@
 
         ```
         Kromer: Exactly! It’s all your fault—so embrace it! That’s the way to become wholly reborn!
-        โครเมอร์: ใช่แล้ว! มันเป็นความผิดทั้งหมดของนาย—เพราะงั้นจงโอบกอดมัน! นั่นคือทางที่เราจะจุติใหม่โดยสมบูรณ์!
+        โครเมอร์: ใช่แล้ว! มันเป็นความผิดทั้งหมดของนาย—เพราะงั้นจงโอบกอดมัน! นั่นคือทางที่เราจะจุติใหม่ได้โดยสมบูรณ์!
         ```
         ```
         Kromer: Follow me… and rest in my grip!
-        โครเมอร์: ตามฉันมา... และพักกายในอ้อมอกของฉัน!
+        โครเมอร์: จงตามฉันมา... และพักกายในอ้อมอกฉัน!
         ```
 
         ---
@@ -10904,15 +10904,16 @@
         ดันเต้: <นายจะต้องเห็น! มองไปที่เธอ! และสังเกตดูดี ๆ!>
         ```
 
-        ---
-
         * เสียงในหัว
 
             ```
             Alas, my voice didn’t seem to reach him.
+            ชั่งน่าเสียดาย ที่ดูเหมือนว่าเสียงของผมจะไปไม่ถึงเขา
             ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Ah…
@@ -10921,107 +10922,189 @@
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         * เสียงในหัว
 
             ```
             Sinclair’s weapon leaves his hand and lands on the ground.
+            อาวุธของซินแคร์หลุดออกจากมือเขา และล่วงหล่นสู่พื้นดิน
             ```
             ```
             His advance for Kromer has stopped.
+            พร้อมกันกับการเคลื่อนไหวเข้าใส่โครเมอร์ที่หยุดลง
             ```
             ```
             Yep, looks like this is the end for us.
+            เยี่ยมเลย ดูเหมือนว่านี้จะเป็นจุดจบของพวกเรา
             ```
             ```
             I can feel my body melting into the mound.
+            ฉันรู้สึกถึงร่างตัวเองที่กำลังละลายหลอมรวมเข้ากับหุบเขา
             ```
             ```
             I knew I’d die trying to play the proper manager sooner or later.
+            ฉันรู้อยู่แล้วว่าสักวันหนึ่งตัวเองจะต้องตายจากการพยายามเล่นบทผู้จัดการผู้เพรียบพร้อมไม่ว่าจะเร็ว หรือช้า
             ```
             ```
             But…
+            แต่ว่า...
             ```
-
-        ---
 
         ```
         Dante: <Sinclair...>
         ดันเต้: <ซินแคร์...>
         ```
 
-        ---
-
         * เสียงในหัว
 
             ```
             I have to tell him more.
+            อย่างน้อย ๆ ฉันก็มีบางอย่างที่ต้องบอกเขาอีก
             ```
             ```
             I have to tell him that Kromer’s spewing a heap of lies, threats, hypocrisy, and exaggeration.
+            ฉันต้องบอกเขาว่าสิ่งที่โครเมอร์กำลังสำรอกออกก็มีแต่คำโกหกเป็นพะเนินกอง อันตราย การแสแสร้ง และคำพูดที่เกินจริง
             ```
             ```
             Every nerve in my body is screaming that I shouldn’t give up on him.
+            ทุกอณูในร่างกายฉันยังเอาแต่ร่ำร้องว่าฉันไม่ควรที่จะยอมแพ้กับเขา
             ```
             ```
             I can feel the burning pain of my melting body…
+            ฉันยังคงรู้สึกถึงความเจ็บปวดของแผลผุพองบนเรือนร่างที่กำลังสลายไป...
             ```
-
-        ---
 
         ```
         Dante: <Look, look closely! Sinclair!>
-        ดันเต้: 
+        ดันเต้: <ดู ดูให้ดีสิ! ซินแคร์!>
         ```
         ```
         Dante: <Not with your eyes, but with your heart!>
-        ดันเต้: 
+        ดันเต้: <ไม่ใช่ด้วยตาของนาย แต่เป็นหัวใจต่างหาก!>
         ```
-
-        ---
 
         * เสียงในหัว
 
             ```
             I screech at Sinclair.
+            ฉันกรีดร้องไปที่ซินแคร์
             ```
-
-        ---
 
         ```
         Dante: <Only then… will you see what matters most.>
-        ดันเต้: 
+        ดันเต้: <และเมื่อถึงตอนนั้น... นายก็จะมองเห็นว่าอะไรสำคัญ>
         ```
 
         ---
+
+        <img src="../images/Demian2.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Demian: Only then… will you see what matters most.
-        เดเมียน: 
+        เดเมียน: และเมื่อถึงตอนนั้น... นายก็จะมองเห็นว่าอะไรสำคัญ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             In that moment…
+            ในตอนนั้นเอง...
             ```
             ```
             Someone quietly appeared.
+            ที่ จู่ ๆ ใครบางคนก็ปรากฎตัวอย่างเงียบ ๆ 
             ```
 
         ---
 
         ```
         Demian: And when you can see the things that matter most…
-        เดเมียน: 
+        เดเมียน: และเมื่อถึงตอนนั้น... นายก็จะมองเห็นว่าอะไรที่สำคัญ...
         ```
         ```
         Demian: You won’t have to stifle yourself with shallow threats or cheap tricks.
-        เดเมียน: 
+        เดเมียน: นายจะไม่จำเป็นต้องเก็บงำความรู้สึกด้วยคำขู่ที่ไร้น้ำหนัก หรือกลอุบายราคาถูกอีก
         ```
         ```
         Demian: …Isn’t that right, Sinclair?
+        เดเมียน: ...ไม่ใช่งั้นเหรอ ซินแคร์?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            He moved with grace and airiness, as though he floated in the air.
+            เขาเคลื่อนไหวไปมาด้วยท่วงท่าที่สง่างาม และเบาหวิว ราวกับว่าเขาลอยอยู่ในอากาศ
+            ```
+            ```
+            He seemed lighter than anyone else, unbound by anything.
+            เขาดูบอบบางกว่าใครทั้งปวง และไร้ซึ่งสิ่งใดมาฉุดรั้ง
+            ```
+            ```
+            Contrary to his impression of freedom from all worldly longings, an oppressive air seemed to accompany every step he took.
+            ผิดกันกับภาพลักษณ์ของเขาที่ชั่งดูอิสระผ่านถ้อยคำพรรณายืดยาวเหล่านั่น อากาศที่ชวนให้รู้สึกกดดันพลันปรากฎในทุกย่างก้าวที่เขาเดิน
+            ```
+            ```
+            And, with just a wave of his right arm…
+            และเพียงแค่เขากวัดแกว่งแขนขวา...
+            ```
+            ```
+            Kromer’s upper body vanished in a clean cut.
+            ท่อนบนของโครเมอร์ก็อันตรธานหายไปในพริบตาเดียว
+            ```
+
+    ---
+
+    * **Episode: 33 | ตอนที่ 33<br>Location: Unending Hill of Corpses | หุบเขาไร้สิ้นสุดแห่งซากศพ**
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: D… Demian…
+        ซินแคร์: ด... เดเมียน...
+        ```
+
+        ---
+
+        <img src="../images/Demian2.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Demian: You’ve changed your own fate, Sinclair.
+        เดเมียน: นายได้เปลี่ยนดวงชะตาของตัวเองไปแล้ว ซินแคร์
+        ```
+        ```
+        Demian: Right now, you’re neither a coward nor a hero. But you’ve still yet to let go of your fears completely.
+        เดเมียน: 
+        ```
+        ```
+        Demian: I’ve said it before, haven’t I? “When you fear someone…”
+        เดเมียน: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: “That’s because… you gave them the power to have control over you…”
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Demian: That’s right. And I… don’t want anyone else to domineer over you.
+        เดเมียน: 
+        ```
+        ```
+        Demian: Which is why I got rid of that Kromer.
         เดเมียน: 
         ```
 
@@ -11030,28 +11113,548 @@
         * เสียงในหัว
 
             ```
-            He moved with grace and airiness, as though he floated in the air.
-            ```
-            ```
-            He seemed lighter than anyone else, unbound by anything.
-            ```
-            ```
-            Contrary to his impression of freedom from all worldly longings, an oppressive air seemed to accompany every step he took.
-            ```
-            ```
-            And, with just a wave of his right arm…
-            ```
-            ```
-            Kromer’s upper body vanished in a clean cut.
+            The man referred to as Demian then started to walk. He took airy steps as though he were embarking on a light trip.
             ```
 
-    ---
-
-    * **Episode: 33 | ตอนที่ 33<br>Location: Unending Hill of Corpses | หุบเขาไร้สิ้นสุดแห่งซากศพ**
+        ---
 
         ```
+        Demian: The world is about to head for a new birth. And, only a few individuals can get there.
+        เดเมียน: 
+        ```
+        ```
+        Demian: Sinclair, you’re one of them.
+        เดเมียน: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Sinclair fainted before he could answer…
+            ```
+            ```
+            Demian slowly made his way over to me.
+            ```
+
+        ---
 
         ```
+        Demian: Kromer… attempted to become a god, like those which people of the past were said to believe in. Sinclair almost became her stepping stone.
+        เดเมียน: 
+        ```
+        ```
+        Demian: In the end, though, one has to break an egg on their own.
+        เดเมียน: 
+        ```
+        ```
+        Demian: Kromer put in quite a bit of effort, doing this and that to create a throwback to the time when Sinclair lost his first coin.
+        เดเมียน: 
+        ```
+        ```
+        Demian: Irregardless of the fact that Christmas is still a while away…
+        เดเมียน: 
+        ```
+        ```
+        Demian: It’s ironic that they resorted to creating false imagery, something they loathed so deeply. Don’t you think so?
+        เดเมียน: 
+        ```
+
+        ---
+
+        ```
+        Dante: <What are you talking about? Who are you?>
+        ดันเต้: 
+        ```
+
+        ---
+
+        ```
+        Demian: A pleasure to meet you, Dante.
+        เดเมียน: 
+        ```
+        ```
+        Demian: So, you’re the adult who will condition Sinclair at the moment.
+        เดเมียน: 
+        ```
+        ```
+        Demian: As for who I am…
+        เดเมียน: 
+        ```
+        ```
+        Demian: And for what I was talking about; you’ll see in due time.
+        เดเมียน: 
+        ```
+
+        ---
+
+        ```
+        Dante: <...?!>
+        ดันเต้: <...?!>
+        ```
+
+        ---
+
+        ```
+        Demian: When Sinclair takes flight with unshakable faith in the power of the heart…
+        เดเมียน: 
+        ```
+        ```
+        Demian: Right. When he becomes one with beautiful stars…
+        เดเมียน: 
+        ```
+        ```
+        Demian: …That is when I’ll return.
+        เดเมียน: 
+        ```
+        ```
+        Demian: Take good care of Sinclair until then, Dante.
+        เดเมียน: 
+        ```
+
+        ---
+
+        ```
+        Dante: <You… You can hear me?>
+        เดเมียน: 
+        ```
+
+        ---
+
+        ```
+        Demian: I can hear all sorts of chirps and trills, Dante. It’s only natural that I hear your voice.
+        เดเมียน: 
+        ```
+        ```
+        Demian: As always…
+        เดเมียน: 
+        ```
+        ```
+        Demian: What matters most is something you can’t see or hear.
+        เดเมียน: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            The boy with a blue scarf vanished without notice…
+            ```
+            ```
+            After that, the mounds began to melt away.
+            ```
+            ```
+            They dissolve into mixtures of flesh and mud.
+            ```
+            ```
+            With them gone, a single Golden Bough appeared before me, spreading its warm light.
+            ```
+            ```
+            Sinclair’s world was gradually melting with the hills.
+            ```
+            ```
+            I excruciatingly drag what’s left of my upper body across the floor to reach Sinclair.
+            ```
+
+        ---
+
+        ```
+        Sinclair: ......
+        ซินแคร์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            He was still breathing.
+            ```
+            ```
+            And so was I; I figured I should still be able to turn the clock.
+            ```
+            ```
+            Thus, that means I’m still their manager, and I should act like one.
+            ```
+            ```
+            Plus, as I learned in my dying moments…
+            ```
+            ```
+            I have to strive to become a more sensible manager.
+            ```
+            ```
+            With all that, I need to tell him…
+            ```
+
+        ---
+
+        ```
+        Dante: <It might have been your fault, Sinclair.>
+        ดันเตั: 
+        ```
+        ```
+        Dante: <But that’s okay, really… It’s one small mistake—one anyone could make.>
+        ดันเต้: 
+        ```
+        ```
+        Dante: <Don’t beat yourself up so much about it.>
+        ดันเตั: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            I pat him on the back with my half-melted right arm.
+            ```
+            ```
+            Sinclair doesn’t reply.
+            ```
+            ```
+            To be truthful, trying to identify someone to blame all this on would be a never-ending endeavor.
+            ```
+            ```
+            From each of us going and carrying our sins onto the bus.
+            ```
+            ```
+            To my loss of head and memory, accompanied by an involuntary appointment as the executive manager.
+            ```
+            ```
+            …At the root of all this, I might find no one but myself to blame.
+            ```
+            ```
+            Staying bound by that fact, though, will only keep us from taking our next steps.
+            ```
+
+        ---
+        
+        ```
+        ???: …We found ‘em!
+        บุคคลปริศนา: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            I can hear multiple footsteps approaching our horribly incapacitated team.
+            ```
+            ```
+            …Vergilius must’ve figured we’d get into a mess and called the After Team to scoop us off the ground.
+            ```
+
+        ---
+
+        ```
+        ???: The others can be revived as long as this one lives. Focus all resources on restoring their body.
+        บุคคลปริศนา: 
+        ```
+        ```
+        ???: The others can be revived as long as this one lives. Focus all resources on restoring their body.
+        บุคคลปริศนา: 
+        ```
+
+        ---
+
+        ```
+        Dante: <Hrk…?!>
+        ดันเต้: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            I felt a jab in my shoulder, and then a strange sensation enveloped the parts of my body that had melted off.
+            ```
+
+        ---
+
+        ```
+        ???: We were provided three HP ampules. Do I use all three on them?
+        บุคคลปริศนา: 
+        ```
+        ```
+        ???: Keep an eye on the regeneration progress and use them at your discretion.
+        บุคคลปริศนา: 
+        ```
+        ```
+        ???: Lucky straphangers… They’re rolling in luxury thanks to having a Color on their team—one with a friend in K Corp at that, too…
+        บุคคลปริศนา: 
+        ```
+        ```
+        ???: …ction …firmed. Addi…
+        บุคคลปริศนา: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            The voices around me start to fade.
+            ```
+            ```
+            Sinclair’s bawling lamentation dimly rings through the emptiness.
+            ```
+            ```
+            Our third mission marked its sober end in dismal defeat.
+            ```
+
+        ---
+
+        **Location: Abroad Mephistopheles | บนรถเมฟิสโตเฟเลส**
+
+        ---
+
+        * เสียงในหัว
+        
+            ```
+            Even though we recovered the Golden Bough, we lost.
+            ```
+            ```
+            On the other hand, the bus was more vibrant than usual, possibly out of everyone’s attempts to disregard the depressing outcome.
+            ```
+
+        ---
+
+        ```
+        Vergilius: I bought enough chicken kebabs for all of you to have one, so if anyone didn’t get theirs, go and put your detective caps on by yourselves.
+        วอร์จิลิอุส: 
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Such curious cuisine. What is the intention of skewering chicken meat with a stick?
+        ฮงหลู่: 
+        ```
+
+        ---
+
+        ```
+        Yi Sang: I may be familiar with this kind of dish… a kkochi of the dak variety.
+        ยี่ซัง: 
+        ```
+
+        ---
+
+        ```
+        Charon: A sweet smell. The kind Mephi likes.
+        ชารอน: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Stimulated, Charon revved the engine.
+            ```
+            ```
+            Charon was humming another familiar tune. I could recognize the song this time.
+            ```
+
+        ---
+
+        ```
+        Gregor: Charon, isn’t Christmas still a long ways off?
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Charon: Don’t put a damper on Charon’s fun, Bug Guy.
+        ชารอน: 
+        ```
+        ```
+        Charon: If Charon feels like it’s Christmas, then that’s that.
+        ชารอน: 
+        ```
+
+        ---
+
+        ```
+        Gregor: Bu— C’mon, I called you by your name for once!
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Rodion: Well, why don’tcha settle the score by giving her a “bus girlie” then~ Y’know, tit-for-tat and all that?
+        โรเดียน: 
+        ```
+
+        ---
+
+        ```
+        Gregor: Grr...
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Vergilius: ......
+        วอร์จิลิอุส: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Vergilius was watching the scene unfold, leaving his food to cool and hardly taking a bite even though he was the one who bought it all.
+            ```
+            ```
+            Perhaps he’s gone quiet because of Charon’s song.
+            ```
+            ```
+            It does come to mind that he said she was going through a tunnel.
+            ```
+            ``
+            And then…
+            ```
+            ```
+            I turned my gaze to Sinclair, who was awkwardly laughing amongst the other Sinners.
+            ```
+
+        ---
+
+        ```
+        Dante: <If we’re going through a long tunnel…>
+        ดันเต้: 
+        ```
+        ```
+        Dante: <Then what we do is wait for the morning to arrive, right?>
+        ดันเต้: 
+        ```
+
+        ---
+
+        ```
+        Vergilius: ......
+        วอร์จิลิอุส: 
+        ```
+
+        ---
+
+        ```
+        Rodion: Ahahaha! What was that about, Dante? Drop the goofy poetry and have a kebab! C’mon! Say aah~
+        โรเดียน: 
+        ```
+
+        ---
+
+        ```
+        Meursault: Our manager has no mouth.
+        เมอร์โซลท์: 
+        ```
+
+        ---
+
+        ```
+        Outis:  The executive manager has no need for a mouth as they’re perfectly capable of commanding us without a word. Do keep that in mind.
+        เอาทิส: 
+        ```
+
+        ---
+
+        ```
+        Ishmael: Golly… Don’t you ever get tired of licking their boot so clean, Outis?
+        อิชมาเอล: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Oi! …Got more of this scran? It’s peak.
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Heyo, BG. Gimme a light.
+        เรียวชู: 
+        ```
+
+        ---
+
+        ```
+        Gregor: …Thought I wouldn’t know what that’s short for?
+        เกรกอร์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            I thought about giving a speech to the Sinners about how this fruitful yet unsuccessful mission changed my mindset…
+            ```
+            ```
+            But I soon shelved the idea.
+            ```
+            ```
+            I told Sinclair to not let a failure of the moment bind him, after all.
+            ```
+            ```
+            Instead, I’ve resolved to make up for this less than ideal outcome on our next mission.
+            ```
+
+        ---
+
+        ```
+        Don Quixote: May I… have thine attention, Red— I mean, Sir Vergilius.
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Vergilius: What.
+        วอร์จิลิอุส: 
+        ```
+
+        ---
+
+        ```
+        Don Quixote: I do believe I have acted with sufficient caution as you so hath warned…
+        ดอน กิโฆเต้: 
+        ```
+        ```
+        Don Quixote: Thusly… if I may, would you allow me to lay claim upon a skewer?
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Vergilius: …Go right ahead.
+        วอร์จิลิอุส: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            As Don Quixote’s excited jubilation adds a layer of vigor to the already lively bus…
+            ```
+            ```
+            The message I couldn’t speak—but one I’m sure has been conveyed in one way or another—spreads between us.
+            ```
+            ```
+            …And so the morning came.
+            ```
 ---
 
 ### เพิ่มเติม

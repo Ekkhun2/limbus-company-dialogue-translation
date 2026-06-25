@@ -10110,9 +10110,11 @@
 
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
+        ```
         Sinclair: Pieces of metal, flesh, and blood fly into the air before hitting the floor.
         ซินแคร์: แผ่นโลหะ ชิ้นเนื้อ และหยดเลือดลอยกระเด็นไปในอากาศ ก่อนที่จะร่วงหล่นเจิ่งนองเต็มพื้น
-
+        ```
+        
         ---
 
         <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
@@ -11022,6 +11024,8 @@
 
         ---
 
+        <img src="../images/Demian2.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Demian: And when you can see the things that matter most…
         เดเมียน: และเมื่อถึงตอนนั้น... นายก็จะมองเห็นว่าอะไรที่สำคัญ...
@@ -11066,7 +11070,7 @@
 
     * **Episode: 33 | ตอนที่ 33<br>Location: Unending Hill of Corpses | หุบเขาไร้สิ้นสุดแห่งซากศพ**
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: D… Demian…

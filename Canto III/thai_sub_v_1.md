@@ -9720,7 +9720,7 @@
         ซินแคร์: ปล่อยให้โครเมอร์มัวลุ่มหลงไปคนเดียว ผมเลือกที่จะคลานกลับเพื่อออกไป
         ```
         ```
-        Sinclair: Why is my basement connected to such a horrid place?
+        Sinclair: “ Why is my basement connected to such a horrid place? ”
         ซินแคร์: ทำไมห้องใต้ดินของผมถึงเชื่อมกับสถานที่ที่น่าสยดสยองนั่นได้?
         ```
         ```
@@ -10768,7 +10768,7 @@
         <img src="../images/CromerMonster.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: Join me, Sinclair! Don’t avoid this, embrace it! Complete my grudge!
+        Kromer:     
         โครเมอร์: มาร่วมกับฉันสิ ซินแคร์! อย่าพยายามหลีกหนีอีกเลย จงโอบกอดมัน! และเติมเต็มความปราถณาของฉันเสีย!
         ```
 
@@ -11051,7 +11051,7 @@
             ```
             ```
             He seemed lighter than anyone else, unbound by anything.
-            เขาดูบอบบางกว่าใครทั้งปวง และไร้ซึ่งสิ่งใดมาฉุดรั้ง
+            เขาดูเบาบางกว่าใครทั้งปวง และไร้ซึ่งสิ่งใดมาฉุดรั้ง
             ```
             ```
             Contrary to his impression of freedom from all worldly longings, an oppressive air seemed to accompany every step he took.
@@ -11087,111 +11087,132 @@
         ```
         ```
         Demian: Right now, you’re neither a coward nor a hero. But you’ve still yet to let go of your fears completely.
-        เดเมียน: 
+        เดเมียน: ตอนนี้ นายไม่ใช่คนขี้ขลาด หรือฮีโร่ แต่นายก็ยังสามารถปล่อยวางความกลัวของตัวเองจนหมดสิ้น
         ```
         ```
         Demian: I’ve said it before, haven’t I? “When you fear someone…”
-        เดเมียน: 
+        เดเมียน: ผมเคยพูดไว้ก่อนหน้านี้ใช่ไหม? ว่า “เมื่อนายกลัวใครสักคน...”
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: “That’s because… you gave them the power to have control over you…”
-        ซินแคร์: 
+        ซินแคร์: “นั่นเป็นเพราะว่า... นายยอมให้พวกเขาควบคุมนายได้...”
         ```
 
         ---
+
+        <img src="../images/Demian2.png" alt="Demian2" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Demian: That’s right. And I… don’t want anyone else to domineer over you.
-        เดเมียน: 
+        เดเมียน: ถูกต้องแล้วล่ะ และผม... ก็ไม่อยากให้ใครก็ตามมากดขี่นาย
         ```
         ```
         Demian: Which is why I got rid of that Kromer.
-        เดเมียน: 
+        เดเมียน: นั่นคือสาเหตุว่าทำไมผมถึงจัดการเจ้าโครเมอร์นั่น
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             The man referred to as Demian then started to walk. He took airy steps as though he were embarking on a light trip.
+            ก่อนที่เด็กหนุ่มผู้ถูกเรียกขานว่าเดเมียนจะเริ่มเดินออกไป เขาก้าวเท้าอันแสนเบาหวิวราวกับว่าตัวเองกำลังจะออกเดินทางอย่างไร้ห่วง
             ```
 
         ---
 
+        <img src="../images/Demian2.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Demian: The world is about to head for a new birth. And, only a few individuals can get there.
-        เดเมียน: 
+        เดเมียน: โลกใบนี้กำลังมุ่งหน้าไปสู่การกำเนิดใหม่ และมีเพียงแค่ไม่กี่คนที่จะไปถึงที่นั่นได้
         ```
         ```
         Demian: Sinclair, you’re one of them.
-        เดเมียน: 
+        เดเมียน: ซินแคร์ นายคือหนึ่งในนั่น
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Sinclair fainted before he could answer…
+            ซินแคร์หมดสติไปก่อนที่เขาจะได้ตอบ...
             ```
             ```
             Demian slowly made his way over to me.
+            แล้วเดเมียนก็ค่อย ๆ เดินมาหาผม 
             ```
 
         ---
 
+        <img src="../images/Demian2.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Demian: Kromer… attempted to become a god, like those which people of the past were said to believe in. Sinclair almost became her stepping stone.
-        เดเมียน: 
+        เดเมียน: โครเมอร์... พยายามที่จะเป็นพระเจ้า เหมือนเหล่าผู้คนในอดีตที่ถูกพร่ำบอกให้เชื่อมั่น ซินแคร์เองก็เกือบที่จะกลายเป็นบรรไดให้เธอปืน
         ```
         ```
         Demian: In the end, though, one has to break an egg on their own.
-        เดเมียน: 
+        เดเมียน: แต่ในท้ายที่สุด ทุกคนก็ต้องก้าวข้ามเปลือกไข่ที่หุ้มไว้ของตัวเอง
         ```
         ```
         Demian: Kromer put in quite a bit of effort, doing this and that to create a throwback to the time when Sinclair lost his first coin.
-        เดเมียน: 
+        เดเมียน: โครเมอร์เองก็พยายามไม่น้อยเลยที่ลงมือทำนู่นทำนี้เพื่อหวนรำลึกถึงอดีตในตอนที่ซินแคร์เสียเหรียญแรกของเขาไป
         ```
         ```
         Demian: Irregardless of the fact that Christmas is still a while away…
-        เดเมียน: 
+        เดเมียน: ถ้าไม่นับเรื่องที่กว่าคริสมาสต์จะมาก็ต้องใช้เวลาอีกนานโขล่ะก็นะ...
         ```
         ```
         Demian: It’s ironic that they resorted to creating false imagery, something they loathed so deeply. Don’t you think so?
-        เดเมียน: 
+        เดเมียน: มันช่างน่าย้อนแย้งที่พวกเขาหันไปพึ่งภาพจินตนาการจอมปลอม สิ่งที่พวกเขาเกลียดจนเข้ากระดูกดำ คุณคิดเหมือนกันรึเปล่า?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <What are you talking about? Who are you?>
-        ดันเต้: 
+        ดันเต้: <นายกำลังพูดถึงเรื่องอะไร? นายเป็นใครกันแน่?>
         ```
 
         ---
+
+        <img src="../images/Demian2.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Demian: A pleasure to meet you, Dante.
-        เดเมียน: 
+        เดเมียน: ยินดีที่ได้รู้จักครับ คุณดันเต้
         ```
         ```
         Demian: So, you’re the adult who will condition Sinclair at the moment.
-        เดเมียน: 
+        เดเมียน: คุณเองคงเป็นผู้ใหญ่ที่จะสั่งสอนซินแคร์ในตอนนี้
         ```
         ```
         Demian: As for who I am…
-        เดเมียน: 
+        เดเมียน: ส่วนคำถามที่ว่าตัวผมเป็นใคร...
         ```
         ```
         Demian: And for what I was talking about; you’ll see in due time.
-        เดเมียน: 
+        เดเมียน: และสิ่งใดที่ผมกำลังพูดถึง; อีกไม่นานเกินรอเดี๋ยวคุณก็รู้เองครับ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <...?!>
@@ -11200,214 +11221,272 @@
 
         ---
 
+        <img src="../images/Demian2.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Demian: When Sinclair takes flight with unshakable faith in the power of the heart…
-        เดเมียน: 
+        เดเมียน: เมื่อถึงยามที่ซินแคร์สามารถโผบินออกจากรังด้วยปีกที่เปี่ยมไปด้วยศรัทธาอันยิดมั่นในพลังแห่งหัวใจ...
         ```
         ```
         Demian: Right. When he becomes one with beautiful stars…
-        เดเมียน: 
+        เดเมียน: เมื่อนั้นเองที่เขาจะกลายเป็นส่วนหนึ่งกับบรรดาดวงดาวบนฟากฟ้าที่สวยงาม...
         ```
         ```
         Demian: …That is when I’ll return.
-        เดเมียน: 
+        เดเมียน: ...และผมจะกลับมาเมื่อถึงตอนนั้น
         ```
         ```
         Demian: Take good care of Sinclair until then, Dante.
-        เดเมียน: 
+        เดเมียน: เพราะงั้นจนกว่าจะถึงตอนนั้น ได้โปรดช่วยดูแลซินแคร์แทนผมด้วยนะครับ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <You… You can hear me?>
-        เดเมียน: 
+        เดเมียน: <นาย... นายได้ยินฉันด้วยเหรอ?>
         ```
 
         ---
+
+        <img src="../images/Demian2.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Demian: I can hear all sorts of chirps and trills, Dante. It’s only natural that I hear your voice.
-        เดเมียน: 
+        เดเมียน: ผมได้ยินทุกสรรพเสียงเรไรของนกที่ขับขาน และเสียงใสรัวเป็นท่วงทำนองจังหวะที่คอยพูดบางอย่างกับผมน่ะ ดันเต้ เพราะงั้น มันเป็นเรื่องปกติที่ผมจะได้ยินเสียงคุณ
         ```
         ```
         Demian: As always…
-        เดเมียน: 
+        เดเมียน: เหมือนที่พูดตลอดมา...
         ```
         ```
         Demian: What matters most is something you can’t see or hear.
-        เดเมียน: 
+        เดเมียน: ว่าสิ่งสำคัญที่สุดคือบางอย่างที่คุณมิอาจมองเห็น หรือได้ยิน
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             The boy with a blue scarf vanished without notice…
+            เด็กชายในผ้าพันคอสีน้ำเงินหายตัวไปอย่างไร้วี่แวว...
             ```
             ```
             After that, the mounds began to melt away.
+            หลังจากนั้นไม่นาน เนินซากศพที่เหลืออยู่ก็เริ่มที่จะละลายหาย
             ```
             ```
             They dissolve into mixtures of flesh and mud.
+            พวกมันสูญสลายแล้วรวมเป็นก้อนเดียนของเนื้อหนัง และโคลนตม
             ```
             ```
             With them gone, a single Golden Bough appeared before me, spreading its warm light.
+            พอพวกมันหายไป กิ่งทองท่อนหนึ่งก็ปรากฎตัวที่เบื้องหน้าฉันพร้อมกันกับเรืองอุ่นที่แพร่ออกมาจากตัวมัน
             ```
             ```
             Sinclair’s world was gradually melting with the hills.
+            ในขณะที่โลกของซินแคร์กำลังค่อย ๆ เรือนหายไปพร้อมกับเนินซากศพ
             ```
             ```
             I excruciatingly drag what’s left of my upper body across the floor to reach Sinclair.
+            ฉันกลับต้องพยายามอย่างแสนสาหัสกับการลากเศษครึ่งบนที่เหลืออยู่ของตัวเองแนบพื้นไปเพื่อเข้าใกล้ซินแคร์ทีละน้อย
             ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: ......
-        ซินแคร์: 
+        ซินแคร์: ......
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             He was still breathing.
+            เขายังคงหายใจอยู่
             ```
             ```
             And so was I; I figured I should still be able to turn the clock.
+            และฉันเองก็เหมือนกัน; ฉันรู้ตัวดีว่าตัวเองน่าจะยังพอที่จะสามารถหมุนนาฬิกากลับ 
             ```
             ```
             Thus, that means I’m still their manager, and I should act like one.
+            เพราะไม่ว่ายังไง ฉันก็ยังเป็นผู้จัดการของพวกเขา และฉันก็ควรที่จะทำตัวให้สมกับที่เป็น
             ```
             ```
             Plus, as I learned in my dying moments…
+            อีกอย่าง สิ่งหนึ่งที่ฉันได้เรียนรู้ในห้วงวาระสุดท้ายของชีวิต...
             ```
             ```
             I have to strive to become a more sensible manager.
+            ก็คือ การที่ฉันต้องพยายามอย่างเต็มที่ให้มากกว่านี้มากกว่านี้ให้ได้ ถ้าหากฉันยังต้องการที่จะเป็นผู้จัดการที่ฉลาดหลักแหลม แลมีหัวใจ
             ```
             ```
             With all that, I need to tell him…
+            เพราะงั้นเอง ฉันถึงต้องบอกเขาให้ได้ว่า...
             ```
-
-        ---
 
         ```
         Dante: <It might have been your fault, Sinclair.>
-        ดันเตั: 
+        ดันเตั: <มันอาจจะเป็นความผิดของนายก็จริงอยู่ ซินแคร์>
         ```
         ```
         Dante: <But that’s okay, really… It’s one small mistake—one anyone could make.>
-        ดันเต้: 
+        ดันเต้: <แต่นั้นก็ไม่เป็นไร จริง ๆ... มันก็เป็นแค่ความผิดพลาดจิ๊บจ๊อยที่ไม่ว่าจะใครก็เกิดขึ้นได้>
         ```
         ```
         Dante: <Don’t beat yourself up so much about it.>
-        ดันเตั: 
+        ดันเตั: <เพราะงั้น ก็จงอย่าโทษตัวเองกับมันนักเลย>
         ```
-
-        ---
 
         * เสียงในหัว
 
             ```
             I pat him on the back with my half-melted right arm.
+            ผมลูบเขาบนแผ่นหลังด้วยแขนขวาที่ละลายไปแล้วครึ่งหนึ่ง
             ```
             ```
             Sinclair doesn’t reply.
+            โดยที่ซินแคร์ไม่ได้ตอบกลับ
             ```
             ```
             To be truthful, trying to identify someone to blame all this on would be a never-ending endeavor.
+            ให้พูดตรง ๆ การพยายามที่จะหาใครสักคนเพือโบ้ยเรื่องทั้งหมดนี้คงเป็นประเด็นถงเถียงที่ ไม่จบไม่สิ้น/ไม่มีวันจบสิ้น
             ```
             ```
             From each of us going and carrying our sins onto the bus.
+            จากจุดเริ่มต้นที่พวกเรามุ่งหน้าออก ก่อนจะมาบรรจบกัน ณ ปลายทางสถานที่พวกเราต่างแบกรับบาปของตัวเองขึ้นมาบนรถบัส
             ```
             ```
             To my loss of head and memory, accompanied by an involuntary appointment as the executive manager.
+            จนถึงในตอนที่ฉันสูญเสียหัว และความทรงจำ และต้องทำงานอย่างไม่สมัครใจในฐานะของผู้จัดการระดับสูง
             ```
             ```
             …At the root of all this, I might find no one but myself to blame.
+            ...พอลองมาย้อนดูที่ต้นตอของเรื่องทั้งหมดนี้ ฉันก็คงโทษใครไม่ได้นอกจากตัวเอง
             ```
             ```
             Staying bound by that fact, though, will only keep us from taking our next steps.
+            อย่างไรก็ตาม การที่ต้องยึดติดอยู่กับความจริงนั่นไปตลอด ก็รังแต่จะฉุดรั้งพวกเราไม่ให้ก้าวเดินต่อไป
             ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
         
         ```
         ???: …We found ‘em!
-        บุคคลปริศนา: 
+        บุคคลปริศนา: ...เราเจอพวกเขาแล้ว!
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             I can hear multiple footsteps approaching our horribly incapacitated team.
+            ฉันได้ยินเสียงเท้าหลาย ข้าง/คู่ กำลังเข้าประชิดทีมของพวกเราที่ร่างขาดเป็นชิ้น ๆ อย่างสยดสยอง
             ```
             ```
             …Vergilius must’ve figured we’d get into a mess and called the After Team to scoop us off the ground.
+            ...วอร์จิลิอุสคงรู้ตัวว่าพวกเราต้องเจอเข้ากับปัญหาใหญ่ เลยเรียกทีมเก็บกวาดมาเพื่อเก็บกู้ร่างของพวกเราที่นอนกองอยู่บนพื้น
             ```
 
         ---
 
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        ???: The others can be revived as long as this one lives. Focus all resources on restoring their body.
-        บุคคลปริศนา: 
-        ```
-        ```
-        ???: The others can be revived as long as this one lives. Focus all resources on restoring their body.
-        บุคคลปริศนา: 
+        ???: This looks like the individual we seek. Do I inject it now?
+        บุคคลปริศนา 1: ดูเหมือนว่านี้จะเป็นคนที่เราตามหาอยู่นะครับ ผมต้องฉีดเลยไหม?
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: The others can be revived as long as this one lives. Focus all resources on restoring their body.
+        บุคคลปริศนา 2: เดี๋ยวคนอื่น ๆ ก็ถูกชุบกลับมาตราบใดที่ไอเจ้านี้ยังมีชีวิตอยู่ ให้ ความสนใจ/โฟกัส ใช้ทรัพยากรทั้งหมดไปกับการรักษาสภาพร่างกายของมันซะ 
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <Hrk…?!>
-        ดันเต้: 
+        ดันเต้: <เฮือก...?!>
         ```
-
-        ---
 
         * เสียงในหัว
 
             ```
             I felt a jab in my shoulder, and then a strange sensation enveloped the parts of my body that had melted off.
+            ฉันรู้สึกเหมือนมีอะไรทิ่มเข้าที่ไหล่ และความรู้สึกแปลกประหลาดราวกับว่ามีบางสิ่งที่กำลังห่อหุ้มส่วนของร่างกายฉันที่ถูกละลายไป
             ```
 
         ---
 
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
+
         ```
         ???: We were provided three HP ampules. Do I use all three on them?
-        บุคคลปริศนา: 
-        ```
-        ```
-        ???: Keep an eye on the regeneration progress and use them at your discretion.
-        บุคคลปริศนา: 
-        ```
-        ```
-        ???: Lucky straphangers… They’re rolling in luxury thanks to having a Color on their team—one with a friend in K Corp at that, too…
-        บุคคลปริศนา: 
-        ```
-        ```
-        ???: …ction …firmed. Addi…
-        บุคคลปริศนา: 
+        บุคคลปริศนา 1: พวกเรามีหลอดเอช-พี แค่สามโดสเท่านั่น จะให้ผมใช้ทั้งสามหลอดกับเขาเลยไหมครับ? 
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: Keep an eye on the regeneration progress and use them at your discretion.
+        บุคคลปริศนา 2: จับตามองกระบวนการรักษาให้ดี และใช้มันตามดุลยพินิจของแกได้เลย
+        ```
+        ```
+        ???: Lucky straphangers… They’re rolling in luxury thanks to having a Color on their team—one with a friend in K Corp at that, too…
+        บุคคลปริศนา 2: ไอพวกผู้โดยสารแสนโชคดีเอ้ย... ที่พวกมันได้ใช้ชีวิตอย่างหรูหร่าหมาเห่า ต้องขอบคุณคัลเลอร์ที่อยู่ในทีมพวกมัน—คนเดียวกับที่เป้นเพื่อนกับคนในเคคอร์ปอีกต่างหาก...
+        ```
+
+        ---
+
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: …ction …firmed. Addi…
+        บุคคลปริศนา 1: ...ยืนยัน ...คำสั่ง จัดการเรียบ...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             The voices around me start to fade.
+            เสียงพูดที่ลอยไปลอยมาอยู่รอบ ๆ ตัวผม เริ่มที่จะเลือนหาย
             ```
             ```
             Sinclair’s bawling lamentation dimly rings through the emptiness.
+            เสียงคร่ำครวญโหยหวนของซินแคร์ดังก้องแผ่วเบาอยู่ท่ามกลางความว่างเปล่า
             ```
             ```
             Our third mission marked its sober end in dismal defeat.
+            ภารกิจที่สามของเราปิดฉากลงอย่างหดหู่ด้วยความพ่ายแพ้อันน่าสังเวช
             ```
 
         ---

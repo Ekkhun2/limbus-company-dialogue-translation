@@ -11478,7 +11478,7 @@
 
             ```
             The voices around me start to fade.
-            เสียงพูดที่ลอยไปลอยมาอยู่รอบ ๆ ตัวผม เริ่มที่จะเลือนหาย
+            เสียงพูดรอบ ๆ ตัวผม เริ่มที่จะเลือนหาย
             ```
             ```
             Sinclair’s bawling lamentation dimly rings through the emptiness.
@@ -11499,244 +11499,310 @@
         
             ```
             Even though we recovered the Golden Bough, we lost.
+            ถึงแม้ว่าเราจะสามารถเก็บกู้กิ่งทองได้สำเร็จ แต่เราก็แพ้อยู่ดี
             ```
             ```
             On the other hand, the bus was more vibrant than usual, possibly out of everyone’s attempts to disregard the depressing outcome.
+            ในทางกลับกัน บัสกลับดูมีชีวิตชีวามากกว่าปกติ คงเป็นความพยายามของทุกคนที่จะเมินเฉยต่อผลลัพธ์อันน่าหดหู่
             ```
 
         ---
 
+        <img src="../images/Vergilius.png" alt="Vergiius" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Vergilius: I bought enough chicken kebabs for all of you to have one, so if anyone didn’t get theirs, go and put your detective caps on by yourselves.
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: ฉันซื้อเคบับไก่มาพอสำหรับพวกแกทุกคนคนละหนึ่งไม้ เพราะงั้นถ้ามีใครที่ไม่ได้ของตัวเอง ก็เชิญสืบหาคนที่เอาไปด้วยตัวเองละกัน
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Such curious cuisine. What is the intention of skewering chicken meat with a stick?
-        ฮงหลู่: 
+        ฮงหลู่: เป็นจานอาหารที่ชวนให้รู้สึกสงสัยใคร่รู้จังเลยนะขอรับ อะไรกันคือจุดประสงค์ของการเสียบเนื้อไก่กับไม้?
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: I may be familiar with this kind of dish… a kkochi of the dak variety.
-        ยี่ซัง: 
+        ยี่ซัง: บางทีผมอาจจะคุ้นเคยกับอาหารประเภทนี้อยู่บ้าง... มันเหมือนกับคกชีแบบที่ทำจากเนื้อไก่
         ```
 
         ---
+
+        <img src="../images/Charon.png" alt="Charon" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Charon: A sweet smell. The kind Mephi likes.
-        ชารอน: 
+        ชารอน: กลิ่นหอมจัง แบบที่เมฟิสชอบ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Stimulated, Charon revved the engine.
+            เมื่อถูกกระตุ้นด้วยกลิ่นหอมที่เย้ายวนใจ ชารอนก็สตาร์ทเครื่องยนต์
             ```
             ```
             Charon was humming another familiar tune. I could recognize the song this time.
+            ก่อนที่เธอจะฮัมทำนองเพลงที่ฟังดูคุ้นหู และรอบนี้ผมก็รู้แล้วว่ามันคือเพลงอะไร
             ```
 
         ---
+    
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Charon, isn’t Christmas still a long ways off?
-        เกรกอร์: 
+        เกรกอร์: ชารอน ไม่ใช่ว่าคริสมาสต์มันยังอีกนานไม่ใช่เหรอ?
         ```
 
         ---
+
+        <img src="../images/Charon.png" alt="Charon" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Charon: Don’t put a damper on Charon’s fun, Bug Guy.
-        ชารอน: 
+        ชารอน: อย่ามาทำให้ชารอนหมดสนุกเส่ เจ้าแมลง
         ```
         ```
         Charon: If Charon feels like it’s Christmas, then that’s that.
-        ชารอน: 
+        ชารอน: ถ้าชารอนรู้สึกว่ามันเป็นวันคริสมาสต์มันก็ต้องเป็น
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Bu— C’mon, I called you by your name for once!
-        เกรกอร์: 
+        เกรกอร์: แมล— ไม่เอาน่า ฉันก็เคยเรียกเธอด้วยชื่อตั้งรอบหนึ่งแล้วไง!
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Well, why don’tcha settle the score by giving her a “bus girlie” then~ Y’know, tit-for-tat and all that?
-        โรเดียน: 
+        โรเดียน: แหม แล้วทำไมนายไม่เอาคืนเธอด้วยการเรียกว่า “หนูน้อยรถบัส” ซะเลยเล่า~ ก็แบบที่เขาเรียกกันไงว่าการตอบโต้แบบตาต่อตาฟันต่อฟัน? 
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Grr...
-        เกรกอร์: 
+        เกรกอร์: เห้อ...
         ```
 
         ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Vergilius: ......
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: ......
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Vergilius was watching the scene unfold, leaving his food to cool and hardly taking a bite even though he was the one who bought it all.
+            วอร์จิลิอุสกำลังเฝ้ามองเหตุการณ์ที่กำลังดำเนินไป ปล่อยให้อาหารตัวเองเย็นชืด ก่อนที่จะเคี้ยวมันอย่างยากลำยาก แม้ว่าเขาจะเป็นคนซื้อทั้งหมดมาก็เถอะ
             ```
             ```
             Perhaps he’s gone quiet because of Charon’s song.
+            หรือไม่ที่เขาเงียบไปก็อาจเป็นเพราะเพลงของชารอน
             ```
             ```
             It does come to mind that he said she was going through a tunnel.
+            แล้วมันก็เข้ามาในหัวฉันเรื่องที่เขาเคยบอกว่าเธอกำลังเดินทางผ่านอุโมงค์
             ```
-            ``
+            ```
             And then…
+            จากนั้น...
             ```
             ```
             I turned my gaze to Sinclair, who was awkwardly laughing amongst the other Sinners.
+            ฉันก็สาดส่องสายตาไปหาซินแคร์ ผู้ที่กำลังหัวเราะอย่างอึดอัดในหมู่คนบาป
             ```
-
-        ---
 
         ```
         Dante: <If we’re going through a long tunnel…>
-        ดันเต้: 
+        ดันเต้: <ถ้าเรากำลังเดินทางผ่านอุโมงค์ที่ทอดยาว...>
         ```
         ```
         Dante: <Then what we do is wait for the morning to arrive, right?>
-        ดันเต้: 
+        ดันเต้: <งั้นสิ่งที่เราต้องทำก็มีแต่รอจนกว่ารุ่งอรุณจะมาถึงใช่ไหม?>
         ```
 
         ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Vergilius: ......
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: ......
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Ahahaha! What was that about, Dante? Drop the goofy poetry and have a kebab! C’mon! Say aah~
-        โรเดียน: 
+        โรเดียน: อาฮ่าฮ่าฮ่า! พูดอะไรของนายน่ะ ดันเต้? ทิ้งกลอนไร้สาระพวกนั่นไป และมากินเคบับซะ! เอ้า อ้าา~  
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: Our manager has no mouth.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: ท่านผู้จัดการของพวกเราไม่มีปากนะครับ
         ```
 
         ---
 
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Outis:  The executive manager has no need for a mouth as they’re perfectly capable of commanding us without a word. Do keep that in mind.
-        เอาทิส: 
+        Outis: The executive manager has no need for a mouth as they’re perfectly capable of commanding us without a word. Do keep that in mind.
+        เอาทิส: ท่านผู้จัดการระดับสูงไม่จำเป็นต้องมีปากเพราะลำพังเพียงตัวเขาก็เกินพอที่จะสั่งการพวกเราได้โดยที่ต้องใช้ถ้อยคำ จำใส่กะลาไว้ด้วยล่ะ
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Golly… Don’t you ever get tired of licking their boot so clean, Outis?
-        อิชมาเอล: 
+        อิชมาเอล: ให้ตายเถอะ... นี้เธอไม่เหนื่อยกับการที่เอาแต่เลียแข้งเลียขาบ้างเลยรึไง เอาทิส?
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Oi! …Got more of this scran? It’s peak.
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: โอ่ย! ...มีไอนี้อีกไหม? แม่งอร่อยชะมัด
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: Heyo, BG. Gimme a light.
-        เรียวชู: 
+        เรียวชู: เฮ้โย้ว บี-จี ส่งไฟหน่อย
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: …Thought I wouldn’t know what that’s short for?
-        เกรกอร์: 
+        เกรกอร์: ...เดาว่าฉันคงไม่อยากรู้แน่ว่านั่นย่อมาจากอะไร?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             I thought about giving a speech to the Sinners about how this fruitful yet unsuccessful mission changed my mindset…
+            ตอนแรกฉันคิดไว้ว่าจะพูดกับเหล่าคนบาปในประเด็นเรื่องภารกิจที่ล้มเลวไม่เป็นท่าแต่สุดท้ายกลับออกดอกออกผลอย่างไม่คาดคิดที่ได้เปลี่ยนความคิดของฉันไป...
             ```
             ```
             But I soon shelved the idea.
+            แต่ไม่นานนักฉันก็เก็บความคิดที่จะทำอย่างนั่นไป
             ```
             ```
             I told Sinclair to not let a failure of the moment bind him, after all.
+            ฉันบอกกับซินแคร์ว่าจงอย่าปล่อยให้ความล้มเหลวเพียงชั่วขณะมาทำให้ตาเขาต้องมืดบอด
             ```
             ```
             Instead, I’ve resolved to make up for this less than ideal outcome on our next mission.
+            แทนที่จะพูดคุยกับพวกเขา ฉันตัดสินใจแล้วว่าจะชดเชยกับ เหตุการณ์ที่ไม่ใกล้เคียงกับคำว่าโชคช่วย/เรื่องไม่เป็นเรื่องที่เกิดขึ้น ในภารกิจครั้งหน้าของเรา
             ```
 
         ---
 
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Don Quixote: May I… have thine attention, Red— I mean, Sir Vergilius.
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ข้าจัก... ขอประทานอภัย ต่อท่านเรด— ข้าหมายถึง ท่านเซอร์วอร์จิลิอุสขอรับ
         ```
 
         ---
+
+       <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Vergilius: What.
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: ว่ามา
         ```
 
         ---
+
+       <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Don Quixote: I do believe I have acted with sufficient caution as you so hath warned…
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: อันตัวข้าเชื่อว่าตนได้กระทำการระวังในพฤติกรรม และแสดงออกอันมิควรที่ท่านเคยตักเตือนข้าอย่างขยันขันแข็ง...
         ```
         ```
         Don Quixote: Thusly… if I may, would you allow me to lay claim upon a skewer?
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ด้วยประการฉะนี้... ท่านจะว่าเช่นไรไหม หากข้าจักขอรับเสบียงอาหารที่ท่านตระเตรียมไว้สักหนึ่งไม้?
         ```
 
         ---
+
+       <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Vergilius: …Go right ahead.
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: ...เชิญเลย
         ```
 
         ---
+
+       <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             As Don Quixote’s excited jubilation adds a layer of vigor to the already lively bus…
+            เพราะท่าทีที่ดูตื่นเต้นดีใจของดอนกิโฆเต้เลยแท้ ๆ ที่สร้างขวัญ และกำลังใจทำให้ที่นี้กลับมาเป็นบัสที่มีชีวิตชีวาอย่างที่เคยเป็น
             ```
             ```
             The message I couldn’t speak—but one I’m sure has been conveyed in one way or another—spreads between us.
+            แม้ข้อความที่ผมต้องการบอกจะไม่อาจสื่อออกไป—แต่ผมมั่นใจว่าต้องมีใครสักคนในหมู่เราที่เข้าใจในแก่นแท้ของสารที่ถูกถ่ายทอดไม่ทางใดก็ทางหนึ่ง—และจะแพร่กระจายสารนั่นออกไปในหมู่พวกเรา
             ```
             ```
             …And so the morning came.
+            ...และแล้วรุ่งอรุณก็มาถึง
             ```
 ---
 

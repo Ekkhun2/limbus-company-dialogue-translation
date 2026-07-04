@@ -53,7 +53,7 @@
         <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: Alas, they have not the privilege to fully appreciate the glee of their own music… Oh, how unjust that is.
+        Vergilius: Alas, they have not the privilege to fully appreciate the glee of their own music... Oh, how unjust that is.
         วอร์จิลิอุส: แต่น่าเสียดาย ที่พวกเขาไม่อาจมีแม้กระทั่งสิทธิ์ ที่จะได้ชื่นชมยินดีปรีดากับเสียงเพลงของตัวเอง... โอ้ ชั่งไม่ยุติธรรมอะไรเยี่ยงนี้
         ```
 
@@ -105,7 +105,7 @@
         วอร์จิลิอุส: งั้นสินะ
         ```
         ```
-        Vergilius: Although…
+        Vergilius: Although...
         วอร์จิลิอุส: แม้ว่า...
         ```
         ```
@@ -141,7 +141,7 @@
             เป็นเฉดสีแบบที่ใครก็คงเลือกทันที หากอยากถ่ายทอด ‘ความโดดเดี่ยว’ ออกมาเป็นสี
             ```
             ```
-            But it only lasted for a brief moment…
+            But it only lasted for a brief moment...
             แต่มันอยู่เพียงชั่วครู่เดียวเท่านั่น...
             ```
             ```
@@ -154,7 +154,7 @@
         <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: …The world Charon hums now is one that lacks sound and color.
+        Vergilius: ...The world Charon hums now is one that lacks sound and color.
         วอร์จิลิอุส: ...โลกที่ชารอนฮัมอยู่ตอนนี้ คือโลกที่ไร้ซึ่งเสียง และสีสัน
         ```
         ```
@@ -169,7 +169,7 @@
         * เสียงในหัว
 
             ```
-            I’m sure that, just like the history of my own life that I’ve forgotten…
+            I’m sure that, just like the history of my own life that I’ve forgotten...
             ผมมั่นใจว่า เรื่องนี้มันก็เหมือนกันกับอดีตของผมที่หายไป...
             ```
             ```
@@ -231,7 +231,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: …I’m starting to get sick of hearing the same story for the seventh time in a row, so let me change the subject: Where are we going this time?
+        Gregor: ...I’m starting to get sick of hearing the same story for the seventh time in a row, so let me change the subject: Where are we going this time?
         เกรกอร์: ...ฉันคิดว่าตัวเองเริ่มไข้ขึ้นจากการต้องฟังเรื่องเดิมเจ็ดรอบรวดแล้ว เพราะงั้นให้ฉันเปลี่ยนเรื่องคุยดีกว่า: ครั้งนี้เราจะไปที่ไหน?
         ```
 
@@ -240,7 +240,7 @@
         <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: This time… we’re headed to K Corp’s Nest.
+        Vergilius: This time... we’re headed to K Corp’s Nest.
         วอร์จิลิอุส: ครั้งนี้... เราจะไปมุ่งหน้าไปที่เนสของเคคอร์ป
         ```
 
@@ -276,7 +276,7 @@
         <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Outis: Huff… Life has gotten much easier these days, hasn’t it? Back in my marching days, all I had was a pinch of salt in my mouth.
+        Outis: Huff... Life has gotten much easier these days, hasn’t it? Back in my marching days, all I had was a pinch of salt in my mouth.
         เอาทิส: เฮ้อ... *.เสียงหายใจแรง* สมัยนี้ คงจะใช้ชีวิตง่ายกว่าสมัยก่อนมากใช่ไหมล่ะ? ในตอนที่ฉันยังสังกัดทหารฝึกหัด เดินสวนสนามอยู่ สิ่งเดียวที่ตกถึงท้องฉัน มีเพียงเกลือหยิบมือเดียวในปากของฉัน
         ```
 
@@ -294,7 +294,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: …C-Can’t wait to try the steak~ Right, Ryōshū?
+        Rodion: ...C-Can’t wait to try the steak~ Right, Ryōshū?
         โรเดียน: ...ช-ชักรอไม่ไว้ที่จะได้ลิ้มรสสเต็กแล้วสิ~ ใช่ไหม เรียวชู? 
         ```
 
@@ -327,7 +327,7 @@
             มองไปรอบ ๆ เพื่อหาใครสักคนที่จะแบ่งปันเรื่องราว และพูดคุยอย่างมีเหตุผล โรดย่าหัวไปหาซินแคร์ด้วยความเคยชิน
             ```
             ```
-            However…
+            However...
             อย่างไรก็ตาม...
             ```
 
@@ -385,7 +385,7 @@
         <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Meursault: …Because you did not order me to do so.
+        Meursault: ...Because you did not order me to do so.
         เมอร์โซลท์: ...เพราะคุณไม่ได้สั่งให้ผมทำแบบนั่น
         ```
 
@@ -405,7 +405,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: I… I just got an upset stomach. Sorry.
+        Sinclair: I... I just got an upset stomach. Sorry.
         ซินแคร์: ผ... ผมแค่ท้องไส้ปั่นป่วน ขอโทษครับ
         ```
 
@@ -414,7 +414,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: Really sure you’re okay…?
+        Rodion: Really sure you’re okay...?
         โรเดียน: นี้แน่ใจเหรอว่าเธอโอเค...?
         ```
 
@@ -423,7 +423,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <Now that I think about it…>
+        Dante: <Now that I think about it...>
         ดันเต้: <ไม่อยากจะคิดแบบนี้หรอก แต่พอมาคิด ๆ ดูแล้ว...>
         ```
         ```
@@ -444,7 +444,7 @@
         <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Faust: …You just referred to the team as “we”.
+        Faust: ...You just referred to the team as “we”.
         เฟาสท์: ...นายพึ่งจะกล่าวถึมถึงทีมว่า “เรา”
         ```
 
@@ -466,7 +466,7 @@
         เฟาสท์: มันเป็นส่วนหนึ่งในภารกิจของฉัน ที่จะตรวจจับความเปลียนแปลงไม่ว่าจะเล็กเพียงใด
         ```
         ```
-        Faust: As for your question, while I can’t tell you the reasons for recruiting the Sinners in detail…
+        Faust: As for your question, while I can’t tell you the reasons for recruiting the Sinners in detail...
         เฟาสท์: สำหรับคำถามของนาย ถึงฉันจะไม่สามารถบอกเหตุผลเบืัองหลังการคัดเลือกคนบาปได้โดยละเอียด...
         ```
         ```
@@ -479,7 +479,7 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff: …Do all uppish snobs have some condition that makes them yap on and on about things that can be answered with a plain yes or no?
+        Heathcliff: ...Do all uppish snobs have some condition that makes them yap on and on about things that can be answered with a plain yes or no?
         ฮิธคลิฟฟ์: ...ไอพวกคนหยิ่งยโสจองหองอย่างเธอเป็นโรคอะไรกันหรือเปล่า ที่ทำให้พวกมันเอาแต่พล่ามโน่นพล่ามนี้อยู่เรื่อย ในคำถามที่ตอบได้ง่าย ๆ ด้วยคำว่า ใช่ หรือ ไม่ น่ะ?
         ```
 
@@ -497,7 +497,7 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff: Hyst… Hysterowhat?
+        Heathcliff: Hyst... Hysterowhat?
         ฮิธคลิฟฟ์: ฮิส... ฮิสเทอรอ อะไรนะ?
         ```
 
@@ -506,7 +506,7 @@
         <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Faust: …It means that you’re struggling to understand Faust because you’re too uneducated, not that Faust is overeducated
+        Faust: ...It means that you’re struggling to understand Faust because you’re too uneducated, not that Faust is overeducated
         เฟาสท์: ...มันหมายความว่า คุณมีปัญหาในการทำความเข้าใจเฟาสท์ เพราะคุณไร้การศึกษาเกินไป และไม่ใช่ที่เฟาสท์หัวสูง
         ```
 
@@ -515,7 +515,7 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff: Why you…!
+        Heathcliff: Why you...!
         ฮิธคลิฟฟ์: หน๋อยแก...!
         ```
 
@@ -524,7 +524,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Euhgk…
+        Sinclair: Euhgk...
         ซินแคร์: อั่ก...
         ```
 
@@ -535,7 +535,7 @@
         * เสียงในหัว
 
             ```
-            Just as Heathcliff approached Faust with his bat shaking in fury…
+            Just as Heathcliff approached Faust with his bat shaking in fury...
             เพียงชั่วขณะที่ฮิธคลิฟฟ์เข้าหาเฟาสท์กับตระบองที่สั่นด้วยโทสะ
             ```
             ```
@@ -556,7 +556,7 @@
         * เสียงในหัว
 
             ```
-            Shortly after the situation with Sinclair was dealt with…
+            Shortly after the situation with Sinclair was dealt with...
             หลังเหตุการณ์ที่ซินแคร์ต้องเผชิญ...
             ```
 
@@ -569,7 +569,7 @@
         เกรกอร์: ยังไงก็เถอะ คุณคงหมายถึงเบลคสตรีทเขต 11 ตอนที่คุณพูดว่าเนสของเคคอร์ปใช่ไหม? 
         ```
         ```
-        Gregor: I missed pointing it out earlier since everyone got a bit excited there…
+        Gregor: I missed pointing it out earlier since everyone got a bit excited there...
         เกรกอร์: เมื่อกี้นี้ผมลืมท้วง เพราะทุกคนกำลังค่อนข้างตื่นเต้นกันอยู่...
         ```
 
@@ -591,7 +591,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: Huh, alright, but if we’re entering a Nest…
+        Gregor: Huh, alright, but if we’re entering a Nest...
         เกรกอร์: เออ งั้นสินะ แต่ถ้าเราจะเข้าไปในเนส...
         ```
 
@@ -635,7 +635,7 @@
         เรียวชู: และคอย ดี อี อาร์ จนกว่าเราจะเจาะการป้องกันได้
         ```
         ```
-        Ryoshu: In short, CIDER. Huhu…
+        Ryoshu: In short, CIDER. Huhu...
         เรียวชู: เรียกสั้น ๆ ว่า ซีเดอร์ .*CIDER. ไงล่ะ ฮู่ฮู่...
         ```
 
@@ -723,7 +723,7 @@
         <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
         
         ```
-        Hong Lu: How harsh…
+        Hong Lu: How harsh...
         ฮงหลู่: ใจร้ายจัง...
         ```
 
@@ -745,7 +745,7 @@
         <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Meursault: …I hear several interlopers surrounding the bus.
+        Meursault: ...I hear several interlopers surrounding the bus.
         เมอร์โซลท์: ...ผมได้ยินเสียงผู้บุกรุกกำลังล้อมบัสเราอยู่
         ```
 
@@ -754,7 +754,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <Welp… Have bus—will battle.>
+        Dante: <Welp... Have bus—will battle.>
         ดันเต้: <เอาเถอะ... ดูเหมือนจะได้เวลาต่อสู้แล้วสิ>
         ```
 
@@ -782,7 +782,7 @@
         วอร์จิลิอุส: อ้า แล้วก็ขอเตือนไว้ก่อน เผื่อพวกแกกำลังคิดจะเล่นอะไรแผลง ๆ แบบที่ชอบทำเป็นประจำ
         ```
         ```
-        Vergilius: Don’t go around making a scene expecting things to go your way…
+        Vergilius: Don’t go around making a scene expecting things to go your way...
         วอร์จิลิอุส: อย่าเที่ยวก่อเรื่องหวังว่าทุกอย่างจะเป็นไปตามใจตัวเองล่ะ...
         ```
         ```
@@ -797,7 +797,7 @@
         * เสียงในหัว
 
             ```
-            I thought his words were pretty intimidating, but despite the worries…
+            I thought his words were pretty intimidating, but despite the worries...
             ฉันคิดว่าคำพูดของเขาค่อนข้างเป็นการข่มขู่ แม้จะมีความกังวลอยู่บ้าง...
             ```
 
@@ -851,7 +851,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
         
         ```
-        Dante: Wait, why’re you out here…
+        Dante: Wait, why’re you out here...
         ดันเต้: เดี๋ยว ทำไมนายถึงอยู่นี้...
         ```
 
@@ -871,7 +871,7 @@
         วอร์จิลิอุส: เพราะว่านี้คือเนสของฉัน ดันเต้
         ```
         ```
-        Vergilius: If one of you were to get into unexpected trouble here…
+        Vergilius: If one of you were to get into unexpected trouble here...
         วอร์จิลิอุส: ถ้าหนึ่งในพวกแกดันไปพัวพันกับปัญหาของที่นี้...
         ```
         ```
@@ -886,7 +886,7 @@
         * เสียงในหัว
 
             ```
-            When Vergilius put it like that…
+            When Vergilius put it like that...
             พอวอร์จิลิอุสพูดแบบนั่น...
             ```
             ```
@@ -894,7 +894,7 @@
             มันฟังเหมือนกับว่าเขากำลังพูดว่า “แกหวังพึ่งไม่ได้มากพอที่จะส่งไปโดยที่ไม่มีผู้ดูแล”
             ```
             ```
-            …But I knew it’d be wise to keep this to myself.
+            ...But I knew it’d be wise to keep this to myself.
             ...แต่ฉันรู้ว่ามันคงฉลาดกว่าถ้าจะเก็บเรื่องนี้ไว้กับตัวเอง
             ```
 
@@ -941,7 +941,7 @@
         วอร์จิลิอุส: และคำตอบของพวกแกจะกระชับเหมือนกัน
         ```
         ```
-        Vergilius: When the border official asks about the nature of your visit…
+        Vergilius: When the border official asks about the nature of your visit...
         วอร์จิลิอุส: ตอนที่เจ้าหน้าที่ตรวจคนถามเกี่ยวกับจุดประสงค์ของการมาเยือน...
         ```
         ```
@@ -986,7 +986,7 @@
             ฉันแอบพึมพัมคำพูดประชดประชัน
             ```
             ```
-            I was worried that Faust might rat me out, but thankfully…
+            I was worried that Faust might rat me out, but thankfully...
             ฉันกังวลว่าเฟาสท์จะฟ้องเรื่องที่ฉันพูด แต่โชคยังดี...
             ```
             ```
@@ -1078,7 +1078,7 @@
             อิชมาเอลรับบทเป็นนักเรียนตัวอย่าง แล้วตอบคำถามแทนวอร์จิลิอุส
             ```
             ```
-            It feels like something changed about Ishmael’s attitude since the casino job…
+            It feels like something changed about Ishmael’s attitude since the casino job...
             มันรู้สึกเหมือนว่ามีบางอย่างเปลี่ยนไปในทัศนคติของอิชมาเอลหลังงานคาซิโนนั่น...
             ```
             ```
@@ -1120,7 +1120,7 @@
         <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ryoshu: …I didn’t raise my hand.
+        Ryoshu: ...I didn’t raise my hand.
         เรียวชู: ...ฉันไม่ได้ยกมือ
         ```
 
@@ -1140,7 +1140,7 @@
         * เสียงในหัว
 
             ```
-            Vergilius was doing his best to ignore Don Quixote’s arm stretched skyward…
+            Vergilius was doing his best to ignore Don Quixote’s arm stretched skyward...
             วอร์จิลิอุสพยายามอย่างสุดความสามารถที่จะเมินแขนของดอนกิโฆ้เต้ที่ชูสุดข้อไปบนอากศ...
             ```
             ```
@@ -1153,7 +1153,7 @@
         <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: …Fine, Don Quixote. What is it?
+        Vergilius: ...Fine, Don Quixote. What is it?
         วอร์จิลิอุส: ...ก็ได้ ดอน กิโฆ้เต้ อะไรล่ะ?
         ```
 
@@ -1177,7 +1177,7 @@
             เมื่อมองตามนิ้วของดอนกิโฆเต้ที่ชี้ไป ความสนใจของเราก็บรรจบบนกำแพงแก้ว ที่ตั้งตระหง่านอยู่ใจกลางอาคาร
             ```
             ```
-            On the other side of that clear dividing wall…
+            On the other side of that clear dividing wall...
             ณ อีกฝั่งหนึ่งของกำแพงที่แบ่งแยก...
             ```
             ```
@@ -1212,7 +1212,7 @@
         <img src="../images/Vergilius.png" alt="Vergiilus" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: …Most of the glass walls you find inside buildings are there for safety reasons.
+        Vergilius: ...Most of the glass walls you find inside buildings are there for safety reasons.
         วอร์จิลิอุส: ...กำแพงแก้วที่พวกแกเห็นภายในตึกมีอยู่ก็เพื่อเหตุผลด้านความปลอดภัย
         ```
 
@@ -1234,7 +1234,7 @@
         <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: …A problem we are not in our power to resolve.
+        Vergilius: ...A problem we are not in our power to resolve.
         วอร์จิลิอุส: ...ปัญหาที่พวกเราไม่ได้มีพลังที่จะแก้ไขด้วยตัวเอง
         ```
 
@@ -1249,7 +1249,7 @@
             อย่างไรก็ตาม คำตอบนั่นไม่ได้ทำให้ดอนกิโฆ้เต้พอใจ
             ```
             ```
-            Whether it was the fault of the gloomy yet oppressive atmosphere of the area beyond the wall…
+            Whether it was the fault of the gloomy yet oppressive atmosphere of the area beyond the wall...
             ไม่ว่ามันจะเป็นความผิดของบรรยากาศอึมครึมชวนกดดันที่ปกคลุมพืันที่หนือกำแพง...
             ```
             ```
@@ -1271,7 +1271,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <Huh? Right…>
+        Dante: <Huh? Right...>
         ดันเต้: <หะ? ใช่...> 
         ```
 
@@ -1287,7 +1287,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: Remember: When you’re asked about the purpose of your visit…
+        Ishmael: Remember: When you’re asked about the purpose of your visit...
         อิชมาเอล: จำเอาไว้: เมื่อเธอโดนถามว่ามาทำอะไรที่นี้...
         ```
 
@@ -1296,7 +1296,7 @@
         <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ryoshu: …Remind me one more time and I’ll show SANGRIA to you and the official or whatever.
+        Ryoshu: ...Remind me one more time and I’ll show SANGRIA to you and the official or whatever.
         เรียวชู: ...ลองเตือนฉันอีกรอบ แล้วฉันจะแสดง SANGRIA ให้เธอ กับ ไอเจ้าหน้าที่ห่าเหวอะไรนั่นดู 
         ```
 
@@ -1334,7 +1334,7 @@
         <img src="../images/K_Employee.png" alt="K_Employee" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Checkpoint Official: …All checked out. Next.
+        Checkpoint Official: ...All checked out. Next.
         เจ้าหน้าที่ประจำด่านตรวจ: ...ทุกอย่างเรียบร้อยดี ต่อไป
         ```
 
@@ -1352,7 +1352,7 @@
         <img src="../images/K_Employee.png" alt="K_Employee" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Checkpoint Official: …All checked out. Next.
+        Checkpoint Official: ...All checked out. Next.
         เจ้าหน้าที่ประจำด่านตรวจ: ...ทุกอย่างเรียบร้อยดี ต่อไป
         ```
 
@@ -1385,7 +1385,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: …Something’s amiss over there.
+        Ishmael: ...Something’s amiss over there.
         อิชมาเอล: ...มีบางอย่างผิดปกติอยู่ตรงนั่น
         ```
 
@@ -1417,7 +1417,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: …We shouldn’t bother. I don’t know what happened, but I guess someone broke a taboo.
+        Ishmael: ...We shouldn’t bother. I don’t know what happened, but I guess someone broke a taboo.
         อิชมาเอล: ...พวกเราไม่ควรยื่นมือเข้าไปยุ่ง ฉันไม่รู้หรอกว่าเกิดอะไรขึ้น แต่เดาว่า คงมีใครบางคนทำผิดกฎ
         ```
 
@@ -1435,7 +1435,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: …Are you mocking me right now?
+        Ishmael: ...Are you mocking me right now?
         อิชมาเอล: ...นี้นายจะมาเยาะเย้ยฉันตอนนี้เนี้ยนะ?
         ```
 
@@ -1455,7 +1455,7 @@
         * เสียงในหัว
 
             ```
-            While I was distracted by Heathcliff loudly celebrating his first successful tease on Ishmael…
+            While I was distracted by Heathcliff loudly celebrating his first successful tease on Ishmael...
             ในขณะที่ฉันถูกเบี่ยงเบนความสนใจจากฮิตคลิฟฟ์ที่กำลังเฉลิมฉลองให้กับความสำเร็จครั้งแรกในการยั่วอิชมาเอลอย่างเสียงดัง...
             ```
             ```
@@ -1518,7 +1518,7 @@
         <img src="../images/K_Employee.png" alt="K_Employee" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Checkpoint Official: …Please state your affiliation and purpose of visit.
+        Checkpoint Official: ...Please state your affiliation and purpose of visit.
         เจ้าหน้าที่ประจำด่านตรวจ: ...โปรดระบุสังกัดที่ท่านประจำอยู่ และวัตถุประสงค์ในการเข้าเยี่ยม
         ```
 
@@ -1537,11 +1537,11 @@
             ตลอดเวลาที่เดินไปข้างหน้า ดอนกิโฆ้เต้ก็มีแต่จะโมโหมากขึ้นเรื่อย ๆ ทุกวินาทีที่เลยผ่าน
             ```
             ```
-            And then…
+            And then...
             จนกระทั่ง...
             ```
             ```
-            In looking through the transparent wall again…
+            In looking through the transparent wall again...
             พอได้มองเข้าไปในกำแพงแก้วอีกครั้ง...
             ```
             ```
@@ -1572,7 +1572,7 @@
         <img src="../images/K_Employee.png" alt="K_Employee" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Checkpoint Official: …Hoo.
+        Checkpoint Official: ...Hoo.
         เจ้าหน้าที่ประจำด่านตรวจ: ...ฮู่วว
         ```
         ```
@@ -1580,7 +1580,7 @@
         เจ้าหน้าที่ประจำด่านตรวจ: รหัสม่วง รหัสม่วง กระทำการผิดร้ายแรงต่อกฎ เค-หนึ่ง-แปด-ห้า ในอาคาร
         ```
         ```
-        Checkpoint Official: Requesting Thrombocyte units. Repeat, requesting Thrombocyte…
+        Checkpoint Official: Requesting Thrombocyte units. Repeat, requesting Thrombocyte...
         เจ้าหน้าที่ประจำด่านตรวจ: ร้องขอกำลังหน่วยทรอมโบไซต์ ย้ำอีกครั้ง ร้องขอกำลังหน่วยทรอมโบไซต์...
         ```
 
@@ -1620,7 +1620,7 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff: …Should’ve smashed her skull in and carried her in a body sack.
+        Heathcliff: ...Should’ve smashed her skull in and carried her in a body sack.
         ฮิธคลิฟฟ์: ...น่าจะทุบกระโหลกยัยนั่นซะตั้งแต่แรก แล้วค่อยแบกไปมาด้วยถุงเก็บศพ
         ```
 
@@ -1638,7 +1638,7 @@
         <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Yi Sang: Thrombo, Leuko… I believe they refer to platelets and white blood cells respectively.
+        Yi Sang: Thrombo, Leuko... I believe they refer to platelets and white blood cells respectively.
         ยี่ซัง: ทรอมโบ ลิวโค... ฉันคิดว่าพวกเขาน่าจะตั้งชื่ออ้างอิงจากเกล็ดเลือด และเม็ดเลือดขาว
         ```
 
@@ -1746,7 +1746,7 @@
         * เสียงในหัว
 
             ```
-            It looks like border control isn’t willing to forgive us until they dismember the rest of the Sinners…
+            It looks like border control isn’t willing to forgive us until they dismember the rest of the Sinners...
             ดูเหมือนว่าผู้คุมด่านจะไม่อยากให้อภัยเราจนกว่าพวกเขาจะทำให้คนบาปที่เหลือกลายเป็นจุน
             ```
             ```
@@ -1759,7 +1759,7 @@
         <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: …You never cease to surprise me.
+        Vergilius: ...You never cease to surprise me.
         วอร์จิลิอุส: ...พวกแกไม่เคยพลาดจะทำให้ฉันตกตะลึงเลย
         ```
         ```
@@ -1913,7 +1913,7 @@
         เรียวชู: ......
         ```
         ```
-        Ryoshu: Really… Art can be rubbish like this, huh…
+        Ryoshu: Really... Art can be rubbish like this, huh...
         เรียวชู: จริงหรือนี้... ศิลปะเองก็สามารถเป็นขยะเช่นนี้ได้เหมือนกัน สินะ...
         ```
 
@@ -1933,7 +1933,7 @@
             ```
 
         ```
-        Dante: <Isn’t there anything we can do…?>
+        Dante: <Isn’t there anything we can do...?>
         ดันเต้: <ไม่มีอะไรที่เราทำได้เลยเหรอ...?>
         ```
 
@@ -1946,7 +1946,7 @@
         เฟาสท์: เอช-พี หรือ เฮลาโปอิซิส คือเทคโนโลยีวิศวกรรมชีวภาพที่ใช้เพื่อรักษาเซลท์ที่ได้รับความเสียหาย หรือสูญหายในจังหวะต่อเนื่อง
         ```
         ```
-        Faust: One dose already lasts considerably long, so imagine what that means for those in the Nest who receive constant supplies…
+        Faust: One dose already lasts considerably long, so imagine what that means for those in the Nest who receive constant supplies...
         เฟาสท์: เพียงโดสเดียวผลก็สามารถคงอยู่ได้เป็นระยะเวลานานหลายนาที ทีนี้ลองคิดดูว่าหากเป็นพวกที่อยู่ในเนสที่ได้รับเสบียงอย่างต่อเนื่องเป็นเวลาหลายปีจะเป็นยังไง
         ```
         ```
@@ -1961,7 +1961,7 @@
         * เสียงในหัว
 
             ```
-            Even Faust was shaking her head in despondency, but then…
+            Even Faust was shaking her head in despondency, but then...
             แม้กระทั่งเฟาสท์ก็ยังส่ายหัวด้วยความสิ้นหวัง แต่ทันใดนั่นเอง...
             ```
 
@@ -2003,7 +2003,7 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff: ‘Ey, what the… What’s that thing running at us?
+        Heathcliff: ‘Ey, what the... What’s that thing running at us?
         ฮิธคลิฟฟ์: เอ๋ อะไรวะนั่น... ไอสิ่งที่นั่นที่กำลังวิ่งเข้าใส่เราคืออะไร?
         ```
 
@@ -2021,7 +2021,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
         
         ```
-        Dante: <I… I dunno, I’m not sure what to…>
+        Dante: <I... I dunno, I’m not sure what to...>
         ดันเต้: <ฉ... ฉันไม่รู้ ฉันไม่มั่นใจว่าต้องทำอะไร...>
         ```
 
@@ -2109,7 +2109,7 @@
         <img src="../images/Siegfried.png" alt="Siegfried" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Siegfried: In that case…
+        Siegfried: In that case...
         ซิคฟรีด: ถ้าอย่างนั่น...
         ```
 
@@ -2190,7 +2190,7 @@
         <img src="../images/Siegfried.png" alt="Siegfried" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Siegfried: Hmm… A prosthetic, is it? Right then, make it 50 seconds!!!
+        Siegfried: Hmm... A prosthetic, is it? Right then, make it 50 seconds!!!
         ซิคฟรีด: หืมม... เจ้าคนที่มีหัวเทียมสินะ? จัดไป ฉันจะทำให้มันจบใน 50 วินาที!!! 
         ```
 
@@ -2228,7 +2228,7 @@
         <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ryoshu: This blighter… is too damn strong.
+        Ryoshu: This blighter... is too damn strong.
         เรียวชู: ไอเจ้านี้... แข็งแกร่งชะมัด
         ```
 
@@ -2279,7 +2279,7 @@
         วอร์จิลิอุส: ในที่สุดเจ้าพวกนั่นจะได้เรียนรู้สักที ว่าจะเกิดอะไรขึ้น ถ้าพวกมันก่อความวุ่นวายในเนส แล้วคิดว่าตัวเองจะหนีรอดไปได้
         ```
         ```
-        Vergilius: …Dante, you may not remember it at the moment, but at one point you used to be something of a bigwig… so to speak.
+        Vergilius: ...Dante, you may not remember it at the moment, but at one point you used to be something of a bigwig... so to speak.
         วอร์จิลิอุส: ...ดันเต้ บางทีนายอาจยังจำมันตอนนี้ไม่ได้ แต่ที่จุดหนึ่ง นายเคยเป็นบางสิ่งที่ยิ่งใหญ่... ถ้าจะให้พูด
         ```
 
@@ -2288,7 +2288,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <I… I was?>
+        Dante: <I... I was?>
         ดันเต้: <ฉัน... เคยเหรอ?>
         ```
 
@@ -2340,7 +2340,7 @@
             พวกเขาไม่แม้แต่จะแสดงความสงสาร ให้กับครอบครัวที่พวกเขากำลังจะพังมัน ทำอย่างทำว่าเรื่องทุกอย่าง ไม่ได้เป็นอะไรไปมากกว่าแค่ขั้นตอนในมาตรการที่ถูกกำหนดเอาไว้
             ```
             ```
-            Although Don Quixote got us into trouble when she sprang forth to rectify injustice…
+            Although Don Quixote got us into trouble when she sprang forth to rectify injustice...
             แม้ว่า ดอนกิโฆ้เต้จะทำให้เราต้องมาพัวพันกับปัญหา ในตอนที่เธอกระโจนไปออกไปเพื่อหยุดยั้งความอยุติธรรม...
             ```
             ```
@@ -2348,7 +2348,7 @@
             ในใจลึก ๆ ฉันก็รู้อยู่แก่ใจ ว่ามันคงตามหลอกหลอนฉันทุกครั้งที่ข่มตานอน ถ้าหากพวกเราต้องยอมตาบอด มองข้ามผู้คนที่กำลังทุกข์ทรมาน ร่ำไห้ ต้องการความช่วยเหลือ เพียงเพื่อที่พวกเราจะได้ไม่ต้องเจ็บตัว
             ```
             ```
-            And seeing Heathcliff tighten the grip on his weapon to veins as he witnessed the disturbance…
+            And seeing Heathcliff tighten the grip on his weapon to veins as he witnessed the disturbance...
             และการที่ได้เห็นฮิธคลิฟฟ์กำอาวุธในมือของเขาไว้แน่น ในตอนที่เขากำลังจ้องมองเหตการณ์ที่เกิดขึ้น...
             ```
             ```
@@ -2370,11 +2370,11 @@
         <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: Ah, dear… I’ve got to tell them to put a microphone next time.
+        Vergilius: Ah, dear... I’ve got to tell them to put a microphone next time.
         วอร์จิลิอุส: อ้า ไอ้เพื่อนยาก... ฉันคงต้องบอกให้พวกมันติดไมโครโฟนไว้หน่อยรอบหน้า
         ```
         ```
-        Vergilius: …I’ll take it that you’ve gotten my point.
+        Vergilius: ...I’ll take it that you’ve gotten my point.
         วอร์จิลิอุส: ...ฉันจะถือว่านายเข้าสิ่งที่ฉันสื่อ
         ```
 
@@ -2419,7 +2419,7 @@
         <img src="../images/Siegfried.png" alt="Siegfried" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Siegfried: How’s life been, Red Gaze? We’ve rarely had a chance to meet in recent times. Haven’t shown up to the ‘League of Excellent Nest-dwelling Fixers’ lately, either…
+        Siegfried: How’s life been, Red Gaze? We’ve rarely had a chance to meet in recent times. Haven’t shown up to the ‘League of Excellent Nest-dwelling Fixers’ lately, either...
         ซิคฟรีด: ชีวิตเดี๋ยวนี้เป็นไงมั่งล่ะ เรดเกรส? ช่วงนี้ พวกเราไม่ค่อยได้มีโอกาศเจอหน้ากันเลยนะ แถมยังไม่โผล่หน้ามา ‘สมาพันธ์ฟิกเซอร์ดีเยี่ยม’ ไม่นานมานี้อีก...
         ```
         ```
@@ -2441,7 +2441,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <I don’t know what happened between these two, but… Vergilius is a bit hostile here, right?>
+        Dante: <I don’t know what happened between these two, but... Vergilius is a bit hostile here, right?>
         ดันเต้: <ฉันไม่รู้ว่าเกิดเรื่องอะไรระหว่างสองคนนั่น แต่... ท่าทีของวอร์จิลิอุสดูไม่เป็นมิตรสุด ๆ เลย ใช่ไหม?>
         ```
 
@@ -2505,7 +2505,7 @@
         <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Don Quixote: F, fe, fa, feh, afa… a fan, I am! I have collected figurines sculpted after you! Though I’ve yet to get my hands on limited editions… I set my heart on becoming a magnificent Fixer such as you!
+        Don Quixote: F, fe, fa, feh, afa... a fan, I am! I have collected figurines sculpted after you! Though I’ve yet to get my hands on limited editions... I set my heart on becoming a magnificent Fixer such as you!
         ดอน กิโฆ้เต้: <*ไม่แน่ใจ> ฟ แฟ ฟา เฟอ ข... ข้าเป็นแฟนตัวยงท่าน! ข้าเก็บรูปปั้นที่แกะสลักท่าน! แม้ว่าข้าจะยังไม่มีรุ่นลิมิเต็ดอิดิชั่นก็ตาม... แต่ข้าก็ตั้งมั่นว่าตัวข้าจะต้องเป็นฟิกเซอร์ผู้งดงามเฉกเช่นท่านให้ได้!
         ```
 
@@ -2523,7 +2523,7 @@
         <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
         
         ```
-        Don Quixote: I… Is that true? Then would you sign… an autograph… here… Ehehe…
+        Don Quixote: I... Is that true? Then would you sign... an autograph... here... Ehehe...
         ดอน กิโฆ้เต้: จ... จริงหรือขอรับ? เช่นนั่น หากไม่เป็นการรบกวน โปรดลายเซ็นต์เซ็นท์... ให้ข้า... ตรงนี้หน่อยขอรับ... อฮิฮิ...
         ```
 
@@ -2532,7 +2532,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: Slow breaths, Don Quixote…
+        Gregor: Slow breaths, Don Quixote...
         เกรกอร์: ค่อย ๆ หายใจ ดอน กิโฆ้เต้...
         ```
 
@@ -2565,7 +2565,7 @@
         * เสียงในหัว
 
             ```
-            Leaping with tremendous force, Siegfried vanished into the air…
+            Leaping with tremendous force, Siegfried vanished into the air...
             หลังพูดจบ เขาก็กระโจนออกตัวด้วยแรงมหาศาล ก่อนที่ซิคฟรีดจะหายไปในอากาศ...
             ```
             ```
@@ -2577,7 +2577,7 @@
             ในระหว่างนี้วอร์จิลิอุสก็เดินทางกลับบัส หรือไม่ เขาก็มาที่นี้ เพียงเพราะเรื่องที่ต้องเจอกับซิคฟรีด
             ```
             ```
-            He looked rather upset as he walked away, but no one else seemed to care that much…
+            He looked rather upset as he walked away, but no one else seemed to care that much...
             เขาดูโกรธตอนที่เดินกลับไป แต่ดูเหมือนว่าจะไม่มีใครสนใจมากนัก...
             ```
 
@@ -2586,7 +2586,7 @@
         <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Don Quixote: Ufu, wuhuhu…
+        Don Quixote: Ufu, wuhuhu...
         ดอน กิโฆัเต้: อุฟุฟุ หุหุหุ...
         ```
 
@@ -2617,7 +2617,7 @@
         * เสียงในหัว
 
             ```
-            Just as I was about to give the blissful Don Quixote a word while we walked out of the border checkpoint…
+            Just as I was about to give the blissful Don Quixote a word while we walked out of the border checkpoint...
             ทันทีที่ฉันกำลังจะพูดกับดอนกิโฆเต้ผู้ความสุข ในขณะที่พวกเรากำลังเดินออกมาจากจุดตรวจ...
             ```
             ```
@@ -2630,7 +2630,7 @@
         <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Outis: …A newfound foe? Bold of them to challenge us right in front of a Nest’s checkpoint.
+        Outis: ...A newfound foe? Bold of them to challenge us right in front of a Nest’s checkpoint.
         เอาทิส: ...ศัตรูคนใหม่เหรอ? แหมแก ชั่งกล้า ที่มาท้าทายพวกเราหน้าด่านตรวจแบบนี้
         ```
         
@@ -2639,7 +2639,7 @@
         <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Faust: This vehicle is from… LCC, the clearance department.
+        Faust: This vehicle is from... LCC, the clearance department.
         เฟาสท์: รถนี้มาจาก... เอล-ซี-ซี แผนกเก็บกวาด
         ```
 
@@ -2694,7 +2694,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: …Still got that sharp tongue too, huh.
+        Gregor: ...Still got that sharp tongue too, huh.
         เกรกอร์: ...ยังปากแจ๋วอยู่เหมือนเดิมเลยสิน้า เธอเนี้ย
         ```
 
@@ -2714,7 +2714,7 @@
         <img src="../images/EpiLCC.png" alt="Effie" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Effie: Pft… Saude, you see that hand on the clock trembling? You’ll make them cry.
+        Effie: Pft... Saude, you see that hand on the clock trembling? You’ll make them cry.
         เอฟฟี่: ฟิ่บ... *.กลั้นขำ* เซาเด เห็นมือเจ้านาฬิกาที่กำลังสั่นอยู่ไหม? เดี๋ยวเธอก็ทำเขาร้องหรอก
         ```
 
@@ -2761,7 +2761,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: Hmm… In any case, you cared about us, right? 
+        Gregor: Hmm... In any case, you cared about us, right? 
         เกรกอร์: หืมม... สุดท้ายแล้ว พวกนายก็เป็นห่วงเรา งั้นใช่ไหม?
         ```
 
@@ -2783,7 +2783,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: Yep, had a lot of that on the battlefield. Miserable to swallow, but somehow memorable…
+        Gregor: Yep, had a lot of that on the battlefield. Miserable to swallow, but somehow memorable...
         เกรกอร์: ก็ถ้าอะไรแบบนั่นก็มีในสนามรบ สถานการณ์ที่กลืนไม่เข้าคายไม่ออก แต่กลับจำได้ไม่ลืม...  
         ```
 
@@ -2792,7 +2792,7 @@
         <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Saude: …What kind of food have you two been eating?
+        Saude: ...What kind of food have you two been eating?
         เซาเด: ...มันอาหารสปีชีย์ไหนที่พวกเธอกินกันล่ะนั่น?
         ```
 
@@ -2882,7 +2882,7 @@
         <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Saude: Which… if it’s true that N Corp. has sent staff in advance, then the journey won’t be a smooth one.
+        Saude: Which... if it’s true that N Corp. has sent staff in advance, then the journey won’t be a smooth one.
         เซาเด: หรือก็คือ... ถ้ามันความจริงเรื่องที่ว่าเอ็นคอร์ปได้ส่งเจ้าหน้าที่มานี้ก่อนแล้ว การเดินทางในปฎิบัติการครั้งนี้ก็คงจะไม่หมูอย่างที่คิด
         ```
 
@@ -2891,7 +2891,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: …I see. I’m worried we might make enemies of several Wings as we go on.
+        Gregor: ...I see. I’m worried we might make enemies of several Wings as we go on.
         เกรกอร์: ...งั้นสินะ ฉันชักจะเริ่มรู้สึกกังวลแล้วสิ ว่าในท้ายที่สุด พวกเราอาจต้องเป็นศัตรูกับพวกวิงส์ถ้าเรายังคงเดินต่อไป
         ```
 
@@ -2908,7 +2908,7 @@
         เฟาสท์: และเมื่อพิจารณาจากข้อเท็จจริงที่ว่าเอ็นคอร์ป ไม่ได้ป่าวประกาศให้การเคลื่อนไหวในครั้งนี้รู้โดยทั่วกัน สุดท้ายแล้ว มันก็อาจจะลงเอยเป็นเพียงประเด็นความขัดแย้งระหว่างผลประโยชน์เฉย ๆ 
         ```
         ```
-        Faust: Furthermore… We can’t discount the possibility that it’s not the Golden Bough they’re after.
+        Faust: Furthermore... We can’t discount the possibility that it’s not the Golden Bough they’re after.
         เฟาสท์: ยิ่งไปกว่านั่น... พวกเราก็ไม่อาจตัดความเป็นไปได้ ว่าสิ่งที่พวกเขากำลังตามหาอาจไม่ใช่กิ่งทอง
         ```
 
@@ -2917,7 +2917,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: Doesn’t change that we’re convenient pawns for our higher-ups to throw around either way…
+        Gregor: Doesn’t change that we’re convenient pawns for our higher-ups to throw around either way...
         เกรกอร์: ชิ นั่นก็ไม่ได้เปลี่ยนเรื่องที่ว่าเราก็เป็นแค่หมากที่ใช้งานง่ายที่ให้พวกคนใหญ่คนโตโยนเราไปนู่นไปนี้อยู่ดี... 
         ```
 
@@ -2935,7 +2935,7 @@
         <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Don Quixote: …R—Rumor travels with such haste. ‘Twas as though… astride Rocinante.
+        Don Quixote: ...R—Rumor travels with such haste. ‘Twas as though... astride Rocinante.
         ดาว กิโฆ้เต้: ...ข-ข่าวลือ แพร่สะพัดไปไวเสียจริง ประหนึ่งว่า... กำลังขี่โรซินันเตยังไงอย่างงั้น 
         ```
 
@@ -2954,7 +2954,7 @@
             บางที นี้อาจเป็นโอกาศอันดี ที่เธอจะได้เริ่มเรียนรู้ว่าการกระทำที่ไม่คิดหน้าคิดหลังของเธอผลกระทบ
             ```
             ```
-            …That, or I’m mistaken and she’s glad that more people know of what she’s done.
+            ...That, or I’m mistaken and she’s glad that more people know of what she’s done.
             ...หรือไม่ เธอก็ภูมิอกภูมิใจว่ามีคนที่รู้เรื่องที่เธอทำไปมากขึ้น
             ```
 
@@ -2967,7 +2967,7 @@
         เซาเด: ชั่งน่าเสียดายที่ฉันไม่ได้ดูด้วยตาของฉันเอง นั่นไม่ใช่อะไรที่จะเห็นได้ทุกวัน
         ```
         ```
-        Saude: Really, who in their right mind would mess with a Wing at a border checkpoint unless they had lives to spare…
+        Saude: Really, who in their right mind would mess with a Wing at a border checkpoint unless they had lives to spare...
         เซาเด: เอาจริง ๆ ใครบ้างที่สติดี ๆ เขาจะอยากมีเรื่องกับวิงส์ที่ด่านตรวจบ้าง เว้นซะแต่ไอพวกที่มีชีวิตสำรองให้ใช้...
         ```
 
@@ -2994,7 +2994,7 @@
         <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Saude: …Please, don’t tell me.
+        Saude: ...Please, don’t tell me.
         เซาเด: ...เดี๋ยว ล้อกันเล่นปะเนี้ย
         ```
 
@@ -3021,7 +3021,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: …Oh, him? He went back to the bus first.
+        Gregor: ...Oh, him? He went back to the bus first.
         เกรกอร์: ...โอ้ เขาเหรอ? ถ้าเขาก็กลับไปที่บัสก่อนแล้วน่ะ
         ```
 
@@ -3030,7 +3030,7 @@
         <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Saude: What a pity. I didn’t want to miss my chance to say hello…
+        Saude: What a pity. I didn’t want to miss my chance to say hello...
         เซาเด: ชั่งน่าเสียดาย ฉันอุตสาห์ไม่อยากพลาดโอกาศที่จะได้มาทักทายสักหน่อย...
         ```
 
@@ -3079,7 +3079,7 @@
         * เสียงในหัว
 
             ```
-            A pouty Charon and the cold stare of Vergilius awaited us on the bus…
+            A pouty Charon and the cold stare of Vergilius awaited us on the bus...
             ชารอนหน้ามุ่ยกับสายตาจ้องมองของวอร์จิลิอุสที่เย็นชารอเราอยู่บนรถ...
             ```
             ```
@@ -3148,7 +3148,7 @@
             ถ้ามันจะมีสิ่งไหนที่เหล่าคนบาป และฉันทำได้ดี ก็คงเป็นการสัมผัสถึงภัยอันตรายที่กำลังใกล้เข้ามา และหลบให้พ้น
             ```
             ```
-            Dispersing from the group, we scuttled away into our seats…
+            Dispersing from the group, we scuttled away into our seats...
             กลุ่มกระจัดกระจายออกจากกัน แล้วพวกเราก็วิ่งหนีกลับไปนั่งที่...
             ```
             ```
@@ -3170,7 +3170,7 @@
         <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Don Quixote: I… could not turn a blind eye to the weak being persecuted—
+        Don Quixote: I... could not turn a blind eye to the weak being persecuted—
         ดอน กิโฆ้เต้: ข้า... ไม่อาจหันหนีผู้อ่อนแอที่กำลังถูกข่มเหงได้ขอรั— 
         ```
 
@@ -3194,7 +3194,7 @@
             ตาฉันตามสิ่งที่เกิดขึ้นในชั่วพริบตานั่นไม่ได้
             ```
             ```
-            I have nothing to blink, so it shouldn’t have been possible for me to miss a moment, and yet…
+            I have nothing to blink, so it shouldn’t have been possible for me to miss a moment, and yet...
             ฉันไม่มีตาให้กระพริบ เพราะงั้นมันก็ไม่น่าจะเป็นไปได้ที่ฉันจะพลาดอะไรไปได้ แต่กระนั้น
             ```
 
@@ -3203,7 +3203,7 @@
         <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Don Quixote: Gahgk…! Ghk…
+        Don Quixote: Gahgk...! Ghk...
         ดอน กิโฆ้เต้: เฮือก...! ฮึก...
         ```
 
@@ -3214,7 +3214,7 @@
         * เสียงในหัว 
 
             ```
-            When I caught up with the situation…
+            When I caught up with the situation...
             เมื่อฉันตามสถานการณ์ที่เกิดขึ้นได้ทัน...
             ```
             ```
@@ -3236,7 +3236,7 @@
         <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Don Quixote: Gnnngh…!
+        Don Quixote: Gnnngh...!
         ดอน กิโฆ้เต้: ฮึกกกก...!
         ```
 
@@ -3262,11 +3262,11 @@
         <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Don Quixote: Wh… While mine own actions did inconvenience my colleagues…
+        Don Quixote: Wh... While mine own actions did inconvenience my colleagues...
         ดอน กิโฆ้เต้: ม... แม้ว่าการกระทำของตัวข้าจะเป็นสาเหตุที่ทำให้สหายร่วมเดินทางต้องพบกับความลำบาก...
         ```
         ```
-        Don Quixote: Hngk… GUAAAH!!!
+        Don Quixote: Hngk... GUAAAH!!!
         ดอน กิโฆัเต้: อั่ก... อ๊ากกก!!!
         ```
 
@@ -3281,7 +3281,7 @@
             เสียงคร่ำครวญรวดร้าวด้วยความเจ็บปวดของดอนกิโฆ้เต้ดังมากขึ้น แต่ไม่มีใครเลยที่กล้าจะยื่นมือไปช่วย
             ```
             ```
-            Of course, she was being punished for her own actions…
+            Of course, she was being punished for her own actions...
             ก็แน่นอนสิ เพราะเธอกำลังถูกลงโทษในสิ่งที่เธอทำลงไป
             ```
             ```
@@ -3325,7 +3325,7 @@
         <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Don Quixote: What unjust… Agh! Thou’rt demanding a specific answer out of me…!
+        Don Quixote: What unjust... Agh! Thou’rt demanding a specific answer out of me...!
         ดอน กิโฆ้เต้: อะไรกัน นี้ชั่งไม่ยุติธรรมเอาซะเลย... อั่ก! ที่ท่านเอาแต่ร้องขอคำตอบที่ท่านต้องการ... แล้วรีดไถเอามันจากข้า...!
         ```
 
@@ -3347,7 +3347,7 @@
         <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Don Quixote: Kagh… If—If the company insists so, then I—!
+        Don Quixote: Kagh... If—If the company insists so, then I—!
         ดอน กิโฆ้เต้: ฮ๊าก... ถ้า—ถ้าบริษัทยืนกรานที่จะทำแบบนั่น งั่นตัวข้า—!
         ```
 
@@ -3356,7 +3356,7 @@
         <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: …I’m sick of this.
+        Vergilius: ...I’m sick of this.
         วอร์จิลิอุส: ...ฉันชักจะทนไม่ไหวแล้วว่ะ
         ```
 
@@ -3371,7 +3371,7 @@
             วอร์จิลิอุสแตะดอนกิโฆ้เต้ ทำให้เธอล่วงหล่นลงสู่พื้น
             ```
             ```
-            Then, gripping her fall by the collar…
+            Then, gripping her fall by the collar...
             ก่อนที่จะคว้าคอเสื้อเธอที่กำลังตกลง...
             ```
 
@@ -3389,7 +3389,7 @@
         <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Don Quixote: …!
+        Don Quixote: ...!
         ดอน กิโฆ้เต้: ...! 
         ```
 
@@ -3398,7 +3398,7 @@
         <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: I hope you haven’t forgotten the deal we struck that day. …Miss. Don. Quixote.
+        Vergilius: I hope you haven’t forgotten the deal we struck that day. ...Miss. Don. Quixote.
         วอร์จิลิอุส: ฉันหวังว่าเธอจะยังไม่ลืมข้อตกลงที่เราทำกันไว้วันนั่นนะ ...คุณ ดอน กิโฆ้เต้
         ```
 
@@ -3409,7 +3409,7 @@
         * เสียงในหัว
 
             ```
-            Vergilius’s eyes glistened with a much brighter hue of red than usual…
+            Vergilius’s eyes glistened with a much brighter hue of red than usual...
             ดวงตาของวอร์จิลิอุสเปล่งประกายสีแดงมากกว่าปกติ...
             ```
             ```
@@ -3422,7 +3422,7 @@
         <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: …That’s all. Back to your seat.
+        Vergilius: ...That’s all. Back to your seat.
         วอร์จิลิอุส: ...แค่นั่นก็สิ้นเรื่อง ทีนี้ ก็กลับไปนั่งที่ได้แล้ว
         ```
 
@@ -3437,7 +3437,7 @@
             การได้มองดูใครที่มีทิฐิ และความมั่นใจอันเหลือล้นเปลี่ยนจากหน้ามือเป็นหลังมือ กลับกลายเป็นท้อแท้ คอตก เป็นสภาพที่ไม่น่าดูเอาซะเลย
             ```
             ```
-            Though, a deal that got Don Quixote to go silent simply by bringing it up…
+            Though, a deal that got Don Quixote to go silent simply by bringing it up...
             แล้วก็ เรื่องข้อตกลงที่ทำให้ดอนกิโฆ้เต้เงียบสนิทเพียงแค่พูดถึง...
             ```
             ```
@@ -3471,7 +3471,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: I guess getting help from that guy―who was that again, Mister… Zack Friture, or something―must’ve ruffled his feathers.
+        Gregor: I guess getting help from that guy―who was that again, Mister... Zack Friture, or something―must’ve ruffled his feathers.
         เกรกอร์: ฉันเดาว่าการที่เราขอความช่วยเหลือจากชายคนนั่น―คนที่ชื่อว่า... อะไรนะ(?) คุณ... เซค ฟริตูร์ สักอย่าง―คงทำให้เขาหัวเสีย
         ```
 
@@ -3480,7 +3480,7 @@
         <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Don Quixote: It’s… Lord Siegfried…
+        Don Quixote: It’s... Lord Siegfried...
         ดอน กิโฆ้เต้: เขาชื่อ... ลอร์ดซิคฟรีดน่ะขอรับ...
         ```
 
@@ -3498,7 +3498,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: Phew… I knew this day would come sooner or later. We should all be careful from now on.
+        Ishmael: Phew... I knew this day would come sooner or later. We should all be careful from now on.
         อิชมาเอล: วุ้ย... ฉ้นรู้อยู่แล้วว่าวันนี้ต้องมาถึง หลังจากนี้เราทุกคนก็ต้องระวังตัวให้มากขึ้น 
         ```
 
@@ -3525,7 +3525,7 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff: …Fine, I got it! Tsk.
+        Heathcliff: ...Fine, I got it! Tsk.
         ฮฺิธคลิฟฟ์: ...เออ ก็ได้ เข้าใจแล้ว! ชิ 
         ```
 
@@ -3551,7 +3551,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: Check out those people, they look like they haven’t a care in the world…
+        Rodion: Check out those people, they look like they haven’t a care in the world...
         โรเดียน: ลองดูคนพวกนั่นสิ พวกเขา... ดูไม่แยแสโลกใบนี้เลยเนอะ...
         ```
 
@@ -3600,7 +3600,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: …!
+        Sinclair: ...!
         ซินแคร์: ...!
         ```
 
@@ -3615,7 +3615,7 @@
             ตอนที่ชื่อ ‘คาล์ฟ’ ถูกพูดถึง ซินแคร์ก็กลับไปสู่ความกลัวอีกครั้ง และเริ่มสั่นไปมา
             ```
             ```
-            As if something were coming after him…
+            As if something were coming after him...
             อย่างกับว่ามีอะไรกำลังมาหาเขา...
             ```
 
@@ -3670,7 +3670,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Why is… smoke… coming from…
+        Sinclair: Why is... smoke... coming from...
         ซินแคร์: ทำไม... ควัน... ถึงลอยมาจาก...
         ```
 
@@ -3717,7 +3717,7 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff:	Wha… Who the hell was that?! I almost kicked it!
+        Heathcliff:	Wha... Who the hell was that?! I almost kicked it!
         ฮิธคลิฟฟ์: อะไร... ใครทำx่าอะไรวะ?! รู้ไหมว่ามันทำฉันเกือบตาย!
         ```
 
@@ -3726,7 +3726,7 @@
         <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Faust: Hmm… Though I hadn’t run a test with a projectile at such velocity, this does suggest that the windows need to be reinforced a little.
+        Faust: Hmm... Though I hadn’t run a test with a projectile at such velocity, this does suggest that the windows need to be reinforced a little.
         เฟาสท์: หืมม... ถึงแม้ฉันจะไม่ได้ทดสอบด้วยโพรเจกไทล์ที่มีความเร็วระดับนั่น แต่นี้ก็เป็นข้อบ่งชี้แล้ว ว่ากระจกพวกนี้จำเป็นต้องได้รับการเสริมความทนทานให้อีกสักหน่อย
         ```
 
@@ -3735,7 +3735,7 @@
         <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Outis: That was aimed directly at us. They must be the faction the Before Team warned us about… The Employees of N Corp.
+        Outis: That was aimed directly at us. They must be the faction the Before Team warned us about... The Employees of N Corp.
         เอาทิส: นั่นเล็งตรงมาที่เรา พวกมันต้องเป็นพวกที่ทีมลาดตะเวนเตือนเราก่อนหน้านี้แน่... พวกพนักงานจากเอ็นคอร์ป
         ```
 
@@ -3790,7 +3790,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: You should’ve said so in the first place, ‘cause what about our windshield? Ah, bugger…
+        Gregor: You should’ve said so in the first place, ‘cause what about our windshield? Ah, bugger...
         เกรกอร์: เรื่องนั้นนายก็น่าจะพูดมาตั้งแต่แรกสิ แล้วทีนี้ใครจะรับผิดชอบกระจกบังลมเราล่ะ? อ้า ให้ตายสิ...
         ```
 
@@ -3817,7 +3817,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: So, N Corp… That’s one convoluted way to tell someone that you’re an employee of Nagel und Hammer.
+        Ishmael: So, N Corp... That’s one convoluted way to tell someone that you’re an employee of Nagel und Hammer.
         อิชมาเอล: อ้อ งั้นเหรอ เอ็นคอร์ป... นั่นเป็นวิธีที่อ้อมค้อมดีนะกับอีแค่การบอกว่าตัวเองเป็นพวก นาเกิล อุนท์ ฮัมเมอร์
         ```
 
@@ -3826,7 +3826,7 @@
         <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Faust: …Also known as “Nail and Hammer.
+        Faust: ...Also known as “Nail and Hammer.
         เฟาสท์: ...หรือที่รู้จักกันใสชื่อกลุ่ม “ตะปู และค้อน“
         ```
 
@@ -3844,11 +3844,11 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: Heretics? Hey now, we just want to pass through, not looking for any trouble. We’re on the, uh…
+        Gregor: Heretics? Hey now, we just want to pass through, not looking for any trouble. We’re on the, uh...
         เกรกอร์: คนนอกรีต? เดี๋ยวสิ พวกเราก็แค่อยากผ่านไปก็เท่านั่น ไม่ได้อยากมีเรื่องอะไร เพราะตอนนี้พวกเราก็ยังอยู่ในปฎิบัติ— เออ...
         ```
         ```
-        Gregor: A tour…! That’s right, and this is a tour bus.
+        Gregor: A tour...! That’s right, and this is a tour bus.
         เกรกอร์: ทัวน์น่ะ...! ใช่แล้ว พวกเรากำลังทัวน์กันอยู่ และนี้ก็บัสทัวน์เราเอง
         ```
 
@@ -3881,7 +3881,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: Greg, I’ve been thunkin’ this since the job at the mine, but… are you that into these kinds of bits…?
+        Rodion: Greg, I’ve been thunkin’ this since the job at the mine, but... are you that into these kinds of bits...?
         โรเดียน: เกรก ฉันเองก็คิดเรื่องนี้ตั้งแต่งานในเหมือนนั่นแล้ว แต่... นายชอบอะไรพวกนี้งั้นเหรอ...?
         ```
 
@@ -3890,7 +3890,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: That’s not exactly it…
+        Gregor: That’s not exactly it...
         เกรกอร์: ไม่ใช่แบบนั่นสักหน่อย...
         ```
 
@@ -4079,7 +4079,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: Those people… They labelled us as heretics. Just what is their judgement based on?
+        Ishmael: Those people... They labelled us as heretics. Just what is their judgement based on?
         อิชมาเอล: คนพวกนั่น... พวกมันตรีตราพวกเราเป็นพวกนอกรีต แล้วพวกมันตัดสินพวกเราจากอะไร?
         ```
 
@@ -4097,7 +4097,7 @@
         <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Meursault: Nagel und Hammer… The Wing that values experience above all else.
+        Meursault: Nagel und Hammer... The Wing that values experience above all else.
         เมอร์โซลท์: นาเกิล อุนท์ ฮัมเมอร์... วิงส์ที่ให้ค่าประสบการณ์มากกว่าสิ่งใดทั้งปวง
         ```
 
@@ -4117,7 +4117,7 @@
         <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Meursault: Humans are made to have experiences and actions appropriate for their worth… That is what they say of it.
+        Meursault: Humans are made to have experiences and actions appropriate for their worth... That is what they say of it.
         เมอร์โซลท์: มนุษย์ถูกสร้างมาให้มีประสบการณ์ และการกระทำที่สอดคล้องกับคุณค่าของพวกเขา... นั่นคือสิ่งที่พวกนั่นคอยพร่ำบอก
         ```
 
@@ -4139,7 +4139,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: …They’re back. They didn’t forget. Coming back like that, to—
+        Sinclair: ...They’re back. They didn’t forget. Coming back like that, to—
         ซินแคร์: ...พวกมันกลับมาแล้ว พวกมันไม่เคยลืม กลับมาแบบนั่น ก็เพื่อ—
         ```
 
@@ -4172,7 +4172,7 @@
         <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: …Looks like the advance team has words for us.
+        Vergilius: ...Looks like the advance team has words for us.
         วอร์จิลิอุส: ...ดูเหมือนว่าทีมกำลังเสริมจะมีอะไรบอกเรา
         ```
 
@@ -4192,11 +4192,11 @@
         <img src="../images/EpiLCC.png" alt="Effie" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Effie: *Pzzt Zzzt Zzzt* This is… *Pzzz…*
+        Effie: *Pzzt Zzzt Zzzt* This is... *Pzzz...*
         เอฟฟี่: *ซ่า แซ่ก แซ่ก* นี้... *ปรื๊ด...*
         ```
         ```
-        Effie: *Zzzt Pzzt* Saude is… *Pzzz…*
+        Effie: *Zzzt Pzzt* Saude is... *Pzzz...*
         เอฟฟี่: *แซ่ก ซ่า* เซาเด... *ปรื๊ด...*
         ```
 
@@ -4229,7 +4229,7 @@
         <img src="../images/EpiLCC.png" alt="Effie" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Effie: “…You shall bear here your every sin and be purified.”
+        Effie: “...You shall bear here your every sin and be purified.”
         เอฟฟี่: “...พวกแกจักต้องแบกรับทุกบาปที่แกกระทำที่นี้ และถูกชำระล้าง”
         ```
 
@@ -4247,11 +4247,11 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: Was that… Effie’s voice? Or something else?
+        Ishmael: Was that... Effie’s voice? Or something else?
         อิชมาเอล: นั่นเสียง... เอฟฟี่? หรืออะไร?
         ```
         ```
-        Ishmael: No, actually… Was that even a human voice at all?
+        Ishmael: No, actually... Was that even a human voice at all?
         อิชมาเอล: ไม่ เอาจริง ๆ ... นั่นเป็นเสียงมนุษย์ด้วยซ้ำหรือเปล่า?
         ```
 
@@ -4260,7 +4260,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Whistles…
+        Sinclair: Whistles...
         ซินแคร์: เสียงผิวปาก...
         ```
         
@@ -4278,7 +4278,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: You heard the whistles! Right at the end… Faintly…
+        Sinclair: You heard the whistles! Right at the end... Faintly...
         ซินแคร์: คุณก็ได้ยินเสียงผิวปากนั่น! ในตอนท้าย... เป็นเสียงที่แผ่วเบา...
         ```
 
@@ -4287,7 +4287,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: Was there now…?
+        Gregor: Was there now...?
         เกรกอร์: แล้วมันยังอยู่หรือเปล่า...?
         ```
 
@@ -4296,7 +4296,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: It’s her! That wretch is there! After all this time… To destroy the rest of our town…
+        Sinclair: It’s her! That wretch is there! After all this time... To destroy the rest of our town...
         ซินแคร์: มันเป็นเธอ! ตัวร้ายอยู่ตรงนั่น! หลังจากที่ผ่านมาตั้งขนาดนี้... ก็เพื่อทำลายพวกที่เหลือในเมืองของเรา...
         ```
 
@@ -4334,7 +4334,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: Hang on, there are people like the ones we met on the road up ahead…
+        Ishmael: Hang on, there are people like the ones we met on the road up ahead...
         อิชมาเอล: เดี๋ยวก่อน นั่นมันพวกคนที่เหมือนกับที่เราพึ่งเจอไปข้างหน้า...
         ```
 
@@ -4343,7 +4343,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: We should go back…
+        Sinclair: We should go back...
         ซินแคร์: เราควรกลับไป...
         ```
 
@@ -4361,7 +4361,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Can’t we… just head back? I don’t wanna go—let’s just turn around. Just tip the steering wheel and…
+        Sinclair: Can’t we... just head back? I don’t wanna go—let’s just turn around. Just tip the steering wheel and...
         ซินแคร์: เราแค่... กลับไปไม่ได้เหรอ? ผมไม่อยากไป—เรากลับรถกันเถอะนะครับ แค่หักสุดพวงมาลัย แล้วก็...
         ```
 
@@ -4370,7 +4370,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: Kiddo… What’s wrong? What’re you so worried you’ll walk into?
+        Rodion: Kiddo... What’s wrong? What’re you so worried you’ll walk into?
         โรเดียน: เจ้าหนู... เธอเป็นอะไรหรือเปล่า? เธอกังวลว่าจะไปเจออะไรหรือเปล่าจ๊ะ?
         ```
 
@@ -4388,7 +4388,7 @@
         <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: Emil Sinclair. Don’t be absurd…
+        Vergilius: Emil Sinclair. Don’t be absurd...
         วอร์จิลิอุส: เอมิล ซินแคร์ หยุดทำตัวไร้เหตุผล...
         ```
 
@@ -4448,7 +4448,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <That… might be a bit too far.>
+        Dante: <That... might be a bit too far.>
         เอาทิส: <นั่น... อาจทำเกินไปหน่อย>
         ```
 
@@ -4457,7 +4457,7 @@
         <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Outis: …If you say so, Manager.
+        Outis: ...If you say so, Manager.
         เอาทิส: ...ตามที่ท่านบรรชา ท่านผู้จัดการ
         ```
 
@@ -4476,7 +4476,7 @@
             ถึงแม้ว่าเขาจะเป็นคนประเภทขี้อาย แต่เขาก็ไม่เคยต่อต้านอะไรเป็นจริงเป็นจังเลยสักครั้งจนถึงตอนนี้ 
             ```
             ```
-            This unprecedented behavior of his bothered me…
+            This unprecedented behavior of his bothered me...
             พฤติกรรมที่ไม่คาดคิดนี้ของเขาทำฉันเป็นกังวล...
             ```
             ```
@@ -4489,7 +4489,7 @@
             ```
 
         ```
-        Dante: <…The others are all out fighting.>
+        Dante: <...The others are all out fighting.>
         ดันเต้: <...คนอื่น ๆ กำลังสู้อยู่ข้างนอกน่ะ>
         ```
 
@@ -4498,7 +4498,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: I’m… sorry. I’ll go join them.
+        Sinclair: I’m... sorry. I’ll go join them.
         ซินแคร์: ผม... ขอโทษ ผมจะไปร่วมกับพวกเขาเดี๋ยวนี้แหละ
         ```
         ```
@@ -4524,11 +4524,11 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: Ugh… What a mess this is, huh.
+        Ishmael: Ugh... What a mess this is, huh.
         อิชมาเอล: อั่ก... เละเทะอะไรอย่างนี้เนี้ย เห้อ
         ```
         ```
-        Ishmael: By the way… Don’t you hear a familiar song from somewhere?
+        Ishmael: By the way... Don’t you hear a familiar song from somewhere?
         อิชมาเอล: ไงก็เถอะ... พวกนายไม่ได้ยินเสียงเพลงที่ฟังคุ้นหูดังมาจากที่ไหนเลยเหรอ?
         ```
 
@@ -4537,7 +4537,7 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff: Oh, yeah, I know this one. Used to hear this tune an awful lot on snowy days…
+        Heathcliff: Oh, yeah, I know this one. Used to hear this tune an awful lot on snowy days...
         ฮิธคลิฟฟ์: เออ ได้ยินอยู่ ฉันรู้จักเพลงนี้ เคยฟังทำนองนี้บ่อย ๆ ในวันที่หิมะตก...
         ```
 
@@ -4561,7 +4561,7 @@
             เพลงที่ดังขึ้นปลุกหลากหลายความทรงจำของเหล่าคนบาปในกลุ่ม
             ```
             ```
-            For me… I’m not sure. It’s definitely familiar, but it doesn’t bring up any clear images in my head.
+            For me... I’m not sure. It’s definitely familiar, but it doesn’t bring up any clear images in my head.
             สำหรับฉัน... ก็ไม่ค่อยแน่ใจเท่าไร มันฟังดูคุ้นจริง ๆ แต่มันกลับไม่ได้ทำให้ฉันจำอะไรได้เลย
             ```
             ```
@@ -4573,7 +4573,7 @@
             บางที ฉันอาจรู้จักเพลงนี้ก่อนที่ฉันจะสูญเสียความทรงจำ
             ```
             ```
-            This mist of emotion roused inside me, though… It doesn’t feel precious or warm.
+            This mist of emotion roused inside me, though... It doesn’t feel precious or warm.
             หมอกแห่งความรู้สึกลอยคละคลุ้งภายในตัวฉัน กระนั้น... มันไม่ได้ให้ความรู้สึกถึงบางสิ่งที่ล้ำค่า หรืออบอุ่น
             ```
             ```
@@ -4590,11 +4590,11 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Right… That day…
+        Sinclair: Right... That day...
         ซินแคร์: ใช่แล้ว... วันนั้น...
         ```
         ```
-        Sinclair: It was snowy like this… and that song was playing…
+        Sinclair: It was snowy like this... and that song was playing...
         ซินแคร์: มันก็เป็นวันที่หิมะตกเหมือนวันนี้... และเพลงนั้นก็กำลังเล่น...
         ```
 
@@ -4618,7 +4618,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: Bleck… Isn’t this going too far?
+        Rodion: Bleck... Isn’t this going too far?
         โรเดียน: แหวะ... นี้มันไม่เกินไปหน่อยเหรอ?
         ```
 
@@ -4627,7 +4627,7 @@
         <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ryoshu: A classic… but, more kitschy than anything.
+        Ryoshu: A classic... but, more kitschy than anything.
         เรียวชู: ของคลาสสิค... แต่ไร้ค่าซะยิ่งกว่าอะไร 
         ```
 
@@ -4636,7 +4636,7 @@
         <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Meursault: …There are no survivors nearby.
+        Meursault: ...There are no survivors nearby.
         เมอร์โซลท์: ...ไม่มีผู้รอดชีวิตรอบ ๆ นี้
         ```
 
@@ -4651,7 +4651,7 @@
             จากนั้น ในที่สุดทุกอย่างก็เข้าที่เข้าทาง
             ```
             ```
-            It’s just like…
+            It’s just like...
             มันเหมือนกับว่า...
             ```
 
@@ -4693,7 +4693,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <…? Isn’t Christmas still a fair way off?>
+        Dante: <...? Isn’t Christmas still a fair way off?>
         ดันเต้: <...? ไม่ใช่ว่าคริสมาสต์ยังอีกไกลเหรอ?>
         ```
 
@@ -4719,15 +4719,15 @@
         โครเมอร์: ข้าไม่รู้หรอกนะ ว่าพวกเจ้ามาที่นี้ได้ยังไงกัน แต่พวกเจ้ากำลังบุกรุกพื้นที่ส่วนบุคคลอยู่ 
         ```
         ```
-        Kromer: As you can see… this hallowed ground is undergoing our nailing judgement. I hope you like the decorations I set up.
+        Kromer: As you can see... this hallowed ground is undergoing our nailing judgement. I hope you like the decorations I set up.
         โครเมอร์: อย่างที่เจ้าเห็น... ว่าผืนแผ่นดินอันศักสิทธิ์แห่งนี้กำลังอยู่ระหว่างการรับการพิพากษาแห่งตะปูของพวกเรา ข้าหวังว่าพวกเจ้าจะชอบการตกแต่งที่ข้าอุตสาห์ทำนะ
         ```
         ```
-        Kromer: Well, let’s just say that you got lost… Turn back now and a fine will be all you have to pay.
+        Kromer: Well, let’s just say that you got lost... Turn back now and a fine will be all you have to pay.
         โครเมอร์: เช่นนั้น เรามาทำเหมือนกับว่าพวกเจ้าแค่หลงทาง... และหันหลังกลับไปตอนนี้ และแค่จ่ายค่าปรับนิดหน่อยก็เรียบร้อย
         ```
         ```
-        Kromer:	I’m feeling generous… Today is the Nativity after all!
+        Kromer:	I’m feeling generous... Today is the Nativity after all!
         โครเมอร์: วันนี้ข้ารู้สึกใจดีเป็นพิเศษ... ก็มันเป็นถึงวันแห่งประสูติเลยนี้เนอะ! 
         ```
         ```
@@ -4772,7 +4772,7 @@
             เขาเพ่งมองมาที่ผมเป็นระยะเวลานานมาก
             ```
             ```
-            Although he was wearing a mask, those eyes of his…
+            Although he was wearing a mask, those eyes of his...
             แม้ว่า เขาจะใส่หน้ากากอยู่ แต่สายตาของเขา...
             ```
             ```
@@ -4789,7 +4789,7 @@
         กวีโด: ข้ามองเห็นผู้ไม่บริสุทธิ์ และเหล่าสาวกผู้ติดตามของมัน
         ```
         ```
-        Guido: And with them… the child you spoke of.
+        Guido: And with them... the child you spoke of.
         กวีโด: กับผู้นั้น... เด็กคนที่ท่านพูดถึง
         ```
 
@@ -4811,7 +4811,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Gr…hrrrkh… Kro…mer…
+        Sinclair: Gr...hrrrkh... Kro...mer...
         ซินแคร์: ก... แค่ก... โคร... เมอร์...
         ```
 
@@ -4876,7 +4876,7 @@
             เขายืนอย่างมั่นคงไม่หวั่นไหวหลังพวกเขา
             ```
             ```
-            …He’s not making any movement, but his presence alone is threatening enough.
+            ...He’s not making any movement, but his presence alone is threatening enough.
             ...ทั้ง ๆ ที่เขาไม่ได้เคลื่อนไหวอะไรเลย แต่เพียงตัวตนของเขาเพียงอย่างเดียว ก็รู้สึกเป็นภัยมากเกินพอแล้ว
             ```
             ```
@@ -4891,7 +4891,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: …That was a tough opponent. We should move before they come back to their senses.
+        Ishmael: ...That was a tough opponent. We should move before they come back to their senses.
         อิชมาเอล: ...เป็นศัตรูที่หินชะมัด พวกเรารีบเผ่นก่อนที่พวกมันจะกลับมามีสติเถอะ 
         ```
 
@@ -4927,7 +4927,7 @@
         <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Outis: …We will fall back.
+        Outis: ...We will fall back.
         เอาทิส: ...รับทราบค่ะ เช่นนั้น เราจะถอยทัพ
         ```
 
@@ -4952,7 +4952,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: That’s… well…
+        Sinclair: That’s... well...
         ซินแคร์: นั้น... เออ...
         ```
 
@@ -5000,7 +5000,7 @@
         * เสียงในหัว
 
             ```
-            …I hope I’m doing the right thing as the manager.
+            ...I hope I’m doing the right thing as the manager.
             ...ฉันหวังว่าฉันจะกำลังทำในสิ่งที่ถูกต้องในฐานะผู้จัดการ
             ```
             ```
@@ -5013,7 +5013,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: …My house. That’s where Kromer must be.
+        Sinclair: ...My house. That’s where Kromer must be.
         ซินแคร์: ...บ้านของผม นั่นอาจเป็นที่ ๆ โครเมอร์อยู่
         ```
 
@@ -5035,7 +5035,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: …I met her at school.
+        Sinclair: ...I met her at school.
         ซินแคร์: ...ผมเจอเธอที่โรงเรียน
         ```
 
@@ -5044,7 +5044,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: Oh boy, she’s a friend of yours? Whatever’s going on, sure hope you can talk it out…
+        Rodion: Oh boy, she’s a friend of yours? Whatever’s going on, sure hope you can talk it out...
         ซินแคร์: โอ้ เจ้าหนู เธอเป็นเพื่อนของเธอเหรอ? ไม่ว่าจะเกิดอะไรขึ้น ฉันหวังว่าเธอจะคุยแล้วเคลียใจกันได้นะ...
         ```
 
@@ -5090,11 +5090,11 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        A Prosthetic Head: Sin…cl…a…ir… Bzt… Pzzt… 
+        A Prosthetic Head: Sin...cl...a...ir... Bzt... Pzzt... 
         ศรีษะเทียม: ซิน...แค...ร์... ครืด... ซ่า...
         ```
         ```
-        A Prosthetic Head: Why… did you… return…
+        A Prosthetic Head: Why... did you... return...
         ศรีษะเทียม: ทำไม... เธอ... ถึงกลับมา
         ```
 
@@ -5103,7 +5103,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: …Sinclair, are those your neighbors?
+        Rodion: ...Sinclair, are those your neighbors?
         โรเดียน: ...ซินแคร์ พวกนั้นเพื่อนบ้านเธอเหรอ?
         ```
 
@@ -5123,7 +5123,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: It looks like they were… I really hope that isn’t the case, though…
+        Sinclair: It looks like they were... I really hope that isn’t the case, though...
         ซินแคร์: มันดูเหมือนว่าพวกเขาจะเคยเป็น... แต่ผมก็หวังอย่างสุดหัวใจว่าพวกเขาจะไม่ใช่...
         ```
 
@@ -5151,7 +5151,7 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        A Prosthetic Head: Silent night…
+        A Prosthetic Head: Silent night...
         ศรีษะเทียม: ค่ำคืนที่เงียบสงบ...
         ```
         
@@ -5175,7 +5175,7 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        A Prosthetic Head: Holy night…
+        A Prosthetic Head: Holy night...
         ศรีษะเทียม: ค่ำคืนอันศักดิ์สิทธิ์...
         ```
 
@@ -5184,7 +5184,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: It’s clearer than ever now… Prosthetic body parts are “heresy” to them.
+        Ishmael: It’s clearer than ever now... Prosthetic body parts are “heresy” to them.
         อิชมาเอล: ตอนนี้ มันชัดซะยิ่งกว่าชัดซะอีก... ว่าร่างกายเทียมถือเป็น “บาป” สำหรับพวกเขา
         ```
 
@@ -5193,7 +5193,7 @@
         <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Faust: Though it has been quite a while since prostheses were first introduced to the City…
+        Faust: Though it has been quite a while since prostheses were first introduced to the City...
         เฟาสท์: ถึงจะผ่านมาสักพักแล้วที่อวัยวะสังเคราะห์ถูกนำเสนอให้ชาวเมืองในเดอะซิตี้ได้เห็นโดยทั่วกัน...
         ```
         ```
@@ -5206,11 +5206,11 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: …Our town.
+        Sinclair: ...Our town.
         ซินแคร์: ...เมืองของเรา
         ```
         ```
-        Sinclair: Our town was called… “The Holy Site of Nest K’s Prosthetic Industry”. Most of the residents worked in manufacturing high-end prosthesis components.
+        Sinclair: Our town was called... “The Holy Site of Nest K’s Prosthetic Industry”. Most of the residents worked in manufacturing high-end prosthesis components.
         ซินแคร์: เมืองของเราเคยถูกเรียกว่า... “พืันที่ศักดิ์สิทธิ์แห่งอุตสาหกรรมโครงสร้างสังเคราะห์ประจำเนสเค” ในขณะที่ผู้อยู่อาศัยส่วนมากพากันทำงานในสายพานการผลิตคอวัยวะเทียมคุณภาพสูง
         ```
         ```
@@ -5223,7 +5223,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: So, was your family…
+        Gregor: So, was your family...
         เกรกอร์: งั้น ครอบครัวของนาย...
         ```
 
@@ -5236,7 +5236,7 @@
         ซินแคร์: ใช่ พ่อของผมเองก็เป็นเจ้าของบริษัทอวัยวะเทียมที่เพิ่งก่อนตั้งได้ไม่นาน
         ```
         ```
-        Sinclair: Is that why…
+        Sinclair: Is that why...
         ซินแคร์: นั้นอาจเป็นเหตุผลว่าทำไม... 
         ```
 
@@ -5253,7 +5253,7 @@
         อิชมาเอล: จากมุมมองที่ฉันเห็น การที่นายคิดว่าพวกมันทำไปเพราะมีอุดมการณ์อันสูงส่ง ถือเป็นเรื่องปัญญาอ่อนที่ยกยอพวกมันจากสิ่งที่พวกมันเป็น
         ```
         ```
-        Ishmael: They’re… just lunatics, consumed by madness and violence.
+        Ishmael: They’re... just lunatics, consumed by madness and violence.
         อิชมาเอล: พวกมัน... ก็เป็นแค่พวกคนบ้าที่รวมตัวกัน ถูกกลืนกินโดยความบ้าคลั่ง และความรุนแรง
         ```
 
@@ -5295,7 +5295,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Well… How does it feel?
+        Sinclair: Well... How does it feel?
         ซินแคร์: เออ... มันรู้สึกยังไงเหรอครับ?
         ```
 
@@ -5337,7 +5337,7 @@
             ```
 
         ```
-        Dante: <Uhm… That’s…>
+        Dante: <Uhm... That’s...>
         ดันเต้: <อืมม... เรื่องนั้น...>
         ```
 
@@ -5346,11 +5346,11 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Oh! It’s—um… I’m not trying to argue with you or anything.
+        Sinclair: Oh! It’s—um... I’m not trying to argue with you or anything.
         ซินแคร์: โอ้! มัน—อืม... ผมไม่ได้พยายามชวนคุณทะเลาะ หรืออะไรนะครับ
         ```
         ```
-        Sinclair: …T-That was probably rude of me. I apologize.
+        Sinclair: ...T-That was probably rude of me. I apologize.
         ซินแคร์: ...ผมคงจะปากพล้อยพูดอะไรหยาบคายออกไป ผมขอโทษ
         ```
 
@@ -5371,7 +5371,7 @@
             ```
 
         ```
-        Dante: <I’m afraid I can’t answer that… I don’t remember a single thing about my life before this clock.>
+        Dante: <I’m afraid I can’t answer that... I don’t remember a single thing about my life before this clock.>
         ดันเต้: <ฉันเกรงว่าฉันคงตอบคำถามนั้นไม่ได้... เพราะฉันจำอะไรไม่ได้เลยสักอย่างกับช่วงชีวิตก่อนมีนาฬิกานี้>
         ```
 
@@ -5380,15 +5380,15 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: I see…
+        Sinclair: I see...
         ซินแคร์: อย่างนั้นเองสินะครับ...
         ```
         ```
-        Sinclair: I’ve always wondered what it feels like when there’s something sitting where your head should be…
+        Sinclair: I’ve always wondered what it feels like when there’s something sitting where your head should be...
         ซินแคร์: ผมสงสัยมาตลอดว่ามันรู้สึกยังไงเวลาที่ต้องมีอะไรมาแทนที่ที่หัวตัวเองควรอยู่...
         ```
         ```
-        Sinclair: My family said it’s no different from wearing a hat or a watch…
+        Sinclair: My family said it’s no different from wearing a hat or a watch...
         ซินแคร: ครอบครัวผมบอกว่ามันไม่แตกต่างอะไรกับการสวมหมวก หรือนาฬิกา...
         ```
         ```
@@ -5414,15 +5414,15 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: That’s not it…
+        Sinclair: That’s not it...
         ซินแคร์ซ มันไม่ใช่อย่างนั้นหรอกครับ...
         ```
         ```
-        Sinclair: It’s nothing like that…
+        Sinclair: It’s nothing like that...
         ซินแคร์: มันไม่ได้เป็นอะไรแบบนั้น...
         ```
         ```
-        Sinclair: I’m afraid I’m not as innocent as you might think, Dante…
+        Sinclair: I’m afraid I’m not as innocent as you might think, Dante...
         ซินแคร์: ผมกลัวว่าผมอาจไม่ได้บริสุทธิ์อย่างที่คุณคิด ดันเต้
         ```
 
@@ -5569,7 +5569,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: I’ve been meaning to ask… How do you know so much about N Corp?
+        Gregor: I’ve been meaning to ask... How do you know so much about N Corp?
         เกรกอร์: ฉันมีเรื่องอยากถาม... ทำไมนายถึงรู้เรื่องเอ็นคอร์ปมากขนาดนั้นล่ะ? 
         ```
 
@@ -5578,7 +5578,7 @@
         <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Meursault: …I was once employed by N Corp.
+        Meursault: ...I was once employed by N Corp.
         เมอร์โซลท์: ...ผมเคยถูกจ้างงานจากเอ็นคอร์ปมาก่อน
         ```
 
@@ -5587,7 +5587,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: Wha…? You used to work with those people?
+        Gregor: Wha...? You used to work with those people?
         เกรกอร์: หะ...? นายเคยทำงานกับคนพวกนั้นเนี้ยนะ?
         ```
 
@@ -5638,11 +5638,11 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff: The hell… Why don’t you explain what makes you different from those nutters, then?
+        Heathcliff: The hell... Why don’t you explain what makes you different from those nutters, then?
         ฮิธคลิฟฟ์: x่าเอ้ย... งั้นก็อธิบายมาหน่อยสิ ว่าแกต่างจากพวกสติเพี้ยนพวกนั้นตรงไหน?
         ```
         ```
-        Heathcliff: Listen, mate… As much as I like to call our daft manager clockface, I don’t think they deserve by any means to be on the stake or chopping block.
+        Heathcliff: Listen, mate... As much as I like to call our daft manager clockface, I don’t think they deserve by any means to be on the stake or chopping block.
         ฮิธคลิฟฟ์: ฟังนะพวก... ถึงแม้ว่าฉันจะชอบเรียกไอผู้จัดการจอมโง่เง่าของเราว่าไอหน้านาฬิกา แต่ฉันก็ไม่เคยคิดว่ามันสมควรที่จะถูกส่งขึ้นแท่นประหาร เผาทั้งเป็น หรือตัดคอทิ้ง
         ```
         ```
@@ -5698,7 +5698,7 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff: …Pardon? Are you ‘round the twist? Do you got a chunk of metal for your brains like the folks here?
+        Heathcliff: ...Pardon? Are you ‘round the twist? Do you got a chunk of metal for your brains like the folks here?
         ฮิธคลิฟฟ์: ...ไงนะ? นี้แกเพี้ยนไปแล้วหรือไง? แกเองก็มีเศษเหล็กหุ้มสมองเหมือนไอพวกนี้ใช่ไหม?
         ```
 
@@ -5761,7 +5761,7 @@
         <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Hong Lu: What if… when dear Dante is speaking… it’s actually the clock and not the person we know as “Dante” behind those words?
+        Hong Lu: What if... when dear Dante is speaking... it’s actually the clock and not the person we know as “Dante” behind those words?
         ฮงหลู่: ก็ถ้าเกิด... เวลาที่ท่านดันเต้พูด... แล้วคำพูดที่เราได้ยินเป็นคำพูดของตัวนาฬิกาเอง ไม่ใช่คนที่ชื่อ “ดันเต้” ที่เรารู้จัก ที่เป็นผู้พูดคำพูดเหล่านั้นออกมาล่ะขอรับ?
         ```
 
@@ -5779,7 +5779,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: Good grief… You’re reaching uncharted depths of idiocy with your theories. I can’t even be bothered to refute them.
+        Ishmael: Good grief... You’re reaching uncharted depths of idiocy with your theories. I can’t even be bothered to refute them.
         อิชมาเอล: ให้ตายสิ... นายกับทฤษฏีโง่เหงาของนายนี้แม่งโง่บรม โง่จนลึกเลยก้นบ่อแห่งความโง่ที่ฉันที่เคยเจอมาทั้งชีวิต มันโง่ซะจนฉันไม่แม้แต่อยากที่จะพูดหักล้างทฤษฏีที่ดูถูกสติปัญญานั้นด้วยซ้ำ 
         ```
 
@@ -5810,7 +5810,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: Well, there’s only one of us who’d know about our manager bud’s past…
+        Gregor: Well, there’s only one of us who’d know about our manager bud’s past...
         เกรกอร์: เออ... อันที่จริง ก็มีหนึ่งในพวกเราที่รู้เกี่ยวกับอดีตของสหายผู้จัดการอยู่นะ...
         ```
 
@@ -5830,7 +5830,7 @@
         <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Faust: …That’s confidential information. Its access is restricted to the highest security level.
+        Faust: ...That’s confidential information. Its access is restricted to the highest security level.
         เฟาสท์: ...นั้นเป็นข้อมูลลับสุดยอด การเข้าถึงมันถูกจำกัดในระดับความปลอดภัยสูงสุด
         ```
 
@@ -5839,7 +5839,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <…And I get the feeling I won’t be able to read it for myself.>
+        Dante: <...And I get the feeling I won’t be able to read it for myself.>
         ดันเต้: <...และฉันเองก็รู้สึกได้ว่าแม้แต่ตัวฉันก็คงไม่มีสิทธิ์อ่านมันเหมือนกัน>
         ```
 
@@ -5902,19 +5902,19 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Dante… I… I’d like to apologize in advance.
+        Sinclair: Dante... I... I’d like to apologize in advance.
         ซินแคร์: คุณดันเต้ครับ... ผมอยากที่จะขอโทษล่วงหน้าเอาไว้ก่อน
         ```
         ```
-        Sinclair: As you know… I’m not as experienced with fighting like the others…
+        Sinclair: As you know... I’m not as experienced with fighting like the others...
         ซินแคร์: อย่างที่คุณรู้... ว่าผมไม่ใช่คนที่มีประสบการณ์การต่อสู้เหมือนคนอื่น...
         ```
         ```
-        Sinclair: Our foes might jab me in the heart over and over for that…
+        Sinclair: Our foes might jab me in the heart over and over for that...
         ซินแคร์: ศัตรูที่เราต้องเผชิญหน้าอาจฆ่าผมซ้ำแล้วซ้ำเล่าแบบนั้นก็ได้...
         ```
         ```
-        Sinclair: Will you… bear that for me?
+        Sinclair: Will you... bear that for me?
         ซินแคร์: เพราะงั้นคุณ... จะแบกรับมันเพื่อผมเหรอครับ?
         ```
 
@@ -5941,7 +5941,7 @@
             แต่วันนี้ เขากลับถามใหม่ว่าผมเข้าใจหรือเปล่า เขาดูตั้งอกตั้งใจที่จะเผชิญหน้ากับเจ้าพวกนั้นตรง ๆ แม้ว่านั้นจะหมายถึง การที่เขาต้องตายแล้วตายอีก
             ```
             ```
-            A feeling quite unlike the fright a usual battle evokes…
+            A feeling quite unlike the fright a usual battle evokes...
             เป็นกลิ่นอายของความรู้สึกที่ดูไม่เหมือนความตื่นตระหนกจากการปลุกเร้าผ่านการสมรภูมิทั่ว ๆ ไป
             ```
             ```
@@ -5949,7 +5949,7 @@
             บางที เขาอาจเก็บงำความกลัวบางอย่างที่มาพร้อมกับความกล้าที่แปลกประหลาด
             ```
             ```
-            In that case…
+            In that case...
             ถ้าเป็นแบบนั้นจริง...
             ```
 
@@ -5988,7 +5988,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: No, it’s just… I was reminded of a friend who asked me the same question.
+        Sinclair: No, it’s just... I was reminded of a friend who asked me the same question.
         ซินแคร์: ไม่ครับ มันก็แค่... ทำให้ผมนึกถึงเพื่อนคนหนึ่งที่เคยถามผมแบบเดียวกันน่ะครับ
         ```
 
@@ -6008,7 +6008,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: …I agree with what Heathcliff said.
+        Sinclair: ...I agree with what Heathcliff said.
         ซินแคร์: ...ผมเห็นด้วยกับที่คุณฮิธคลิฟฟ์พูดนะครับ
         ```
         ```
@@ -6049,7 +6049,7 @@
         * เสียงในหัว
 
             ```
-            Just as I realized that I forgot to ask what he said in response to the same question his friend had…
+            Just as I realized that I forgot to ask what he said in response to the same question his friend had...
             แล้วฉันก็พึ่งรู้ตัวว่าตัวเองดันลืมถามว่าเขาตอบยังไงกับคำถามเดียวกันนั้นที่เพื่อนเขาเคยถาม...
             ```
             ```
@@ -6103,7 +6103,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: This is… awful, to say the least…
+        Ishmael: This is... awful, to say the least...
         อิชมาเอล: นี้มัน... จะพูดว่าเลวร้ายก็ยังน้อยไป...
         ```
 
@@ -6112,7 +6112,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: The graves, they’re… dug up…?
+        Sinclair: The graves, they’re... dug up...?
         ซินแคร์: หลุมฝังศพ พวกเขา... ถูกขุดออกมาเหรอ...?
         ```
 
@@ -6136,7 +6136,7 @@
         <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Yi Sang: …To execute the dead—this is nothing short of a devil’s work.
+        Yi Sang: ...To execute the dead—this is nothing short of a devil’s work.
         ยี่ซัง: ...การประหารผู้วายชนม์—นี้ไม่ต่างอะไรจากการกระทำของปีศาจเลย
         ```
 
@@ -6151,7 +6151,7 @@
             พ่อ, แม่, และพี่สาว
             ```
             ```
-            The family he mentioned… That’s where they should be resting.
+            The family he mentioned... That’s where they should be resting.
             ครอบครัวที่เขาเคยพูดถึง... และนั่นเป็นที่ที่พวกเขาควรได้พักผ่อน
             ```
 
@@ -6202,7 +6202,7 @@
         <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: Why put so much effort into burying bodies that can’t even rot… Am I right?
+        Kromer: Why put so much effort into burying bodies that can’t even rot... Am I right?
         โครเมอร์: ทำไมถึงต้องลงแรงมากขนาดนั้นกับการฝั่งศพที่ไม่แม้แต่จะมีวันเน่าเปื่อยด้วยล่ะ... ฉันพูดถูกหรือเปล่า?
         ```
 
@@ -6211,7 +6211,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Kromer…
+        Sinclair: Kromer...
         ซินแคร์: โครเมอร์...
         ```
 
@@ -6224,7 +6224,7 @@
         โครเมอร์: ฉันมั่นใจเลย ว่าเธอจะเจอพวกเขาแถว ๆ นี้บนเสาสักต้นนั้นแหละ ถ้ามองหามากพอล่ะก็นะ ฉันจำได้ว่าฉันตอกพวกมันสามตัวด้วยมือของฉันเอง
         ```
         ```
-        Kromer: Be a good boy, and I might just tell you where they are…
+        Kromer: Be a good boy, and I might just tell you where they are...
         โครเมอร์: แล้วถ้าทำเป็นเด็กดีว่านอนสอนง่าย ฉันก็อาจบอกเธอก็ได้นะว่าพวกเขาอยู่ไหน...
         ```
         ```
@@ -6241,7 +6241,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Why… Just… Why all this…?
+        Sinclair: Why... Just... Why all this...?
         ซินแคร์: ทำไม... คุณถึง... ต้องทำเรื่องทั้งหมดนี้ด้วย...?
         ```
 
@@ -6261,7 +6261,7 @@
         <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Outis: Where did our Before Team get off to? They’ve got to turn up at this point…
+        Outis: Where did our Before Team get off to? They’ve got to turn up at this point...
         เอาทิส: ทีมลาดตระเวนของพวกเราที่ถูกส่งมาหายไปไหน? พวกเขาควรโผล่หัวมาแล้วไม่ใช่หรือไง...
         ```
 
@@ -6291,7 +6291,7 @@
         <img src="../images/EpiLCC.png" alt="Effie" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Effie: Krgh, khaag…
+        Effie: Krgh, khaag...
         เอฟฟี่: อั่ก เฮือก...
         ```
 
@@ -6300,7 +6300,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: Effie…?
+        Gregor: Effie...?
         เกรกอร์: เอฟฟี่...?
         ```
 
@@ -6370,7 +6370,7 @@
         เอาทิส: ท่านผู้จัดการ ดิฉันพอทราบวิธีการปลิดชีวิตให้เจ็บปวดน้อยที่สุดค่ะ
         ```
         ```
-        Outis: It’s one that saw many uses, in fact…
+        Outis: It’s one that saw many uses, in fact...
         เอาทิส: มันเป็นวิธีที่ฉันเคยเห็นมาแล้วนับครั้งไม่ถ้วนในสนามรบ เพราะงั้น... 
         ```
         ```
@@ -6389,7 +6389,7 @@
             ฉันมองไปหาทั้งเกรกอร์ และอิชมาเอล
             ```
             ```
-            They gazed back at me, and… as if in acknowledgement, dropped their heads low and bit their lips.
+            They gazed back at me, and... as if in acknowledgement, dropped their heads low and bit their lips.
             และพวกเขาก็จ้องมองกลับมาที่ฉัน... ราวกับทำใจยอมรับในสิ่งที่จะเกิดขึ้น ก่อนที่พวกเขาจะก้มหัวลง และกัดริมฝีปากของตัวเองด้วยความโศกเศร้า
             ```
             ```
@@ -6402,7 +6402,7 @@
         <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Outis: …Rest in peace.
+        Outis: ...Rest in peace.
         เอาทิส: ...หลับให้สบาย
         ```
 
@@ -6430,7 +6430,7 @@
         <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: Pfh… Pwahahahaha!!
+        Kromer: Pfh... Pwahahahaha!!
         โครเมอร์: ฟี่บ... วาฮ่าฮ่าฮ่าฮ่า!!
         ```
 
@@ -6508,7 +6508,7 @@
         <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Outis: …It’s Guido.
+        Outis: ...It’s Guido.
         เอาทิส: ...นั้นกวีโด
         ```
 
@@ -6523,7 +6523,7 @@
             พวกเรานึกว่าตัวเองสามารถจัดการเขาด้วยทุกอย่างที่เรามีแล้ว แต่ในตอนนี้ เขากลับไม่มีรอยขีดข่วนแม้แต่รอยเดียวอยู่บนร่างกายเลยด้วยซ้ำ อย่างกับว่า แผลของเขาทั้งหมดถูกฟื้นฟูจนหายดีในเวลาอันสั้น 
             ```
             ```
-            Seeing him walk towards us in perfect condition fatigued the Sinners…
+            Seeing him walk towards us in perfect condition fatigued the Sinners...
             การที่ได้เห็นเขาเดินเข้ามาหาพวกเราในสภาพสมบูรณ์พร้อม ทำเอาเหล่าคนบาปรู้สึกใจเสียอย่างบอกไม่ถูก...
             ```
             ```
@@ -6596,7 +6596,7 @@
         ซินแคร์: โครเมอร์!!!
         ```
         ```
-        Sinclair: Get back here! I’ll… I swear, you—! I’ll grab you with my hand and—
+        Sinclair: Get back here! I’ll... I swear, you—! I’ll grab you with my hand and—
         ซินแคร์: กลับมานี้นะ! ผมจะ... ผมสาบาน ว่าคุณ—! จะต้องถูกผมจับด้วยมือของผม แล้ว—
         ```
 
@@ -6609,7 +6609,7 @@
         โครเมอร์: ไม่ล่ะ ซินแคร์ที่รัก
         ```
         ```
-        Kromer: It’s always been the other way around…
+        Kromer: It’s always been the other way around...
         โครเมอร์: ในท้ายที่สุด มันก็จบลงอีกแบบหนึ่งเสมอนั้นแหละ...
         ```
 
@@ -6624,7 +6624,7 @@
             รอยยิ้มเย้ยที่เต้นไปเต้นมาบนทั้งหน้าของโครเมอร์; ทำให้มันยากที่จะบอกได้ ว่ามันเป็นเพราะตัวเปลวไฟแห่งความรุนแรงเองที่โหมกระหน่ำ หรือความชั่วช้าของตัวเธอกันแน่ที่กำลังกลืนกินทุกคน
             ```
             ```
-            And then…
+            And then...
             และหลังจากนั้น...
             ```
 
@@ -6689,7 +6689,7 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff: …What the—? The hell have you been dawdling in the back for if you could do that?
+        Heathcliff: ...What the—? The hell have you been dawdling in the back for if you could do that?
         ฮิธคลิฟฟ์: ...x่าอะไรวะนั่น—? ถ้าแกทำอย่างงั้นได้ แล้วตลอดมาแกจะเอาแต่เดินเตาะแตะอยู่แนวหลังทำซากอะไรวะ?
         ```
 
@@ -6715,7 +6715,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: You’re not the one to complain about miraculous recoveries…
+        Gregor: You’re not the one to complain about miraculous recoveries...
         เกรกอร์: แกไม่ใช่คนที่มาต้องบ่นเรื่องการฟื้นตัวราวกับปฎิหาริย์นั่นสักหน่อย...
         ```
 
@@ -6783,7 +6783,7 @@
         กวีโด: บาปจากการบูชาผู้นอกรีตนั้นยังร้ายแรงน้อยกว่าการตกเป็นพวกนอกรีตเสียเอง
         ```
         ```
-        Guido: Therefore, as long as you are willing to repent and cleanse your minds of sin…
+        Guido: Therefore, as long as you are willing to repent and cleanse your minds of sin...
         กวีโด: ดังนั้น ตราบใดที่เจ้ายังปราถณาที่จะกลับใจ และชำระล้างจิตใจแห่งบาปของเจ้า...
         ```
         ```
@@ -6827,7 +6827,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
         
         ```
-        Ishmael: Dante… That man… He just insulted you. He doesn’t even see you as a human being.
+        Ishmael: Dante... That man... He just insulted you. He doesn’t even see you as a human being.
         อิชมาเอล: ดันเต้... ไอสารเลวนั่น... มันดูถูกนายนะ มันไม่แม้แต่จะมองนายเป็นมนุษย์ด้วยซ้ำ 
         ```
 
@@ -6836,7 +6836,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <I mean, you guys call me clockface all the time too…>
+        Dante: <I mean, you guys call me clockface all the time too...>
         ดันเต้: <แล้วไงล่ะ ยังไงซะพวกนายทุกคนก็เรียกฉันไอหน้านาฬิากามาตลอดอยู่แล้วไม่ใช่เหรอ...>
         ```
 
@@ -6845,7 +6845,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: That’s not the same at all! Besides, I’ve never used that nickname…
+        Ishmael: That’s not the same at all! Besides, I’ve never used that nickname...
         อิชมาเอล: นั่นไม่เหมือนกันเลยสักนิด! อีกอย่าง ฉันก็ไม่เคยเรียกนายด้วยชื่อเล่นนั่น...
         ```
 
@@ -6865,7 +6865,7 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff: So you think throwing some fancy words around will be enough to persuade us, eh…
+        Heathcliff: So you think throwing some fancy words around will be enough to persuade us, eh...
         ฮิธคลิฟฟ์: แกคิดว่าการที่แกพ่นคำสวยหรูออกมา มันมากพอที่จะโน้มน้าวพวกเรา รึไง...
         ```
         ```
@@ -6902,7 +6902,7 @@
         กวีโด: และข้าจักผูกเจ้ากับตะปู แล้วฝังเจ้าให้ลึกที่สุดจากพื้นดิน
         ```
         ```
-        Guido: For he who shan’t repent…
+        Guido: For he who shan’t repent...
         กวีโด: สำหรับผู้ที่ไม่กลับใจ...
         ```
 
@@ -6920,7 +6920,7 @@
         <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Guido: …is not granted rest beneath the earth.
+        Guido: ...is not granted rest beneath the earth.
         ฮิธคลิฟฟ์: ...เจ้าจักไม่ได้พักผ่อนใต้พื้นพสุธาธุลีดินอย่างสงบ
         ```
 
@@ -6954,7 +6954,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: Sinclair… Calm down.
+        Rodion: Sinclair... Calm down.
         โรเดียน: ซินแคร์... ใจเย็นก่อน
         ```
 
@@ -7013,7 +7013,7 @@
             หลังจากพูดจบ จู่ ๆ ดอนกิโฆเต้ก็กระโดดเข้าใส่ซินแคร์อย่างเต็มแรง และกดเขาลงกับพื้น
             ```
             ```
-            And then…
+            And then...
             จากนั้น...
             ```
             ```
@@ -7030,7 +7030,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion:	Oh, um… Shouldn’t we do something?
+        Rodion:	Oh, um... Shouldn’t we do something?
         โรเดียน: โอ้ อืม... ไม่ใช่ว่าเราต้องทำอะไรหน่อยเหรอ?
         ```
 
@@ -7050,7 +7050,7 @@
         * เสียงในหัว
 
             ```
-            A cloud of dust rose from her ruthless beating…
+            A cloud of dust rose from her ruthless beating...
             เมฒฝุ่นลอยคละคลุ้งไปทั่วจากการทุบตีอย่างโหดเหี้ยมของเธอ...
             ```
             ```
@@ -7072,7 +7072,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
         
         ```
-        Sinclair: Hng, khh…
+        Sinclair: Hng, khh...
         ซินแคร์: ฮึก ค่าก...
         ```
 
@@ -7116,7 +7116,7 @@
         <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Don Quixote: Well— I…!
+        Don Quixote: Well— I...!
         ดอน กิโฆเต้: แท้จริงแล้ว— ข้า...!
         ```
 
@@ -7125,7 +7125,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Hic… Huhk…
+        Sinclair: Hic... Huhk...
         ซินแคร์: อั่ก... เฮือก...
         ```
 
@@ -7145,11 +7145,11 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: I’ll get her for this…
+        Sinclair: I’ll get her for this...
         ซินแคร์: ผมจะลากคอนางนั่นมา...
         ```
         ```
-        Sinclair: I’ll go to my home… and skewer that bitch… I’ll skewer her with a stake…! And then—
+        Sinclair: I’ll go to my home... and skewer that bitch... I’ll skewer her with a stake...! And then—
         ซินแคร์: ผมจะเข้าไปในบ้านของผม... แล้วเสียบนางสารเลวนั่น... ผมจะเสียบมันด้วยหลาวไม้...! จากนั้นก็—
         ```
 
@@ -7173,23 +7173,23 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: I… lost everything overnight…
+        Sinclair: I... lost everything overnight...
         ซินแคร์: ผม... เสียทุกสิ่งอย่างเพียงชั่วข้ามคืน...
         ```
         ```
-        Sinclair: Back then… they didn’t parade their ‘Nagel und Hammer’ name around. You didn’t see large groups like that in the open.
+        Sinclair: Back then... they didn’t parade their ‘Nagel und Hammer’ name around. You didn’t see large groups like that in the open.
         ซินแคร์: ตอนนั้น... พวกเขาไม่ได้ป่าวประกาศถึงการมีอยู่ของ ‘นาเกิล อุนท์ ฮัมเมอร์’ ไม่มีใครเลยที่เห็นกลุ่มที่ใหญ่ขนาดนั่นอย่างเปิดเผย
         ```
         ```
-        Sinclair: But, at some point…
+        Sinclair: But, at some point...
         ซินแคร์: แต่พอถึงจุดหนึ่ง...
         ```
         ```
-        Sinclair: People calling themselves “Hammers” started showing up in town, one by one, and…
+        Sinclair: People calling themselves “Hammers” started showing up in town, one by one, and...
         ซินแคร์: ผู้คนที่เรียกตัวเองว่า “ค้อน” ก็เริ่มโผล่เข้ามาในเมือง คนแล้วคนเล่า และ...
         ```
         ```
-        Sinclair: Eagh, hic…
+        Sinclair: Eagh, hic...
         ซินแคร์: ฮึก อั่ก... 
         ```
 
@@ -7198,7 +7198,7 @@
         <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Rodion: It’s okay, kiddo. No need to push yourself…
+        Rodion: It’s okay, kiddo. No need to push yourself...
         โรเดียน: ไม่เป็นไร เจ้าหนู ไม่จำเป็นต้องฝืนตัวเอง...
         ```
 
@@ -7218,19 +7218,19 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: I still think that sometimes…
+        Sinclair: I still think that sometimes...
         ซินแคร์: ผมยังคิดอยู่เลยว่าบางที...
         ```
         ```
-        Sinclair: This is all just a bad dream and I’m having trouble waking up…
+        Sinclair: This is all just a bad dream and I’m having trouble waking up...
         ซินแคร์: นี้อาจเป็นแค่ฝันร้าย และผมก็แค่ยังไม่ตื่น...
         ```
         ```
-        Sinclair: It always comes… Every morning, before I open my eyes…
+        Sinclair: It always comes... Every morning, before I open my eyes...
         ซินแคร์: มันมาตลอด... ทุกเช้าก่อนที่ผมจะลืมตา...
         ```
         ```
-        Sinclair: Maybe this time… I’ll wake up and see my familiar ceiling… Just maybe.
+        Sinclair: Maybe this time... I’ll wake up and see my familiar ceiling... Just maybe.
         ซินแคร์: บางทีครั้งนี้... ผมอาจได้ตื่นขึ้นมา แล้วเห็นเพดานที่คุ้นเคย... บ้างสักที
         ```
 
@@ -7262,7 +7262,7 @@
             เราเข้าไปในคฤหาสน์ที่ไหม้เกรียม ก่อนที่ซินแคร์จะนำเราไปยังห้องใต้ดิน
             ```
             ```
-            When he opened the door…
+            When he opened the door...
             เมื่อเขาเปิดประตูออก...
             ```
 
@@ -7282,7 +7282,7 @@
             ```
 
         ```
-        Dante: <To think there’d be a tunnel down here…>
+        Dante: <To think there’d be a tunnel down here...>
         ดันเต้: <ใครจะคิดกัน ว่าจะมีอุโมงค์อยู่ข้างล่างนี้...>
         ```
 
@@ -7291,7 +7291,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: So… if my guess is right, then this passage should lead to the branch facility.
+        Sinclair: So... if my guess is right, then this passage should lead to the branch facility.
         ซินแคร์: งั้น... ถ้าผมเดาถูก ทางนี้จะนำพาเราไปสู่ภายในสาขาย่อย
         ```
 
@@ -7336,7 +7336,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: …Isn’t that what it is?
+        Sinclair: ...Isn’t that what it is?
         ซินแคร์: ...ไม่ใช่ว่านั่นเป็นสิ่งที่มันควรเป็นอยู่แล้วเหรอครับ?
         ```
         ```
@@ -7376,7 +7376,7 @@
         เฟาสท์: ในครั้งนี้ มันจะไม่ใช่แค่ทริปสั้น ๆ เมื่อรู้ว่าเส้นทางนี้ถูกพวกเขาขุดขึ้นมาเพื่อใช้งาน ไม่ว่าจะเร็วหรือช้า ในท้ายที่สุดเราก็ต้องวิ่งไปเจอะพวกศัตรูบนทางข้างหน้า
         ```
         ```
-        Faust: …We should move once we are ready.
+        Faust: ...We should move once we are ready.
         เฟาสท์: ...เพราะงั้น เราก็ควรรีบไปเมื่อพร้อม
         ```
 
@@ -7398,7 +7398,7 @@
         เฟาสท์: โปรดอย่ามองฉันด้วยสายตาแบบนั่นด้วย ดันเต้
         ```
         ```
-        Faust: …I am simply not in the position to comment on it.
+        Faust: ...I am simply not in the position to comment on it.
         เฟาสท์: ...ฉันเองก็ไม่ได้อยู่ในฐานะที่จะพูดอะไรได้
         ```
 
@@ -7424,7 +7424,7 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Tortured Prosthesis: Please stop… It hurts… It hurts so much…!
+        Tortured Prosthesis: Please stop... It hurts... It hurts so much...!
         ชายร่างเทียมผู้ถูกทรมาณ: ช่วยหยุดทีเถอะ... มันเจ็บ... มันเจ็บมากเลย...!
         ```
 
@@ -7451,7 +7451,7 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Tortured Prosthesis: No… The pain… It’s real, I swear…
+        Tortured Prosthesis: No... The pain... It’s real, I swear...
         ชายร่างเทียมผู้ถูกทรมาณ: ไม่... มันเจ็บ... จริงนะเว้ย ฉันสาบาน...
         ```
 
@@ -7482,7 +7482,7 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Tortured Prosthesis: No, wait! I can… I can shed tears! So I beg you, please…
+        Tortured Prosthesis: No, wait! I can... I can shed tears! So I beg you, please...
         ชายร่างเทียมผู้ถูกทรมาณ: ไม่ เดี๋ยว! ฉันเอง... ก็ร้องได้! เพราะงั้นฉันขอล่ะ ได้โปรด...
         ```
 
@@ -7500,7 +7500,7 @@
         <img src="../images/N_Employee2.png" alt="N_Employee2" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Interrogative Inquisitor: …Hm. Indeed, for a genuine effusion of sorrow suggests humanity. 
+        Interrogative Inquisitor: ...Hm. Indeed, for a genuine effusion of sorrow suggests humanity. 
         ผู้ไต่สวนที่สอบปากคำ: ...หืม ย่อมใช่ ว่าความโศกเศร้าแท้จริงที่ไหลรินออกสามารถบ่งบอกความเป็นมนุษย์
         ```
 
@@ -7509,7 +7509,7 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Tortured Prosthesis: Thank you… Thank you so much…
+        Tortured Prosthesis: Thank you... Thank you so much...
         ชายร่างเทียมผู้ถูกทรมาณ: ขอบคุณ... ขอบคุณมากจริง ๆ...
         ```
 
@@ -7558,7 +7558,7 @@
         <img src="../images/N_Employee1.png" alt="N_Employee1" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Scrouging Inquisitor: Gah… Ngh…
+        Scrouging Inquisitor: Gah... Ngh...
         ผู้ไต่สวนที่กำลังเฆี่ยนตี: อั่ก... อึก...
         ```
 
@@ -7567,7 +7567,7 @@
         <img src="../images/N_Employee2.png" alt="N_Employee2" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Interrogative Inquisitor: …You heretics truly are like pests.
+        Interrogative Inquisitor: ...You heretics truly are like pests.
         ผู้ไต่สวนที่สอบปากคำ: ...พวกนอกรีตเยี่ยงเจ้าชั่งเป็นหนอนแมลงที่น่ารำคาญเสียจริง
         ```
         ```
@@ -7602,7 +7602,7 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        ???: Well I’ll be… You’ve all… gotten better at fighting, haven’t you…?
+        ???: Well I’ll be... You’ve all... gotten better at fighting, haven’t you...?
         บุคคลปริศนา: ให้ตายสิ... พวกเธอทุกคน... สู้กันเก่งขึ้นแล้วใช่ไหมเนีย...?
         ```
 
@@ -7622,7 +7622,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: Saude…?
+        Gregor: Saude...?
         เกรกอร์: เซาเด...?
         ```
 
@@ -7666,11 +7666,11 @@
         <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Saude: Effie… How is he…?
+        Saude: Effie... How is he...?
         เซาเด: เอฟฟี่... หมอนั่นเป็นไงบ้าง...?
         ```
         ```
-        Saude: Alive, yeah? You… must’ve met outside…
+        Saude: Alive, yeah? You... must’ve met outside...
         เซาเด: ยังมีชีวิตอยู่ใช่ไหม? พวกนาย... คงเจอเขาด้านนอกนั่นแล้ว...
         ```
 
@@ -7694,7 +7694,7 @@
         <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
         
         ```
-        Hong Lu: …Yes, he’s doing fine now.
+        Hong Lu: ...Yes, he’s doing fine now.
         ฮงหลู่: ...ใช่ขอรับ เขายังสบายดี
         ```
 
@@ -7759,7 +7759,7 @@
         <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Outis: …Manager. If I may be forward, I would suggest soon including steps in your combat protocol to confirm that our foes are dead.
+        Outis: ...Manager. If I may be forward, I would suggest soon including steps in your combat protocol to confirm that our foes are dead.
         เอาทิส: ...ท่านผู้จัดการ หากไม่เป็นการเสียมารยาท ฉันอยากเสนอข้อปฎิบัติเพิ่มเติมในมาตรการต่อสู้ของท่าน เพื่อยืนยันว่าศัตรูที่เราเคยเผชิญหน้าเสียชีวิตในสนามรบแล้วจริง ๆ 
         ```
 
@@ -7779,7 +7779,7 @@
         <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Guido: Ye Heretics… must be exterminated.
+        Guido: Ye Heretics... must be exterminated.
         กวีโด: เจ้าพวกนอกรีตทั้งหลาย... จักต้องมลายหายให้สิ้นซาก
         ```
 
@@ -7788,7 +7788,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <How long have you been…>
+        Dante: <How long have you been...>
         ดันเต้: <แกอยู่นี้ตั้งแต่ตอนไหน...>
         ```
 
@@ -7808,7 +7808,7 @@
         <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Guido: And… the rest… shall be purified.
+        Guido: And... the rest... shall be purified.
         กวีโด: และ... ที่เหลือ... จักถูกชำระล้างให้สะอาดเอี่ยม
         ```
 
@@ -7836,7 +7836,7 @@
         <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Saude: Please stop…
+        Saude: Please stop...
         เซาเด: ช่วยหยุดแค่นั่นด้วย...
         ```
 
@@ -7860,11 +7860,11 @@
         <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Saude: I need you… to keep still…
+        Saude: I need you... to keep still...
         เซาเด: ฉันต้องการให้นาย... อยู่นิ่ง ๆ...
         ```
         ```
-        Saude: The moment you try to turn that clock, my gun… will blow off your head…
+        Saude: The moment you try to turn that clock, my gun... will blow off your head...
         เซาเด: วินาทีนาย พยายามที่จะหมุนนาฬิกานั่น ปืนของฉัน... จะเปากระบานนาย...
         ```
 
@@ -7873,7 +7873,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <Saude…?>
+        Dante: <Saude...?>
         ดันเต้: <เซาเด...?>
         ```
 
@@ -7882,11 +7882,11 @@
         <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Saude: Don’t look at me… like that… I can’t hear you. But, I can tell you this.
+        Saude: Don’t look at me... like that... I can’t hear you. But, I can tell you this.
         เซาเด: อย่ามองฉัน... อย่างนั่นสิ.... ถึงฉันจะไม่ด้ยินนาย แต่ฉันก็บอกนายเรื่องนี้ได้
         ```
         ```
-        Saude: They promised… to let Effie go… if I helped to get rid of you…
+        Saude: They promised... to let Effie go... if I helped to get rid of you...
         เซาเด: พวกเขาสัญญา... ว่าจะปล่อยเอฟฟี่ไป... ถ้าหากว่าฉันกำจัดนายได้...
         ```
 
@@ -7912,7 +7912,7 @@
             ```
 
         ```
-        Dante: <Kahk, ghhng…>
+        Dante: <Kahk, ghhng...>
         ดันเต้: <อั่ก, อึก...>
         ```
 
@@ -7924,7 +7924,7 @@
             ```
 
         ```
-        Dante: <Nngh…>
+        Dante: <Nngh...>
         ดันเต้: <ย๊ากก...>
         ```
 
@@ -7943,7 +7943,7 @@
             นี้มันจบแล้วเหรอ? นี้ฉันต้องมาตายแบบนี้จริง ๆ เหรอ?
             ```
             ```
-            Could this… have turned out differently if I was a better manager?
+            Could this... have turned out differently if I was a better manager?
             นี้จะ... แตกต่างไปบ้างไหมนะ ถ้าเกิดฉันเป็นผู้จัดการที่ดีกว่านี้? 
             ```
             ```
@@ -7955,7 +7955,7 @@
             โชคไม่ดีเลยนะ ฮีธคลิฟฟ์
             ```
             ```
-            You’ll be missing out on a good show…
+            You’ll be missing out on a good show...
             ที่นายกำลังจะพลาดดูของดีซะได้...
             ```
             ```
@@ -7967,7 +7967,7 @@
             ของบางอย่างที่แตกออก
             ```
             ```
-            Fortunately for me…
+            Fortunately for me...
             แต่โชคยังดีสำหรับฉัน ที่เสียงนั่น...
             ```
 
@@ -7976,7 +7976,7 @@
         <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Guido: Ngh…
+        Guido: Ngh...
         กวีโด: ฮึก...
         ```
 
@@ -7996,7 +7996,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Huff, hoogh… Hahk.
+        Sinclair: Huff, hoogh... Hahk.
         ซินแคร์: ฮัฟ... ฮูห์... แค่ก
         ```
 
@@ -8019,7 +8019,7 @@
             ตอนแรกเขาเกือบที่จะหมดสติ ล้มลงนอนแน่นิ่งจนไม่กี่อึดใจต่อมา—มันเป็นปฎิหาริย์ที่เขายังลุกขึ้นมาได้ และทำแบบนี้
             ```
             ```
-            I could escape Guido’s grasp thanks to him…
+            I could escape Guido’s grasp thanks to him...
             เพราะเขาเลย ฉันถึงรอดพ้นจากแรงบีบของกวีโด...
             ```
             ```
@@ -8032,11 +8032,11 @@
         <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Guido: …I see.
+        Guido: ...I see.
         กวีโด: ...ข้าเห็นแล้ว
         ```
         ```
-        Guido: You, too, are a filthy heretic…
+        Guido: You, too, are a filthy heretic...
         กวีโด: ว่าเจ้าเองก็เป็นผู้นอกรีตสกปรกโสกโครก...
         ```
 
@@ -8045,7 +8045,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: You’re… all insane… out of your minds…
+        Sinclair: You’re... all insane... out of your minds...
         ซินแคร์: พวกแก... มันบ้า... เสียสติกันไปหมดแล้ว...
         ```
 
@@ -8054,7 +8054,7 @@
         <img src="../images/Guido.png" alt="Guido" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Guido: The One Who Grips had once said…
+        Guido: The One Who Grips had once said...
         กวีโด: ครั้งหนึ่ง ท่านผู้กุมกำเคยตรัสว่า...
         ```
         ```
@@ -8062,7 +8062,7 @@
         กวีโด: เจ้าอาจเป็นเช่นเดียวกับท่านผู้นั่น
         ```
         ```
-        Guido: What a shame…
+        Guido: What a shame...
         กวีโด: แต่ชั่งน่าเสียดาย...
         ```
         ```
@@ -8075,7 +8075,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
         
         ```
-        Dante: <Sinclair… run away… I can’t… help you…>
+        Dante: <Sinclair... run away... I can’t... help you...>
         ดันเต้: <ซินแคร์... หนีไป... ฉันช่วย... นายไม่ได้...>
         ```
 
@@ -8084,7 +8084,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: No… I’m not running anymore.
+        Sinclair: No... I’m not running anymore.
         ซินแคร์: ไม่... ผมจะวิ่งหนีอีกแล้ว
         ```
 
@@ -8093,7 +8093,7 @@
         <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Saude: …I like that answer, Sinclair.
+        Saude: ...I like that answer, Sinclair.
         เซาเด: ...ฉันชอบคำตอบนั่นนะ ซินแคร์
         ```
 
@@ -8121,11 +8121,11 @@
         กวีโด: ......
         ```
         ```
-        Guido: You, who bring ruination upon yourselves…
+        Guido: You, who bring ruination upon yourselves...
         กวีโด: เจ้า คือผู้ที่นำพามาซึ่งหายนะสู่ตนเอง...
         ```
         ```
-        Guido: The Hammer shall continue to pursue you…
+        Guido: The Hammer shall continue to pursue you...
         กวีโด: เช่นนั้น ค้อนจักไล่ตามเจ้าต่อไป...
         ```
 
@@ -8136,7 +8136,7 @@
         * เสียงในหัว
 
             ```
-            With those words…
+            With those words...
             เมื่อสิ้นประโยค...
             ```
             ```
@@ -8144,7 +8144,7 @@
             กวีโดก็ล่วงลงนอนกองกับพื้น ไม่ขยับ
             ```
             ```
-            And in that hush…
+            And in that hush...
             และในความเงียบงันนั่นเอง...
             ```
             ```
@@ -8157,7 +8157,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <…Saude.>
+        Dante: <...Saude.>
         ดันเต้: <...เซาเด>
         ```
 
@@ -8166,7 +8166,7 @@
         <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
         
         ```
-        Saude: Effie, he’s… he’s dead, isn’t he?
+        Saude: Effie, he’s... he’s dead, isn’t he?
         เซาเด: เอฟฟี่ เขา... เขาตายแล้วใช่ไหม?
         ```
         ```
@@ -8179,7 +8179,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: …C’mon Saude, let’s get out of here. You’ll be okay… Just gotta stop the bleeding, and… get you patched up.
+        Gregor: ...C’mon Saude, let’s get out of here. You’ll be okay... Just gotta stop the bleeding, and... get you patched up.
         เกรกอร์: ...เอาน่า เซาเด พวกเรารีบออกไปจากที่นี้กัน เธอจะไม่เป็นไร... แค่ต้องห้ามเลือด แล้วก็... รักษาแผลพวกนั่น
         ```
 
@@ -8188,7 +8188,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: Right. I’ll get a tourniquet…
+        Ishmael: Right. I’ll get a tourniquet...
         อิชมาเอล: ใช่แล้ว ฉันไปเอาสายรัดมา...
         ```
 
@@ -8214,7 +8214,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
         
         ```
-        Sinclair: You can’t—You can’t do that…
+        Sinclair: You can’t—You can’t do that...
         ซินแคร์: คุณไม่มีสิทธิ์—จะพูดอย่างนั่นนะ...
         ```
 
@@ -8223,7 +8223,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: You said yourself that you can hardly lift a finger. I can’t let you watch our backs when you’re in such a mess… Please?
+        Ishmael: You said yourself that you can hardly lift a finger. I can’t let you watch our backs when you’re in such a mess... Please?
         อิชมาเอล: เธอบอกเองไม่ใช่หรือไงว่าแค่กระดิกนิ้วยังทำไม่ได้ ฉันจะไม่ยอมปล่อยให้เธอต้องดูหลังพวกเราในขณะที่เธอเละขนาดหรอกนะ... ได้โปรด?
         ```
 
@@ -8232,7 +8232,7 @@
         <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Saude: You know… in moments like this… you’re supposed to just nod at me and be on your way.
+        Saude: You know... in moments like this... you’re supposed to just nod at me and be on your way.
         เซาเด: รู้ไหม... ว่าในเวลาแบบนี้... สิ่งที่พวกนายควรทำก็คือพยักหน้าให้ฉัน แล้วก็ไปซะ
         ```
         ```
@@ -8245,7 +8245,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: You can’t… You can’t just…
+        Sinclair: You can’t... You can’t just...
         ซินแคร์: ไม่ได้นะ... อย่าทำแบบนี้...
         ```
 
@@ -8254,7 +8254,7 @@
         <img src="../images/SodeLCC.png" alt="Saude" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Saude: Aw… You’re making this pretty awkward, you know that? Here I thought I could have a cool farewell.
+        Saude: Aw... You’re making this pretty awkward, you know that? Here I thought I could have a cool farewell.
         เซาเด: แหม... พวกนายกำลังให้เรื่องมัน อึดอัด/ยุ่งยาก นะ รู้ไหม? ทั้ง ๆ ที่นึกว่าตัวเองจะได้สั่งลาเท่ ๆ อยู่แล้วเชียว
         ```
         ```
@@ -8280,7 +8280,7 @@
         เซาเด: ไม่จำเป็น/ไม่เป็นไร
         ```
         ```
-        Saude: …Just tell him to come visit and say hello someday. You know what I mean?
+        Saude: ...Just tell him to come visit and say hello someday. You know what I mean?
         เซาเด: ...แค่ช่วยบอกเขาก็พอว่าให้มาเยี่ยมฉัน และทักทายในสักวัน เธอเข้าใจใช่ไหม?
         ```
 
@@ -8319,7 +8319,7 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff: …You hear beasts crawling around somewhere?
+        Heathcliff: ...You hear beasts crawling around somewhere?
         ฮิธคลิฟฟ์: ...มีใครได้ยินเสียงป่ากำลังคลานไปคลานมาอยู่บ้างไหม?
         ```
 
@@ -8339,7 +8339,7 @@
         <img src="../images/Abnormality_Employee.png" alt="Abnormality_Employee" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        ???: Nnh… Ghhhgn…
+        ???: Nnh... Ghhhgn...
         ตัวประหลาด(?): อื้อ... อึก..
         ```
 
@@ -8357,7 +8357,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: Take a closer look—they aren’t Abnormalities. See that emblem…
+        Ishmael: Take a closer look—they aren’t Abnormalities. See that emblem...
         อิชมาเอล: ลองมองใกล้ ๆ สิ—พวกมันไม่ใช่แอบนอร์มาลิตี้ เห็นตรานั่นไหม...
         ```
 
@@ -8390,7 +8390,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: You mean that nauseating state…?
+        Gregor: You mean that nauseating state...?
         เกรกอร์: นี้เธอหมายถึงสภาวะที่ชวนอ้วกนั่นน่ะนะ...?
         ```
 
@@ -8399,7 +8399,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: I think it happened to me in battle once when I was on the verge of a breakdown… It was like I was being devoured.
+        Ishmael: I think it happened to me in battle once when I was on the verge of a breakdown... It was like I was being devoured.
         อิชมาเอล: ฉันคิดว่ามันเคยเกิดขึ้นกับฉันในการต่อสู้ครั้งหนึ่ง ตอนที่ฉันจวนเจียนจะเสียสติ... มันเหมือนกับว่าฉันกำลังถูกกลืนกิน
         ```
 
@@ -8408,11 +8408,11 @@
         <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Faust: Although it’s not quite like consumption in the conventional sense… I do suppose that it is a serviceable analogy, seeing as it eats away at your essence.
+        Faust: Although it’s not quite like consumption in the conventional sense... I do suppose that it is a serviceable analogy, seeing as it eats away at your essence.
         เฟาสท์: ถึงแม้ว่ามันจะไม่ใช่การ “กิน” แบบกินจริง ๆ ในความหมายโดยทั่วไป... แต่ก็ถือว่าเป็นการเปรียนเปรยที่ใช้ได้ เมื่ออ้างอิงจากลักษณะของอาการที่ค่อย ๆ กลืนกินตัวตนของผู้ป่วยทีละนิด
         ```
         ```
-        Faust: …And in observation, unlike the last floor, this place does not seem to be exclusively for torturing prosthesis users.
+        Faust: ...And in observation, unlike the last floor, this place does not seem to be exclusively for torturing prosthesis users.
         เฟาสท์: ...และเมื่อสังเกตให้ดี จะพบว่าที่นี้ไม่เหมือนกับชั้นก่อน ชั้นนี้ดูเหมือนจะไม่ได้ถูกกำหนดให้เป็นสถานที่จำเพาะสำหรับทรมาณผู้ใช้ร่างเทียม
         ```
         ```
@@ -8425,7 +8425,7 @@
         <img src="../images/Abnormality_Employee.png" alt="Abnormality_Employee" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Corroded Inquisitor: Urg… Ghh… Arrh…
+        Corroded Inquisitor: Urg... Ghh... Arrh...
         ผู้ไต่สวนที่ถูกกัดกิน: อื้อ... อึก... อ๊าก..
         ```
 
@@ -8436,7 +8436,7 @@
         * เสียงในหัว
 
             ```
-            Staring at those beings stumbling about…
+            Staring at those beings stumbling about...
             พอจ้องมองไปยังเจ้าพวกนั่นที่พากันเดินโซซัดโซเซไปมาอย่างไร้จุดหมายแล้ว...
             ```
             ```
@@ -8448,11 +8448,11 @@
             หัวเทียมของฉันนี้ มันมีค่ามากขนาดนั่นเลยเหรอ... มันมีค่าขนาดที่ต้อง แลก/สละ ทุกอย่าง จนถึงขั้นที่พวกเขาต้องยอมกลายสภาพตัวเองเป็นบางสิ่งที่น่าขยะแขยง ซะยิ่งกว่าการที่มีนาฬิกาอยู่บนหัวน่ะนะ?
             ```
             ```
-            Choosing to lose themselves, being possessed…
+            Choosing to lose themselves, being possessed...
             การเลือกที่จะสูญเสียสิ่งที่ตนเป็น และถูกบงการ...
             ```
             ```
-            What about when they claim the Golden Bough after going to these lengths…?
+            What about when they claim the Golden Bough after going to these lengths...?
             แล้วพวกเขาจะทำยังไงต่อในตอนที่พวกเขาเก็บกู้กิ่งทองได้สำเร็จ หลังจากที่เดินมาไกลขนาดนี้...?
             ```
             ```
@@ -8464,11 +8464,11 @@
             แล้วความคิดบางอย่างก็โผล่มาในหัวฉัน
             ```
             ```
-            Am I really so different from those unsightly zealots…
+            Am I really so different from those unsightly zealots...
             ว่าตัวเองต่างอะไรกับไอพวกหัวรุนแรงพวกนั่นกัน...
             ```
             ```
-            …when I’m searching for the Golden Boughs without even knowing what they’ll be used for?
+            ...when I’m searching for the Golden Boughs without even knowing what they’ll be used for?
             ...ในเมื่อ ฉันเองก็กำลังตามหากิ่งทองโดยที่ไม่รู้ด้วยซ้ำว่ามันจะถูกใช้เพื่อทำอะไร?
             ```
 
@@ -8520,11 +8520,11 @@
         <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Faust: …Prayer.
+        Faust: ...Prayer.
         เฟาสท์: ...ผู้สวดภาวนา
         ```
         ```
-        Faust: Once upon a time… people used to believe in gods, or so I heard.
+        Faust: Once upon a time... people used to believe in gods, or so I heard.
         เฟาสท์: กาลครั้งหนึ่ง... ผู้คนเคยเชื่อในสิ่งที่เรียกว่าพระเจ้าเท่าที่ฉันเคยได้ยินมา
         ```
 
@@ -8533,7 +8533,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: …What is this sound?
+        Ishmael: ...What is this sound?
         อิชมาเอล: ...นี้เสียงอะไร?
         ```
 
@@ -8542,7 +8542,7 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff: This feels awfully familiar… Somehow annoyingly tingly… and unpleasant…
+        Heathcliff: This feels awfully familiar... Somehow annoyingly tingly... and unpleasant...
         ฮิธคลิฟฟ์: ความรู้สึกนี้คุ้นชะมัด... ไอความรู้สึกที่เสียวซ่านยิบ ๆ จนน่าหงุดหงิด... และขัดหูขัดตา
         ```
 
@@ -8551,7 +8551,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: …It’s a school bell. Our boy hated school that much, eh.
+        Gregor: ...It’s a school bell. Our boy hated school that much, eh.
         เกรกอร์: ...มันคือเสียงระฆังโรงเรียนน่ะ ดูท่าไอหนุ่มของเราจะเกลียดโรงเรียนเข้าไส้เลยสิท่า หิ
         ```
 
@@ -8579,7 +8579,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: N-No… I don’t want to show my memories, they, they’re…
+        Sinclair: N-No... I don’t want to show my memories, they, they’re...
         ซินแคร์: ม-ไม่... ผมไม่อยากที่จะแสดงความทรงจำของผม ไม่งั้น พวกเขาจะ...
         ```
 
@@ -8713,7 +8713,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
         
         ```
-        Sinclair: I—I…
+        Sinclair: I—I...
         ซินแคร์: ผม—ผม...
         ```
 
@@ -8739,7 +8739,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: …The breaks between classes are always lively since everyone gathers around to talk.
+        Sinclair: ...The breaks between classes are always lively since everyone gathers around to talk.
         ซินแคร์: ...ช่วงพักระหว่างคาบเรียนเป็นช่วงเวลาที่มีชีวิตชีวาอยู่เสมอ ทุกคนต่างพากันรวมตัว และพูดคุยแลกเปลี่ยนสารทุกข์สุกดิบ
         ```
         ```
@@ -8790,7 +8790,7 @@
         ซินแคร์: ว่าผมจะเล่าอะไรดี? ดวงตาที่คาดหวังของพวกเขาจับจ้องมาที่ผม ราวกับว่าสายตาเจ้าเล่ห์พวกนั่นจะแปรเปลี่ยนไปแล้วเยาะเย้ยผมได้ทุกเมื่อ
         ```
         ```
-        Sinclair: T-This is a secret, but…
+        Sinclair: T-This is a secret, but...
         ซินแคร์: ร-เรื่องนี้เป็นความลับนะ แต่ว่า...
         ```
         ```
@@ -8810,7 +8810,7 @@
         ซินแคร์: ผมรู้อยู่แก่ใจ ว่าผมจะกลายเป็นคนนอก ณ วินาทีที่พวกเขาเลิกมองผม
         ```
         ```
-        Sinclair: My dad… signed a contract with P Corp. They saw the technology he was working on and agreed to give their full support.
+        Sinclair: My dad... signed a contract with P Corp. They saw the technology he was working on and agreed to give their full support.
         ซินแคร์: พ่อผม... พึ่งเซ็นท์สัญญากับพีคอร์ปน่ะครับ พวกเขาเห็นทคโนโลยีที่พ่อผมกำลังทำอยู่ แล้วก็ตกลงที่จะให้การสนับสนุนอย่างเต็มที่
         ```
         ```
@@ -8835,7 +8835,7 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Reminisced Classmate: Whoa… Is that for real, Sinclair?
+        Reminisced Classmate: Whoa... Is that for real, Sinclair?
         เพื่อนร่วมชั้นที่ชวนให้นึกถึง: โว้ว... นั่นเรื่องจริงเหรอ ซินแคร์?
         ```
 
@@ -8844,7 +8844,7 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Reminisced Classmate: P Corp? Like that Wing?! Wow… I’m jealous. 
+        Reminisced Classmate: P Corp? Like that Wing?! Wow... I’m jealous. 
         เพื่อนร่วมชั้นที่ชวนให้นึกถึง: พีคอร์ป? วิงส์นั่นน่ะนะ?! ว้าว... ฉันอิจฉาจัง
         ```
 
@@ -8879,11 +8879,11 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Y—Yeah, of course. They told me I’ll get the… newest model.
+        Sinclair: Y—Yeah, of course. They told me I’ll get the... newest model.
         ซินแคร์: ช-ช่าย แน่นอน เขาบอกผมว่าผมจะได้... โมเดลรุ่นใหม่ล่าสุด
         ```
         ```
-        Sinclair: If they paid just a bit of attention to my face…
+        Sinclair: If they paid just a bit of attention to my face...
         ซินแคร์: ถ้าอย่างน้อยพวกเขาตั้งใจที่จะดูหน้าผมสักหน่อย...
         ```
         ```
@@ -8899,11 +8899,11 @@
         ซินแคร์: ในท้ายที่สุด คลื่นยักษ์แห่งความรู้สึกผิดก็พัดผ่านผมไปหลังจากทีช่วงพักสิ้นสุดลง และผมก็ได้อยู่กับตัวเองสักที
         ```
         ```
-        Sinclair: I was supposed to keep that a secret… What if Father finds out?
+        Sinclair: I was supposed to keep that a secret... What if Father finds out?
         ซินแคร์: ทั้ง ๆ ผมควรที่จะเก็บเรื่องนั่นเป็นความลับแท้ ๆ... จะเกิดอะไรขึ้นถ้าคุณพ่อรุ้เรื่องนี้? 
         ```
         ```
-        Sinclair: Ah…
+        Sinclair: Ah...
         ซินแคร์: อา...
         ```
         ```
@@ -8915,7 +8915,7 @@
         ซินแคร์: นิสัยเสียของการกัดเล็บตัวเอง ทุกครั้งที่ผมรู้สึกเครียด ในตอนนี้กลับทำให้ผมเจ็บตัว
         ```
         ```
-        Sinclair: I tried clipping them as short as I could to work on breaking it…
+        Sinclair: I tried clipping them as short as I could to work on breaking it...
         ซินแคร์: ผมพยายามที่จะตัดพวกมันให้สั้นเข้าไว้ก็เพื่อดัดนิสัยตัวเองไม่ให้ทำอีก...
         ```
         ```
@@ -8927,7 +8927,7 @@
         ซินแคร์: ใครจะนึกล่ะ ว่าการที่ได้มองดูหยดเลือดล่วงหล่นลงบนโต๊ะ จะทำให้ผมคิดอะไรได้
         ```
         ```
-        Sinclair: Once I graduate, I’ll get a prosthetic replacement…
+        Sinclair: Once I graduate, I’ll get a prosthetic replacement...
         ซินแคร์: เมื่อผมเรียนจบ ผมจะเข้ารับการผ่าตัดเปลี่ยนถ่ายอวัยวะเทียม...
         ```
         ```
@@ -8935,7 +8935,7 @@
         ซินแคร์: แล้วหลังจากนั่น ผมก็จะไม่เจ็บตัว หรือต้องเห็นเลือดตัวเองอีกแล้ว 
         ```
         ```
-        Sinclair: But… Is that really…
+        Sinclair: But... Is that really...
         ซินแคร์: แต่... มันจะเป็นอย่างนั่นจริง ๆ หรือเปล่า...
         ```
 
@@ -8944,7 +8944,7 @@
         <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: You’re… bleeding.
+        Kromer: You’re... bleeding.
         โครเมอร์: นายกำลัง... เลือดไหลอยู่นะ
         ```
 
@@ -8965,7 +8965,7 @@
         ซินแคร์: ด้วยความ ประหม่า/ลนลาน ผมก็เลยพูดตอบอย่างติด ๆ ขัด ๆ ติดอ่างจนชวนอืดอัด
         ```
         ```
-        Sinclair: Wuh… What… was that?
+        Sinclair: Wuh... What... was that?
         ซินแคร์: มา... มี... อะไรหรือเปล่า?
         ```
 
@@ -8974,7 +8974,7 @@
         <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: Listen, what you said earlier… Is it legit?
+        Kromer: Listen, what you said earlier... Is it legit?
         โครเมอร์: ฟังนะ สิ่งที่นายพูดก่อนหน้านี้... มันจริงอะป่าว?
         ```
 
@@ -9001,7 +9001,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Yeah, uhm… I guess.
+        Sinclair: Yeah, uhm... I guess.
         ซินแคร์: ช่าย อืมม... คิดว่านะครับ
         ```
         ```
@@ -9018,7 +9018,7 @@
         <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: Though… Why did you make that face?
+        Kromer: Though... Why did you make that face?
         โครเมอร์: แล้ว... ทำไมนายถึงทำหน้าอย่างงั้นล่ะ?
         ```
 
@@ -9036,7 +9036,7 @@
         <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: You know… You were thinking it to yourself.
+        Kromer: You know... You were thinking it to yourself.
         โครเมอร์: ก็แบบ... ใบหน้าที่เหมือนกับว่านายกำลังคิดอะไรอยู่ในใจ
         ```
 
@@ -9067,7 +9067,7 @@
         ซินแคร์: ตาทั้งสองข้างของผมเบิกกว้าง
         ```
         ```
-        Sinclair: Not just because I was surprised by how she knew what I was thinking…
+        Sinclair: Not just because I was surprised by how she knew what I was thinking...
         ซินแคร์: ไม่ใช่แค่เพราะว่าผมตกใจที่เธอรู้ได้ไงว่าผมกำลังคิดอะไรอยู่...
         ```
         ```
@@ -9088,7 +9088,7 @@
         <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: Pffh… Because… I agree with you on that.
+        Kromer: Pffh... Because... I agree with you on that.
         โครเมอร์: ฟิ่บ... ก็เพราะ... ว่าฉันเห็นด้วยกับนายไงเล่า
         ```
 
@@ -9097,7 +9097,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: You… You agree?
+        Sinclair: You... You agree?
         ซินแคร์: เธอ... เห็นด้วยเหรอ?
         ```
 
@@ -9119,7 +9119,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Ever since then…
+        Sinclair: Ever since then...
         ซินแคร์: นับตั้งแต่นั้นเป็นต้นมา...
         ```
         ```
@@ -9150,7 +9150,7 @@
         ซินแคร์: เป็นธรรมชาติ และโลกที่ไม่ทางเปลียนไปโดยมีตัวผมอยู่ในนั่น ในโลกของผม
         ```
         ```
-        Sinclair: That world began to feel alienating one day…
+        Sinclair: That world began to feel alienating one day...
         ซินแคร์: แต่วันหนึ่งโลกใบนั่นเองก็เริ่มที่จะรู้สึกแปลกออกไป...
         ```
         ```
@@ -9166,11 +9166,11 @@
         ซินแคร์: ตั้งแต่นั่นมา มื้อเช้าของครอบครัวเราก็ไร้ซึ่งความอบอุ่น และสายสัมพันธ์ที่ฉีกสะบั้นจนไม่อาจหวนคืนได้ มันกลายเป็นเพียงโอกาศแห่งการสั่งลาครั้งสุดท้าย พร้อม ๆ กันกับตัวผมที่ค่อย ๆ พูดน้อยลงทุกที
         ```
         ```
-        Sinclair: Ah… I had started to feel an inherent abhorrence for prostheses.
+        Sinclair: Ah... I had started to feel an inherent abhorrence for prostheses.
         ซินแคร์: อา... ผมเริ่มที่จะรู้สึกถึงความเกลียดชังอย่างสุดหัวใจต่อร่างเทียม
         ```
         ```
-        Sinclair: “That’s filthy…”
+        Sinclair: “That’s filthy...”
         ซินแคร์: ว่ามัน “ชั่งน่ารังเกลียด...” อะไรเยี่ยงนี้
         ```
         ```
@@ -9210,7 +9210,7 @@
         ซินแคร์: ว่า “ทำไมเราถึงไม่แค่ยอมปล่อยให้ตัวเองตกยุคไปพร้อมกับกาลเวลา แทนที่มันจะต้องเป็นคลื่นกระแสหลักที่ทุกคนต้องว่ายตาม?”
         ```
         ```
-        Sinclair: …Though that wasn’t an argument rooted in logic.
+        Sinclair: ...Though that wasn’t an argument rooted in logic.
         ซินแคร์: ...ถึงอย่างนั้น นั่นก็ไม่ใช่ข้อโต้แย้งที่ตั้งอยู่บนหลักตรรกะ และเหตุผล
         ```
 
@@ -9223,7 +9223,7 @@
         <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: Yo, Sinclair… You don’t actually wanna take the replacement procedure, do you?
+        Kromer: Yo, Sinclair... You don’t actually wanna take the replacement procedure, do you?
         โครเมอร์: โย้ ซินแคร์... นายคงไม่ได้จะรับการผ่าตัดดัดแปลงร่างกายจริง ๆ ใช่ม้า? 
         ```
 
@@ -9283,7 +9283,7 @@
         โครเมอร์: เรื่องนั่น เดี๋ยวนายก็รู้เอง นั่นแหละ/รอบหน้า
         ```
         ```
-        Kromer: In exchange…
+        Kromer: In exchange...
         โครเมอร์: แต่เพื่อเป็นการแลกเปลี่ยน...
         ```
         ```
@@ -9358,7 +9358,7 @@
         ซินแคร์: ผมเข้าใจผิดอะไรไปหรือเปล่า? บางที มันก็อาจเป็นผลจากแสงแดดจ้าที่ตกกระทบแล้วสะท้อนผิวของเขาก็ได้
         ```
         ```
-        Sinclair: And then…
+        Sinclair: And then...
         ซินแคร์: และจากนั่น...
         ```
         ```
@@ -9484,7 +9484,7 @@
         ซินแคร์: ผมละอายเกินไปที่จะแบกรับความกลัวที่ซุกซ้อนในใจลึก ๆ ก่อนเขาซะอีก
         ```
         ```
-        Sinclair: And finally…
+        Sinclair: And finally...
         ซินแคร์: และในที่สุด...
         ```
         ```
@@ -9532,11 +9532,11 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: But my parents…
+        Sinclair: But my parents...
         ซินแคร์: แต่พ่อแม่ของผม...
         ```
         ```
-        Sinclair: “…won’t like it.” I couldn’t even bring myself to finish this humiliating sentence.
+        Sinclair: “...won’t like it.” I couldn’t even bring myself to finish this humiliating sentence.
         ซินแคร์: “...คงไม่ชอบมันแน่” ผมไม่อาจดึงสติตัวเองเพื่อพูดให้จบประโยคที่แสนน่าอายนี้ได้ 
         ```
 
@@ -9545,7 +9545,7 @@
         <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: If you let me check it out, Sinclair…
+        Kromer: If you let me check it out, Sinclair...
         โครเมอร์: ถ้านายยอมให้ฉันสำรวจมันนะ ซินแคร์...
         ```
         ```
@@ -9553,7 +9553,7 @@
         โครเมอร์: ฉันสาบานว่าฉันจะรักษาสัญญานั่นที่ให้ไว้กับนาย เกี่ยวก้อยได้เลย
         ```
         ```
-        Kromer: Just sneak me the basement key and I can navigate just fine…
+        Kromer: Just sneak me the basement key and I can navigate just fine...
         โครเมอร์: แค่แอบเอากุญแจห้องใต้ดินมาให้ฉัน แล้วงานสำรวจที่เหลือเดี๋ยวฉันจัดการเอง...
         ```
 
@@ -9562,7 +9562,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Unable to detect the faint, familiar feeling hidden in her words, I slowly nodded…
+        Sinclair: Unable to detect the faint, familiar feeling hidden in her words, I slowly nodded...
         ซินแคร์: ไม่อาจรู้ถึงจุดมุ่งหมายแอบแฝงที่แผ่วเบานั่นได้เลย ความรู้สึกคุ้นเคยของบางสิ่งที่ถูกเก็บงำในคำพูดของเธอ ก่อนที่ผมจะพยักหน้าให้อย่างช้า ๆ...
         ```
         ```
@@ -9620,7 +9620,7 @@
         <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: There’s something up ahead…!
+        Kromer: There’s something up ahead...!
         โครเมอร์: มันมีอะไรบางอย่างอยู่ข้างหน้านี้...!
         ```
 
@@ -9649,7 +9649,7 @@
         ซินแคร์: ผมกำลังเข้ามาในโลกที่พวกวายร้ายใช้ชีวิตอยู่เป็นครั้งแรก
         ```
         ```
-        Sinclair: And for some reason…
+        Sinclair: And for some reason...
         ซินแคร์: และด้วยเหตุผลบางอย่าง...
         ```
         ```
@@ -9673,7 +9673,7 @@
         ซินแคร์: แต่มันกลับดูมีสำนึกรู้คิดเกินกว่าจะเป็นเพียงสิ่งนั้น ถึงอย่างไง มันก็ไม่ถูกซะทีเดียวที่จะพูดว่าทั้งหมดนี้เป็นฝีมือของมนุษย์
         ```
         ```
-        Sinclair: Huk… Guhgh…
+        Sinclair: Huk... Guhgh...
         ซินแคร์:  อึก... ฮ๊ากก...
         ```
         ```
@@ -9689,7 +9689,7 @@
         ซินแคร์: พร้อมกันกับความรู้สึกเสียใจ ผมมีความรู้สึกที่ว่าตัวเองไม่มีทางที่จะลืมเลือนสิ่งที่ผมเห็นไปในวันนั้นได้จนตัวตาย
         ```
         ```
-        Sinclair: K—Kro…mer… I… I’ve gotta go back…
+        Sinclair: K—Kro...mer... I... I’ve gotta go back...
         ซินแคร์: ค-โคร...เมอร์... คือว่า... ผมต้องกลับแล้ว... 
         ```
         ```
@@ -9804,7 +9804,7 @@
         ซินแคร์: พ่อแม่ผมอาจรู้ตัวในตอนไหนก็ได้ ใช้เวลาเรียงกุญแจแค่นาทีเดียวก็คงรู้แล้ว
         ```
         ```
-        Sinclair: For the first time, I betrayed my parents living in a world of warmth…
+        Sinclair: For the first time, I betrayed my parents living in a world of warmth...
         ซินแคร์: เป็นครั้งแรกเลย ที่ผมทรยศพ่อแม่ของตัวเองในโลกที่เต็มไปด้วยความอบอุ่น...
         ```
         ```
@@ -9812,7 +9812,7 @@
         ซินแคร์: ผมกลัวเหลือเกินว่าแปลกแยกของผมจากโลกของพวกเขาในท้ายที่สุดจะกลายเป็นความจริงที่ไม่อาจหักล้างได้
         ```
         ```
-        Sinclair: Kromer… Won’t you give it back now?
+        Sinclair: Kromer... Won’t you give it back now?
         ซินแคร์: โครเมอร์... ช่วยคืนตอนนี้ได้ไหม?
         ```
 
@@ -9830,7 +9830,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: The… basement key…
+        Sinclair: The... basement key...
         ซินแคร์: ก็... กุญแจห้องใต้ดิน...
         ```
 
@@ -9861,7 +9861,7 @@
         <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: Pwahahaha!!! Oh, and here I was wondering what you were struggling so hard to say…
+        Kromer: Pwahahaha!!! Oh, and here I was wondering what you were struggling so hard to say...
         โครเมอร์: ฮ่าฮ่าฮ่าฮ่า!!! โอ้ ฉันก็นึกว่านายพยายามจะพูดอะไรซะอีก...
         ```
         ```
@@ -9869,7 +9869,7 @@
         โครเมอร์: ได้สิ นายเอาไปได้เลย ซินแคร์ ยังไงซะพวกเราก็ไม่ต้องการกุญแจนั่นอีกต่อไปแล้ว
         ```
         ```
-        Kromer: And besides…
+        Kromer: And besides...
         โครเมอร์: และอีกอย่าง...
         ```
         ```
@@ -9894,11 +9894,11 @@
         ซินแคร์: เกี่ยวกับ “พวกเรา” ที่โครเมอร์หมายถึงจริง ๆ
         ```
         ```
-        Sinclair: About why she said it’s not needed any more, and how she was going to fulfill my grudge…
+        Sinclair: About why she said it’s not needed any more, and how she was going to fulfill my grudge...
         ซินแคร์: แต่ไม่ว่าเธอจะพูดอะไร มันก็ไม่จำเป็นอีกต่อไปแล้ว ที่สำคัญกว่าก็คือเธอจะเติมเต็มความต้องการของผมได้ยังไง... 
         ```
         ```
-        Sinclair: I didn’t think to question a single thing, and for that…
+        Sinclair: I didn’t think to question a single thing, and for that...
         ซินแคร์: ผมไม่ได้แม้แต่จะคิดที่จะตั้งคำถามเลยสักข้อ และนั่นเอง... 
         ```
         ```
@@ -9964,7 +9964,7 @@
         ซินแคร์: การที่ได้ฟังคำพูดของเขามอบความหวังให้กับผมว่าตัวเองจะสามารถโตขึ้นได้จริง ๆ ผมเปี่ยมไปด้วยความหวังที่ว่าตัวเองจะกลายเป็นคนที่มีค่าพอในสักวัน
         ```
         ```
-        Sinclair: Yeah… But I don’t really get it though, Demian.
+        Sinclair: Yeah... But I don’t really get it though, Demian.
         ซินแคร์: อืมแน่นอน... ถึงแม้ว่าผมจะไม่ค่อยเข้าใจเลยก็เถอะนะ เดเมียน 
         ```
 
@@ -9994,7 +9994,7 @@
         ซินแคร์: ที่ปลดอาวุธทางใจของผู้คนที่สบตาเขา บั่นทอนกำลังจิตที่อยู่ในตัวพวกเขา
         ```
         ```
-        Sinclair: But…
+        Sinclair: But...
         ซินแคร์: แต่ว่า...
         ```
         ```
@@ -10041,7 +10041,7 @@
         ซินแคร์: แต่ถึงอย่างนั้น...
         ```
         ```
-        Sinclair: Huh…?
+        Sinclair: Huh...?
         ซินแคร์: หะ...?
         ```
         ```
@@ -10102,7 +10102,7 @@
         โครเมอร์: อย่าไปใส่ใจสิ่งที่ไอพวกไม่บริสุทธิ์พวกนี้ทำ กวีโด มันก็เป็นเพียงสัญชาตญาณเอาตัวรอดของพวกมันที่ตื่นขึ้น
         ```
         ```
-        Kromer: Or should I say… they’re scared of shutting down? Haha!
+        Kromer: Or should I say... they’re scared of shutting down? Haha!
         โครเมอร์: หรือจะให้ฉันพูดงี้ดี... ว่าพวกมันกลัวที่ตัวเองต้องถูกชัตดาวน์น่ะ? ฮาฮ่า!
         ```
 
@@ -10154,7 +10154,7 @@
         โครเมอร์: เพราะงั้น ฉันในฐานะนักมนุษยธรรมผู้ชื่นชอบทุกสิ่งที่เป็นมนุษย์!
         ```
         ```
-        Kromer: Now imagine how it feels to face the son of a pack of those affronts to humanity…
+        Kromer: Now imagine how it feels to face the son of a pack of those affronts to humanity...
         โครเมอร์: ทีนี้ก็ลองนึกภาพดูสิว่ามันต้องรู้ยังไงที่ต้องเผชิญหน้ากับลูกหลงฝูงของพวกที่ดูหมิ่นมนุษย์ชาติ...
         ```
         ```
@@ -10232,7 +10232,7 @@
         <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: From now on… You’ll doubt everything, be anxious of everything… and live in ever-constant terror as your memories of me haunt you.
+        Kromer: From now on... You’ll doubt everything, be anxious of everything... and live in ever-constant terror as your memories of me haunt you.
         โครเมอร์: ตั้งแต่นี้เป็นต้นไป... นายจะเคลือบแคลงในทุกสิ่ง เป็นกังวลต่อทุกอย่าง... และใช้ชีวิตอยู่ในฝันร้ายแห่งความกลัวของห้วงความทรงจำที่ฉันตามหลอกหลอนนาย 
         ```
 
@@ -10241,7 +10241,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Nhh… Ungh…
+        Sinclair: Nhh... Ungh...
         ซินแคร์: อั่ก... ฮึก...
         ```
 
@@ -10250,7 +10250,7 @@
         <img src="../images/OldCromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: And, when the time comes… I will call for you.
+        Kromer: And, when the time comes... I will call for you.
         โครเมอร์: และ เมื่อเวลานั่นมาถึง... ฉันจะเรียกขานนาย
         ```
         ```
@@ -10263,7 +10263,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Amidst the piercing noise, storms of heavy footsteps, and disorientation…
+        Sinclair: Amidst the piercing noise, storms of heavy footsteps, and disorientation...
         ซินแคร์: ท่ามกลางเสียงแหลมบาดหูที่ดังก้อง กลับปรากฎห่าหายุเสียงเท้าอันหนักอิ้ง และอารการปวดหัว
         ```
         ```
@@ -10316,7 +10316,7 @@
         ซินแคร์: ทำไมทุกสิ่งทุกอย่างถึงต้องมาจบลงที่ความว่างเปล่าอันเงียบงันด้วยล่ะ ถ้าพวกมันไม่ได้อยู่ในโลกนี้ตั้งแต่แรกแล้ว?
         ```
         ```
-        Sinclair: The loss of my family, the world of evil, all this despair…
+        Sinclair: The loss of my family, the world of evil, all this despair...
         ซินแคร์: ทั้งการสูญเสียครอบครัวไปของผม โลกแห่งความชั่วร้าย ความสิ้นหวังทั้งหมดทั้งมวลพวกนี้... 
         ```
         ```
@@ -10359,7 +10359,7 @@
         เดเมียน: วันหนึ่ง นายจะหลุดพ้นจากพันธนาการพวกนี้ และโผบินไปสู่อิสระ
         ```
         ```
-        Demian: And I… wish to see you completely bare.
+        Demian: And I... wish to see you completely bare.
         เดเมียน: และฉัน... ก็หวังว่าจะได้เจอกับนายที่เป็นนายจริง ๆ 
         ```
 
@@ -10372,11 +10372,11 @@
         ซินแคร์: เขาตอบผมราวกับว่ารู้คำตอบอยู่ก่อนแล้ว คำตอบของคำถามที่ผมยังลังเล <*คล้าย>
         ```
         ```
-        Sinclair: Although his words seemed to radiate warmth…
+        Sinclair: Although his words seemed to radiate warmth...
         ซินแคร์: แม้ว่าคำพูดของเขาจะดูเหมือนกับประกายอุ่น...
         ```
         ```
-        Sinclair: I felt a certain chill, like biting into the cold insides of a half-cooked turkey…
+        Sinclair: I felt a certain chill, like biting into the cold insides of a half-cooked turkey...
         ซินแคร์: แต่ผมกลับรู้สึกถึงความหนาวเหน็บเหมือบกับการกัดลงไปบนด้านเย็นของไก่ยวงที่สุกแค่ครึ่งตัว...
         ```
         ```
@@ -10413,7 +10413,7 @@
         โครเมอร์: อาฮ่าฮ่า อย่ามองฉันด้วยสายตาอย่างนั่นสิ
         ```
         ```
-        Kromer: It’s not even time yet…
+        Kromer: It’s not even time yet...
         โครเมอร์: มันยังไม่ถึงเวลานั่น...
         ```
         ```
@@ -10421,7 +10421,7 @@
         โครเมอร์: แต่นายกลับกำลังทำให้ฉันรู้สึกอยากฆ่านายนะรู้ไหม
         ```
         ```
-        Kromer: Ahu… No, no. I should abstain… I can’t let immediate entertainment distract me from the more important things.
+        Kromer: Ahu... No, no. I should abstain... I can’t let immediate entertainment distract me from the more important things.
         โครเมอร์: อาหู่ว... ไม่สิ ไม่ ฉันควรที่จะอดทนเอาไว้... ฉันจะปล่อยให้ความบันเทิงระยะสั้นมาทำให้ตัวเองวอกแวกอย่างนี้ไม่ได้
         ```
 
@@ -10430,7 +10430,7 @@
         <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Faust: Sinclair, the only way to retrieve a Golden Bough that’s begun to resonate is…
+        Faust: Sinclair, the only way to retrieve a Golden Bough that’s begun to resonate is...
         เฟาสท์: ซินแคร์ หนทางเดียวที่นายจะได้กิ่งทองที่เริ่มสะท้อนกังวาลไปแล้วก็มีแต่...
         ```
 
@@ -10443,11 +10443,11 @@
         ซินแคร์: ผู้รู้แล้ว
         ```
         ```
-        Sinclair: Even if it weren’t for our mission…
+        Sinclair: Even if it weren’t for our mission...
         ซินแคร์: ถึงแม้ว่ามันจะไม่ใช่เพื่อภารกิจ...
         ```
         ```
-        Sinclair: I’d still tear that bitch to pieces… and drink up her remains.
+        Sinclair: I’d still tear that bitch to pieces... and drink up her remains.
         ซินแคร์: แต่ผมก็จะฉีกกระฉากนางสารเลวนั่นเป็นชิ้น ๆ... และดื่มกินเลือดทุกหยดที่เหลือ
         ```
 
@@ -10456,15 +10456,15 @@
         <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
         
         ```
-        Kromer: Pfh… Ahahaha!!
+        Kromer: Pfh... Ahahaha!!
         โครเมอร์: ฟิ่บ... อาฮ่าฮ่าฮ่า!!!
         ```
         ```
-        Kromer: Kuhuu… Oh, Sinclair…! When did you learn to act so tough? That’s not like you at all… What a riot… Pfft.
+        Kromer: Kuhuu... Oh, Sinclair...! When did you learn to act so tough? That’s not like you at all... What a riot... Pfft.
         โครเมอร์: ฮุ้ยยย... โอ้ ซินแคร์...! นายเรียนรู้ตั้งแต่เมื่อไรกันที่จะทำตัวเหมือนกับว่านายแกร่ง? นั่นไม่สมกับเป็นนายเลยสักนิด... ชั่งน่าขำเสียจริง... ฟิ่บ
         ```
         ```
-        Kromer: Still… Well, I guess you’ve made some friends since then.
+        Kromer: Still... Well, I guess you’ve made some friends since then.
         โครเมอร์: อีกอย่าง... ดูเหมือนว่านายจะมีเพื่อนใหม่มากขึ้นตั้งแต่ครั้งล่าสุดที่เราเจอกัน
         ```
         ```
@@ -10500,7 +10500,7 @@
         โครเมอร์: ถ้างั้น มันก็ถึงเวลาแล้ว ซินแคร์
         ```
         ```
-        Kromer: I’ll be taking the second coin… your last chance.
+        Kromer: I’ll be taking the second coin... your last chance.
         โครเมอร์: ฉันจะเอาเหรียญที่สองไป... โอกาศครั้งสุดท้ายของนาย
         ```
 
@@ -10509,11 +10509,11 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Why are you… doing this to me…
+        Sinclair: Why are you... doing this to me...
         ซินแคร์: ทำไมแก... ถึงต้องทำเรื่องพวกนี้กับผมด้วย...
         ```
         ```
-        Sinclair: Why… me…
+        Sinclair: Why... me...
         ซินแคร์: ทำไม... ต้องเป็นผม...
         ```
 
@@ -10542,7 +10542,7 @@
         โครเมอร์: และฉันก็มองเห็นหนึ่งในความเป็นไปได้พวกนั่นที่ฉัน และนายร่อนเร่ไปสู่เนสแล้วเนสเล่าคอยสังหารพวกนอกรีตพวกนั่นไปไหนมากไหนด้วยกันในเดอะซิตี้
         ```
         ```
-        Kromer: Even though you were raised by heretics bearing revolting metal bodies…
+        Kromer: Even though you were raised by heretics bearing revolting metal bodies...
         โครเมอร์: ถึงแม้ว่านายจะถูกชุบเลี้ยงโดยพวกนอกรีตที่แบกร่างโลหะอันน่ารังเกียจพวกนั่นไปไหนมาไหน...
         ```
         ```
@@ -10559,7 +10559,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: D-Don’t you lie to me…
+        Sinclair: D-Don’t you lie to me...
         ซินแคร์: อ-อย่ามาโกหกผมนะ...
         ```
 
@@ -10577,7 +10577,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Stop it…!
+        Sinclair: Stop it...!
         ซินแคร์: หยุดนะ...!
         ```
 
@@ -10586,7 +10586,7 @@
         <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: Ahaha… In that world, you looked like the freest person in the universe, transcending everything.
+        Kromer: Ahaha... In that world, you looked like the freest person in the universe, transcending everything.
         โครเมอร์: อาฮ่าฮ่า... ในโลกใบนั่น นายดูเหมือนกับคนที่อิสระที่สุดในจักรวาลผู้ก้าวข้ามทุกสิ่ง
         ```
 
@@ -10608,7 +10608,7 @@
         <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: Whether I’m lying or not…
+        Kromer: Whether I’m lying or not...
         โครเมอร์: ไม่ว่าฉันจะโกหก หรือไม่...
         ```
         ```
@@ -10628,7 +10628,7 @@
             ```
 
         ```
-        Dante: <The Golden Bough…!>
+        Dante: <The Golden Bough...!>
         ดันเต้: <กิ่งทอง...!>
         ```
 
@@ -10648,7 +10648,7 @@
         <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: Aah…! It’s begun… At last, my final grudge will be fulfilled!
+        Kromer: Aah...! It’s begun... At last, my final grudge will be fulfilled!
         โครเมอร์: อ้า...! ในที่สุด... มันก็เริ่มแล้วสิ ความปราถณาสุดท้ายของฉันจะได้ถูกเติมเต็ม!
         ```
         
@@ -10667,7 +10667,7 @@
             จากเนื้อเยื่อที่งอกขยายอย่างน่าสะพรึงกลัว พร้อมกันกับกลุ่มอวัยวะต่อท้ายอันคลุมเคลือที่ยืดออกไปจนนับไม่ได้
             ```
             ```
-            As if desire and madness were made manifest…
+            As if desire and madness were made manifest...
             ราวกับถ้าตัวตนของความปราถณา และบ้าคลั่งถูกปั้นรวมกันเป็นรูปเป็นร่างให้ประจักษ์...
             ```
 
@@ -10676,7 +10676,7 @@
         <img src="../images/CromerMonster.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Kromer: Come… Sinclair.
+        Kromer: Come... Sinclair.
         โครเมอร์: มาสิ... ซินแคร์
         ```
         ```
@@ -10684,7 +10684,7 @@
         โครเมอร์: ฉีกฉันเป็นชิ้น ๆ และกินฉันสิ
         ```
         ```
-        Kromer: If you can, that is… Keheh.
+        Kromer: If you can, that is... Keheh.
         โครเมอร์: ถ้านายทำได้ล่ะก็นะ... เหะ ๆ
         ```
 
@@ -10724,7 +10724,7 @@
         โครเมอร์: ดูฉันสิ! จงเบิกตาดูร่างกายที่น่าสรรเสริญนี้ของฉัน ร่างที่ใกล้เคียงกับรูปมนุษย์อันบริสุทธิ์ที่สุดที่เคยมีมา! ก้อนเนื้อนี้! คือความแข็งแกร่งพิศุทธิ์ที่มิอาจมีผู้ใดทัดเทียมได้!
         ```
         ```
-        Kromer: Ahh, Sinclair… Look at how human you are! You can become like me too!
+        Kromer: Ahh, Sinclair... Look at how human you are! You can become like me too!
         โครเมอร์: อ้าา ซินแคร์... ดูสิว่านายเป็นมนุษย์ถึงเพียงไหน! นายเองก็เป็นแบบเดียวกับฉันได้เหมือนกัน!
         ```
 
@@ -10733,7 +10733,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: I’ll… You’re…
+        Sinclair: I’ll... You’re...
         ซินแคร์: ผมจะ... แกซะ...
         ```
 
@@ -10759,7 +10759,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: I swear, I…
+        Sinclair: I swear, I...
         ซินแคร์: ผมสาบานว่าผม...
         ```
 
@@ -10876,7 +10876,7 @@
         ซินแคร์: ทุกคนในครอบครัวต้องมาตายทั้งหมดก็เพราะผม...
         ```
         ```
-        Sinclair: I said stuff I really shouldn’t have…
+        Sinclair: I said stuff I really shouldn’t have...
         ซินแคร์: เพียงเพราะผมพูดในสิ่งที่ไม่ควร...
         ```
 
@@ -10889,7 +10889,7 @@
         โครเมอร์: ใช่แล้ว! มันเป็นความผิดทั้งหมดของนาย—เพราะงั้นจงโอบกอดมัน! นั่นคือทางที่เราจะจุติใหม่ได้โดยสมบูรณ์!
         ```
         ```
-        Kromer: Follow me… and rest in my grip!
+        Kromer: Follow me... and rest in my grip!
         โครเมอร์: จงตามฉันมา... และพักกายในอ้อมอกฉัน!
         ```
 
@@ -10918,7 +10918,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: Ah…
+        Sinclair: Ah...
         ซินแคร์: อา...
         ```
 
@@ -10949,7 +10949,7 @@
             ฉันรู้อยู่แล้วว่าสักวันหนึ่งตัวเองจะต้องตายจากการพยายามเล่นบทผู้จัดการผู้เพรียบพร้อมไม่ว่าจะเร็ว หรือช้า
             ```
             ```
-            But…
+            But...
             แต่ว่า...
             ```
 
@@ -10973,7 +10973,7 @@
             ทุกอณูในร่างกายฉันยังเอาแต่ร่ำร้องว่าฉันไม่ควรที่จะยอมแพ้กับเขา
             ```
             ```
-            I can feel the burning pain of my melting body…
+            I can feel the burning pain of my melting body...
             ฉันยังคงรู้สึกถึงความเจ็บปวดของแผลผุพองบนเรือนร่างที่กำลังสลายไป...
             ```
 
@@ -10994,7 +10994,7 @@
             ```
 
         ```
-        Dante: <Only then… will you see what matters most.>
+        Dante: <Only then... will you see what matters most.>
         ดันเต้: <และเมื่อถึงตอนนั้น... นายก็จะมองเห็นว่าอะไรสำคัญ>
         ```
 
@@ -11003,7 +11003,7 @@
         <img src="../images/Demian2.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Demian: Only then… will you see what matters most.
+        Demian: Only then... will you see what matters most.
         เดเมียน: และเมื่อถึงตอนนั้น... นายก็จะมองเห็นว่าอะไรสำคัญ
         ```
 
@@ -11014,7 +11014,7 @@
         * เสียงในหัว
 
             ```
-            In that moment…
+            In that moment...
             ในตอนนั้นเอง...
             ```
             ```
@@ -11027,7 +11027,7 @@
         <img src="../images/Demian2.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Demian: And when you can see the things that matter most…
+        Demian: And when you can see the things that matter most...
         เดเมียน: และเมื่อถึงตอนนั้น... นายก็จะมองเห็นว่าอะไรที่สำคัญ...
         ```
         ```
@@ -11035,7 +11035,7 @@
         เดเมียน: นายจะไม่จำเป็นต้องเก็บงำความรู้สึกด้วยคำขู่ที่ไร้น้ำหนัก หรือกลอุบายราคาถูกอีก
         ```
         ```
-        Demian: …Isn’t that right, Sinclair?
+        Demian: ...Isn’t that right, Sinclair?
         เดเมียน: ...ไม่ใช่งั้นเหรอ ซินแคร์?
         ```
 
@@ -11058,7 +11058,7 @@
             ผิดกันกับภาพลักษณ์ของเขาที่ชั่งดูอิสระผ่านถ้อยคำพรรณายืดยาวเหล่านั่น อากาศที่ชวนให้รู้สึกกดดันพลันปรากฎในทุกย่างก้าวที่เขาเดิน
             ```
             ```
-            And, with just a wave of his right arm…
+            And, with just a wave of his right arm...
             และเพียงแค่เขากวัดแกว่งแขนขวา...
             ```
             ```
@@ -11073,7 +11073,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: D… Demian…
+        Sinclair: D... Demian...
         ซินแคร์: ด... เดเมียน...
         ```
 
@@ -11090,7 +11090,7 @@
         เดเมียน: ตอนนี้ นายไม่ใช่คนขี้ขลาด หรือฮีโร่ แต่นายก็ยังสามารถปล่อยวางความกลัวของตัวเองจนหมดสิ้น
         ```
         ```
-        Demian: I’ve said it before, haven’t I? “When you fear someone…”
+        Demian: I’ve said it before, haven’t I? “When you fear someone...”
         เดเมียน: ผมเคยพูดไว้ก่อนหน้านี้ใช่ไหม? ว่า “เมื่อนายกลัวใครสักคน...”
         ```
 
@@ -11099,7 +11099,7 @@
         <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Sinclair: “That’s because… you gave them the power to have control over you…”
+        Sinclair: “That’s because... you gave them the power to have control over you...”
         ซินแคร์: “นั่นเป็นเพราะว่า... นายยอมให้พวกเขาควบคุมนายได้...”
         ```
 
@@ -11108,7 +11108,7 @@
         <img src="../images/Demian2.png" alt="Demian2" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Demian: That’s right. And I… don’t want anyone else to domineer over you.
+        Demian: That’s right. And I... don’t want anyone else to domineer over you.
         เดเมียน: ถูกต้องแล้วล่ะ และผม... ก็ไม่อยากให้ใครก็ตามมากดขี่นาย
         ```
         ```
@@ -11147,7 +11147,7 @@
         * เสียงในหัว
 
             ```
-            Sinclair fainted before he could answer…
+            Sinclair fainted before he could answer...
             ซินแคร์หมดสติไปก่อนที่เขาจะได้ตอบ...
             ```
             ```
@@ -11160,7 +11160,7 @@
         <img src="../images/Demian2.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Demian: Kromer… attempted to become a god, like those which people of the past were said to believe in. Sinclair almost became her stepping stone.
+        Demian: Kromer... attempted to become a god, like those which people of the past were said to believe in. Sinclair almost became her stepping stone.
         เดเมียน: โครเมอร์... พยายามที่จะเป็นพระเจ้า เหมือนเหล่าผู้คนในอดีตที่ถูกพร่ำบอกให้เชื่อมั่น ซินแคร์เองก็เกือบที่จะกลายเป็นบรรไดให้เธอปืน
         ```
         ```
@@ -11172,7 +11172,7 @@
         เดเมียน: โครเมอร์เองก็พยายามไม่น้อยเลยที่ลงมือทำนู่นทำนี้เพื่อหวนรำลึกถึงอดีตในตอนที่ซินแคร์เสียเหรียญแรกของเขาไป
         ```
         ```
-        Demian: Irregardless of the fact that Christmas is still a while away…
+        Demian: Irregardless of the fact that Christmas is still a while away...
         เดเมียน: ถ้าไม่นับเรื่องที่กว่าคริสมาสต์จะมาก็ต้องใช้เวลาอีกนานโขล่ะก็นะ...
         ```
         ```
@@ -11202,7 +11202,7 @@
         เดเมียน: คุณเองคงเป็นผู้ใหญ่ที่จะสั่งสอนซินแคร์ในตอนนี้
         ```
         ```
-        Demian: As for who I am…
+        Demian: As for who I am...
         เดเมียน: ส่วนคำถามที่ว่าตัวผมเป็นใคร...
         ```
         ```
@@ -11224,15 +11224,15 @@
         <img src="../images/Demian2.png" alt="Demian" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Demian: When Sinclair takes flight with unshakable faith in the power of the heart…
+        Demian: When Sinclair takes flight with unshakable faith in the power of the heart...
         เดเมียน: เมื่อถึงยามที่ซินแคร์สามารถโผบินออกจากรังด้วยปีกที่เปี่ยมไปด้วยศรัทธาอันยิดมั่นในพลังแห่งหัวใจ...
         ```
         ```
-        Demian: Right. When he becomes one with beautiful stars…
+        Demian: Right. When he becomes one with beautiful stars...
         เดเมียน: เมื่อนั้นเองที่เขาจะกลายเป็นส่วนหนึ่งกับบรรดาดวงดาวบนฟากฟ้าที่สวยงาม...
         ```
         ```
-        Demian: …That is when I’ll return.
+        Demian: ...That is when I’ll return.
         เดเมียน: ...และผมจะกลับมาเมื่อถึงตอนนั้น
         ```
         ```
@@ -11245,7 +11245,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <You… You can hear me?>
+        Dante: <You... You can hear me?>
         เดเมียน: <นาย... นายได้ยินฉันด้วยเหรอ?>
         ```
 
@@ -11258,7 +11258,7 @@
         เดเมียน: ผมได้ยินทุกสรรพเสียงเรไรของนกที่ขับขาน และเสียงใสรัวเป็นท่วงทำนองจังหวะที่คอยพูดบางอย่างกับผมน่ะ ดันเต้ เพราะงั้น มันเป็นเรื่องปกติที่ผมจะได้ยินเสียงคุณ
         ```
         ```
-        Demian: As always…
+        Demian: As always...
         เดเมียน: เหมือนที่พูดตลอดมา...
         ```
         ```
@@ -11273,7 +11273,7 @@
         * เสียงในหัว
 
             ```
-            The boy with a blue scarf vanished without notice…
+            The boy with a blue scarf vanished without notice...
             เด็กชายในผ้าพันคอสีน้ำเงินหายตัวไปอย่างไร้วี่แวว...
             ```
             ```
@@ -11325,7 +11325,7 @@
             เพราะไม่ว่ายังไง ฉันก็ยังเป็นผู้จัดการของพวกเขา และฉันก็ควรที่จะทำตัวให้สมกับที่เป็น
             ```
             ```
-            Plus, as I learned in my dying moments…
+            Plus, as I learned in my dying moments...
             อีกอย่าง สิ่งหนึ่งที่ฉันได้เรียนรู้ในห้วงวาระสุดท้ายของชีวิต...
             ```
             ```
@@ -11333,7 +11333,7 @@
             ก็คือ การที่ฉันต้องพยายามอย่างเต็มที่ให้มากกว่านี้มากกว่านี้ให้ได้ ถ้าหากฉันยังต้องการที่จะเป็นผู้จัดการที่ฉลาดหลักแหลม แลมีหัวใจ
             ```
             ```
-            With all that, I need to tell him…
+            With all that, I need to tell him...
             เพราะงั้นเอง ฉันถึงต้องบอกเขาให้ได้ว่า...
             ```
 
@@ -11342,7 +11342,7 @@
         ดันเตั: <มันอาจจะเป็นความผิดของนายก็จริงอยู่ ซินแคร์>
         ```
         ```
-        Dante: <But that’s okay, really… It’s one small mistake—one anyone could make.>
+        Dante: <But that’s okay, really... It’s one small mistake—one anyone could make.>
         ดันเต้: <แต่นั้นก็ไม่เป็นไร จริง ๆ... มันก็เป็นแค่ความผิดพลาดจิ๊บจ๊อยที่ไม่ว่าจะใครก็เกิดขึ้นได้>
         ```
         ```
@@ -11373,7 +11373,7 @@
             จนถึงในตอนที่ฉันสูญเสียหัว และความทรงจำ และต้องทำงานอย่างไม่สมัครใจในฐานะของผู้จัดการระดับสูง
             ```
             ```
-            …At the root of all this, I might find no one but myself to blame.
+            ...At the root of all this, I might find no one but myself to blame.
             ...พอลองมาย้อนดูที่ต้นตอของเรื่องทั้งหมดนี้ ฉันก็คงโทษใครไม่ได้นอกจากตัวเอง
             ```
             ```
@@ -11386,7 +11386,7 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
         
         ```
-        ???: …We found ‘em!
+        ???: ...We found ‘em!
         บุคคลปริศนา: ...เราเจอพวกเขาแล้ว!
         ```
 
@@ -11401,7 +11401,7 @@
             ฉันได้ยินเสียงเท้าหลาย ข้าง/คู่ กำลังเข้าประชิดทีมของพวกเราที่ร่างขาดเป็นชิ้น ๆ อย่างสยดสยอง
             ```
             ```
-            …Vergilius must’ve figured we’d get into a mess and called the After Team to scoop us off the ground.
+            ...Vergilius must’ve figured we’d get into a mess and called the After Team to scoop us off the ground.
             ...วอร์จิลิอุสคงรู้ตัวว่าพวกเราต้องเจอเข้ากับปัญหาใหญ่ เลยเรียกทีมเก็บกวาดมาเพื่อเก็บกู้ร่างของพวกเราที่นอนกองอยู่บนพื้น
             ```
 
@@ -11428,7 +11428,7 @@
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dante: <Hrk…?!>
+        Dante: <Hrk...?!>
         ดันเต้: <เฮือก...?!>
         ```
 
@@ -11457,7 +11457,7 @@
         บุคคลปริศนา 2: จับตามองกระบวนการรักษาให้ดี และใช้มันตามดุลยพินิจของแกได้เลย
         ```
         ```
-        ???: Lucky straphangers… They’re rolling in luxury thanks to having a Color on their team—one with a friend in K Corp at that, too…
+        ???: Lucky straphangers... They’re rolling in luxury thanks to having a Color on their team—one with a friend in K Corp at that, too...
         บุคคลปริศนา 2: ไอพวกผู้โดยสารแสนโชคดีเอ้ย... ที่พวกมันได้ใช้ชีวิตอย่างหรูหร่าหมาเห่า ต้องขอบคุณคัลเลอร์ที่อยู่ในทีมพวกมัน—คนเดียวกับที่เป้นเพื่อนกับคนในเคคอร์ปอีกต่างหาก...
         ```
 
@@ -11466,7 +11466,7 @@
         <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        ???: …ction …firmed. Addi…
+        ???: ...ction ...firmed. Addi...
         บุคคลปริศนา 1: ...ยืนยัน ...คำสั่ง จัดการเรียบ...
         ```
 
@@ -11529,7 +11529,7 @@
         <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Yi Sang: I may be familiar with this kind of dish… a kkochi of the dak variety.
+        Yi Sang: I may be familiar with this kind of dish... a kkochi of the dak variety.
         ยี่ซัง: บางทีผมอาจจะคุ้นเคยกับอาหารประเภทนี้อยู่บ้าง... มันเหมือนกับคกชีแบบที่ทำจากเนื้อไก่
         ```
 
@@ -11634,7 +11634,7 @@
             แล้วมันก็เข้ามาในหัวฉันเรื่องที่เขาเคยบอกว่าเธอกำลังเดินทางผ่านอุโมงค์
             ```
             ```
-            And then…
+            And then...
             จากนั้น...
             ```
             ```
@@ -11643,7 +11643,7 @@
             ```
 
         ```
-        Dante: <If we’re going through a long tunnel…>
+        Dante: <If we’re going through a long tunnel...>
         ดันเต้: <ถ้าเรากำลังเดินทางผ่านอุโมงค์ที่ทอดยาว...>
         ```
         ```
@@ -11692,7 +11692,7 @@
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ishmael: Golly… Don’t you ever get tired of licking their boot so clean, Outis?
+        Ishmael: Golly... Don’t you ever get tired of licking their boot so clean, Outis?
         อิชมาเอล: ให้ตายเถอะ... นี้เธอไม่เหนื่อยกับการที่เอาแต่เลียแข้งเลียขาบ้างเลยรึไง เอาทิส?
         ```
 
@@ -11701,7 +11701,7 @@
         <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Heathcliff: Oi! …Got more of this scran? It’s peak.
+        Heathcliff: Oi! ...Got more of this scran? It’s peak.
         ฮิธคลิฟฟ์: โอ่ย! ...มีไอนี้อีกไหม? แม่งอร่อยชะมัด
         ```
 
@@ -11711,7 +11711,7 @@
 
         ```
         Ryoshu: Heyo, BG. Gimme a light.
-        เรียวชู: เฮ้โย้ว บี-จี ส่งไฟหน่อย
+        เรียวชู: เฮ้โย้ว พอ-มอ (พ่อแมลง) ส่งไฟหน่อย
         ```
 
         ---
@@ -11719,7 +11719,7 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Gregor: …Thought I wouldn’t know what that’s short for?
+        Gregor: ...Thought I wouldn’t know what that’s short for?
         เกรกอร์: ...เดาว่าฉันคงไม่อยากรู้แน่ว่านั่นย่อมาจากอะไร?
         ```
 
@@ -11730,7 +11730,7 @@
         * เสียงในหัว
 
             ```
-            I thought about giving a speech to the Sinners about how this fruitful yet unsuccessful mission changed my mindset…
+            I thought about giving a speech to the Sinners about how this fruitful yet unsuccessful mission changed my mindset...
             ตอนแรกฉันคิดไว้ว่าจะพูดกับเหล่าคนบาปในประเด็นเรื่องภารกิจที่ล้มเลวไม่เป็นท่าแต่สุดท้ายกลับออกดอกออกผลอย่างไม่คาดคิดที่ได้เปลี่ยนความคิดของฉันไป...
             ```
             ```
@@ -11751,7 +11751,7 @@
         <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Don Quixote: May I… have thine attention, Red— I mean, Sir Vergilius.
+        Don Quixote: May I... have thine attention, Red— I mean, Sir Vergilius.
         ดอน กิโฆเต้: ข้าจัก... ขอประทานอภัย ต่อท่านเรด— ข้าหมายถึง ท่านเซอร์วอร์จิลิอุสขอรับ
         ```
 
@@ -11769,11 +11769,11 @@
        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Don Quixote: I do believe I have acted with sufficient caution as you so hath warned…
+        Don Quixote: I do believe I have acted with sufficient caution as you so hath warned...
         ดอน กิโฆเต้: อันตัวข้าเชื่อว่าตนได้กระทำการระวังในพฤติกรรม และแสดงออกอันมิควรที่ท่านเคยตักเตือนข้าอย่างขยันขันแข็ง...
         ```
         ```
-        Don Quixote: Thusly… if I may, would you allow me to lay claim upon a skewer?
+        Don Quixote: Thusly... if I may, would you allow me to lay claim upon a skewer?
         ดอน กิโฆเต้: ด้วยประการฉะนี้... ท่านจะว่าเช่นไรไหม หากข้าจักขอรับเสบียงอาหารที่ท่านตระเตรียมไว้สักหนึ่งไม้?
         ```
 
@@ -11782,7 +11782,7 @@
        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Vergilius: …Go right ahead.
+        Vergilius: ...Go right ahead.
         วอร์จิลิอุส: ...เชิญเลย
         ```
 
@@ -11793,7 +11793,7 @@
         * เสียงในหัว
 
             ```
-            As Don Quixote’s excited jubilation adds a layer of vigor to the already lively bus…
+            As Don Quixote’s excited jubilation adds a layer of vigor to the already lively bus...
             เพราะท่าทีที่ดูตื่นเต้นดีใจของดอนกิโฆเต้เลยแท้ ๆ ที่สร้างขวัญ และกำลังใจทำให้ที่นี้กลับมาเป็นบัสที่มีชีวิตชีวาอย่างที่เคยเป็น
             ```
             ```
@@ -11801,7 +11801,7 @@
             แม้ข้อความที่ผมต้องการบอกจะไม่อาจสื่อออกไป—แต่ผมมั่นใจว่าต้องมีใครสักคนในหมู่เราที่เข้าใจในแก่นแท้ของสารที่ถูกถ่ายทอดไม่ทางใดก็ทางหนึ่ง—และจะแพร่กระจายสารนั่นออกไปในหมู่พวกเรา
             ```
             ```
-            …And so the morning came.
+            ...And so the morning came.
             ...และแล้วรุ่งอรุณก็มาถึง
             ```
 ---

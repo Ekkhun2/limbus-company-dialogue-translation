@@ -1330,7 +1330,7 @@
 
         ---
 
-        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Heathcliff_cook.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: ......
@@ -1339,6 +1339,8 @@
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dante: <...Heathcliff?!!>
         ดันเต้: <...ฮิธคลิฟฟ?!!>
@@ -1346,7 +1348,7 @@
 
         ---
 
-        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Heathcliff_cook.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: ......
@@ -1361,155 +1363,198 @@
 
             ```
             Heathcliff stood in silence with the raw chicken adorning his head…
+            ฮิธคลิฟฟ์ยืนนิ่งเงียบด้วยความสงบพร้อมกันกับหัวเขาที่ถูก ประดับประดา/แทนที่ ด้วยไก่สด...
             ```
             ```
             It was quite the sight, much to my terror.
+            มันเป็นภาพที่ตื่นที่ตะลึงและน่ากลัวมากสำหรับผม
             ```
 
         ---
 
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ishmael: I think I like Heathcliff better this way, y’know? He actually seems intelligent now.
-        อิชมาเอล: 
+        อิชมาเอล: ฉันคิดว่าฉันชอบฮิธคลิฟฟ์ที่เป็นอย่างนี้มากกว่าแต่ก่อนแฮะ ว่าไหม? ตอนนี้ เขาดูมีหัวคิดมากกว่าเดิมซะอีก
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Oh gosh, what do we do, Dante? Wait, quick! Your clock!
-        โรเดียน: 
+        โรเดียน: โอ้พระเจ้า เราต้องทำไง ดันเต้? เดี๋ยว เร็วเข้า! นาฬิกานาย!
         ```
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dante: <B—But then…>
-        ดันเต้: 
+        ดันเต้: <ต—แต่ว่าตอนนี้...>
         ```
 
         * เสียงในหัว
 
             ```
             Nothing would stop me from rewinding here. But the problem is…
+            ไม่มีอะไรจะหยุดผมจากการย้อนเวลาที่นี้ แต่ปัญหาก็คือ...
             ```
 
         ```
         Dante: <What if my head turns into a chicken while the clock’s working?>
-        ดันเต้: 
+        ดันเต้: <จะเกิดอะไรขึ้นถ้าหัวฉันกลายเป็นไก่ขึ้นมาในระหว่างที่นาฬิกากำลังทำงานล่ะ?>
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: S.D.
-        เรียวชู: 
+        เรียวชู: ซ-ซ
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Same difference?!
-        ซินแคร์: 
+        ซินแคร์: แซมแซมไม่ต่าง?!
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: Clockhead, chickenhead—they’re no different, so I don’t get being huffy over it.
-        เรียวชู: 
+        เรียวชู: หัวนาฬิกากับหัวไก่—ทั้งสองแบบก็ไม่ได้ต่างอะไรกันเลย เพราะงั้น ฉันไม่ติดหรอกนะถ้านายจะเปลี่ยน
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             It looked like Sinclair was the only one actually worried about Heathcliff.
+            มันดูเหมือนว่าซินแคร์จะเป็นเพียงคนเดียวที่ เป็นห่วง/กังวลเกี่ยวกับ ฮีธคลิฟฟ์
             ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: Mister Heathcliff! Are you alright in there?
-        ซินแคร์: 
+        ซินแคร์: คุณฮิธคลิฟฟ์ครับ! คุณไม่เป็นไรใช่ไหม?
         ```
 
         ---
+
+        <img src="../images/Heathcliff_cook.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Ghii… Ghii… 
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: กิ... กิ...
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Say, why don’t we keep him as our mascot if the thing never comes off?
-        โรเดียน: 
+        โรเดียน: ว่าก็ว่าเถอะ ทำไมเราถึงไม่เก็บเขาเป็นมาสคอตในกรณีที่ไอเจ้านั่นไม่ยอมออกมาล่ะ?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <What’s the deal with you and mascots anyway…?>
-        ดันเต้: 
+        ดันเต้: <ตกลงว่าเธอเป็นอะไรกับมาสคอตกันแน่เนี้ย...?>
         ```
 
         ---
+
+        <img src="../images/Heathcliff_cook.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Ghii… Cooh…
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: กิ... คูล...
         ```
 
         ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Don Quixote: Ohhhh! Lead your eyes thither! Heathcliff is communicating with the other hens!
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: โอ้อออ! สอดส่องสายตาของพวกท่านไปที่นั่นเร็ว! ท่านฮิธคลิฟฟ์กำลังสื่อสารกับไก่ตัวอื่นด้วยล่ะ!
         ```
 
         ---
+
+        <img src="../images/K_Chicken.png" alt="Chickenhead" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Chickenhead: Bubawkgi! Bubawkgicludoo. Buhbawkgigi!
-        มนุษย์หัวไก่: 
+        มนุษย์หัวไก่: กุ๊กกิ๊กกั๊ก! กุ๊กกั๊กกั๊กเกี๊ยวกุ๊ก กั๊กกั๊ก! 
         ```
 
         ---
+
+        <img src="../images/Heathcliff_cook.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff:	Bubawgi… Doodlegidoo… Buhbawk…
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: เกว๊กเก๊กเก๊ว... เกว๊กเก๊กกุ๊ก...
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Fuhu, Heathcliff’s become quite the chatterbox.
-        ฮงหลู่: 
+        ฮงหลู่: เหอะเห๊อะ ฮิธคลิฟฟ์ดูกลายเป็นคนชั่งพูดไปเลยนะครับ
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: It appears that the chicken sitting on his face is using his mouth to communicate, rather than Heathcliff himself.
-        เฟาสท์: 
+        เฟาสท์: มันดูเหมือนว่าไก่ที่ถูกสวมอยู่บนหัวเขาจะใช้ปากของเขาเพื่อสื่อสาร แทนที่จะเป็นตัวฮิธคลิฟฟ์เอง
         ```
 
         ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Don Quixote: Sniff… I cannot leave Sir Heathcliff in these straits… I had wished to cosplay with him as two “Fixers del Atardecer Ardiente” someday… We would only be subject to mockery if he were to engage in mummery with that chickened head…
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ฟุดฟิดฟุดฟิด... ข้ามิอาจที่จะปล่อยให้เซอร์ฮิธคลิฟฟ์ต้องทนทุกข์ทรมาณในความลำบากเหล่านี้เพียงลำพัง... ข้าหวังมาตลอดว่าสักวันหนึ่งข้ากับเขาจะได้คอสเพลย์ด้วยกันเป็น “วีรชนผู้กอบกู้ ฟิกเซอร์แห่งอาทิตย์อัสดงเพลิง”... หากแต่เราคงถูกประณามเยาะเย้ยให้กับแสดงจำอวดภายใต้ศรีษะไก่นั่น...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             To avoid the gathering crowd, we shoved Heathcliff into the interior of Eunbong’s Bar & Fryers and followed behind him.
+            เพื่อหลีกเลี่ยงไม่ให้เกิดฝูงชน พวกเราเลยผลักฮิธคลิฟฟ์เข้าไปในร้านไก่ทอดและเหล้าอึนบง แล้วตามเขาเข้าไป
             ```
 
         ---
@@ -1518,120 +1563,155 @@
 
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: Ghiii… Ghiii…
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: กิกี... กีกิ...
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: I can’t stand his clucking anymore. I’ll bring him back to his senses sharply.
-        เอาทิส: 
+        เอาทิส: ดิฉันทนฟังเสียงไก่ร่ำไห้ของเขาต่อไปไม่ได้อีกแล้ว ฉันจะดึงสติเขากลับมาเดี๋ยวนี้เอง
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Outis grabbed the raw chicken on Heathcliff’s head with one hand and began to slap it ruthlessly with her spare.
+            เอาทิสจับไปที่ไก่ดิบบนหัวของฮิธคลิฟฟ์ด้วยมือเดียว และเริ่มที่จะตบตีมันอย่างโหดเหี้ยมด้วยมืออีกข้าง
             ```
             ```
             Furiously…
+            อย่างโกรธเกรี้ยว...
             ```
 
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: Kwi… Giidoough…
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: เก๊ก... เกรี้ยวเรี้ยว...
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: …The sound of the impacts was comparable to when she was interrogating a captive enemy.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: ... เสียงของแรงมือที่ตกกระทบลงบนหน้าเทียบได้กับตอนที่เธอกำลังรีดไถข้อมูลจากเชลยศึกที่ถูกจับกุม
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: I don’t see him ever recovering on his own. This leaves us no choice. I will remove the chicken head as a whole.
-        เอาทิส: 
+        เอาทิส: ดิฉันไม่เห็นวี่แววว่าเขาจะฟื้นคืนสติด้วยตัวของตัวเองได้เลย ขืนเป็นแบบนี้ต่อไปเราอาจช่วยเขาไม่ได้ทันการ ฉันไม่เหลือทางเลือก นอกจากที่เราจำเป็นที่จะต้องกำจัดหัวไก่นั่นในทันที 
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Is it really okay to yank it off like that? You might peel his face right off with it!
-        โรเดียน: 
+        โรเดียน: มันโอเคแล้วแน่นะที่จะกระชากมันออกมาแบบนั่น? ไม่แน่เธออาจจะดึงหนังหน้าเขาติดมาด้วยก็ได้นะ!
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: Grow a backbone. Even if his skin were to be removed, it’s perfectly fine as our executive manager is here to handle it.
-        เอาทิส: 
+        เอาทิส: เลิกเยาะแยะสักทีเถอะ ถึงแม้ว่าเนื้อหนังของเขาจะถูกดึงออกไป แต่มันก็ไม่มีอะไรที่ต้องกังวลเลยสักนิด ในเมื่อเรามีท่านผู้จัดการ สูงสุด/ระดับสูง อยู่กับเราทั้งคน
         ```
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dante: <No, seriously… It’s really not fine for me, Outis, and I can’t just—>
-        ดันเต้: 
+        ดันเต้: <ไม่ พูดจริง ๆ นะ... มันไม่โอเคสำหรับฉัน เอาทิส และฉันก็ทนดูไม่ไ—>
         ```
 
         * เสียงในหัว
 
             ```
             Despite her opposition, Outis began jostling the chicken with all her might.
+            แม้จะคัดค้านเธอแค่ไหน แต่เอาทิสกลับพุ่งตัวกระโจนเข้ากระแทกใส่ไก่ที่อยู่หัวเขาด้วยแรงทั้งหมดที่เธอมี
             ```
 
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: Kiiiiih khiiiiiih!!!
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: ก๊าก ก๊ก ก๊า ก๊าก ก๊าาา!!!
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <I heard something tear… It didn’t actually come off, did it? Huh?>
-        ดันเต้: 
+        ดันเต้: <ฉํนได้ยินเหมือนบางสิ่งที่ฉีกออก... มันคงไม่ได้ลอกออกมาด้วยใชไหม? หะ?>
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Kuff… Kaff… Gehg…
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: อ้วก... อ้วก... เห๊กแหวะ...
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: Back with us soldier?
-        เอาทิส: 
+        เอาทิส: กลับมาหาเราแล้วใช่ไหม พลทหาร?
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Urgh… What’s with this barmy soup in my mouth…
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: เออเห้อ... อะไรคือรสชาติซุปประหลาดนี้ในปากฉัน...
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Heath… You were having some serious discussion with those chickens, clucking weird stuff. Remember?
-        โรเดียน: 
+        โรเดียน: ฮิธ... นายพึ่งได้คุยอย่างจริงจังกับไก่พวกนั่นไป แล้วนายก็กระต๊ากคำพูดบางอย่างออกมา จำได้ไหม?
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Huh, now that you say it… I think I did hear some gabbing in my head…

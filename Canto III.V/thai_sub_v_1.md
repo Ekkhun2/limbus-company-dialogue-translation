@@ -1,0 +1,2322 @@
+### Chapter 3.5
+
+---
+
+* ***Hell's Chicken*** **(ไก่นรก)**
+
+    * **Episode: 1 | ตอนที่ 1<br>Location: Nest K Downtown Alley | ตรอกซอกซอยย่านใจกลางเมืองเนสเค**
+
+        <img src="../images/Fuast.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: Off the bus, everyone. This is where we’re supposed to meet the client for our next mission.
+        เฟาสท์: ลงบัสได้ทุกคน ที่นี้คือที่ที่เราจะมาพบกับลูกค้านายจ้างภารกิจต่อไป
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Gimme a break. Now we’re taking requests like we’re frou-frou errand boys?
+        ฮิธคลิฟฟ์: ไม่เอาน่า นี้เราต้องลดตัวไปคอยรับใช้และทำตามคำสั่งคนอื่นตั้งแต่เมื่อไหร่กัน?
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Hm? Say, what’s that over there? It’s got a long line in front of it.
+        เกรกอร์: หืม? นี้ ตรงนั่นอะไรน่ะ? ดูท่าคนจะยืนต่อแถวยาวซะจนยืดออกมาจากร้านเลยนะนั่น 
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: Ahh~ Can’t you recognize this stirring scent? It’s fried chicken, Greg!! Deep fried chicken brought to a crisp in expensive oil!
+        โรเดียน: อ้าา~ นายจำกลิ่นที่ปลุกเร้าอารมณ์ของมันไม่ได้หรือไง? มันคือไก่ทอดไงล่ะ เกรก!! ไก่ที่อาบชะโลมไปด้วยน้ำมันราคาแพงจนกรอบไปทั้งตัว!
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: It seems you haven’t seen much of Nest K if you have yet to learn of Bodhisattva Chicken, the hottest trend around these parts.
+        แซมโจ: ดูเหมือนว่าพวกคุณจะยังไม่ได้เที่ยวชมเนสเคมากถึงขนาดนั่นนะครับ ถ้าพวกคุณยังไม่รู้จักอาหารที่เรียกว่าไก่โพธิสัตว์ อาหารที่เป็นที่นิยมในย่านแถวนี้
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            A man with a fastidious impression suddenly cut in on the Sinners’ conversation as if he belonged to our group.
+            ชายที่ดูจู้จี้จุกจิกปรากฎตัวอย่างกระทันหันผ่ากลางบทสนทนาของเหล่าคนบาป ราวกับว่าตัวเองเป็นคนที่อยู่ในกลุ่ม
+            ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: Oho… Bodhisattva Chicken, is it? What is that?
+        ฮงหลู่: โอ้โห... ไก่โพธิสัตว์หรือขอรับ? มันคืออะไร?
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Permit me… to answer.
+        แซมโจ: ขออนุญาติ... ให้ผมตอบด้วย 
+        ```
+        ```
+        Samjo: Bodhisattva Chicken is a highly renowned restaurant known for its six-legged, eight-winged poultry whose blissful tastes and gracious quantities really make you feel great compassion.
+        แซมโจ: ไก่โพธิสัตว์เป็นร้านอาหารที่มีชื่อเสียงเลื่องลือในเรื่องไก่หกขา สัตว์แปดปีกที่แทรกทุกอณูไปด้วยรสชาติแห่งความสุข และปริมาณที่เปี่ยมล้นไปด้วยเมตตา ที่จะทำให้คุณลูกค้ารู้สึกถึงความเห็นอกเห็นใจจากเพื่อนมนุษย์อย่างแท้จริง
+        ```
+        ```
+        Samjo: What’s more, they’re prepared for every preference. The buzzworthy biddy with the right amount of tenderness, the chubby capon with plentiful flesh to dig into, the chewy cockerel that’s perfectly al dente, and more. Now tell me, what do you want?
+        แซมโจ: มากกว่าไปกว่านั่น พวกเขายังเตรียมพร้อมทุกระดับประทับใจ ไม่ว่าจะเป็นมนุษย์ป้าที่กำลังเป็นที่ฮือฮากับชิ้นเนื้อที่ระดับความนุ้มพอเหมาะ หรือจะเป็นเจ้าไก่อ้วนกับชิ้นเนื้อแน่นแปล้จนเต็มคำ ไก่หนุ่มเนื้อเหนียวหนึบที่สุกกำลังดีแบบอัลเดนเต และอีกมากมาย ทีนี้ก็บอกผมหน่อยสิว่าคุณต้องการแบบไหน?
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: …I may have heard of it erst.
+        ยี่ซัง: ...เหมือนว่าตัวเราจะเคยได้ยินเกี่ยวกับที่นั่นในอดีตแฮะ
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: Isn’t this a surprise~ Our Yi Sang of all people is keeping up with the fads from under his rock?
+        โรเดียน: โอ้ นับเป็นเรืองเซอร์ไพรส์เลยนะนั่น~ ที่ยี่ซังของเรายังตามเทรนด์ได้ ทั้ง ๆ เอาแต่เก็บตัวอยู่ใน หิน/กะลา?
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: …So what’re you supposed to be?
+        ฮิธคลิฟฟ์: ...เออ แล้วแกเป็นใครกันมิทราบ?
+        ```
+        ```
+        Heathcliff: Can hazard a guess you don’t know who we are either, seeing as you brazenly shoved yourself in while we’re talking.
+        ฮิธคลิฟฟ์: พนันได้เลยว่าแกเองก็ไม่รู้ด้วยซ้ำว่าพวกเราเป็นใคร เพราะแกดันหน้าด้านแทรกเข้ามาตอนที่พวกเรากำลังคุยกันอยู่
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: …Can you even explain who we are?
+        อิชมาเอล: ...นายพอจะอธิบายได้บ้างไหมว่าพวกเราเป็นใคร?
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Samjo: Gracious, what could those things roaming around the restaurant possibly be? They don’t appear very normal to me.
+        แซมโจ: ให้ตาย! ทำไมจู่ ๆ ถึงมีเจ้าพวกนั่นถึงเดินไปเดินมา รอบ ๆ ร้านได้ล่ะเนี้ย? ปกติพวกมันไม่เคยโผล่หัวมาเลยไม่ใช่หรือไง
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Turning around, I spotted rather strange-looking people with just as strange behavior.
+            พอหันกลับไป ผมก็เจอผู้คนที่ดูนค่อนข้างแปลกที่มาพร้อมกับพฤติกรรมประหลาด
+            ```
+        
+        ```
+        Dante: <I–Isn’t that K Corp’s staff…? What are they doing?>
+        ดันเต้: <ม-ไม่ใช่ว่านั่นคือเจ้าหน้าที่ของเคคอร์ปเหรอ...? พวกเขากำลังทำอะไร?>
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: I see individuals covering their heads with strange masks.
+        เมอร์โซลท์: จากตรงนี้ ผมมองเห็นกลุ่มบุคคลที่ปกปิดใบหน้าของพวกเขาด้วยหน้ากากประหลาดบางอย่างครับ
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: M—Maybe they’re some kind of mascot? It could be pretty cute when we look up close…
+        ซินแคร์: บ-บางทีหน้ากากพวกนั่นอาจเป็นมาสคอตอะไรแบบนั่นก็ได้นะครับ? มันก็ดูค่อนข้างน่ารักเวลาเราลองมองใกล้ ๆ... 
+        ```
+
+        ---
+    
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: Those “mascots” have people running and screaming, though?
+        อิชมาเอล: อ้า... แล้วทำไม ไอ “มาสคอต” พวกนั่นถึงกำลังทำให้ผู้คนวิ่งหนี และกรีดร้องด้วย? 
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Seems a bit off, but let’s leave ‘em be. Doesn’t look like they’re coming this way, and I don’t particularly feel like getting wrapped up in something bothersome—
+        เกรกอร์: มีบางอย่างแปลกออกไป แต่ชั่งหัว เขา/มัน ไปเถอะ พวกมันเองก็ไม่ได้กำลังมาทางนี้ และฉันก็ไม่ได้รู้สึกว่าพวกเรากำลังตกอยู่ภายใต้สถานการณ์ที่ยากลำบากอะไ—
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: You’re right. They aren’t necessarily approaching us.
+        แซมโจ: คุณพูดถูก พวกเขาไม่ได้กำลังเจาะจงมาทางพวกเราจริงด้วย
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: And just what are you up to with that rock from the roadside, mysterious fella?
+        เกอรกอร์: และคนที่แอบอยู่หลังโขดหินตรงริมถนนตรงนั่น แกมัวทำอะไรของแกอยู่น่ะไอเพื่อนจอมลึกลับ?
+        ```
+
+        ---
+
+        <img src="../images/K_Chicken.png" alt="Chickenhead" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Chickenhead: !
+        มนุษย์หัวไก่: !
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <What in the world did you do?!>
+        ดันเต้: <นายทำบ้าอะไรของนายน่ะ?!>
+        ```
+
+        * เสียงในหัว
+
+            ```
+            Hit by the rock, it started looking around…
+            เมื่อโดนหินที่ปาใส่ มันเริ่มที่จะมองไปรอบ ๆ...
+            ```
+            ```
+            Then, it began to slowly shamble in our direction.
+            ก่อนที่มันจะค่อย ๆ เดินอย่างโซซัดโซเซมาทางพวกเรา
+            ```
+
+        ---
+
+        <img src="../images/K_Chicken.png" alt="Chickenhead" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Chickenhead: Giiiii... Giiii...
+        มนุษย์หัวไก่: ก-กกี้... ก-กี้... 
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Yikes, I’ve made such a clumsy mistake. What will we do?
+        แซมโจ: เวรแล้วไง ผมดันซุ่มซ่ามทำพลาดไปซะแล้ว เราจะทำไงดี?
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: Likely story, kozyol… You aimed straight for its head…
+        โรเดียน: ใครจะไปเชื่อเรื่องหลอกเด็กนั้นกันล่ะ เจ้าทึ่ม... ก็นายเล่นเล็งไปที่หัวมันเลยไม่ใช่หรือไง...   
+        ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: Wow~ Your form was impressively stable.
+        ฮงหลู่: ว้าว~ รูปโฉมของท่านช่างหนักแน่นน่าประทับใจจัง
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Why thank you. I once aspired to be a big-City baseball player.
+        แซมโจ: โอ้ ขอบคุณครับ พอดีว่าครั้งหนึ่ง ผมเคยฝันว่าอยากเป็นนักเบสบอลในลีกใหญ่ด้วยน่ะครับ
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ryoshu: I’ll play ball with you alright. Stay right there so I can knock your noggin outta the park.
+        เรียวชู: ฉันจะเล่นเบสบอลกับนายเอาไหม เดี๋ยวนายช่วยยืนนิ่ง ๆ อยู่ตรงนั่น แล้วฉันจะได้ฟาดหัวนายออกจากที่ให้ดูเอง
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: They’re approaching faster now. Shouldn’t you deal with them first before working up a slugger with my head?
+        แซมโจ: พวกมันกำลังเข้ามาเร็วขึ้นแล้วนะครับ ไม่ใช่ว่าพวกคุณควรที่จะจัดการกับพวกมันก่อนที่จะมาตีหัวผมหรอกเหรอครับ?
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            As Ryōshū furiously reached for her sheath, those things came right for us…
+            ครั้นเรียวชูเอื่อมมือไปยังฝักดาบ เจ้าพวกนั่นก็ตรงเข้ามาหาพวกเรา...
+            ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: They have chicken heads.
+        เฟาสท์: พวกเขามีศรีษะที่ถูกแทนที่ไปด้วยไก่
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: Yup, whole chickens.
+        โรเดียน: ถั่วต้ม ไก่ทั้งตัวเลยด้วย
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: Raw ones at that, too.
+        อิชมาเอล: แถมยังสดอยู่อีกต่างหาก
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: It’s like the ghosts of dead chickens’re clucking back from hell for revenge…
+        เกรกอร์: มันเหมือนกับว่าภูติผีของเหล่าบรรพไก่ที่ตายจากกำลังถูกปลุกกลับมาจากนรกเพื่อแก้แค้นยังไงอย่างงั้น... 
+        ```
+        ```
+        Gregor: So, uh… You guys think it’s because Sinclair left a chicken wing uneaten that one time since it was a hassle to get the meat off? Can’t think of anything else we might’ve done to call up hen havoc…
+        เกรกอร์: เออ ใช่... พวกนายคิดว่านี้เป็นเพราะเรื่องที่ซินแคร์ทิ้งปีกไก่ที่ยังกินไม่หมดในตอนนั่น เพราะ มันยุ่งยากเกินไปที่จะแทะเนื้อติดกระดูกออกมาเหมือนกันไหม? พอดีว่าฉันคิดถึงประเด็นอื่นไม่ได้แล้วที่อาจเป็นต้นตอของเหตุวุ่นวายแห่งเล้าไก่ในครั้งนี้... 
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Teasing like that won’t get to me anymore, you know… Besides, Rodya licked that one clean anyways…
+        ซินแคร์: การหยอกล้อแบบนั่นทำอะไรผมไม่ได้อีกแล้วล่ะ เอ่อ... นอกจาก ตอนที่โรดย่าเลียเจ้านั่นซะสะอาดล่ะก็นะ...
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Hm, it appears that combat is going to be our sole recourse.
+        แซมโจ: หืม ดูเหมือนว่าการต่อสู้จะไม่ใช่แค่สิ่งเดียวที่ฉันควรพึ่งพาแฮะ
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <So why is this guy taking cover behind me then?>
+        ดันเต้: <อา แล้วทำไมไอเจ้านี้ถึงมาแอบอยู่หลังฉันได้ล่ะเนี้ย?>
+        ```
+
+        * เสียงในหัว
+
+            ```
+            Before I could complain further, the chicken-headed crowd attacked us.
+            ก่อนที่ผมจะบ่นอะไรไปมากกว่านี้ ฝูงเจ้าหัวไก่ก็ดาหน้าเข้ามาโจมตีพวกเรา
+            ```
+
+    ---
+
+    * **Episode: 2 | ตอนที่ 2<br>Location: Bodhisattva Chicken | ร้านไก่โพธิสัตว์**
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Right, now that that’s been all sorted out, why don’t we get back to the point, friendly four-eyed stranger?
+        เกรกอร์: เอาหล่ะ หลังจากเรื่องทั้งหมดนั่นคลี่คลายลงแล้ว ทำไมเราถึงไม่กลับมาเข้าเรื่องกันดีล่ะ ใช่ไหมคุณคนแปลกหน้าสี่ตาผู้เป็นมิตร?
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: I must object to such a moniker; especially so when it comes from a fellow glasses-bearer.
+        แซมโจ: ผมขอคัดค้านชื่อเรียกนั้น; โดยเฉพาะอย่างยิ่งเมื่อมันมาจากคนที่สวมแว่นตาเหมือนกัน
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: O—Oh, is that so… Sorry ‘bout that, I guess.
+        เกรกอร์: อ—โอ้ ถ้าคำพูดฉันทำให้รู้สึกแย่... ก็ต้องขอโทษด้วยล่ะกัน
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: Basic personal information, such as one’s identity, can be easily acquired from the registration of one’s death.
+        เมอร์โซลท์: ข้อมูลส่วนบุคคลโดยทั่วไป อย่างเช่น ข้อมูลระบุตัวตน สามารถสืบหาได้อย่างง่ายดายผ่านทะเบียนการเสียชีวิตของบุคคลนั้น
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: …Ah, I did neglect to introduce myself. Here’s my business card. You may call me Samjo.
+        แซมโจ: ...อา ผมช่างเสียมารยาทอะไรเช่นนี้ถึงยังไม่ได้แนะนำตัวเลยว่าตัวเองเป็นใคร นี้นามบัตรผม พวกคุณสามารถเรียกผมว่าแซมโจครับ
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Disregarding the growing hostility surrounding him, the man handed us his card straight away.
+            เขาผู้นั่นแสดงท่าทีที่ไม่คำนึงถึงภัยอันตรายรอบข้างที่กำลังห้อมล้อมเขาอยู่ ก่อนที่เขาจะยื่นบัตรของตัวเองมาให้พวกเราโดยไม่ใส่ใจ
+            ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: A K Corp… Affiliate of the Department of Food Resource Development’s Research Center…
+        ฮิธคลิฟฟ์: เจ้าหน้าที่สังกัดเคคอร์ป... ประจำศูนย์วิจัยแห่งกรมพัฒนาทรัพยากรอาหาร..
+        ```
+        ```
+        Heathcliff: ......
+        ฮิธคลิฟฟ์: ......
+        ```
+        ```
+        Heathcliff: Hah! Thought we’d be fooled by a bunch of big fancy words?
+        ฮิธคลิฟฟ์: ฮา! คิดว่าพวกเราโง่พอที่จะถูกหลอกด้วยคำพูดสวยหรูไม่กี่คำพวกนี้รึไง?
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Of course. Persuasion and explanation are where I excel, so please stay calm and listen.
+        แซมโจ: แน่นอน การโน้มน้าวใจ และการอธิบายคือสิ่งที่ผมเก่งกาจ เพราะงั้น ได้โปรดรับฟังสิ่งที่ผมจะพูดต่อไปนี้อย่างใจเย็นด้วยนะครับ
+        ```
+        ```
+        Samjo: I was most impressed by the feats of your battle just moments ago.
+        แซมโจ: ผมพึ่งได้ประจักษ์ประทับใจกับผลงานในการต่อสู้ของคุณเมื่อไม่นานนี้
+        ```
+        ```
+        Samjo: In particular, the instances where you continued to assault your foes in blatant disregard for a dying colleague nearby. A few others even laughed at the sight
+        แซมโจ: โดยเฉพาะอย่างยิ่ง ในตอนที่คุณรุดสู้ต่อไปอย่างไม่หยุดยั้งเข้าใส่เหล่าศัตรูที่อยู่ตรงหน้าอย่างบ้าบิ่น โดยที่ไม่แม้แต่กลับมามองเหล่าพวกพ้องที่แดดิ้นทุรนทุรายอยู่ไม่ห่าง พร้อมกันกับเหล่าพวกทีพากันหัวเราะเยาะเมื่อเห็นภาพนั่น
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: Heh… Friend or foe, those who dare impede must be promptly removed.
+        เอาทิส: เหอะ... ไม่ว่าจะมิตรหรือศัตรู เจ้าพวกคนที่กล้ามาขัดขวางพวกเราก็ต้องถูกกำจัดทิ้งในทันที
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Outis replied to his remark with a look full of pride, even though it didn’t sound close to a compliment at all.
+            เอาทิสตอบกลับคำหวานของเขาด้วยใบหน้าที่เต็มไปด้วยความหยิ่งทะหนง แม้ว่าคำพูดเหล่านั่นจะฟังดูไม่ใกล้เคียงกับคำชมเลยด้วยซ้ำ
+            ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: As you can see, those chickenheads of unknown origin which are occupying this restaurant’s front have been causing considerable damage.
+        แซมโจ: อย่างที่พวกคุณเห็นว่าเจ้าหัวไก่ที่ไร้ที่มาพวกนั่นกำลังทำให้หน้าร้านอาหารแห่งนี้เกิดความเสียหายเป็นปริมาณนับไม่ถ้วน
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: …So what?
+        ฮิธคลิฟฟ์: ...แล้วไง?
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: The venue’s manager has also been bedridden until just now.
+        แซมโจ: ผู้ดูแลสถานที่เองก็กำลังนอนติดเตี้ยงจนถึงตอนนี้ 
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Another man with a haggard face tottered to us, making it somewhat apparent that Samjo wasn’t lying about the restaurant’s owner falling ill with worry.
+            ชายอีกคนที่มีใบหน้าซูบซีดและอิดโรยเดินโซเซมาที่เรา ทำให้เห็นได้ชัดว่าสิ่งที่แซมโจพูดไม่ใช่เรื่องโกหกเกี่ยวกับเจ้าของร้านที่ล้มป่วยไปเพราะอาการเครียดหนักจากความกังวล
+            ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: You may speak now.
+        แซมโจ: เอาล่ะ คุณพูดได้เลย
+        ```
+
+        ---
+
+        <img src="../images/Bosal.png" alt="Bosal" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Bodhisattva Chicken's Manager: Erm… So, things’ve been… Our fryhouse opened up a few months ago just across from Eunbong’s Bar & Fryers.
+        ผู้จัดการร้านไก่โพธิสัตว์: เอิ่ม... คือเรื่องมันเป็นอย่างนี้น่ะครับ... ร้านไก่ทอดของเราพึ่งเปิดได้ไม่กี่เดือนก่อนตรงข้ามกันกับร้านไก่ทอดและเหล้าอึนบง
+        ```
+        ```
+        Bodhisattva Chicken's Manager: Our franchise offers generous servings of good-tasting food using poultry with a supreme pedigree, so it was natural that we would draw all the customers from Eunbong’s.
+        ผู้จัดการร้านไก่โพธิสัตว์: แฟรนไชส์ของเรามุ่งเน้นไปที่ความใจกว้างด้วยการเซฟอาหารรสดีจากไก่ยอดสายพันธ์ เพราะงั้น มันจึงเป็นเรื่องปกติที่เหล่าลูกค้าจากอึนบงจะสนใจ และเข้ามาแแวะเวียนที่ร้านของพวกเรามากขึ้น
+        ```
+        ```
+        Bodhisattva Chicken's Manager: But one day, out of the blue, the owner of Eunbong’s started acting real strange. Losing his customers must’ve shocked him or somethin’, and now he’s trying to ruin all of our businesses.
+        ผู้จัดการร้านไก่โพธิสัตว์: แต่อยู่มาวันหนึ่ง จู่ ๆ เจ้าของร้านอึบบงก็เริ่มที่จะทำตัวแปลกออกไป อาจเพราะผลจากการสูญเสียลูกค้าคงจะทำให้เขารู้สึกช็อคไม่น้อย และตอนนี้เองเขาก็กำลังพยายามที่จะทำลายธุรกิจของพวกเราทั้งคู่
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: I mean, it’s not uncommon for competitors to throw jabs at each other, right—
+        เกรกอร์: คือว่า มันก็ไม่ใช่เรื่องผิดแปลกอะไรสำหรับคู่แข่งที่จะขัดแข้งขัดขากันไม่ใช่เหรอครั—
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            As if to attest to the restaurant owner’s woes, screams echoed from the other side of the street.
+            ราวกับเป็นเครื่องยืนยันแห่งความทุกข์ของเจ้าของร้าน ทันใดนั้นเองเสียงกรีดร้องก็ดังก้องขึ้นมาจากอีกฝั่งหนึ่งของถนน
+            ```
+
+        ---
+
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Nest Resident: Kyaaaugh!!! What the hell!!!
+        ผู้อยู่อาศัยเนส: ย๊ากกกกกก!!! นั้นตัวบ้าอะไร!!!
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Eunbong's Bar & Fryers Owner: Khh… Ghh… Kagh…
+        เจ้าของร้านไก่ทอดและร้านเหล้าของอึนบง: เออ... คิ๊ก... เฮือก...
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            As the supposed owner of Eunbong’s swung his arm while muttering something, the chickens responded in unison.
+            เมื่อคนที่คาดว่าจะเป็นเจ้าของของร้านฮึนบงสบัดแขนของเขาไปข้างหน้า ในขณะที่กำลังพูดพึมพำอะไรบางอย่าง เจ้าไก่สดพวกนั่นก็ตอบสนองการเคลื่อนไหวของแขนเขาอย่างพร้อมเพรียงกัน
+            ```
+            ```
+            The raw chickens… jumped at people.
+            ก่อนที่พวกมัน... จะกระโจนใส่ผู้คน
+            ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: …What in the world? Is he commanding the chickens?
+        อิชมาเอล: ...นี่มันเรื่องบ้าอะไรกันเนี้ย? นี่ฉันกำลังฝันไปหรือเขาพึ่งสั่งการไก่พวกนั่น?
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: That’s definitely strange behavior. How spiteful does someone have to be to resort to that kind of stuff…?
+        เกรกอร์: ยังไงนั่นก็เป็นพฤติกรรมที่แปลกประหลาดจริง ๆ คนเราต้องแค้นระดับไหนกันถึงมืดบอดขนาดที่ต้องพึ่งของพวกนั่น...? 
+        ```
+
+        ---
+
+        <img src="../images/Bosal.png" alt="Bosal" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Bodhisattva Chicken's Manager: I don’t know if they’re augmented or what, but those plucked and prepped hens would break into the restaurant and destroy things… 
+        ผู้จัดการร้านไก่โพธิสัตว์: ผมไม่ทราบเลยครับว่าเขาโกรธอะไรผมหรือเปล่า แต่เจ้าพวกไก่ที่ถูกถอนขนเตรียมทอดพวกนั่นอาจพังเข้ามาในร้าน แล้วทำลายข้าวของ...
+        ```
+
+        ---
+
+        **Location: Front of Eunbong’s Bar & Fryers | หน้าร้านไก่ทอดและเหล้าอึนบง**
+
+        ---
+
+        <img src="../images/Bosal.png" alt="Bosal" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Bodhisattva Chicken's Manager: And now there’s people wearing those chickens on their heads, too… If this keeps up, our restaurant is gonna lose so much money…
+        ผู้จัดการร้านไก่โพธิสัตว์: และทีนี้ก็ยังมีไอพวกคนที่สวมไก่ไว้บนหัวอีก... ถ้าขืนเป็นแบบนี้ต่อไป ร้านอาหารเราคงต้องเสียเงินมากแน่ ๆ...
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Such is his feathery song.
+        แซมโจ: นี้แหละคือเสียงร้องแห่งหมู่มวลปักษาของเขา
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: Hmmm...
+        ยี่ซัง: หืมมม...
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: This has been his tear-jerking reflection. Would you be willing to deal with this case?
+        แซมโจ: นี้คือใบหน้ารีดน้ำตาที่เปรอะเปื้อนไปด้วยหยาดฝนแห่งความทุกข์ใจ เศร้าโศก และอาลัยอาวรณ์ถึงธุรกิจร้านไก่ทอดที่กำลังจะล้มสลายในไม่ช้า เช่นนั้น พวกคุณจะกรุณาช่วยเหลือเฒ่าแก่ผู้สงสารผู้นี้ได้หรือไม่?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <That ruffled your feathers, huh, Yi Sang?>
+        ดันเต้: <คำพูดเมื่อกี้ทำ ให้ปีกนายย่น/นายอารมณ์เสีย เหรอ ยี่ซัง>
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: Mrrm...
+        ยี่ซัง: อืมมม...
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Tear-jerking or whatever, we still don’t take requests from a chicken p—
+        ฮิธคลิฟฟ์: จะหน้ารีดน้ำตาหรืออะไรก็ช่าง ยังไงพวกเราก็ไม่สนใจที่จะรับคำขอจากร้านไก่ทอ—
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: A lifetime voucher.
+        แซมโจ: บัตรกำนัล/วอยเชอร์ ตลอดชีวิต
+        ```
+        ```
+        Samjo: Handle this request, and I’ll offer you groundbreaking benefit: the right to free orders from this restaurant for the rest of your lives.
+        แซมโจ: รับคำขอนี้ แล้วผมจะมอบสิทธิพิเศษที่ไม่มีใครเคยมีมาก่อนให้คุณ; สิทธิ์ที่จะกินไก่ทอดฟรีจากร้านอาหารแห่งนี้ไปตลอดชีวิตของคุณ
+        ```
+
+        ---
+
+        <img src="../images/Bosal.png" alt="Bosal" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Bodhisattva Chicken’s Manager: A lifetime voucher?! I never heard of such a—
+        ผู้จัดการร้านไก่โพธิสัตว์: บัตรกินกำนัล/วอยเชอร์ ตลอดชีวิต?! ผมไม่เคยได้ยินว่าเราจะทำอย่างนั่—
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: I have even prepared a few free samples for you.
+        แซมโจ: แถมผมยังเตรียมไก่ทอดพวกนี้ให้พวกคุณลองทานด้วย
+        ```
+
+        ---
+
+        <img src="../images/Bosal.png" alt="Bosal" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Bodhisattva Chicken's Manager: You what?!
+        ผู้จัดการร้านไก่โพธิสัตว์: คุณว่าไงนะ?!
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Samjo personally distributed pieces of fried chicken that he suddenly had his hands on.
+            แซมโจแจกจ่ายชิ้นไก่ทอดที่เขาพึ่งหยิบติดมือมาให้เราด้วยตัวเอง
+            ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Now now, stand in line and keep things orderly. I’ve brought samples for different pedigrees, so you’re free to pick and choose. Each one comes with a unique brand of tastiness, demonstrating its strengths in differing cuts of meat.
+        แซมโจ: เอาหล่ะ เอาหล่ะ ช่วยยืนให้เป็นแถว แล้วก็ทำตัวให้อยู่ในกฎระเบียบกันด้วยนะครับ ผมพึ่งได้เอาตัวอย่างไก่ทอดหลากหลายพันธ์จากในร้านมา เพราะงั้น ก็เลือกตามใจชอบได้เลยนะครับ แต่ละชิ้นจะมาพร้อมกับความอร่อยเฉพาะตัว ที่ทำให้เห็นได้ชัดถึงจุดแข็งที่แตกต่างกันในแต่ละชิ้น
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Mmmmh… Must I choose only one flavor to taste? They all appear equal in gustatory greatness…
+        ดอน กิโฆเต้: อืมมมม... ข้าจำเป็นที่ต้องเลือกลิ้มลองแค่รสชาติเดียวหรือขอรับ? ทั้ง ๆ ที่พวกมันทั้งหมดก็ต่างดูมีรสชาติยิ่งใหญ่มากถึงเพียงนี้...
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Let me suggest this, then: Leave the other flavors as something to anticipate for your future meals. It won’t be a problem once the lifetime voucher is in your hands.
+        แซมโจ: ก็จริงนะครับ อย่างที่โบราณเขาว่าไว้เลือกพี่เสียดายน้อย แต่ผมจะแนะนำอย่างนี้ละกัน: ให้เลือกกินซักชิ้นหนึ่งที่คุณอยากลองก่อน แล้วเดี๋ยวชิ้นที่เหลือไม่ว่ายังไงคุณก็ได้ลิ้มลองรสชาติพวกมันอยู่แล้ว ถ้าเกิดคุณได้ครอบครอง บัตรกินกำนัล/วอยเชอร์
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Oho… Indeed, ‘tis an infallible proposition…
+        ดอน กิโฆเต้: โอ๊ะโฮ... จริงสินะท่าน ชั่งเป็นข้อเสนอที่คุ้มค่าอะไรเยี่ยงนี้...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            It seems Samjo has won the hearts of most of the Sinners with his compelling words and fine poultry samples.
+            ดูเหมือนว่าแซมโจจะชนะใจเหล่าคนบาปส่วนมากด้วยถ้อยคำชวนสนใจกับไก่ทดลองทานแสนอร่อย
+            ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: What do you say?
+        แซมโจ: ว่าไงล่ะครับ?
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: ......
+        ฮิธคลิฟฟ์: ......
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante " width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            This might be the first time I’ve seen Heathcliff go quiet at someone’s words.
+            นี้อาจเป็นคร้ังแรกเลยที่ผมเห็นว่าจู่ ๆ ฮิธคลิฟฟ์ก็เงียบไปด้วยคำพูดของใครสักคน
+            ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff " width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: That’s… not half bad at all…
+        ฮิธคลิฟฟ์: นั่น... ก็ไม่ได้แย่ซะทีเดียว...
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael " width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: Hello…? Aren’t we supposed to be looking for Golden Boughs, not golden drumsticks? Since when did we—
+        อิชมาเอล: ฮัลโหล...? ไม่ใช่ว่าเราควรที่จะไปตามหากิ่งทอง แทนที่จะเป็นน่องทองหรือไง? ตั้งแต่ตอนไหนกันที่พวกเรา—
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff " width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Didn’t you hear him? We’re dining on free crispy chicken forever!
+        ฮิธคลิฟฟ์: แล้วเธอไม่ได้ยินทีเขาพูดหรือไง? เราจะได้กินไก่ทอดกรอบ ๆ ตลอดชีวิตเลยนะ!
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion " width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: It doesn’t have limited use, right? It’s actually free chickens forever, right? Yeah? Takeout counts too?
+        โรเดียน: มันไม่มีจำนวนจำกัดด้วยใช่ม้า? ถ้างั้นมันก็คือขุมทรัพย์ไก่ฟรีตลอดชีวิตเลยนะ? สั่งกลับบ้านนี้นับด้วยไหม?
+        ```
+        ```
+        Rodion: Hah, this takes me back to older days. Wonder if anyone remembers it~ Y’know, HamHamPangPang’s freshly fried chicken that was totes delish.
+        โรเดียน: ฮา ทำเอาฉันนึกถึงวันเก่า ๆ สงสัยจังเลยว่าจะมีใครยังจำได้ไอนั่นไหม~ แบบว่า เจ้าไก่ทอดร้านแฮมแฮมแปงแปง ที่พึ่งทำสด ๆ จากเตา อันที่อร่อยสุด ๆ นั่นน่ะ
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff " width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: I sure do. I’d have a cheeky one with the lads whenever our Syndicate earned a proper lump of dosh.
+        ฮิธคลิฟฟ์: จำได้สิ ฉันจะไปกินไก่ที่นั่นกับพวกหนุ่ม ๆ ทุกครั้ง ที่ซินดิเคตของเราได้เงินก้อนโตมา  
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael " width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: Ugh, Ms. Faust, can you have them cut the crap already? Shouldn’t there be some company clause against fried chicken requests?
+        อิชมาเอล: เห้อ คุณเฟาสท์คะ คุณช่วยให้พวกเขาเลิกพูดเรื่องไร้สาระพวกนี้สักทีจะได้ไหม? ไม่ใช่ว่ามันไม่ควรจะมีองค์กรไหนมารับคำขอเพื่อไก่ทอดหรอกใช่ไหมคะ?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante " width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Faust was deep in thought by her lonesome.
+            เฟาสท์จมดิ่งไปในความคิดกับความโดดเดียวของเธอ
+            ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: Alright, we will take your request.
+        เฟาสท์: เข้าใจแล้ว พวกเราจะรับคำขอของคุณค่ะ
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: Excuse me?!
+        อิชมาเอล: ประธานโทษ?!
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            This might also be the first time I’ve seen Ishmael taken aback to this extent.
+            และนี้อาจครั้งแรกเหมือนกันที่ผมเห็นว่าอิชมาเอล ตกใจ/อึ้ง ถึงขนาดนี้
+            ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: I’m sorry, Faust… but did you… go out of your mind for a second there?
+        อิชมาเอล: ขอโทษนะ เฟาสท์... แต่ เมื่อกี้นี้/นี้เธอ... เธอเสียสติไปแล้วหรือไง?
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Yeesh, Ishmael, no need to be so biting there…
+        เกรกอร์: ใจร่ม ๆ น่า อิชมาเอล ไม่เห็นจำเป็นต้องจิกกัดเลย...
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: It’s hard to say. Faust’s mind tends to be out there most of the time.
+        เฟาสท์: ถ้าจะให้พูดก็พูดยากนะคะ สติของเฟาสท์ก็มักจะหลุดร่วงอยู่แบบนี้เสมอนั่นแหละค่ะ
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Hahah! Guess we’re all right and chummy for once, eh?
+        ฮิธคลิฟฟ์: ฮาฮา! ดูเหมือนว่าพวกเราจะเห็นพ้องต้องกันได้สักเรื่องแล้วนะ?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Faust… Are you serious? You’re taking a request over free chicken?>
+        ดันเต้: <เฟาสท์... นี้เธอเอาจริงเหรอ? เธอกำลังจะรับคำขอเพื่อไก่ฟรีเนี้ยนะ?>
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: To be more precise… this is to resolve a case of the ‘Distortion Phenomenon’, Dante.
+        เฟาสท์: พูดให้ถูกก็คือ... ทั้งหมดนี้ก็เพื่อคลี่คลายต้นตอของปัญหาที่อาจลุกลาม เป็น ‘ปรากฎการณ์บิดเบี้ยว’ น่ะ ดันเต้
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Distortion Phenomenon?>
+        ดันเต้: <ปรากฎการณ์บิดเบี้ยว?>
+        ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: Distortions… What are they?
+        ฮงหลู่: บิดเบี้ยว... คืออะไรเหรอครับ?
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: It is a term I’m sure is unclear to most. Although it has been occurring all around the City, no official announcement of the phenomenon has been made to the general public.
+        เฟาสท์: มันเป็นคำที่น้อยคนจะเข้าใจ ถึงแม้ว่ามันจะเป็นเหตุการณ์ที่เกิดขึ้นอยู่ตลอดรอบ ๆ เดอะซิตี้ แต่กลับไม่มีประกาศอย่างเป็นทางการถึงปรากฎการณ์ดังกล่าวที่สร้างผลกระทบต่อสาธารณชนเป็นวงกว้าง
+        ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: Oh...
+        ฮงหลู่: โอ้...
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: To my knowledge, it is a phenomenon where an individual morphs into a form often unfit to be considered “human”. It has no known causes, and the appearances were all different.
+        เมอร์โซลท์: เท่าที่ผมเข้าใจ/จากที่ผมเข้าใจ มันเป็นปรากฎการณ์ที่ตัวบุคคลแปรเปลี่ยนร่างกายเป็นรูปสภาพที่เกินกว่าจะเรียกว่า “มนุษย์” อย่างไร้สาเหตุ และแตกต่างกัน
+        ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: Hmm… That doesn’t make it clear enough. Are they like Abnormalities?
+        ฮงหลู่: หืมม... ยังไม่ค่อยเข้าใจเท่าไหร่เลยน่ะครับ พวกเขาเหมือนกับพวก แอบนอร์มาลิตีส์/สัตว์ประหลาด หรือเปล่า? 
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: Not exactly, as unlike Abnormalities, they do not shrink into eggs; it is possible for them to fully expire.
+        เมอร์โซลท์: ไม่เชิงครับ สิ่งที่พวกเขาแตกต่างจากพวก แอบนอร์มาลิตีส์/สัตว์ประหลาด ก็คือการที่พวกเขาไม่หดตัวไปเป็นไข่; หรือจะให้พูดก็คือพวกเขาแก่ตายได้
+        ```
+        ```
+        Meursault: I have witnessed a number of cases in the past.
+        เมอร์โซลท์: เมื่อก่อนผมเคยเห็นอยู่บ้าง
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: Our company has the LCD, a department housing consultant Fixers dedicated to matters regarding the Distortions. Though its size is small, it nevertheless signifies the company’s interest in the phenomenon.
+        เฟาสท์: องค์กรของเรามี เอล-ซี-ดี แผนกที่รวบรวมเหล่าฟิกเซอร์ที่ปรึกษาผู้เชี่ยวชาญด้านการจัดการปัญหาที่เกียวข้องกับการบิดเบี้ยว แม้จะมีขนาดเล็ก แต่มันก็ไม่เคยนิยามได้ถึงความสนใจที่องค์กรนี้ทุ่มเทให้กับปรากฎการณ์เหล่านั้น
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <So the owner of Eunbong’s… has… turned into one of those Distortion things?>
+        ดันเต้: <งั้นก็คือ เจ้าของร้านอึนบง... ได้... กลายร่ายเป็นแบบเดียวกันกับพวกบิดเบี้ยวพวกนั่นใช่ไหม?>
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: That’s correct. One does not simply gain the ability to lead an army of raw chickens by losing their mind.
+        เฟาสท์: ถูกต้องแล้วล่ะ เจ้านั่นไม่ได้จู่ ๆ ก็ได้พลังในการควบคุมกองทัพไก่สดจากการเสียสติ
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <I see...>
+        ดันเต้: <ฉันพอจะเก็ตแล้วล่ะ...>
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: So that’s what it’s about? Phew… I almost got worried that I might have to knock some sense back into you, Faust.
+        อิชมาเอล: อ้อ งั้นเองซินะก็ว่าล่ะ? วุ้ย... ฉันก็กังวลซะ เกือบที่จะคิดว่าตัวเองต้องแขกเขกมะเหงกเรียกสติเธอซะแล้ว เฟาสท์
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Is that why you were clutching your mace so tight, Ishmael…?
+        เกรกอร์: ไม่ใช่ว่านั่นคือสาเหตุว่าทำไม เธอถึงกำ กระบอง/คทา ตัวเองไว้แน่นขนาดนั้นหรอกใช่ไหม อิชมาเอล...?
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Rightly so! We must act before this commotion results in any casualty. Ñam-ñam…
+        ดอน กิโฆเต้: ก็สมควรแล้วล่ะ! เราต้องรีบจัดการก่อนที่ความวุ่นวายนี้จะทำให้ใครบาดเจ็บล้มตาย... ง่ำ-ง่ำ...
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: Oh? You got sauce on your face, chiquita!
+        โรเดียน: โอ้? หน้าเธอเลอะซอสหมดแล้วน้า สาวน้อย!
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            I watched as Rodya wiped Don Quixote’s mouth clean.
+            ผมมองโรดย่าที่กำลังเช็ดปากดอนกิโฆเต้จนสะอาด
+            ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: I’ll take that as a yes, and will be waiting for your contact.
+        แซมโจ: ผมจะถือว่านั้นเป็นอันตกลงก็แล้วกันนะครับ ผมจะรอสัญญาของพวกคุณตรงนี้ 
+        ```
+
+    ---
+
+    * **Episode: 3 | ตอนที่ 3<br>Location: Front of Eunbong’s Bar & Fryers | หน้าร้านไก่ทอดและร้านเหล้าของอึนบง**
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <What are we supposed to do to resolve a Distortion?>
+        ดันเต้: <แล้วพวกเราต้องทำไงถึงจะรักษาอาการบิดเบี้ยวได้?>
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: It's simple.
+        เฟาสท์: มันง่ายนิดเดียวค่ะ
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Faust seemed to have a habit of prefacing her expositions with a disclaimer about their simplicity.
+            ดูเหมือนว่าเฟาสท์จะติดนิสัยชอบพูดเกริ่นนำก่อนที่เธอจะอธิบายอะไรบางอย่าง และย้ำเตือนว่าสิ่งที่เธอพูดนั้นเป็นเรื่องเข้าใจง่าย 
+            ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: What we will do is open up the heart of the Distorted.
+        เฟาสท์: สิ่งที่เราต้องทำก็คือการเปิดใจของผู้บิดเบี้ยว
+        ```
+        ```
+        Faust: Disarm their mind’s guard and coax them into opening up.
+        เฟาสท์: ปลดกลไกเฝ้าระวังทางใจทิ้ง และเกลี้ยกล่อมให้เขาเปิดมัน
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ryoshu: I see. Do we remove the scapula first? Or perhaps the sternum?
+        เรียวชู: งี้นี้เอง แล้วเราต้องตัดอะไรออกก่อนดีล่ะระหว่างกระดูกสะบัก? หรือกระดูกสันอก?
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: Hmm, a physical revelation of the heart… An interesting proposal.
+        เฟาสท์: หืมม การเปิดใจทางกายภาพสินะคะ... โดยรวมแล้วก็เป็นข้อเสนอที่น่าสนใจไม่น้อย
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Er, first off… We probably should visit that Eunbong’s place and figure some things out.>
+        ดันเต้: <เออ อย่างแรก... พวกเราควรที่จะเข้าไปในร้านของอึนบงและทำความเข้าใจให้ได้ว่าเกิดอะไรขึ้น>
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Euh… Raw poultry is walking around. That can’t be hygienic…
+        ซินแคร์: เออ... ไก่สดกำลังเดินแผ่นผ่านไปมาอยู่รอบ ๆ นั่นดูจะไม่ค่อยถูกสุขลักษณะเท่าไหร่เลยนะครับ...
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <They look like the things that were on those people’s heads earlier.>
+        ดันเต้: <พวกมันดูเหมือนเจ้าสิ่งที่อยู่บนหัวของผู้คนก่อนหน้านี้ไม่มีผิด>
+        ```
+        ```
+        Dante: <I dunno what they are, but we shouldn’t get too close to…>
+        ดันเต้: <ฉันไม่รู้ว่าเจ้าพวกนี้คืออะไร แต่ความรู้สึกมันฟ้องว่าเราไม่ควรที่จะเข้าใกล้มัน...>
+        ```
+
+        * เสียงในหัว
+        
+            ```
+            Unfortunately, I had forgotten that around 80% of the Sinners valued my suggestions less than the cooing of a random pigeon on the roadside.
+            เป็นเรื่องน่าเสียดาย ที่ผมดันลืมไปสนิทว่าคนบาปกว่าแปดสิบเปอร์เซ็นท์ในหมู่เราจะเห็นค่าของคำแนะนำที่ผมมอบให้น้อยเสียยิ่งกว่าเสียง ขัน/กระจู๋กระจิ๋ ของนกพิราบข้างทางซะอีก
+            ```
+
+        ---
+
+        <img src="../images/Chicken1.png" alt="Chicken1" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Chicken1: Kieeeh!
+        ไก่สด1: แก้กกก!
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: So we can have free chicken for life after we’re done whacking these pullets, eh?
+        ฮิธคลิฟฟ์: ก็คือพวกเราจะได้หม่ำไก่ฟรีทั้งชีวิตหลังจากที่เราซัดไอไก่อ่อนพวกนี้ งั้นใช่ไหม?
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ryoshu: Cute. Let's STAB.
+        เรียวชู: น่ารัก ฉหกเลยดีไหม
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <......>
+        ดันเต้: <......>
+        ```
+        ```
+        Dante: <I get it! That one was “slice them all bare”!>
+        ดันเต้: <ฉันเข้าใจแล้ว! ไอเมื่อกี้นี้น่าจะหมายถึง “เฉือนให้เกลี้ยง”!>
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: …Huh.
+        อิชมาเอล: ...หะ
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ryoshu: Nod.
+        เรียวชู: ตามนั่น/พนักหน้า
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Provoked, the raw chickens leapt into the air…
+            เมื่อถูกยั่วยุ เหล่าไก่ดิบก็พากันกระโจนไปในอากาศ ก่อนที่...
+            ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Huh, Heathcliff?!?!
+        ซินแคร์: หะ คุณฮิธคลิฟฟ์?!? 
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Heathcliff’s face was then devoured by one of them.
+            ใบหน้าของฮิธคลิฟฟ์จะถูกกลืนกินโดยหนึ่งในพวกมัน
+            ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: ......
+        ฮิธคลิฟฟ์: ......
+        ```
+
+        ---
+
+        ```
+        Dante: <...Heathcliff?!!>
+        ดันเต้: <...ฮิธคลิฟฟ?!!>
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: ......
+        ฮิธคลิฟฟ์: ......
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Heathcliff stood in silence with the raw chicken adorning his head…
+            ```
+            ```
+            It was quite the sight, much to my terror.
+            ```
+
+        ---
+
+        ```
+        Ishmael: I think I like Heathcliff better this way, y’know? He actually seems intelligent now.
+        อิชมาเอล: 
+        ```
+
+        ---
+
+        ```
+        Rodion: Oh gosh, what do we do, Dante? Wait, quick! Your clock!
+        โรเดียน: 
+        ```
+
+        ---
+
+        ```
+        Dante: <B—But then…>
+        ดันเต้: 
+        ```
+
+        * เสียงในหัว
+
+            ```
+            Nothing would stop me from rewinding here. But the problem is…
+            ```
+
+        ```
+        Dante: <What if my head turns into a chicken while the clock’s working?>
+        ดันเต้: 
+        ```
+
+        ---
+
+        ```
+        Ryoshu: S.D.
+        เรียวชู: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Same difference?!
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Clockhead, chickenhead—they’re no different, so I don’t get being huffy over it.
+        เรียวชู: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            It looked like Sinclair was the only one actually worried about Heathcliff.
+            ```
+
+        ---
+
+        ```
+        Sinclair: Mister Heathcliff! Are you alright in there?
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Ghii… Ghii… 
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Rodion: Say, why don’t we keep him as our mascot if the thing never comes off?
+        โรเดียน: 
+        ```
+
+        ---
+
+        ```
+        Dante: <What’s the deal with you and mascots anyway…?>
+        ดันเต้: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Ghii… Cooh…
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Don Quixote: Ohhhh! Lead your eyes thither! Heathcliff is communicating with the other hens!
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Chickenhead: Bubawkgi! Bubawkgicludoo. Buhbawkgigi!
+        มนุษย์หัวไก่: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff:	Bubawgi… Doodlegidoo… Buhbawk…
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Fuhu, Heathcliff’s become quite the chatterbox.
+        ฮงหลู่: 
+        ```
+
+        ---
+
+        ```
+        Faust: It appears that the chicken sitting on his face is using his mouth to communicate, rather than Heathcliff himself.
+        เฟาสท์: 
+        ```
+
+        ---
+
+        ```
+        Don Quixote: Sniff… I cannot leave Sir Heathcliff in these straits… I had wished to cosplay with him as two “Fixers del Atardecer Ardiente” someday… We would only be subject to mockery if he were to engage in mummery with that chickened head…
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            To avoid the gathering crowd, we shoved Heathcliff into the interior of Eunbong’s Bar & Fryers and followed behind him.
+            ```
+
+        ---
+
+        **Location: Eunbong’s Bar & Fryers | ร้านไก่ทอดและเหล้าอึนบง**
+
+        ---
+
+        ```
+        Heathcliff: Ghiii… Ghiii…
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Outis: I can’t stand his clucking anymore. I’ll bring him back to his senses sharply.
+        เอาทิส: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Outis grabbed the raw chicken on Heathcliff’s head with one hand and began to slap it ruthlessly with her spare.
+            ```
+            ```
+            Furiously…
+            ```
+
+        ---
+
+        ```
+        Heathcliff: Kwi… Giidoough…
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Meursault: …The sound of the impacts was comparable to when she was interrogating a captive enemy.
+        เมอร์โซลท์: 
+        ```
+
+        ---
+
+        ```
+        Outis: I don’t see him ever recovering on his own. This leaves us no choice. I will remove the chicken head as a whole.
+        เอาทิส: 
+        ```
+
+        ---
+
+        ```
+        Rodion: Is it really okay to yank it off like that? You might peel his face right off with it!
+        โรเดียน: 
+        ```
+
+        ---
+
+        ```
+        Outis: Grow a backbone. Even if his skin were to be removed, it’s perfectly fine as our executive manager is here to handle it.
+        เอาทิส: 
+        ```
+
+        ---
+
+        ```
+        Dante: <No, seriously… It’s really not fine for me, Outis, and I can’t just—>
+        ดันเต้: 
+        ```
+
+        * เสียงในหัว
+
+            ```
+            Despite her opposition, Outis began jostling the chicken with all her might.
+            ```
+
+        ---
+
+        ```
+        Heathcliff: Kiiiiih khiiiiiih!!!
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Dante: <I heard something tear… It didn’t actually come off, did it? Huh?>
+        ดันเต้: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Kuff… Kaff… Gehg…
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Outis: Back with us soldier?
+        เอาทิส: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Urgh… What’s with this barmy soup in my mouth…
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Rodion: Heath… You were having some serious discussion with those chickens, clucking weird stuff. Remember?
+        โรเดียน: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Huh, now that you say it… I think I did hear some gabbing in my head…
+        ฮิธคลิฟฟ์: 
+        ```
+        ```
+        Heathcliff: W-What were they on about… Some sort of recipe got lost, I guess…
+        ฮิธคลิฟฟ์: 
+        ```
+        ```
+        Heathcliff: Was the cornerstone of this eatery, but once it was gone… He stopped getting customers…
+        ฮิธคลิฟฟ์: 
+        ```
+        ```
+        Heathcliff: That’s when the master started acting off… and infected us all…
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Ishmael: Pft… Did you just say those chickens were “us”?
+        อิชมาเอล: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: …Bugger, I’m still recovering from those headhens… This is confusing…
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: That’s what you decided to call them…?
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Dante: <If the Distortion happened because he lost his recipe…>
+        ดันเต้: 
+        ```
+        ```
+        Dante: <Then maybe we can somehow recreate it for him?>
+        ดันเต้: 
+        ```
+
+        ---
+
+        ```
+        Faust: You’ve gotten close enough to an answer.
+        เฟาสท์: 
+        ```
+        ```
+        Faust: Though much about the Distortion remains unknown, one of the noted particulars is that it occurs when the good and evil… No, when the mind crumbles to figurative pieces.
+        เฟาสท์: 
+        ```
+
+        ---
+
+        ```
+        Dante: <Sounds like you just pivoted away from “good and evil” because that version would get too long for you to bother…>
+        ดันเต้: 
+        ```
+
+        ---
+
+        ```
+        Faust: For instance, let’s say that Hong Lu held a belief he was certain would be an unchanging constant as he lived in the City.
+        เฟาสท์: 
+        ```
+        ```
+        Faust: Or, it could be a hope for some other psychological sustainment that has supported his life.
+        เฟาสท์: 
+        ```
+
+        ---
+
+        ```
+        Hong Lu: …Hmm.
+        ฮงหลู่:  
+        ```
+
+        ---
+
+        ```
+        Faust: If that support suddenly collapses in a massively shocking event that causes one to let their “ego” go, his mind would crumble, so to speak.
+        เฟาสท์: 
+        ```
+
+        ---
+
+        ```
+        Hong Lu: …Well, I could see that happening.
+        ฮงหลู่: 
+        ```
+
+        ---
+        
+        ```
+        Heathcliff: What could be so shocking for a well-off cuss like you? Getting your privy purse snatched away?
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Oh, no, I never received an allowance. There was no need for such a thing when I could spend any amount whenever I wanted.
+        ฮงหลู่: 
+        ```
+
+        ---
+
+        ```
+        Rodion: Really? What else is it, then?
+        โรเดียน: 
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Hm… I thought I knew, but I can’t seem to elaborate on it with words right now.
+        ฮงหลู่: 
+        ```
+
+        ---
+
+        ```
+        Faust: To return to the point and sum things up…
+        เฟาสท์: 
+        ```
+        ```
+        Faust: The Distortion… is a phenomenon that arises from deeply personal psychological shock.
+        เฟาสท์: 
+        ```
+        ```
+        Faust: The affected will have walled off their heart with a solid defense.
+        เฟาสท์: 
+        ```
+        ```
+        Faust: This wall has to be brought down using methods that the Distorted would approve.
+        เฟาสท์: 
+        ```
+
+        ---
+
+        ```
+        Gregor: And in this case, the Distortion would want…
+        เกรกอร์: 
+        ```
+        ```
+        Gregor: …Chicken-based cooking, right.
+        เกรกอร์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Gregor took a confident step forward after saying that.
+            ```
+
+        ---
+
+        ```
+        Gregor: I cooked up a good few meals using leftovers and cans for my comrades in arms during the war.
+        เกรกอร์: 
+        ```
+        ```
+        Gregor: Those traumatized soldiers were moved to tears by my dishes as they gobbled up the stuff.
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Hmph.
+        เรียวชู: 
+        ```
+
+        ---
+        
+        ```
+        Gregor: …Hey now, is it just me… or did I hear somebody scoff at that?
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Ryoshu: How droll. What does a C.F. know about cooking? You’d be better off flipping hamburger patties with your pincer.
+        เรียวชู: 
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Ooh~ If Mr. Gregor opened a business, he’d be a boss with big meaty claws!
+        ฮงหลู่: 
+        ```
+
+        ---
+
+        ```
+        Gregor: …Ryōshū, that’s short for “crawling furball”, isn’t it? But I’ll say, I do like the idea of being the guy with big meaty claws… Eh? My head just got a sting…
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Ryoshu: A true chef… follows their tongue and blade.
+        เรียวชู: 
+        ```
+        ```
+        Ryoshu: Could you really say that food haphazardly mashed together in a warzone is real cuisine?
+        เรียวชู: 
+        ```
+
+        ---
+
+        ```
+        Rodion: Ohhh~ That’s one for the cookbooks!
+        เรียวชู: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Ms. Ryōshū, she’s speaking with full words for once!
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Gregor: Grr… It sounded cool, but I’m not sure you’re one to be giving out advice…
+        เกรกอร์: 
+        ```
+        ```
+        Gregor: Actually, hold on, have you even cooked before, Ryōshū?
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Obvs. I have crafted dishes on a level that you as a trifling cook can’t dare imagine.
+        เรียวชู: 
+        ```
+
+        ---
+
+        ```
+        Gregor: Okay, now I’m starting to get mad…
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Rodion: Let’s see, then… I’m on Shū’s side!
+        โรเดียน: 
+        ```
+
+        ---
+
+        ```
+        Gregor: Why are we splitting up into teams now?
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Rodion: Ahaha, I mean, it’s fun~
+        โรเดียน: 
+        ```
+
+        ---
+
+        ```
+        Gregor: And why did you end up siding with her?
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Rodion: Greg, darling, we’ve been stuck too close for too long. Why don’t we try a little distance just for today?
+        โรเดียน: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Heathcliff, having shaken off the dizziness, walked to Gregor’s side.
+            ```
+
+        ---
+
+        ```
+        Heathcliff: So we win by pulping ‘er up, aye?
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Gregor: No no, we aren’t crushing anyone with force…
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Outis: You admit to feeding your men canned food? You’re a disgrace of a soldier. For your reference, I much prefer instant foods.
+        เอาทิส: 
+        ```
+
+        ---
+
+        ```
+        Gregor: That reference is just a preference!
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Ishmael: This is childish, really. Do you guys seriously want to take sides over this?
+        อิชมาเอล: 
+        ```
+
+        ---
+        
+        ```
+        Rodion: Tell us, why don’t you tell us? Which side are you, Ishy? If you had to choose between Greg and Ryōshū to serve food for us Sinners…
+        โรเดียน: 
+        ```
+
+        ---
+
+        ```
+        Gregor: Don’t you try and coax her. I know Ishmael and I have been thick as thieves since early on.
+        เกรกอร์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            In spite of Gregor’s confidence, Ishmael’s face and posture betrayed a sense of awkwardness.
+            ```
+
+        ---
+
+        ```
+        Gregor: I—Ishmael…?
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Ishmael: Sorry, Gregor, but if it’s canned goods we’re talking about… I ate more than I ever want on the ship…
+        อิชมาเอล: 
+        ```
+
+        ---
+
+        ```
+        Gregor: C’mon, why won’t you look me in the eyes, Ishmael? Eh?
+        เกรกอร์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Ishmael took a few sluggish steps backward to stand next to Ryōshū.
+            ```
+            ```
+            Her eyes never looked up to meet Gregor.
+            ```
+
+        ---
+
+        ```
+        Gregor: ......
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Heh.
+        เรียวชู: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Even though there wasn’t much rapport to begin with… I could hear what little trusting bond existed between the two fall apart.
+            ```
+            ```
+            Don Quixote had glued herself to Gregor’s back before I noticed. Her face was off-color.
+            ```
+
+        ---
+
+        ```
+        Don Quixote: A—As a matter of truth, while we were banqueting upon skewered chicken on the bus… I… bore witness… to that woman’s most awful deed…
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Gregor: What’d she do with the chicken kebab?
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Don Quixote: I— That is… Nay, I cannot… begin to put it to words…
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Ahh, well, well… You saw it, did you? Huhu, that was a secret technique of mine to bring out the dak-kkochi’s ultimate flavor…
+        เรียวชู: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Don Quixote shuddered violently.
+            ```
+            ```
+            Soon enough, Hong Lu went to Gregor’s side with a sparkle in his eyes.
+            ```
+
+        ---
+
+        ```
+        Hong Lu: Hoho, it would be a unique experience to try dishes comparable to pet food once in my life, right? I’ll be rooting for you, Gregor!
+        ฮงหลู่: 
+        ```
+
+        ---
+
+        ```
+        Gregor: Er, right. Thanks a lot, Hong Lu…
+        ฮงหลู่: 
+        ```
+        
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Hong Lu stood behind Gregor, wearing a kind smile on his face.
+            ```
+
+        ---
+
+        ```
+        Gregor: Faust! I can count on you of all people to make the rational choice, yeah?
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Faust: I don’t know, as Faust… can enjoy a risky venture from time to time.
+        เฟาสท์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            With that profound remark, Faust took her place behind Ryōshū.
+            ```
+
+        ---
+
+        ```
+        Sinclair: I really don’t get it… Why are we splitting our group into opposing teams?
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Hey, CHICK. Pick a way to survive or buzz off.
+        เรียวชู: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Ch… Chirping hesitation isn’t cool, kiddo…?! T—Then…
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Dante: <Sinclair… You might be linked to Ryōshū on a spiritual level at this point.>
+        ดันเต้: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Ryōshū’s ruthless remark made Sinclair trudge to her side.
+            ```
+
+        ---
+
+        ```
+        Gregor: Isn’t it unfair to threaten him to join you? That’s cheating!
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ......
+        ยี่ซัง: ......
+        ```
+        ```
+        Yi Sang: I shan’t choose, and instead, I humbly await your selection.
+        ยี่ซัง: 
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Don’t need that. You take it.
+        เรียวชู: 
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ......
+        ยี่ซัง: ......
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Yi Sang was placed on Gregor’s team without him moving a muscle.
+            ```
+            ```
+            Lastly, Meursault quietly stood behind Gregor.
+            ```
+
+        ---
+
+        ```
+        Gregor: M-Meursault…
+        เกรกอร์: 
+        ```
+        ```
+        Gregor: I’m a little touched. I know we never got to talk much, but you still decided to come and stand by me in my time of need, I’m so—
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Meursault: I have only done so because joining the team with fewer members would set the balance right.
+        เมอร์โซลท์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Some will proclaim that they saw tears well up in Gregor’s eyes at that moment.
+            ```
+            ```
+            With the teams decided, we entered the kitchen of Eunbong’s, looking for a suitable place to cook.
+            ```
+            ```
+            It had become a long neglected mess with traces of fowl rampage.
+            ```
+            ```
+            However, Ryōshū and Gregor kicked stray plates and utensils out of their way like it was none of their business, and then took their spots.
+            ```
+
+        ---
+
+        ```
+        Dante: <Hang on, are we allowed to do all this in someone else’s restaurant?>
+        ดันเต้: 
+        ```
+
+        ---
+
+        ```
+        Ryoshu: It’s a RAFTS, so why care.
+        เรียวชู: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: You can’t call it a restaurant already fated to shut—we’re trying to help!
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Gregor: Yeah. Our goal is to deal with the Distortion, isn’t it?
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Chicken1: Bwabawkbawkbawk!!!
+        ไก่สด1: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            An angered flock of chickens fluttered to intimidate the sudden intruders, but much to their dismay…
+            ```
+
+        ---
+
+        ```
+        Gregor & Ryoshu: Get in my way and you’re all getting chopped! Get in my way and you’re all getting sliced!
+        เกรกอร์และเรียวชู: 
+        ```
+
+        ---
+
+        ```
+        Dante: <You guys look more in sync now…>
+        ดันเต้: 
+        ```
+
+    ---
+
+    * **Episode: 4 | ตอนที่ 4<br>Location: Eunbong’s Bar & Fryers Kitchen | ห้องครัวร้านไก่ทอดและร้านเหล้าของอึนบง**
+
+        ```
+
+        ```
+---
+
+### เพิ่มเติม
+* <*ยังไม่เสร็จ> หมายถึง ยังไม่ครบถ้วนหรือยังขาดหายเนื้อหาบางส่วนอยู่
+* <*รูปภาพ> หมายถึง มีการใช้รูปภาพภายในข้อความแล้วไม่สามารถใส่ได้ไม่ว่ากรณีใดก็ตาม
+* <*ไม่แน่ใจ> หมายถึง บทสนทนาที่แปลหรือประโยคคำพูดที่อาจไม่ตรงตามวัตถุประสงค์หรือบริบท์แท้จริง
+* <*ระดับภาษา> หมายถึง บทสนทนนาที่เแปลแล้วอาจไม่ตรงบริบทของตัวละครในเชิงของระดับภาษา เช่น สรรพนามที่ใช้เรียกตัวเองหรือผู้อื่น คำลงท้ายประโยค
+* <*คล้าย> หมายถึง คำที่ถูกใช้ในบทสนทนามีความซ้ำซากกับบทสนทนาอื่น

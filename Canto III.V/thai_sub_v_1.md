@@ -24,7 +24,7 @@
 
         ---
 
-        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Hm? Say, what’s that over there? It’s got a long line in front of it.
@@ -33,7 +33,7 @@
 
         ---
 
-        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Ahh~ Can’t you recognize this stirring scent? It’s fried chicken, Greg!! Deep fried chicken brought to a crisp in expensive oil!

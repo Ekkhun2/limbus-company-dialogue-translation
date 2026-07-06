@@ -1865,7 +1865,7 @@
 
         ```
         Hong Lu: Hm… I thought I knew, but I can’t seem to elaborate on it with words right now.
-        ฮงหลู่: อืม... ผมคิดว่าผมรู้นะ เพียงแต่ตอนนี้ยังไม่รู้ว่าตัวเองจะต้องพูดออกมาด้วยคำไหนน่ะครับ
+        ฮงหลู่: อืม... ผมคิดว่าผมรู้นะ แต่แค่ตอนนี้ยังไม่แน่ใจว่าตัวเองต้องเล่าออกมายังไง หรือ ต้องใช้คำไหนน่ะครับ
         ```
 
         ---
@@ -1874,333 +1874,423 @@
 
         ```
         Faust: To return to the point and sum things up…
-        เฟาสท์: 
+        เฟาสท์: งั้นเรากลับมาเข้าเรื่องและสรุปกันดีกว่า...
         ```
         ```
         Faust: The Distortion… is a phenomenon that arises from deeply personal psychological shock.
-        เฟาสท์: 
+        เฟาสท์: การบิดเบี้ยว... คือ ปรากฎการณ์ที่เกิดขึ้นจากภาวะ ช็อกทางจิตใจ/ตื่นตกใจทางจิต อย่างรุนแรง
         ```
         ```
         Faust: The affected will have walled off their heart with a solid defense.
-        เฟาสท์: 
+        เฟาสท์: ส่งผลให้กลไกทางใจของบุคคลเหล่านั่นสร้างกำแพงขึ้นมาเพื่อปกป้องหัวใจที่บอบช้ำของพวกเขา
         ```
         ```
         Faust: This wall has to be brought down using methods that the Distorted would approve.
-        เฟาสท์: 
+        เฟาสท์: โดยที่กำแพงนี้สามารถถูกทลายลงได้ ด้วยวิธีการใด ๆ ที่ผู้บิดเบี้ยวยอมรับ
         ```
 
         ---
+    
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: And in this case, the Distortion would want…
-        เกรกอร์: 
+        เกรกอร์: และในกรณีนี้ สิ่งที่ผู้บิดเบี้ยวต้องการก็คือ...
         ```
         ```
         Gregor: …Chicken-based cooking, right.
-        เกรกอร์: 
+        เกรกอร์: ...เมนูอาหารจากไก่ ถูกไหม
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Gregor took a confident step forward after saying that.
+            เกรกอร์ก้าวออกมาข้างหน้าด้วยความมั่นอกมั่นใจ หลังจากที่พูดสิ่งนั่น
             ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: I cooked up a good few meals using leftovers and cans for my comrades in arms during the war.
-        เกรกอร์: 
+        เกรกอร์: ฉันเคยทำอาหารอยู่บ้างด้วยของเหลือกับอาหารกระป๋องให้พวกพ้องฉันในสนามรบ
         ```
         ```
         Gregor: Those traumatized soldiers were moved to tears by my dishes as they gobbled up the stuff.
-        เกรกอร์: 
+        เกรกอร์: ก่อนที่พวกทหารที่ชอกช้ำพวกนั่นจะหลั่งน้ำตาแห่งความปลื้มปิติออกมาเพราะอาหารฉันในตอนที่พวกมันเขมือบสิ่งที่ฉันทำ
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: Hmph.
-        เรียวชู: 
+        เรียวชู: หื้มมม
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Gregor: …Hey now, is it just me… or did I hear somebody scoff at that?
-        เกรกอร์: 
+        เกรกอร์: ...เฮ้ เดี๋ยว มีแค่ฉันคนเดียวหรือเปล่า... ที่ได้ยินเหมือนมีใครเยาะเย้ยฉัน?
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: How droll. What does a C.F. know about cooking? You’d be better off flipping hamburger patties with your pincer.
-        เรียวชู: 
+        เรียวชู: ช่างน่าขำเสียจริง ที่ ม.ก.ข. จะรู้อะไรเกี่ยวกับการทำอาหาร? อย่างนายก็คงทำได้แค่กลับด้านแป้งแฮมเบอร์เกอร์ไปมาด้วยคีมหนีบก็เท่านั่นแหละ
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Ooh~ If Mr. Gregor opened a business, he’d be a boss with big meaty claws!
-        ฮงหลู่: 
+        ฮงหลู่: โอ้~ ถ้าคุณเกรกอร์ทำธุรกิจ เขาก็คงเป็น หัวหน้า/บอส ที่มีกรงเล็บเนื้อใหญ่เบิ้ม!
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: …Ryōshū, that’s short for “crawling furball”, isn’t it? But I’ll say, I do like the idea of being the guy with big meaty claws… Eh? My head just got a sting…
-        เกรกอร์: 
+        เกรกอร์: ...เรียวชู ม.ก.ข. ที่เธอพูดถึงคงย่อมาจาก “แมลงก้อนขน” งั้นสิ? แต่จะว่าไป ฉันก็ชอบไอเดียของชายผู้มีกรงเล็บเนื้อใหญ่เบิ้ม... เหมือนกันนะ? ทำเอาหัวแล่นเลยล่ะ...
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: A true chef… follows their tongue and blade.
-        เรียวชู: 
+        เรียวชู: เชฟที่แท้จริง... จะตามลิ้นและคมดาบของพวกเขา
         ```
         ```
         Ryoshu: Could you really say that food haphazardly mashed together in a warzone is real cuisine?
-        เรียวชู: 
+        เรียวชู: นายกล้าพูดได้จริง ๆ เหรอ ว่าอาหารที่เอามายำรวมส่งเดชในสมรภูมิรบจะเป็นจานอาหารของจริงได้?
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Ohhh~ That’s one for the cookbooks!
-        เรียวชู: 
+        เรียวชู: โอ้ออ~ สูตรนี้คงต้องจดเก็บไว้ในตำราอาหารซะแล้ว!
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Ms. Ryōshū, she’s speaking with full words for once!
-        ซินแคร์: 
+        ซินแคร์: ในที่สุด คุณเรียวชูก็พูดเต็มคำแล้ว!
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Grr… It sounded cool, but I’m not sure you’re one to be giving out advice…
-        เกรกอร์: 
+        เกรกอร์: หน่อยแน่... ฟังดูเจ๋งดี แต่ฉันไม่คิดว่าเธอจะเป็นฝ่ายที่สมควรจะให้คำแนะนำน้า...
         ```
         ```
         Gregor: Actually, hold on, have you even cooked before, Ryōshū?
-        เกรกอร์: 
+        เกรกอร์: ก็แบบดูสิ้ อย่างเธอเคยทำอาหารมาก่อนด้วยหรือไง เรียวชู?
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: Obvs. I have crafted dishes on a level that you as a trifling cook can’t dare imagine.
-        เรียวชู: 
+        เรียวชู: ก็แหงอยู่แล้ว ว่าฉันเคยที่จะรังสรรค์เมนูด้วยระดับอาหารในแบบที่ขี้ประติ๋วอย่างนายไม่มีทางนึกภาพออกได้
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Okay, now I’m starting to get mad…
-        เกรกอร์: 
+        เกรกอร์: โอเค ตอนนี้ฉันเริ่มชักจะฉุนซะแล้วสิ...
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Let’s see, then… I’m on Shū’s side!
-        โรเดียน: 
+        โรเดียน: ถ้างั้นก็มาวัดกันไปเลย... ฉันอยู่ฝั่งชู!
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Why are we splitting up into teams now?
-        เกรกอร์: 
+        เกรกอร์: เราจะแบ่งทีมไปเพื่ออะไร?
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Ahaha, I mean, it’s fun~
-        โรเดียน: 
+        โรเดียน: อาฮาฮา ก็แบบนี้ มันสนุกกว่า~
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: And why did you end up siding with her?
-        เกรกอร์: 
+        เกรกอร์: แล้วทำไมเธอถึงต้องไปอยู่ฝั่งยัยนั่นด้วย?
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Greg, darling, we’ve been stuck too close for too long. Why don’t we try a little distance just for today?
-        โรเดียน: 
+        โรเดียน: เกรกสุดที่รักของฉัน พวกเราตัวติดกันมานานเกินไปแล้ว เพราะงั้น ฉันว่าวันนี้เราแยกกันซะหน่อยจะเป็นไรไป?  
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Heathcliff, having shaken off the dizziness, walked to Gregor’s side.
+            หลังจากที่ฮิธคลิฟฟ์สลัดอาการเวียนหัวออกไป เขาก็เดินไปที่ฝั่งของเกรกอร์
             ```
 
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: So we win by pulping ‘er up, aye?
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: เราจะชนะด้วยการบดหัวยัยนั่นจนแหลกใช่ไหม?
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: No no, we aren’t crushing anyone with force…
-        เกรกอร์: 
+        เกรกอร์: ไม่ ไม่ เราจะไม่บดขยี้ใครด้วยกำลังทั้งนั่น...
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: You admit to feeding your men canned food? You’re a disgrace of a soldier. For your reference, I much prefer instant foods.
-        เอาทิส: 
+        เอาทิส: งั้นนายก็ยอมรับแล้วสินะว่านายเลี้ยงปากท้องคนของตัวเองด้วยอาหารกระป๋อง? นายนี้ช่างเป็นทหารที่น่าอายซะจริง จะบอกไว้เป็นข้อมูลนะ ว่าฉันชอบกินอาหารสำเร็จรูปมากกว่า
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: That reference is just a preference!
-        เกรกอร์: 
+        เกรกอร์: ข้อมงข้อมูลอะไรกันเล่า นั่นมันก็แค่ความชอบไม่ใช่หรือไง!
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: This is childish, really. Do you guys seriously want to take sides over this?
-        อิชมาเอล: 
+        อิชมาเอล: มัวเล่นกันเป็นเด็กอยู่ได้ พวกนายจะมามัวทะเลาะด้วยเรื่องปะติ๋วพันธ์นี้เพื่อแบ่งฝ่ายว่าตัวเองจะอยู่ฝั่งไหนจริง ๆ ใช่ไหม?
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Rodion: Tell us, why don’t you tell us? Which side are you, Ishy? If you had to choose between Greg and Ryōshū to serve food for us Sinners…
-        โรเดียน: 
+        โรเดียน: บอกหน่อยสิ ทำไมเธอถึงไม่บอกเราล่ะ? ว่าเธอจะอยู่ฝั่งไหน อิชชี่? ถ้าเกิดวันหนึ่งเธอต้องเลือกระหว่างเกรกกับเรียวชูว่าจะให้ใครเซรฟอาหารให้กับเราชาวคนบาป... 
         ```
 
         ---
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Don’t you try and coax her. I know Ishmael and I have been thick as thieves since early on.
-        เกรกอร์: 
+        เกรกอร์: ไม่ต้องพยายามเกลี้ยกล่อมเธอเลย ฉันรู้อยู่แก่ใจว่าอิชมาเอลกับฉันสนิทกันซะยิ่งกว่ากองโจรที่ร่วมทุกข์กันมาทั้งชีวิต ตั้งแต่ตอนที่เรามาเจอกันที่รถบัส
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             In spite of Gregor’s confidence, Ishmael’s face and posture betrayed a sense of awkwardness.
+            แม้ว่าคำพูดของเกรกอร์จะเต็มไปด้วยความมั่นใจ แต่ใบหน้าของอิชมาเอลและท่าทีของเธอกลับดูอึดอัดสวนทางกับสิ่งที่เขาพูด
             ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: I—Ishmael…?
-        เกรกอร์: 
+        เกรกอร์: อ—อิชมาเอล...?
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Sorry, Gregor, but if it’s canned goods we’re talking about… I ate more than I ever want on the ship…
-        อิชมาเอล: 
+        อิชมาเอล: ขอโทษนะ เกรกอร์ แต่ถ้าจะให้ฉันต้องเลือกอาหารกระป๋อง... ฉันก็กินมันมาตลอดชีวิตบนเรือมากกว่าที่นายคิดซะอีก...
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: C’mon, why won’t you look me in the eyes, Ishmael? Eh?
-        เกรกอร์: 
+        เกรกอร์: เอาเถอะน่า ไม่ต้องไปใส่ใจกับเรื่องอาหารกระป๋องนั่นก็ได้ ทำไมเธอถึงไม่สบตาฉันล่ะ? อิชมาเอล?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Ishmael took a few sluggish steps backward to stand next to Ryōshū.
+            อิชมาเอลถอยหลังกลับด้วยท่าทีที่เฉื่อยชา ก่อนที่เธอจะยืนอยู่ข้างเรียวชู
             ```
             ```
             Her eyes never looked up to meet Gregor.
+            โดยเธอไม่แม้แต่จะมองขึ้นมาเพื่อสบตากับเกรกอร์
             ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: ......
-        เกรกอร์: 
+        เกรกอร์: ......
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: Heh.
-        เรียวชู: 
+        เรียวชู: เหอะ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Even though there wasn’t much rapport to begin with… I could hear what little trusting bond existed between the two fall apart.
+            ถึงแม้เราจะไม่ได้สนิทกันขนาดนั่นตั้งแต่เริ่มต้น... แต่ผมกลับได้ยินเสียงของสายสัมพันธ์ของความเชื่อใจระหว่างสองคนนั่นกำลังค่อย ๆ แตกเป็นเสี่ยง ๆ  
             ```
             ```
             Don Quixote had glued herself to Gregor’s back before I noticed. Her face was off-color.
+            รู้ตัวอีกที ดอนกิโฆเต้ก็ติดหนึบอยู่ติดหลังของเกรกอร์ พร้อมกันกับใบหน้าของเธอที่ดู ซีดเซียว/ไม่สู้ดี
             ```
 
         ---
 
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Don Quixote: A—As a matter of truth, while we were banqueting upon skewered chicken on the bus… I… bore witness… to that woman’s most awful deed…
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ต—ตามหลักความเป็นจริงแล้ว ในขณะที่พวกเรากำลังกินเลี้ยงไก่เสียบไม้บนรถบัส... ข้าน้อยได้เป็นพยาน... ถึงวีรกรรมอันเลวร้ายที่สุดของท่านหญิงคนนั่น...
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: What’d she do with the chicken kebab?
-        เกรกอร์: 
+        เกรกอร์: เธอทำอะไรกับไก่เคบับเหรอ?
         ```
 
         ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Don Quixote: I— That is… Nay, I cannot… begin to put it to words…
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ข้า— เรื่องนั่น... ไม่ ข้ามิอาจ... จักเริ่มต้นที่จะกล่าวถ้อยคำ... 
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: Ahh, well, well… You saw it, did you? Huhu, that was a secret technique of mine to bring out the dak-kkochi’s ultimate flavor…
-        เรียวชู: 
+        เรียวชู: อ้าา แหม แหม... เธอเห็นมันแล้วใช่ไหมล่ะ? เหอะเห๊อะฮู่ นั่นเป็นเทคนิคลับของฉันเองเพื่อที่จะรีดรสชาติที่อร่อยที่สุดของทักโกชิออกมา...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Don Quixote shuddered violently.
+            ดอนกิโฆเต้สั่นเป็นเจ้าเข้า
             ```
             ```
             Soon enough, Hong Lu went to Gregor’s side with a sparkle in his eyes.
+            ก่อนที่ไม่นาน ฮงหลู่จะเดินมายังฝั่งของเกรกอร์พร้อมกับประกายระยิบระยับในตาเขา
             ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Hoho, it would be a unique experience to try dishes comparable to pet food once in my life, right? I’ll be rooting for you, Gregor!

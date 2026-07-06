@@ -258,7 +258,7 @@
 
         ```
         Rodion: Likely story, kozyol… You aimed straight for its head…
-        โรเดียน: ใครจะไปเชื่อเรื่องหลอกเด็กนั้นกันล่ะ เจ้าทึ่ม... ก็นายเล่นเล็งไปที่หัวมันเลยไม่ใช่หรือไง...   
+        โรเดียน: ใครจะไปเชื่อเรื่องหลอกเด็กนั่นกันล่ะ เจ้าทึ่ม... ก็นายเล่นเล็งไปที่หัวมันเลยไม่ใช่หรือไง...   
         ```
 
         ---
@@ -399,7 +399,7 @@
 
         ```
         Samjo: I must object to such a moniker; especially so when it comes from a fellow glasses-bearer.
-        แซมโจ: ผมขอคัดค้านชื่อเรียกนั้น; โดยเฉพาะอย่างยิ่งเมื่อมันมาจากคนที่สวมแว่นตาเหมือนกัน
+        แซมโจ: ผมขอคัดค้านชื่อเรียกนั่น; โดยเฉพาะอย่างยิ่งเมื่อมันมาจากคนที่สวมแว่นตาเหมือนกัน
         ```
 
         ---
@@ -417,7 +417,7 @@
 
         ```
         Meursault: Basic personal information, such as one’s identity, can be easily acquired from the registration of one’s death.
-        เมอร์โซลท์: ข้อมูลส่วนบุคคลโดยทั่วไป อย่างเช่น ข้อมูลระบุตัวตน สามารถสืบหาได้อย่างง่ายดายผ่านทะเบียนการเสียชีวิตของบุคคลนั้น
+        เมอร์โซลท์: ข้อมูลส่วนบุคคลโดยทั่วไป อย่างเช่น ข้อมูลระบุตัวตน สามารถสืบหาได้อย่างง่ายดายผ่านทะเบียนการเสียชีวิตของบุคคลนั่น
         ```
 
         ---
@@ -584,7 +584,7 @@
 
         ```
         Nest Resident: Kyaaaugh!!! What the hell!!!
-        ผู้อยู่อาศัยเนส: ย๊ากกกกกก!!! นั้นตัวบ้าอะไร!!!
+        ผู้อยู่อาศัยเนส: ย๊ากกกกกก!!! นั่นตัวบ้าอะไร!!!
         ```
 
         ---
@@ -1715,132 +1715,162 @@
 
         ```
         Heathcliff: Huh, now that you say it… I think I did hear some gabbing in my head…
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: เหอะ พอเธอพูดเรื่องนั่น... ฉันก็นึกขึ้นได้ว่าเหมือนตัวเองจะได้ยินเสียงใครบางคนที่คุยกันในหัวฉัน...
         ```
         ```
         Heathcliff: W-What were they on about… Some sort of recipe got lost, I guess…
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: ส-ส่วนเรื่องที่พวกมันพูดถึง... ถ้าจำไม่ผิดก็น่าจะเกี่ยวกับสูตรอาหารที่หายไป อะไรประมาณนั่นล่ะมั่ง...
         ```
         ```
         Heathcliff: Was the cornerstone of this eatery, but once it was gone… He stopped getting customers…
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: เอาแต่พร่ำบอกอยู่ซ้ำ ๆ ว่าสิ่งนั่นคือเสาหลักของร้านแห่งนี้ แต่พอมันหายไป... เจ้าหมอนั่นก็ไม่ได้ลูกค้าอีกเลย...
         ```
         ```
         Heathcliff: That’s when the master started acting off… and infected us all…
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: และนั่นก็เป็นตอนที่ ตาเฒ่า/เฒ่าแก่ เริ่มที่จะทำตัวแปลกออกไป... ก่อนที่จะแพร่เชื่อใส่พวกเราทั้งหมด...
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Pft… Did you just say those chickens were “us”?
-        อิชมาเอล: 
+        อิชมาเอล: ฟิ่บ... นี้นายจะกำลังบอกว่าไก่พวกนั่นเคยเป็นเหมือน “เรา” มาก่อนงั้นเหรอ? 
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: …Bugger, I’m still recovering from those headhens… This is confusing…
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: ...ให้ตายสิ ฉันยังรู้สึกปวดหัวจากไอพวกไก่บ้านั่นอยู่เลย... เรื่องนี้มันชักจะสับสนขึ้นทุกทีแล้วแฮะ
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: That’s what you decided to call them…?
-        ซินแคร์: 
+        ซินแคร์: นั่นเป็นชื่อที่คุณใช้เรียกพวกเขาเหรอครับ...?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <If the Distortion happened because he lost his recipe…>
-        ดันเต้: 
+        ดันเต้: <ถ้าเกิดว่าการบิดเบี้ยวนั่นเกิดขึ้นมา เพราะ เรื่องที่เขาสูญเสียสูตรอาหารของเขาไป...>
         ```
         ```
         Dante: <Then maybe we can somehow recreate it for him?>
-        ดันเต้: 
+        ดันเต้: <งั้นบางที พวกเราอาจแค่ต้องสร้างสูตรอาหารนั่นขั้นมาอีกครั้งก็พอแล้ว?>
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: You’ve gotten close enough to an answer.
-        เฟาสท์: 
+        เฟาสท์: ที่คุณพูดมาก็ใกล้เคียงอยู่นะคะ
         ```
         ```
         Faust: Though much about the Distortion remains unknown, one of the noted particulars is that it occurs when the good and evil… No, when the mind crumbles to figurative pieces.
-        เฟาสท์: 
+        เฟาสท์: ถึงแม้ว่าข้อมูลเกี่ยวกับการบิดเบี้ยวจะยังคงเป็นปริศนา แต่หนึ่งในรายละเอียดที่เด่นชัดบงชี้ว่ามันจะเกิดขึ้นต่อเมื่อความดีและความชั่วร้าย... ไม่สิ ในตอนที่จิตใจแตกสลายเป็นเสี่ยง ๆ ในเชิงเปรียบเปรย
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <Sounds like you just pivoted away from “good and evil” because that version would get too long for you to bother…>
-        ดันเต้: 
+        ดันเต้: <ดูเหมือนว่าเธอจู่ ๆ ก็เปลี่ยนทิศกลางทางจากที่จะพูดเกี่ยวกับ “ความดีและความชั่วร้าย” คงไม่ใช่เพราะเวอร์ชันนั่นยาวเกินจนเธอขี้เกียจอธิบายหรอกใช่ไหม...>
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: For instance, let’s say that Hong Lu held a belief he was certain would be an unchanging constant as he lived in the City.
-        เฟาสท์: 
+        เฟาสท์: ตัวอย่าง เช่น สมมุติว่าฮงหลู่ยึดมั่นในความเชื่อที่ว่าเขาจะไม่มีวันเปลี่ยนแปลงตลอดช่วงเวลาที่เขาใช้ชีวิตในเดอะซิตี้
         ```
         ```
         Faust: Or, it could be a hope for some other psychological sustainment that has supported his life.
-        เฟาสท์: 
+        เฟาสท์: หรือ บางทีมันก็อาจมีความหวังที่คอยค้ำจุน และรักษาขวัญกำลังใจที่คอยประคบประหงมชีวิตเขาให้มุ่งหน้าต่อไป
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: …Hmm.
-        ฮงหลู่:  
+        ฮงหลู่: ...หืมม
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: If that support suddenly collapses in a massively shocking event that causes one to let their “ego” go, his mind would crumble, so to speak.
-        เฟาสท์: 
+        เฟาสท์: แล้วถ้าเกิดวันหนึ่ง จู่ ๆ สิ่งนั่นที่คอยเกื้อกูลเขามาโดยตลอดหายไป ไม่ว่าจะด้วยเหตุการณ์สะเทือนใจครั้งยิ่งใหญ่ หรือ อดีตที่ต้อนขาจนจนมุม เหตุการณ์เหล่านั่นล้วนเป็นเชื้อเพลิงแห่งกองไฟทีจะมอดไหม้ “อีโก้/ตัวตน” ของเขาจนแตกดับและหายสิ้น ประมาณนั่น
         ```
 
         ---
 
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Hong Lu: …Well, I could see that happening.
-        ฮงหลู่: 
+        ฮงหลู่: ...อื้ม ผมก็พอนึกภาพออกนะว่าเป็นยังไง
         ```
 
         ---
         
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+        
         ```
         Heathcliff: What could be so shocking for a well-off cuss like you? Getting your privy purse snatched away?
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: เรื่องอะไรกันน้าที่จะทำให้คุณหนูโง่อย่างแก่รู้สึกช็อคอย่างนั่นได้? โดนกระชากกระเป๋าตังส่วนตัวไปหรือไง? 
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Oh, no, I never received an allowance. There was no need for such a thing when I could spend any amount whenever I wanted.
-        ฮงหลู่: 
+        ฮงหลู่: อา ไม่ถึงขนาดนั่นหรอกครับ ผมไม่เคยได้เบี้ยเลี้ยง เพราะ มันไม่มีความจำเป็นอะไรที่ต้องมีติดตัว ในเมื่อผมสามารถใช้เงินเท่าไหร่ก็ได้ตามที่ต้องการ
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Really? What else is it, then?
-        โรเดียน: 
+        โรเดียน: จริงเหรอเนี้ย? ถ้าไม่ใช่ แล้วมันจะเป็นอะไรไปได้อีกล่ะ?
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Hm… I thought I knew, but I can’t seem to elaborate on it with words right now.
-        ฮงหลู่: 
+        ฮงหลู่: อืม... ผมคิดว่าผมรู้นะ เพียงแต่ตอนนี้ยังไม่รู้ว่าตัวเองจะต้องพูดออกมาด้วยคำไหนน่ะครับ
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: To return to the point and sum things up…

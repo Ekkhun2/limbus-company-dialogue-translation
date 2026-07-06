@@ -6,7 +6,7 @@
 
     * **Episode: 1 | ตอนที่ 1<br>Location: Nest K Downtown Alley | ตรอกซอกซอยย่านใจกลางเมืองเนสเค**
 
-        <img src="../images/Fuast.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: Off the bus, everyone. This is where we’re supposed to meet the client for our next mission.
@@ -1263,7 +1263,7 @@
 
         ```
         Ryoshu: Cute. Let's STAB.
-        เรียวชู: น่ารัก ฉหกเลยดีไหม
+        เรียวชู: น่ารัก สเต็ป/STAB เลยดีไหม
         ```
 
         ---
@@ -2294,90 +2294,113 @@
 
         ```
         Hong Lu: Hoho, it would be a unique experience to try dishes comparable to pet food once in my life, right? I’ll be rooting for you, Gregor!
-        ฮงหลู่: 
+        ฮงหลู่: เหอะเห๊อะ มันต้องเป็นประสบการณ์ที่แปลกใหม่มากแน่ ๆ ที่จะได้ลิ้มลองรสชาติที่เปรียบได้กับอาหารหมาสักครั้งในชีวิตสินะ? ผมจะตั้งตาเอาใจช่วยนะครับ คุณเกรกอร์! 
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Er, right. Thanks a lot, Hong Lu…
-        ฮงหลู่: 
+        ฮงหลู่: เออ อืม ขอบใจมากนะ ฮงหลู่...
         ```
         
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Hong Lu stood behind Gregor, wearing a kind smile on his face.
+            ฮงหลู่เดินไปยืนข้างหลังเกรกอร์ ในขณะที่เขากำลังสวมรอยยิ้ม
             ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: Faust! I can count on you of all people to make the rational choice, yeah?
-        เกรกอร์: 
+        เกรกอร์: เฟาสท์! ฉันคงหวังพึ่งคนอย่างเธอที่มีเหตุผลและคิดก่อนทำทุกครั้งได้ใช่ไหม?
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: I don’t know, as Faust… can enjoy a risky venture from time to time.
-        เฟาสท์: 
+        เฟาสท์: ไม่รู้สิ ในฐานะของเฟาสท์... ฉันชอบที่จะเสี่ยงทำอะไรใหม่ ๆ บ้างเป็นบางครั้ง
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             With that profound remark, Faust took her place behind Ryōshū.
+            เพราะถ้อยคำที่กินใจของเกรกอร์ เฟาสท์เลยตัดสินใจที่จะเดินไปอยู่ข้าง ๆ เรียวชู
             ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: I really don’t get it… Why are we splitting our group into opposing teams?
-        ซินแคร์: 
+        ซินแคร์: ผมไม่ เก็ต/เข้าใจ เลย... ว่าทำไมเราถึงต้องแบ่งกันเป็นสองกลุ่มด้วย?
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: Hey, CHICK. Pick a way to survive or buzz off.
-        เรียวชู: 
+        เรียวชู: นี้ ชิค/CHICK เลือกทางรอดซะหรือไม่ก็ไสหัวไป
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Ch… Chirping hesitation isn’t cool, kiddo…?! T—Then…
-        ซินแคร์: 
+        ซินแคร์: ชิค/CHICK นี้หมายถึง... ไอหนูจอมลังเลเอาแต่จิ๊บแม่งไม่เจ๋ง...?! ถ-ถ้างั้น...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <Sinclair… You might be linked to Ryōshū on a spiritual level at this point.>
-        ดันเต้: 
+        ดันเต้: <ซินแคร์... ฉันว่าถ้าจะขนาดนี้นายน่าจะเชื่อมต่อกับเรียวชูในระดับวิญญาณไปแล้วล่ะมั้ง>>
         ```
-
-        ---
 
         * เสียงในหัว
 
             ```
             Ryōshū’s ruthless remark made Sinclair trudge to her side.
+            คำพูดที่ไร้ปราณีของเรียวชูทำให้ซินแคร์เดินเข้าฝั่งเธอด้วยท่าทีที่ดูอิดโรย
             ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: Isn’t it unfair to threaten him to join you? That’s cheating!
-        เกรกอร์: 
+        เกรกอร์: มันแฟร์หรือไงที่เธอขู่เข็ญเขาให้เข้าทีมน่ะ? นี้มันโกงกันชัด ๆ!
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: ......
@@ -2385,17 +2408,21 @@
         ```
         ```
         Yi Sang: I shan’t choose, and instead, I humbly await your selection.
-        ยี่ซัง: 
+        ยี่ซัง: เรายังเลือกไม่ได้ว่าจะอยู่ฝั่งไหน และแทนที่เราจะตัดสินใจ เราจะรอให้พวกเจ้าเลือกเราไปเอง
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: Don’t need that. You take it.
-        เรียวชู: 
+        เรียวชู: ไม่อยากได้ นายเอาไป
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: ......
@@ -2404,105 +2431,133 @@
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         * เสียงในหัว
 
             ```
             Yi Sang was placed on Gregor’s team without him moving a muscle.
+            ยี่ซังถูกจัดให้อยู่ในทีมของเกรกอร์โดยที่เขาไมได้ขยับกล้ามเนื้อเลยแม้เพียงมัดเดียว
             ```
             ```
             Lastly, Meursault quietly stood behind Gregor.
+            และท้ายที่สุด เมอร์โซลท์ก็ค่อย ๆ เดินเข้ามา ก่อนที่จะยืนอยู่ข้างหลังเกรกอร์โดยไม่พูดอะไร
             ```
 
         ---
 
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: M-Meursault…
-        เกรกอร์: 
+        เกรกอร์: ม-เมอร์โซลท์...
         ```
         ```
         Gregor: I’m a little touched. I know we never got to talk much, but you still decided to come and stand by me in my time of need, I’m so—
-        เกรกอร์: 
+        เกรกอร์: ฉันซาบซึ้งนิดหน่อยแฮะ ฉันรู้ว่าเราไม่ได้คุยกันบ่อย แต่นายก็ยังเลือกที่มาหา และยืนเคียงข้างฉันในเวลาที่ฉันต้องการ ฉันขอบคุณนายมา—
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: I have only done so because joining the team with fewer members would set the balance right.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: ผมทำไปก็เพราะถ้าเข้าทีมที่มีจำนวนสมาชิกน้อยกว่าก็จะทำให้มันสมดุลก็เท่านั่น
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Some will proclaim that they saw tears well up in Gregor’s eyes at that moment.
+            บางคนคงยืนยันว่าพวกเขาเห็นน้ำตาที่ไหลพรากจากดวงตาของเกรกอร์ในตอนนั้น
             ```
             ```
             With the teams decided, we entered the kitchen of Eunbong’s, looking for a suitable place to cook.
+            เมื่อตัดสินใจได้แล้วว่าทีมจะมีใครบ้าง พวกเราก็เดินเข้าไปในห้องครัวของอึนบง เพื่อมองหาสถานที่ที่เหมาะสมกับการทำอาหาร
             ```
             ```
             It had become a long neglected mess with traces of fowl rampage.
+            มันกลายเป็นซากปรักหักพังที่ถูกปล่อยปละละเลยเป็นเวลานาน และมีร่องรอยการอาละวาดของนกเต็มไปหมด
             ```
             ```
             However, Ryōshū and Gregor kicked stray plates and utensils out of their way like it was none of their business, and then took their spots.
+            ถึงอย่างนั้น เรียวชู และ เกรกอร์ ก็เตะจานชามที่ขวางทาง และอุปกรณ์เครื่องครัวที่ถูกทิ้งระเกะระกะตามทางเดิน ราวกับว่ามันไม่ใช่ของที่พวกเขาต้องใช้ ก่อนที่พวกเขาจะได้สถานีทำอาหารของตัวเอง
             ```
-
-        ---
 
         ```
         Dante: <Hang on, are we allowed to do all this in someone else’s restaurant?>
-        ดันเต้: 
+        ดันเต้: <เดี๋ยวก่อน นี้พวกเราได้รับอนุญาติให้ทำเรื่องพวกนี้ในร้านคนอื่นแล้วหรือไง?>
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: It’s a RAFTS, so why care.
-        เรียวชู: 
+        เรียวชู: ก็มัน ราฟ/RAFTS แล้ว ใครจะสนล่ะ
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: You can’t call it a restaurant already fated to shut—we’re trying to help!
-        ซินแคร์: 
+        ซินแคร์: คุณจะเรียกที่นี้ว่าร้านอาหารที่ชะตากำหนดให้โดนปิดไม่ได้นะครับ—ในเมื่อเรากำลังพยายามที่จะช่วยอยู่!
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Yeah. Our goal is to deal with the Distortion, isn’t it?
-        เกรกอร์: 
+        เกรกอร์: ช่าย เป้าหมายของพวกเราก็คือจัดการกับการบิดเบี้ยวใช่ไหมล่ะ?
         ```
 
         ---
+
+        <img src="../images/Chicken1.png" alt="Chicken1" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Chicken1: Bwabawkbawkbawk!!!
-        ไก่สด1: 
+        ไก่สด1: ก๊อกกร๊อกเก๊!!!
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             An angered flock of chickens fluttered to intimidate the sudden intruders, but much to their dismay…
+            ฝูงไก่สดที่ฉุนเฉียวกระพือปีกของมันเพื่อข่มขู่ผู้บุกรุกที่จู่ ๆ ก็ปรากฎตัว แต่สิ่งที่ทำให้พวกมันต้องผิดหวังอย่างแรง ก็คือ...
             ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor & Ryoshu: Get in my way and you’re all getting chopped! Get in my way and you’re all getting sliced!
-        เกรกอร์และเรียวชู: 
+        เกรกอร์และเรียวชู: ลองมาขว้างฉันสิ้ แล้วเดียวพวกแกจะได้โดนสับให้หมด! เข้ามา แล้วฉันหั่นพวกแกเป็นชิ้น!
         ```
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dante: <You guys look more in sync now…>
-        ดันเต้: 
+        ดันเต้: <ตอนนี้ พวกนายดูเข้ากันดีนะ...>
         ```
 
     ---

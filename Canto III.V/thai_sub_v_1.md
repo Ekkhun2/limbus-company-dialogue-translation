@@ -589,11 +589,11 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/ChickenKing.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Eunbong's Bar & Fryers Owner: Khh… Ghh… Kagh…
-        เจ้าของร้านไก่ทอดและร้านเหล้าของอึนบง: เออ... คิ๊ก... เฮือก...
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: เออ... คิ๊ก... เฮือก...
         ```
 
         ---
@@ -1820,7 +1820,7 @@
 
         ```
         Faust: If that support suddenly collapses in a massively shocking event that causes one to let their “ego” go, his mind would crumble, so to speak.
-        เฟาสท์: แล้วถ้าเกิดวันหนึ่ง จู่ ๆ สิ่งนั่นที่คอยเกื้อกูลเขามาโดยตลอดหายไป ไม่ว่าจะด้วยเหตุการณ์สะเทือนใจครั้งยิ่งใหญ่ หรือ อดีตที่ต้อนขาจนจนมุม เหตุการณ์เหล่านั่นล้วนเป็นเชื้อเพลิงแห่งกองไฟทีจะมอดไหม้ “อีโก้/ตัวตน” ของเขาจนแตกดับและหายสิ้น ประมาณนั่น
+        เฟาสท์: แล้วถ้าเกิดวันหนึ่ง จู่ ๆ สิ่งนั่นที่คอยเกื้อกูลเขามาโดยตลอดหายไป ไม่ว่าจะด้วยเหตุการณ์สะเทือนใจครั้งยิ่งใหญ่ หรือ อดีตอันโหดร้ายที่ไล่ต้อนขาจนจนมุม เหตุการณ์เหล่านั่นล้วนเป็นเชื้อเพลิงแห่งกองไฟทีจะมอดไหม้ “อีโก้/ตัวตน” ของเขาจนแตกดับและหายสิ้น ประมาณนั่น
         ```
 
         ---
@@ -1865,7 +1865,7 @@
 
         ```
         Hong Lu: Hm… I thought I knew, but I can’t seem to elaborate on it with words right now.
-        ฮงหลู่: อืม... ผมคิดว่าผมรู้นะ แต่แค่ตอนนี้ยังไม่แน่ใจว่าตัวเองต้องเล่าออกมายังไง หรือ ต้องใช้คำไหนน่ะครับ
+        ฮงหลู่: อืม... ผมคิดว่าผมรู้นะ แต่แค่ตอนนี้ยังไม่แน่ใจว่าตัวเองต้องเล่าออกมายังไง หรือ ใช้คำพูดแบบไหนน่ะครับ
         ```
 
         ---
@@ -2548,7 +2548,7 @@
 
         ```
         Gregor & Ryoshu: Get in my way and you’re all getting chopped! Get in my way and you’re all getting sliced!
-        เกรกอร์และเรียวชู: ลองมาขว้างฉันสิ้ แล้วเดียวพวกแกจะได้โดนสับให้หมด! เข้ามา แล้วฉันหั่นพวกแกเป็นชิ้น!
+        เกรกอร์และเรียวชู: ลองมาขว้างฉันสิ้ แล้วเดียวพวกแกจะได้โดนสับให้หมด! เข้ามา แล้วฉันหั่นพวกแกเป็นชิ้น ๆ!
         ```
 
         ---
@@ -2557,16 +2557,552 @@
 
         ```
         Dante: <You guys look more in sync now…>
-        ดันเต้: <ตอนนี้ พวกนายดูเข้ากันดีนะ...>
+        ดันเต้: <ทีแบบนี้ พวกนายดูเข้ากันดีนะ...>
         ```
 
     ---
 
     * **Episode: 4 | ตอนที่ 4<br>Location: Eunbong’s Bar & Fryers Kitchen | ห้องครัวร้านไก่ทอดและร้านเหล้าของอึนบง**
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Ryōshū and Gregor radiated a burning viciousness.
+            เรียวชู และ เกรกอร์ ปล่อยรังสีออมหิตที่ชวนเผาไหม้
+            ```
+            ```
+            Is this… murderous aura supposed to be part of the culinary experience…?
+            ไอ ออร่า/กลิ่นอาย ... ที่ราวกับจะฆ่าให้ตายนี้เป็นส่วนหนึ่งของประสบการณ์ทำอาหารจริงเหรอ...? 
+            ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Ryoshu: What recipe are you even gonna show, more canned crapola?
+        เรียวชู: แล้วนายจะงัดสูตรอะไรออกมาโชว์ล่ะ อาหารกระป๋องสุดเส็งเคร็งนั่นน่ะเหรอ?
         ```
 
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
+        Gregor: There’s no dish that beats the taste of survival.
+        เกรกอร์: ไม่มีอาหารจานไหนจะดีไปกว่ารสชาติแห่งการอยู่รอดหรอก
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ryoshu: Hey, champagne hair! Get me a hen.
+        เรียวชู: นี้ ไอหนูหัวแชมเปญ! ส่งไก่มาให้ฉัน
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Huh? Okay…!
+        ซินแคร์: ครับ? โอเค...!
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Yi Sang! Sorry, but can you open this can for me?
+        เกรกอร์: โทษทีนะยี่ซัง! แต่นายช่วยเปิดไอนี้ให้ฉันหน่อยได้ไหม?
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: As you so wish.
+        ยี่ซัง: ตามที่เจ้าปราถณา
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            The sights and sounds filling the kitchen seemed at least somewhat proper.
+            ถึงจะวุ่นวายไปหน่อย แต่อย่างน้อย ๆ ภาพและเสียงที่ดังก้องไปทั่วครัวก็ดูถูกต้อง
+            ```
+            ```
+            I can hear knives hitting the cutting boards, broth boiling up in pots…
+            ผมได้ยินเสียงมีดกระทบกับเขียง น้ำซุบที่เดือดปุดปุดในหม้อ...
+            ```
+            ```
+            …and fire sizzling on cigarettes.
+            ...และเสียงไฟที่กำลังฉ่าอยู่บนบุหรี่
+            ```
+
+        ```
+        Dante: <…HUH?!! Why do I hear smoking in the kitchen?!>
+        ดันเต้: <...หะ?!! ทำไมฉันถึงได้ยินเสียงบุหรี่ในห้องครัว?!>
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: ......
+        เกรกอร์: ......
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            The two remained silent.
+            ทั้งคู่อยู่ในความเงียบ
+            ```
+            ```
+            Of course, as expected, the sound of a cigarette being snuffed out only came from Gregor’s side.
+            ก็แหงล่ะ เป็นอย่างที่ผมคิดไว้ไม่มีผิด เสียงดับบุหรี่มันดังมาจากฝั่งเกรกอร์แค่ฝั่งเดียว
+            ```
+
+    ---
+
+    * **Episode: 5 | ตอนที่ 5<br>Location: Eunbong’s Bar & Fryers Kitchen | ห้องครัวร้านไก่ทอดและร้านเหล้าของอึนบง**
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            I stared at Gregor’s dish for a good while.
+            ผมเฝ้าดูจานอาหารของเกรกอร์มาได้สักพักแล้ว
+            ```
+
+        ```
+        Dante: <What uh, is this, Gregor?>
+        ดันเต้: <เออ นี้ทำเมนูอะไรเหรอครับ เชฟเกรกอร์?>
+        ```
+
+        ---
+
+        <img src="../images/Gregor_cook.png" alt="Gregor_cook" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: A military survivalist meal… or something like that?
+        เกรกอร์: มื้ออาหารเอาชีวิตรอดในกองทัพ... อะไรเทือกนั้นล่ะมั่ง?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Do they… really eat this in the military?>
+        ดันเต้: <พวกเขา... กินแบบนี้จริง ๆ เหรอในกองทัพ?>
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Look, Manager Bud, didn’t you say you’re an amnesiac? Since when were you such a delicate food critic, huh?
+        เกรกอร์: ฟังนะ สหายผู้จัดการ ไม่ใช่ว่านายเคยบอกว่าตัวเองความจำเสื่อมเหรอ? ถ้าความจำเสื่อมแล้วนายกลายเป็นนักวิจารย์อาหารจอมเคร่งครัดไปตั้งแต่ตอนไหนกันหะ?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Gregor lost his usual calm demeanor and suddenly snapped at me.
+            เกรกอร์ไม่ใจเย็นอย่างที่เคยเป็น และตะคอกใส่ผม
+            ```
+            ```
+            I looked at Ryōshū’s serving next.
+            ผมมองไปยังอาหารที่เรียวชูกำลังจะเสิร์ฟ
+            ```
+            ```
+            I felt like I was looking at a brand-new work of art.
+            มันรู้สึกราวกับว่าผมกำลังมองไปยังผลงานศิลปะสมัยใหม่
+            ```
+            ```
+            As in, I had no idea what it was supposed to be.
+            ที่หมายถึง ว่าผมไม่รู้เลยว่ามันควรที่จะเป็นอะไร
+            ```
+
+        ```
+        Dante: <......>
+        ดันเต้: <......>
+        ```
+        ```
+        Dante: <Ryōshū, just to make sure, you didn’t mistake our objective with assassinating the Distorted restaurant owner, did you?>
+        ดันเต้: <เรียวชู แค่อยากถามให้แน่ใจ ว่าเธอไม่ได้สับสนเป้าหมายของเราสลับกับการลอบสังหารเจ้าของร้านที่บิดเบี้ยวใช่ไหม?>
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ryoshu: S.T.C.U.
+        เรียวชู: เอส.ที.ซี.ยู./S.T.C.U.
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: She wants to shut the clock up…
+        ซินแคร์: เธอบอกว่าอยากซัดนาฬิกาให้หุบปาก...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Heathcliff and Meursault had caught the owner of Eunbong’s and put him in a seat in the meantime…
+            ฮิธคลิฟฟ์ กับ เมอร์โซลท์ ได้จับตัวเจ้าของรานอึนบง ก่อนที่จะพาเขามานั่งที่โต๊ะอาหารในระหว่างนั้น...
+            ```
+            ```
+            We started by feeding him Ryōshū’s cooking.
+            พวกเราเริ่มป้อนเขาด้วยอาหารของเรียวชูเป็นคนแรก
+            ```
+
+        ---
+
+        <img src="../images/ChickenKing.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Eunbong's Bar & Fryers Owner?: Grr… Urgh… Hrrgh…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง?: คะคึก... เออ เห้อ เอ่อออ...
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: The Distortion’s language is difficult to parse. It will take me at least 70 hours to decipher it based on the speech pattern and cadence.
+        เฟาสท์: ภาษาผู้บิดเบี้ยวคนนี้เป็นอะไรที่ยากต่อการวิเคราะห์โครงสร้าง ฉันต้องใช้เวลาอย่างน้อยที่สุดก็ประมาณเจ็ดสิบชั่วโมงเพื่อถอดรหัส อิงจากแพทเทิร์นและจังหวะการพูด
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: That long? We can’t be frying chickens for all that time!
+        ซินแคร์: นานขนาดนั่นเลย? แล้วเราทำอะไรไม่ได้นอกจากรอเลยเหรอครับ!
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Wait...!>
+        ดันเต้: <เดี๋ยว...!>
+        ```
+        ```
+        Dante: <I think I can hear his voice in my head.>
+        ดันเต้: <ฉันคิดว่าฉันได้ยินเสียงของเขาในหัวฉัน>
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: Hmm, how curious. This could be due to the influence of the Golden Boughs we’ve collected resonating with Manager Dante’s head.
+        เฟาสท์: หืมมม ชั่งน่าประหลาดใจ บางทีนี้อาจเป็นอิทธิพลจากการที่กิ่งทองสอดสะท้อนกับศรีษะของดันเต้ก็ได้
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Ugh… I think I just heard a staggering statement, but the owner’s cries are too distracting…
+            เออ... ผมคิดว่าเมื่อกี้ผมพึ่งได้ยินบางอย่างที่น่าตกตะลึงไป แต่ถึงอย่างนั้น เสียงร้องโหยหวนของเจ้าของร้านมันก็ดังเกินไปที่จะตั้งใจฟัง...
+            ```
+
+        ---
+
+        <img src="../images/ChickenKing.png" alt="EunbonOwner" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Eunbong's Bar & Fryers Owner: Gruh…Urg…Arrh…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: เกออ...อาา...เอออาา...
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ryoshu: What is he trying to say?
+        เรียวชู: เขาพยายามจะพูดอะไร?  
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <“A funeral procession in my mouth…”>
+        ดันเต้: <มันรสชาติเหมือน “ขบวนแห่ศพในปากของฉัน...”>
+        ```
+
+        ---
+
+        <img src="../images/ChickenKing.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Eunbong's Bar & Fryers Owner: Grh… Urhh…erh…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: เกอ... เออ...เออ...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <“Is your cooking theme ‘poultry apocalypse’”, he asks…>
+        ดันเต้: <“ธีมมื้ออาหารของเธอคือ ‘ไก่ ในวันสิ้นโลก/มฤตยู’ หรือเปล่า?” เขาถามงั้น...>
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ryoshu: Right… Today will be the day I rip that clock from its stem.
+        เรียวชู: อ้อเหรอ... สงสัยวันนี้จะเป็นวันที่ฉันจะได้ถอนรากถอนโคนนาฬิกาเห่ย ๆ นั่นจากลำตัวซะแล้วสิ
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <I was just relaying his review!>
+        ดันเต้: <อย่ามาเหมารวมกันสิ ฉันก็แค่พูดในสิ่งที่เขาบอกก็เท่านั้น!> 
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ryoshu: Then the two of you can go to hell together.
+        เรียวชู: ถ้างั้น พวกแกทั้งคู่จะได้ไปทัวร์นรกด้วยกัน
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Got too cocky, eh, Ryōshū? Confidence is good and all, but it’s no match for hard-boiled experience.
+        เกรกอร์: ที่แท้ก็เก่งแต่ปากนี้หว่า เรียวชู? ความมั่นใจเป็นสิ่งที่ดี แต่มันก็เทียบไม่ได้กับประสบการณ์อาบน้ำร้อนมาก่อนของผู้ใหญ่หรอกนะ
+        ```
+        ```
+        Gregor: Alright, guess it’s my turn. Open wide now, pal.
+        เกรกอร์: เอาล่ะ เดาว่านี้ถึงตาฉันแล้ว อ้ากว้าง ๆ หน่อยนะพวก 
+        ```
+
+        ---
+
+        <img src="../images/ChickenKing.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Eunbong's Bar & Fryers Owner: Ghh… Urhh… Urrg…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: เกอ... เออ... เอออ... *อ้วก* 
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <......>
+        ดันเต้: <......>
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Aha, is he starting to open up his heart?
+        เกรกอร์: อาห้า เป็นไงล่ะ ทีนี้เขาเปิดใจแล้วหรือยัง?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <He’s wondering if it was sludged up from the food waste dumpster outside…>
+        ดันเต้: <เขาสงสัยน่ะว่าไอเมื่อกี้ที่ให้เขากินเป็นกากตะกอนจากเศษอาหารที่เหลืออยู่จากกองขยะข้างนอกหรือเปล่า...>
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: ......
+        เกรกอร์: ......
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Looks like both your dishes failed…>
+        ดันเต้: <ดูเหมือนว่าจานอาหารที่พวกนายทั้งคู่ทำจะไม่ถูกปากคุณลูกค้าอย่างแรงเลยนะ...> 
+        ```
+
+        * เสียงในหัว
+
+            ```
+            The owner and his chickens came at us with growls.
+            เจ้าของร้าน และ เหล่าบริวารไก่ของเขาคำรามมาที่เรา
+            ```
+            ```
+            As if to express their master’s anger in full…
+            ราวกับเพื่อแสดงออกว่านายท่านของพวกมันกำลังโกรธถึงขีดสุด...
+            ```
+
+    ---
+
+    * **Episode: 6 | ตอนที่ 6<br>Location: Eunbong’s Bar & Fryers Kitchen | ห้องครัวร้านไก่ทอดและร้านเหล้าของอึนบง**
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Eunbong's Bar & Fryers Owner: ......
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ......
+        ```
+
+        ---
+
+        ```
+        Heathcliff: …What’re these numbers?
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Yi Sang: It may be an indicator… alerting us of squandering two out of five opportunities…
+        ยี่ซัง: 
+        ```
+
+        ---
+
+        ```
+        Dante: <I guess each team can prepare another dish then. How's that sound?>>
+        ดันเต้: <>
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            And just like that…
+            ```
+            ```
+            Thus began Limbus Company’s petite cooking competition…
+            ```
+
+        ---
+
+        ```
+        Gregor: Right, now… Let’s assign each of us a role. Not that it’ll make a difference, but…
+        เกรกอร์: 
+        ```
+        ```
+        Gregor: Say, Hong Lu… Have you ever seen a kitchen before?
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Don Quixote: Ahem...!
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Well, my room didn’t have any kitchenettes. Though, I did sneak into the grand dining hall on the second floor a few times for snacks when I was a kid.
+        ฮงหลู่: 
+        ```
+
+        ---
+
+        ```
+        Don Quixote: AaaaHEM!!
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Gregor: Next up, we have Yi Sang…
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Wasn’t he the only one who came out fine when we drank that spoilt milk the other day?
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Mmmmmh… The smell was a sensual one, permeating my pulmonary depths.
+        ยี่ซัง: 
+        ```
+
+        ---
+
+        ```
+        Don Quixote: AHKEHMMMMM!!!
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
 ---
 
 ### เพิ่มเติม

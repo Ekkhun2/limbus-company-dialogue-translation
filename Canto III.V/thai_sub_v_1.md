@@ -948,7 +948,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: It’s hard to say. Faust’s mind tends to be out there most of the time.
@@ -957,7 +957,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Hahah! Guess we’re all right and chummy for once, eh?
@@ -1078,7 +1078,7 @@
 
         ---
 
-        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <I see...>
@@ -1087,7 +1087,7 @@
 
         ---
 
-        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: So that’s what it’s about? Phew… I almost got worried that I might have to knock some sense back into you, Faust.
@@ -1096,7 +1096,7 @@
 
         ---
 
-        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Is that why you were clutching your mace so tight, Ishmael…?
@@ -1143,7 +1143,7 @@
 
     * **Episode: 3 | ตอนที่ 3<br>Location: Front of Eunbong’s Bar & Fryers | หน้าร้านไก่ทอดและร้านเหล้าของอึนบง**
 
-        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <What are we supposed to do to resolve a Distortion?>
@@ -1161,7 +1161,7 @@
 
         ---
 
-        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -1221,11 +1221,11 @@
 
         ---
 
-        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <They look like the things that were on those people’s heads earlier.>
-        ดันเต้: <พวกมันดูเหมือนเจ้าสิ่งที่อยู่บนหัวของผู้คนก่อนหน้านี้ไม่มีผิด>
+        ดันเต้: <พวกมันดูเหมือนเจ้าตัวที่อยู่บนหัวของผู้คนก่อนหน้านี้ไม่มีผิด>
         ```
         ```
         Dante: <I dunno what they are, but we shouldn’t get too close to…>
@@ -1310,7 +1310,7 @@
 
         ---
 
-        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Huh, Heathcliff?!?!
@@ -1741,7 +1741,7 @@
 
         ---
 
-        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: …Bugger, I’m still recovering from those headhens… This is confusing…
@@ -2446,7 +2446,7 @@
 
         ---
 
-        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: M-Meursault…
@@ -2606,7 +2606,7 @@
 
         ---
 
-        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Sinclair.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Huh? Okay…!
@@ -3012,26 +3012,30 @@
 
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: …What’re these numbers?
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: ...เลขบ้าอะไรวะเนี้ย?
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: It may be an indicator… alerting us of squandering two out of five opportunities…
-        ยี่ซัง: 
+        ยี่ซัง: บางทีมันอาจเป็นตัวชี้วัด... เพื่อเตือนเราที่ใช้โอกาศอย่างทิ้งขว้างไปแล้วสองหนจากโอกาศทั้งหมดห้าครั้งก็ได้...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <I guess each team can prepare another dish then. How's that sound?>>
         ดันเต้: <>
         ```
-
-        ---
 
         * เสียงในหัว
 

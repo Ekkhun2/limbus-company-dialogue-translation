@@ -1,4 +1,4 @@
-### Chapter 3.5
+### Chapter 3.5 - Intervallo I
 
 ---
 
@@ -3025,7 +3025,7 @@
 
         ```
         Yi Sang: It may be an indicator… alerting us of squandering two out of five opportunities…
-        ยี่ซัง: บางทีมันอาจเป็นตัวชี้วัด... เพื่อเตือนเราที่ใช้โอกาศอย่างทิ้งขว้างไปแล้วสองหนจากโอกาศทั้งหมดห้าครั้งก็ได้...
+        ยี่ซัง: บางทีมันอาจเป็นตัวชี้วัด... เพื่อเตือนเราที่ใช้โอกาศอย่างทิ้งขว้างไปแล้วสองหนจากโอกาศที่เหลือทั้งหมดห้าครั้ง...
         ```
 
         ---
@@ -3034,79 +3034,267 @@
 
         ```
         Dante: <I guess each team can prepare another dish then. How's that sound?>>
-        ดันเต้: <>
+        ดันเต้: <ถ้างั้น ก็ให้โอกาศทั้งสองทีมได้แก้ตัวด้วยเมนูใหม่ เป็นไง?>
         ```
 
         * เสียงในหัว
 
             ```
             And just like that…
+            และเพราะอย่างนั้น...
             ```
             ```
             Thus began Limbus Company’s petite cooking competition…
+            ตั้งแต่วินาทีที่ผมพูดออกไป ศึกชิงแชมป์กระทะเหล็กแห่งลิมบัสคอมเพนีก็ได้ถือกำหนดขึ้น...
+            ```
+
+        ---
+    
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Right, now… Let’s assign each of us a role. Not that it’ll make a difference, but…
+        เกรกอร์: ทีนี้... เรามามอบหมายหน้าที่ให้กับแต่ละคนกันก่อน ถึงแม้มันจะช่วยอะไรไม่ได้มาก แต่...
+        ```
+        ```
+        Gregor: Say, Hong Lu… Have you ever seen a kitchen before?
+        เกรกอร์: ว่าก็ว่าเถอะ ฮงหลู่... นายเคยเห็นห้องครัวมาก่อนหรือเปล่า?
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Ahem...!
+        ดอน กิโฆเต้: อะแฮ่ม...!
+        ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: Well, my room didn’t have any kitchenettes. Though, I did sneak into the grand dining hall on the second floor a few times for snacks when I was a kid.
+        ฮงหลู่: พอดี ที่ห้องผมไม่ได้มีมุมครัวเลยน่ะครับ ถึงอย่างนั้น บางทีผมก็แอบย่องไปที่ห้องโถงใหญ่สำหรับรับประทานอาหารเป็นครั้งคราว แล้วแอบจิ๊กขนมมาตอนที่ผมยังเป็นเด็ก
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: AaaaHEM!!
+        ดอน กิโฆเต้: อาาาแฮ่ม!!
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Next up, we have Yi Sang…
+        เกรกอร์: คนต่อไปก็มียี่ซัง...
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Wasn’t he the only one who came out fine when we drank that spoilt milk the other day?
+        ฮิธคลิฟฟ์: ไม่ใช่ว่าไอหมอนี้เป็นคนเดียวที่ออกมาไม่เป็นไร ในวันถัดมาที่เราดื่มนมเสียเหรอ?
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: Mmmmmh… The smell was a sensual one, permeating my pulmonary depths.
+        ยี่ซัง: หืมมมมม... กลิ่น
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: AHKEHMMMMM!!!
+        ดอน กิโฆเต้: อ้าแฮ่มมมมม!!!
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: What say you let me take the mantle?
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            She said this with a bashful expression, her hands behind her back.
             ```
 
         ---
 
         ```
-        Gregor: Right, now… Let’s assign each of us a role. Not that it’ll make a difference, but…
-        เกรกอร์: 
-        ```
-        ```
-        Gregor: Say, Hong Lu… Have you ever seen a kitchen before?
+        Gregor: Don Quixote… This isn’t time for kids’ stuff.
         เกรกอร์: 
         ```
 
         ---
 
         ```
-        Don Quixote: Ahem...!
+        Don Quixote: I am no child! And why am I denied the chef’s place when Sinclair is allowed to do such on the other team!
         ดอน กิโฆเต้: 
         ```
 
         ---
 
         ```
-        Hong Lu: Well, my room didn’t have any kitchenettes. Though, I did sneak into the grand dining hall on the second floor a few times for snacks when I was a kid.
-        ฮงหลู่: 
+        Gregor: Hm?
+        เกรกอร์: หืม?
         ```
 
         ---
 
         ```
-        Don Quixote: AaaaHEM!!
-        ดอน กิโฆเต้: 
+        Outis: The chicken is chopped too unevenly. You should cut them better. Keep your back straight.
+        เอาทิส: 
         ```
 
         ---
 
         ```
-        Gregor: Next up, we have Yi Sang…
+        Sinclair: Right... Okay...!
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Rodion: Kiddo! Isn't this a bit bland? I think it could use a teensy bit more sweetness.
+        โรเดียน: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: S-Sweetness? Uhh, let’s see… Where’s the sugar…
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Faust: Based on what Faust is seeing, the heat needs to be pitched up one notch.
+        เฟาสท์: 
+        ```
+
+        ---
+
+        ```
+        Ryoshu: That one’s hopeless. The knife grip is all wrong.
+        เรียวชู: 
+        ```
+
+        ---
+
+        ```
+        Ishmael: Why don’t you all stop being backseat chefs and actually help?
+        อิชมาเอล: 
+        ```
+
+        ```
+        Gregor: Hmm… I mean, you could definitely trust Sinclair to take on that kind of stuff… His palate should be a good enough judge, too, growing up in a wealthy family ‘n all…
         เกรกอร์: 
         ```
 
         ---
 
         ```
-        Heathcliff: Wasn’t he the only one who came out fine when we drank that spoilt milk the other day?
+        Heathcliff: Now wait a tick, why isn’t anybody giving me any suggestions? Watch, I can cook an egg—
         ฮิธคลิฟฟ์: 
         ```
-
-        ---
-
         ```
-        Yi Sang: Mmmmmh… The smell was a sensual one, permeating my pulmonary depths.
-        ยี่ซัง: 
+        Heathcliff: Bloody hell! Why is the damn fry pan heated? It almost grilled me dead!
+        ฮิธคลิฟฟ์: ฉิบหายตายห่า!
         ```
 
         ---
 
+        * เสียงในหัว
+
+            ```
+            Everyone watched as the pan Heathcliff threw hit a wall and broke into pieces.
+            ```
+        
+        ---
+
         ```
-        Don Quixote: AHKEHMMMMM!!!
+        Meursault: …This restaurant reeks of mold and other uncleaned stains. It is likely that the kitchen has been left unattended for at least 140 days.
+        เมอร์โซลท์: 
+        ```
+        ```
+        Meursault: Cooking outside may be more sanitary to the current situation.
+        เมอร์โซลท์: 
+        ```
+
+        ---
+        
+        ```
+        Don Quixote: I prithee, give me permission to cook!!!
         ดอน กิโฆเต้: 
         ```
 
         ---
+
+        ```
+        Chicken1: Bwakbwakbawkbawkbawk!!!!
+        ไก่สด1: 
+        ```
+
+        ---
+
+        ```
+        Dante: <“How dare you mess up our kitchen! You’ll reckon with our wrath for your fowl deed!”>
+        ดันเต้:  
+        ```
+
+        ---
+
+        ```
+        Gregor: ......
+        เกรกอร์: ......
+        ```
+
+        ---
+
+        ```
+        Dante: <It just felt like that’s what it was saying…>
+        ดันเต้: 
+        ```
+
+        ---
+
+        ```
+        Gregor: …C’mon, keep it together, Gregor.
+        เกรกอร์: 
+        ```
+
+    ---
+
+    * **Episode: 7 | ตอนที่ 7**
+
+        ```
+
+        ```
 ---
 
 ### เพิ่มเติม

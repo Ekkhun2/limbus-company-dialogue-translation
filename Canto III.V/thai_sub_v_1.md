@@ -3112,7 +3112,7 @@
 
         ```
         Yi Sang: Mmmmmh… The smell was a sensual one, permeating my pulmonary depths.
-        ยี่ซัง: หืมมมมม... กลิ่น
+        ยี่ซัง: หืมมมมม... ชั่งเป็นกลิ่นที่น่าหลงไหลอะไรเช่นนี้ ที่ซึบซาบไปทั่วในส่วนลึกของปอดเรา
         ```
 
         ---
@@ -3129,33 +3129,49 @@
         <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
+        Gregor: Don Quixote, is something wrong with your throat?
+        เกรกอร์: ดอนกิโฆเต้ ลำคอเธอเป็นอะไรมากหรือเปล่า?  
+        ```
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
         Don Quixote: What say you let me take the mantle?
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ท่านคิดว่าไงถ้าข้าจะ รับช่วงต่อ/ทำแทนท่าน?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             She said this with a bashful expression, her hands behind her back.
+            เธอพูดออกมาด้วยท่าทีเขินอาย พร้อมกับมือที่ไขว้หลัง
             ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: Don Quixote… This isn’t time for kids’ stuff.
-        เกรกอร์: 
+        เกรกอร์: ดอนกิโฆเต้... นี้ไม่ใช่เวลาสำหรับของเด็กเล่น
         ```
 
         ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Don Quixote: I am no child! And why am I denied the chef’s place when Sinclair is allowed to do such on the other team!
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ข้าไม่ใช่เด็กสักหน่อย! แล้วทำไมข้าถึงถูกปฎิเสธไม่ให้ทำหน้าที่ในฐานะเชฟล่ะ ทั้ง ๆ ที่อีกทีมหนึ่ง ทีซินแคร์ยังทำได้เลยนี้!
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Hm?
@@ -3164,110 +3180,143 @@
 
         ---
 
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Outis: The chicken is chopped too unevenly. You should cut them better. Keep your back straight.
-        เอาทิส: 
+        เอาทิส: ไก่สับไม่เท่ากันเลย เธอต้องสับให้ดีกว่านี้หน่อยสิ เอ้าจับให้มั่นแล้วทีนี้ก็ลองอีกที 
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Right... Okay...!
-        ซินแคร์: 
+        ซินแคร์: อา... ได้ครับ...!
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Kiddo! Isn't this a bit bland? I think it could use a teensy bit more sweetness.
-        โรเดียน: 
+        โรเดียน: เจ้าหนู! ไม่ใช่ว่านี้จืดไปหน่อยเหรอ? ฉันคิดว่ามันน่าจะหวานได้มากกว่านี้นะ
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: S-Sweetness? Uhh, let’s see… Where’s the sugar…
-        ซินแคร์: 
+        ซินแคร์: ห-หวานเหรอครับ? เออ ไหนดูสิ... น้ำตาลอยู่ไหน...
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: Based on what Faust is seeing, the heat needs to be pitched up one notch.
-        เฟาสท์: 
+        เฟาสท์: อ้างอิงจากที่เฟาสท์เห็น ความร้อนจำเป็นที่จะต้องได้รับการแก้ไขให้สูงขึ้นอีกหนึ่ง ระดับ/นอซ
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: That one’s hopeless. The knife grip is all wrong.
-        เรียวชู: 
+        เรียวชู: แบบนั่นไม่มีหวังหรอก ขนาดกะอีแค่จับมีดยังผิดอยู่เลย
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Why don’t you all stop being backseat chefs and actually help?
-        อิชมาเอล: 
+        อิชมาเอล: แล้วทำไมพวกเธอทุกคนถึงไม่หยุดสั่งนู่นสั่งนี้ แล้วช่วยเขาจริง ๆ สักทีล่ะ?
         ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Hmm… I mean, you could definitely trust Sinclair to take on that kind of stuff… His palate should be a good enough judge, too, growing up in a wealthy family ‘n all…
-        เกรกอร์: 
+        เกรกอร์: หืมม... ก็แบบ ซินแคร์น่ะเป็นคนที่ไว้ใจได้ที่จะมอบหมายหน้าที่อะไรแบบนั่น... อีกอย่าง ลิ้นเขาก็น่าจะดีพอที่จะตัดสินได้ว่าอะไรอร่อย ไหน ๆ ก็อุตสาห์เกิดมาในครอบครัวที่ร่ำรวยนี้เนอะ... 
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Now wait a tick, why isn’t anybody giving me any suggestions? Watch, I can cook an egg—
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: รอเดี๋ยวสิวะ ทำไมถึงไม่มีไอหน้าไหนแนะนำฉันเลยสักคน? ถางตาดูสิ ว่าฉันทอดไข่ได้ดีแค่ไห—
         ```
         ```
         Heathcliff: Bloody hell! Why is the damn fry pan heated? It almost grilled me dead!
-        ฮิธคลิฟฟ์: ฉิบหายตายห่า!
+        ฮิธคลิฟฟ์: เวรเอ้ย! แล้วทำไมไอกระทะเวรนี้ถึงร้อนขนาดนี้ฟะ? แม่งเกือบย่างสดฉันแล้วไง!
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Everyone watched as the pan Heathcliff threw hit a wall and broke into pieces.
+            ทุกคนมองไปยังกระทะที่ฮิธคลิฟฟ์โยนใส่กำแพง ก่อนที่มันจะกระแทก และแตกเป็นเสี่ยง ๆ 
             ```
         
         ---
 
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Meursault: …This restaurant reeks of mold and other uncleaned stains. It is likely that the kitchen has been left unattended for at least 140 days.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: ...ร้านนี้ส่งกลิ่นอบอวนไปด้วยเชื้อรากับคราบที่ไม่ได้ล้างทำความสะอาด ราวกับว่าห้องครัวแห่งนี้ถูกทิ้งร้าง และปราศจากคนดูแลมาเป็นเวลานานอย่างน้อย ๆ ก็ร้อยสี่สิบวันได้
         ```
         ```
         Meursault: Cooking outside may be more sanitary to the current situation.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: ดังนั้น การทำอาหารข้างนอกอาจเป็นความคิดที่ดีกว่าเมื่อเราต้องให้ความสำคัญกับด้านสุขอนามัยเป็นหลักภายใต้สถานการณ์นี้
         ```
 
         ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Don Quixote: I prithee, give me permission to cook!!!
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ข้าขอวิงวอนท่าน ได้โปรดอนุญาติให้ข้าทำอาหารด้วยเถอะ!!!
         ```
 
         ---
+
+        <img src="../images/Chicken1.png" alt="Chicken1" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Chicken1: Bwakbwakbawkbawkbawk!!!!
-        ไก่สด1: 
+        ไก่สด1: ปั๊กป๊ากปั๊กป๊ากปากปั๊กปักป๊ากปักปั๊กป๊ากก!!!!
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <“How dare you mess up our kitchen! You’ll reckon with our wrath for your fowl deed!”>
-        ดันเต้:  
+        ดันเต้: <“แกกล้าดียังไงถึงบังอาจมาทำครัวเราและขนาดนี้! แกจะต้องเผชิญหน้ากับความเกรี้ยวกราดของพวกเรา เพื่อชดใช้ในสิ่งที่แกทำ!”>
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: ......
@@ -3276,21 +3325,27 @@
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dante: <It just felt like that’s what it was saying…>
-        ดันเต้: 
+        ดันเต้: <ก็แค่รู้สึกว่ามันน่าจะพูดแบบนั่นน่ะ...>
         ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: …C’mon, keep it together, Gregor.
-        เกรกอร์: 
+        เกรกอร์: ...เอาน่า เกรกอร์ ยุบหนอพองหนอดึงสติตัวเองเข้าไว้ นายไม่ได้บ้า
         ```
 
     ---
 
     * **Episode: 7 | ตอนที่ 7**
+
+        <img src="../images/Gregor.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
 

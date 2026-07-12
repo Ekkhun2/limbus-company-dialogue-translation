@@ -2615,7 +2615,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Yi Sang! Sorry, but can you open this can for me?
@@ -2657,7 +2657,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: ......
@@ -2717,7 +2717,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Look, Manager Bud, didn’t you say you’re an amnesiac? Since when were you such a delicate food critic, huh?
@@ -2923,7 +2923,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Got too cocky, eh, Ryōshū? Confidence is good and all, but it’s no match for hard-boiled experience.
@@ -2954,7 +2954,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Aha, is he starting to open up his heart?
@@ -2972,7 +2972,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: ......
@@ -3003,7 +3003,7 @@
 
     * **Episode: 6 | ตอนที่ 6<br>Location: Eunbong’s Bar & Fryers Kitchen | ห้องครัวร้านไก่ทอดและร้านเหล้าของอึนบง**
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/ChickenKing.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Eunbong's Bar & Fryers Owner: ......
@@ -3050,7 +3050,7 @@
 
         ---
     
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Right, now… Let’s assign each of us a role. Not that it’ll make a difference, but…
@@ -3090,7 +3090,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Next up, we have Yi Sang…
@@ -3126,14 +3126,14 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Don Quixote, is something wrong with your throat?
         เกรกอร์: ดอนกิโฆเต้ ลำคอเธอเป็นอะไรมากหรือเปล่า?  
         ```
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Don Quixote: What say you let me take the mantle?
@@ -3153,7 +3153,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Don Quixote… This isn’t time for kids’ stuff.
@@ -3171,7 +3171,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Hm?
@@ -3243,7 +3243,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Hmm… I mean, you could definitely trust Sinclair to take on that kind of stuff… His palate should be a good enough judge, too, growing up in a wealthy family ‘n all…
@@ -3316,7 +3316,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: ......
@@ -3334,7 +3334,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor_cook.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: …C’mon, keep it together, Gregor.
@@ -3345,7 +3345,858 @@
 
     * **Episode: 7 | ตอนที่ 7**
 
-        <img src="../images/Gregor.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Hm…>
+        ดันเต้: <หืม...>
+        ```
+        ```
+        Dante: <Can anyone tell me what this food is meant to be?>
+        ดันเต้: <ไหนบอกฉันได้ไหมว่าอาหารนี้คืออะไร?>
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: ‘Tis quite simple!
+        ดอน กิโฆเต้: เป็นอาหารง่าย ๆ น่ะขอรับ!
+        ```
+        ```
+        Don Quixote: Manager Esquire! Is not chocolate such a delicacy? Thus, we put it in the cooking.
+        ดอน กิโฆเต้: ท่านหัวหน้าอัศวินผู้ทรงเกียรติ! ช็อตโกเลตน่ะเป็นขนมที่เลิศรสมากเลยใช่ไหมล่ะขอรับ? ดังนั้น พวกเราเลยตัดสินใจที่จะใช้มันเป็นหนึ่งในองค์ประกอบหลักของจานอาหารนี้
+        ```
+        ```
+        Don Quixote: Next, I utilized oranges as a substitute for potatoes, for I much dislike the tuber.
+        ดอน กิโฆเต้: ต่อไป เราก็ใช้ผลส้มแทนหัวฝรั่ง เพราะข้าไม่ชอบหัวมัน 
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: What? Who do you think you are to take spuds out like that? You’re a right baffling bird.
+        ฮิธคลิฟฟ์: ทำห่าอะไรเนี้ย? แกคิดว่าตัวเองเป็นใครกันถึงกล้าเอาหัวมันฝรั่งออกมาตามอำเภอใจแบบนั่น? ห้า ตอบฉันสิ ยัยผู้หญิงจอมเงอะงะ
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Okay, but why is the chicken so brutally torn to bits?>
+        ดันเต้: <โอเค แล้วทำไมเนื้อไก่ถึงถูกฉีกกระชากเป็นชิ้น ๆ อย่างนั่นล่ะ?>
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: It was customary in our town to rip chickens into bite-sized pieces using one’s hands. It was a treat to remember.
+        ยี่ซัง: <เรื่องนั่น พอดีมันเป็นธรรมเนียมในบ้านเกิดเราเอง ที่ต้องฉีกไก่เป็นชิ้น ๆ ขนาดพอกัดด้วยใช้มือทั้งสองข้าง พอนึกย้อนไปก็ทำเอารู้สึกคิดถึงเลยนะครับ>
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <And what’s this black thing? Why’s a lump of coal in the pan…>
+        ดันเต้: <เออ โอเค แล้วไอดำดำนั่นคืออะไร? ทำไมถึงมีก้อนถ่านในกระทะได้...>
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Complaining an awful lot for a mouthless cuss. Do you even know how to eat this stuff?
+        ฮิธคลิฟฟ์: เป็นไอทึ่มไม่มีปากที่พูดมากชะมัด ทั้ง ๆ ที่น้ำหน้าอย่างแกคงไม่รู้วิธีกินอาหารด้วยซ้ำ
+        ```
+
+        ---
+
+        <img src="../images/ChickenKing.png" alt="ChickenKing" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Eunbong's Bar & Fryers Owner: ...... 
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ......
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: Grhkk!
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: เกิ๊กเอิ๊กอึ่ก!
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            The chickens rushed at us under the Distorted restaurant owner’s short yet decisive order.
+            ไก่สดน้อยบริวารวิ่งตรงเข้ามาหาพวกเรา จากคำสั่งที่เด็ดขาดของเจ้าของร้านผู้บิดเบี้ยว
+            ```
+
+    ---
+
+    * **Episode: 8 | ตอนที่ 8**
+
+        <img src="../images/ChickenKing.png" alt="ChickenKing" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Eunbong's Bar & Fryers Owner: ......
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ......
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Nay, what manner of foul trickery is this?! The number has gone down whilst the judge has yet to even touch his dish!
+        ดอน กิโฆเต้: ช้าก่อน นี้มันกลหลวงสกปรกประเภทใดกัน?! ถึงตัวเลขลดลง ในขณะที่ท่านผู้ตัดสินยังไม่ได้ลิ้มรสเสวยเลยด้วยซ้ำ!
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Dante: <He says it’s not even worth evaluating since what you said of it scared away his appetite…>
+        ดันเต้: <เขาบอกว่ามันไม่คุ้มตัดสิน เพราะ สิ่งที่เธอพูดก่อนหน้านี้ก็เลยทำให้เขาไม่รู้สึกอยากอาหาร...>
+        ```
+
+        ---
+
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: That’s a few more syllables than what the owner spoke, isn’t it?
+        เกรกอร์: เมื่อกี้พยางค์มากกว่าที่เจ้าของร้านร้านพูดอีกนะ หรือฉันคิดไปเอง?
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Right he is! May this rejection be revoked!!
+        ดอน กิโฆเต้: ใช่แล้วขอรับ! ข้าขอทักท้วงให้การปฎิเสธนี้เป็นโมฆะ!!
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <H-Hold it! Let me ask you guys this first!>
+        ดันเต้: <ด-เดี๋ยวก่อนเซ่! ฉันขอถามอะไรพวกนายก่อนได้ไหม!>
+        ```
+        ```
+        Dante: <Have any of you even tasted this thing?>
+        ดันเต้: <มีพวกนายสักคนที่ได้ลองชิมไอนี้แล้วหรือยังเนี้ย?>
+        ```
+
+        ---
+
+        <img src="../images/Gregor_cook.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: ......
+        เกรกอร์: ......
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: ......
+        ยี่ซัง: ......
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: ......
+        ฮิธคลิฟฟ์: ......
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: ......
+        ดอน กิโฆเต้: ......
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <You can’t just feed others things you haven’t tried yourselves, we’re trying to please someone here!>
+        ดันเต้: <พวกนายจะป้อนอาหารให้คนอื่นกิน โดยที่ตัวเองยังไม่ได้ลองชิมเลยด้วยซ้ำว่ามันปลอดภัยได้ยังไง พวกเรากำลังพยายามทำให้อาหารเพื่อเอาใจเขาอยู่นะ!>
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Mggrrr… Clockface’s got a point, I have to admit. Who wants to try this?
+        ฮิธคลิฟฟ์: เอออออ... ไอหน้านาฬิกาก็พูดถูก ฉันต้องยอมรับ แล้วใครจะเป็นคนชิมดีล่ะ?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+        
+            ```
+            The tension was thicker than when we were preparing for battle.
+            มันตึงเครียดซะยิ่งกว่าตอนที่พวกเราเตรียมตัวที่จะทำอาหารซะอีก
+            ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: …I urge you not to look at me with such eyes…
+        ยี่ซัง: ...เรารู้สึกไม่ชอบใจเลยที่พวกเจ้ามองเราด้วยสายตาแบบนั่น...
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Permit me! If my sacrifice helpeth to unfurl the wickedness of the world…!
+        ดอน กิโฆเต้: โปรดมอบหน้าที่นั่นให้ข้าด้วย! ถ้าการเสียสละของข้าจะเป็นไปเพื่อการช่วยเหลือเหล่ามวลมนุษย์ให้รอดพ้นจากหายนะของโลกใบนี้ ข้าก็เต็มใจ...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Don Quixote shut her eyes tight.
+            ดอนกิโฆเต้ปิดตาสนิท
+            ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Bugger all! Someone just get the damn stuff in their jaw!
+        ฮิธคลิฟฟ์: ให้ตายสิพวกแก! ใครสักคนก็แค่ลองตักไอนั่นเข้าปากก็พอแล้ว!
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Heathcliff grabbed a lump out of the serving and shoved it into the nearest person’s mouth…
+            ฮิธคลิฟฟ์ตักอาหารจานนั่นออกมากองหนึ่ง ก่อนที่จะยัดมันเข้าไปในปากของคนที่อยู่ใกล้ที่สุด...
+            ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: ......
+        เมอร์โซลท์: ......
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Meursault stood completely still at the unexpected taste test.
+            เมอร์โซลท์ยืนแน่นิ่งสนิทกับการที่จู่ ๆ ตัวเองกลับกลายเป็นตัวทดสอบรสชาติอย่างไม่ตั้งตัว
+            ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Did that kill him on the spot?>
+        ดันเต้: <ไม่ใช่ว่าไอนี้ฆ่าเขาตั้งแต่ที่มันเข้าปากไปแล้วนะ?>
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: I swear upon mine honor that I have done nothing to cause troubles this time. If Sir Vergilius is ever to ask who was responsible…
+        ดอน กิโฆเต้: ข้าขอสาบานด้วยเกียรติของข้า ว่าข้าไม่ได้ทำอะไรที่ก่อปัญหาในครั้งนี้ และถ้าเซอร์วอร์จิลิอุสถามว่าใครทำ...
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Meursault turned to Heathcliff, very slowly.
+            เมอร์โซลท์ค่อย ๆ หันไปทางฮิธคลิฟฟ์อย่างช้า ๆ
+            ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: The…
+        เมอร์โซลท์: มัน...
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: The… What?
+        ฮิธคลิฟฟ์: มัน... อะไร?
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: The dressing is erroneous overall; failure to properly cook the chicken has resulted in a residual stench of blood and other unpleasant odors; the sauce is too thick to bring out a deep flavor; the inconsistent cuts of the meat contribute to the serving’s inability to rouse one’s appetite.
+        เมอร์โซลท์: โดยรวมปรุงได้แย่สุด ๆ; ไก่ก็ไม่สุกแถมยังเหม็นคาวเลือดและกลิ่นไม่พึงประสงค์อีกหลายอย่าง; ซอสยังหนาเกินไปที่จะดึงรสชาติที่สร้างรสชาติที่มีมิติ; มิหนำซ้ำ รอยตัดของเนื้อก็ไม่เท่ากัน ส่งผลให้อาหารจานนี้ไร้ความสามารถในการกระตุ้นความอยากอาหารได้
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: I… Have you gone loony? That what you have to say?
+        ฮิธคลิฟฟ์: ฉันขอ(โทษ)... นี้นายเสียสติไปแล้วหรือเปล่า? นั่นคือสิ่งที่นายอยากพูดเนี้ยนะ? *ทำไมไอหมอนี้ถึงไม่ต่อว่าฉันเลยสักคำ
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: Non.
+        เมอร์โซลท์: เปล่าเลยครับ
+        ```
+        ```
+        Meursault: I have not finished.
+        เมอร์โซลท์: ผมยังพูดไม่จบ
+        ```
+        ```
+        Meursault: The seasons and spices are a complete disaster, and the taste in my mouth is even worse than plaster. Lacking sugar, you tossed two and a half spoons of butter, and the end result simply belongs right in the gutter.
+        เมอร์โซลท์: การปรุงรสและเครื่องเทศเป็นหายนะขนานแท้ กับรสชาติในปากผมที่แย่ซะยิ่งกว่าปูนพลาสเตอร์ ขาดน้ำตาล แถมพวกคุณยังใส่เนยไปอีกตั้งสองโต๊ะครึ่ง คงไม่่ต้องถามว่าผลลัพธ์ที่ได้ควรค่าแก่การถูกแททิ้งในท่อระบายน้ำมากแค่ไหน
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: I… I am… quite sorry…
+        ดอน กิโฆเต้: ข้า... ข้าขอ... อภัยอย่างสุดซึ้ง...
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: Yi Sang. I must ask if you aim to throng my teeth and prong my tongue by cooking wrong—seeing as this plate’s a headstrong lens to ding-dong notions of what food is to you all along.
+        เมอร์โซลท์: คุณยี่ซัง ผมคงต้องถามว่าคุณตั้งใจที่จะเขย่าขวัญฟันผม หรือไม่ ก็กำลังทดสอบว่าลิ้มผมจะแข็งแกร่งพอที่จะเผชิญหน้ากับจานอาหารที่ถูกปรุงมาอย่างผิดเพี้ยนได้หรือเปล่า เพราะจานนี้เต็มไปด้วยทัศนภาพที่ท้าทายและไม่สมกับเป็นคุณเลย
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: …I have not one excuse.
+        ยี่ซัง: ...เราไม่มีอะไรจะแก้ตัวทั้งนั้น/เราไร้ซึ่งข้อแก้ตัว
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: One bloody moment, is he… possessed by something or?
+        ฮิธคลิฟฟ์: เห้ย เดี๋ยวก่อนเซ่ นี้แก... โดนสิงหรือเป็นอะไรมากหรือเปล่าเนี้ย?
+        ```
+
+        ---
+        
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: Most people were unable to accept my point when I elaborated on my statements in detail.
+        เมอร์โซลท์: คนส่วนมากไม่อาจที่จะยอมรับความจริงได้ เมื่อผมพยายามจะขยายความสิ่งที่พูดออกไปอย่างละเอียด
+        ```
+        ```
+        Meursault: Because of that, I have not bothered to expand upon them until now
+        เมอร์โซลท์: เพราเหตุนั้น ผมเลยไม่เคยคิดที่จะแสดงความคิดเห็นไม่ว่าจะเรื่องไหนจนถึงตอนนี้ 
+        ```
+        ```
+        Meursault: Additionally…
+        เมอร์โซลท์: มากไปกว่านั้น...
+        ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: I know, why don’t we let Meursault take charge this time!
+        ฮงหลู่: อื้ม ผมเข้าใจ อา... จะว่าไปทำไมรอบนี้เราไม่ลองให้เมอร์โซลท์เป็นเชฟดูบ้างล่ะครับ!
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Hong Lu swiftly made a suggestion with a shower of claps to break the frigid tension before his turn to be condemned came around.
+            ฮงหลู่แสดงข้อแนะอย่างรีบเร่งพร้อมกับเสียงปรบมือไม่ขาดสาย เพื่อทลายความตึงเครียดที่หนาวเหน็บก่อนที่จะถึงตาเขาบ้างที่ต้องถูกประณาม
+            ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: We’ll help you with everything you need!
+        ฮงหลู่: พวกเราจะคอยช่วยเหลือในทุกสิ่งที่คุณต้องการ!
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: …I do not prefer to have assistants around.
+        เมอร์โซลท์: ...ถ้าให้เลือกจริง ๆ ผมคิดว่าผมทำคนเดียวจะดีกว่า
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Fret not! We shan’t disappoint you!
+        ดอน กิโฆเต้: จงอย่ากลุ้มใจไปเลย! พวกเราจะไม่ทำให้ท่านต้องผิดหวัง! 
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Don Quixote bravely exclaimed, rolling up her sleeves.
+            ดอนกิโฆเต้ตะโกนออกมาด้วยความกล้าหาญ ก่อนที่เธอจะถกแขนเสื้อขึ้น
+            ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: Hmm… Cooking is not my specialty, but if you so insist, I will readily attempt it.
+        เมอร์โซลท์: หืมม... การทำอาหารไม่ได้เป็นสิ่งที่ผมเชี่ยวชาญนัก แต่ถ้าคุณยังคงยืนกรานอยู่แบบนั่น ผมก็ยินดีที่จะทำมัน
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <L—Let’s have a look at Ryōshū’s team, then.>
+        ดันเต้: <ง—งั้นเราลองไปดูฝั่งเรียวชูบ้างดีกว่า>
+        ```
+
+        * เสียงในหัว
+
+            ```
+            While there was a spectacle occurring on Gregor’s team, the air had grown tense among Ryōshū’s crew.
+            ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: B—But…
+        ซินแคร์: ต—แต่ว่า...
+        ```
+        ```
+        Sinclair: How in the Wings’ names am I supposed to make food that’s both salty and clean, sweet but not too sugary, and lightly cooked but somehow also crispy!
+        ซินแคร์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Sinclair yelled, throwing the apron he had been wearing to the floor.
+            ```
+
+        ---
+
+        ```
+        Sinclair: I can’t do this anymore! I guess Ishmael was right, beating Heathcliff at arm wrestling is gonna be easier than this!
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Ishmael: That—That was a joke…
+        อิชมาเอล: 
+        ```
+
+        ---
+
+        ```
+        Faust: Statistically speaking, it is as likely as Sinclair’s height increasing by five centimeters in just one week; in other words, a nigh impossib—
+        เฟาสท์: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: Shut up already! It’s all the same!!!
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Outis: How weak, you cannot withstand a few criticisms and come whining like the pathetic soldier you are.
+        เอาทิส: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: If you’re so darn sure of yourself, Outis… W-Why don’t you do it yourself then?
+        ซินแคร์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            As courageous as his rebuttal was, his eyes were shut tight.
+            ```
+
+        ---
+
+        ```
+        Outis: …You leave me no choice.
+        เอาทิส: 
+        ```
+        
+        ---
+
+        ```
+        Outis: Out of my way, stragglers. It’s about time someone led this troop.
+        เอาทิส: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            In a series of turbulent events I didn’t fully catch, Meursault took up Gregor’s culinary antennae and toque blanche.
+            ```
+            ```
+            The kitchen grew busy as Gregor’s Sinners moved according to Meursault’s order.
+            ```
+
+        ---
+
+        ```
+        Don Quixote: Behold, Meursault! I have carved this one into the adorable shape of a star…
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Meursault: Potatoes should be cut into square pieces so that they may be evenly cooked on all sides.
+        เมอร์โซลท์: 
+        ```
+
+        ---
+
+        ```
+        Don Quixote: Nevertheless…!!
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Meursault: Square shapes. Five centimeters.
+        เมอร์โซลท์: 
+        ```
+
+        ---
+
+        ```
+        Don Quixote: ......
+        ดอน กิโฆเต้: ......
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Meursault looked more charismatic than ever with the mantle of head chef upon his shoulders.
+            ```
+
+        ---
+
+        ```
+        Gregor: Eh, whatever. A chicken’s a chicken, it can only be so special.
+        เกรกอร์: 
+        ```
+        ```
+        Gregor: Who knows, that lost recipe of his might’ve been all superficial stuff like “one spoon of earnestness and three scoops of effort”, ‘ne?
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Oho~ So this is how you cook potatoes~
+        ฮงหลู่: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: What the… Ya thought they harvested baked potatoes out in the fields?
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Taking me for a fool, aren’t you…!
+        ฮงหลู่: 
+        ```
+        ```
+        Hong Lu: Obviously, ripe potatoes fall from their trees when the time is right.
+        ฮงหลู๋: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: ......
+        ฮิธคลิฟฟ์: ......
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Pft, I was just kidding, Heathcliff.
+        ฮงหลู่: 
+        ```
+        ```
+        Hong Lu: Oh? What are you planning to do with that tenderizer—
+        ฮงหลู่: 
+        ```
+
+        ---
+
+        ```
+        Yi Sang: A serene flower has blossomed on this yam. Ah, so a bud can indeed bloom even upon this barren ground.
+        ยี่ซัง: 
+        ```
+
+        ---
+
+        ```
+        Meursault: That is a sign that the potato is poisonous; it must be disposed of immediately. Don Quixote, confiscate it.
+        เมอร์โซลท์: 
+        ```
+
+        ---
+
+        ```
+        Don Quixote: Righty-ho!!!
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Ah… Please do not do such…
+        ยี่ซัง: 
+        ```
+        ```
+        Yi Sang: Burnt things are significant in their own ways. In truth, the state of being “burnt” may as well be an imaginary concept defined by man when the essence of an object has remained unchanged.
+        ยี่ซัง: 
+        ```
+
+        ---
+
+        ```
+        Meursault: “Burnt” refers to the condition in which a food item is discolored beyond a certain degree and produces an acrid smell after prolonged exposure to high heat.
+        เมอร์โซลท์: 
+        ```
+        ```
+        Meursault: And this one has burnt to its core. It is only right to discard it as long-term consumption of burnt food can negatively impact the body.
+        เมอร์โซลท์: 
+        ```
+
+        ---
+
+        ```
+        Yi Sang: How regrettable...
+        ยี่ซัง: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Meursault became a ruthless chef, while Yi Sang remained mostly unhelpful.
+            ```
+            ```
+            Heathcliff was peeling ingredients at a surprisingly brisk pace.
+            ```
+
+        ---
+
+        ```
+        Heathcliff: Don’t gab at me. It’ll ruin my focus.
+        ฮิธคลิฟฟ์: 
+        ```
+        ```
+        Heathcliff:	Knives are a luxury. A real pauper can peel any spud with nothing more than a metal spoon.
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Meursault: ......
+        เมอร์โซลท์: ......
+        ```
+        ```
+        Meursault: This gets a pass. You are rewarded extra points for the expertise displayed in your aslant strokes.
+        เมอร์โซลท์: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: That’s class!!!!
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Outis: Watch closely. You need to employ a wide variety of ingredients. Being a picky eater is what’s stunted your growth.
+        เอาทิส: 
+        ```
+
+        ---
+
+        ```
+        Sinclair: I… I can still get taller from here…!
+        ซินแคร์: 
+        ```
+        ```
+        Sinclair: ...I think.
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Outis: Also, an unbalanced diet is the reason why your hair’s turned all grey.
+        เอาทิส: 
+        ```
+
+        ---
+
+        ```
+        Faust: Faust has… always had…
+        เฟาสท์: 
+        ```
+
+        ---
+
+        ```
+        Faust: Your hands in particular have become coarse and rough for the same reason.
+        เฟาสท์: 
+        ```
+
+        ---
+
+        ```
+        Ishmael: Excuse me? This is because of all the work I did aboard the ship!
+        อิชมาเอล: 
+        ```
+
+        ---
+
+        ```
+        Rodion: Me next, Outis! What about me? What’s the diagnosis?
+        โรเดียน: 
+        ```
+
+        ---
+
+        ```
+        Outis: Don’t yell frivolously like that! You’re being a distraction!
+        เอาทิส: 
+        ```
+
+    ---
+
+    * **Episode: 9 | ตอนที่ 9<br>Location: Eunbong’s Bar & Fryers Kitchen | ห้องครัวร้านไก่ทอดและร้านเหล้าของอึนบง**
 
         ```
 

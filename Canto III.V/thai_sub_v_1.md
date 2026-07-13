@@ -580,7 +580,7 @@
 
         ---
 
-        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/None_Extra.png" alt="NestResident" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Nest Resident: Kyaaaugh!!! What the hell!!!
@@ -1141,7 +1141,7 @@
 
     ---
 
-    * **Episode: 3 | ตอนที่ 3<br>Location: Front of Eunbong’s Bar & Fryers | หน้าร้านไก่ทอดและร้านเหล้าของอึนบง**
+    * **Episode: 3 | ตอนที่ 3<br>Location: Front of Eunbong’s Bar & Fryers | หน้าร้านไก่ทอดและร้านเหล้าอึนบง**
 
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
@@ -4500,7 +4500,7 @@
 
         ---
 
-        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">   
+        <img src="../images/None_Extra.png" alt="Eunbong" width="100" style="display: block; margin: 0 auto;">   
 
         ```
         Owner's Momma: You’re such a mess! What are you doing with that freaky mask on your head?
@@ -4587,7 +4587,7 @@
 
     * **Episode: 10 | ตอนที่ 10<br>Location: Eunbong’s Bar & Fryers - The Past | ร้านไก่ทอดและร้านเหล้าของอึนบง - อดีต**
 
-        <img src="../images/None_Extra.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">  
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">  
 
         ```
         Dante: <I’m having visions I’ve never seen before!>
@@ -4877,11 +4877,442 @@
 
     * **Episode: 11 | ตอนที่ 11<br>Location: Eunbong’s Bar & Fryers | ร้านไก่ทอดและร้านเหล้าของอึนบง**
 
+        <img src="../images/ChickenKing.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Eunbong's Bar & Fryers Owner: …Running this chicken joint, I had forgotten something important…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ...ตลอดมาที่ต้องวิ่งอยู่ด้วยขาไก่นี้ ฉันได้ลืมเลือนอะไรที่สำคัญไปบ้างนะ... 
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: That’s right, the chicken I wanted to cook…
+        เจ้าของร้านไก่ทอดและร้านแหล้าอึนบง: ใช่แล้ว เมนูไก่ที่ฉันอยากจะทำ...
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: …was something that even my mother could enjoy.
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ...คือบางสิ่งที่จะทำให้แม่ฉันมีความสุขได้
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: Something to please her extremely particular palate…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: บางสิ่งที่จะทำให้ลิ้นเลือกกินเอาใจยากนั่นพอใจ
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: ......
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ......
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: No, wait...
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ไม่ เดี๋ยว...
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: I knew all along.
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ฉันรู้มาตลอด/ฉันรู้อยู่แก่ใจ
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: The real reason momma wouldn’t eat chicken…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: สาเหตุจริง ๆ ว่าทำไมมาม๊าถึงไม่กินไก่...
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: …is because we couldn’t afford to feed the whole family…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ...ก็เพราะว่าเราไม่มีเงินพอที่จะเลี้ยงทุกคนในครอบครัวได้...
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: It’s why… we always had a stash of coupons at home… Ten of them could be exchanged for a free chicken…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: นั้นแหละทำไม... พวกเราถึงมีคูปองสะสมเต็มบ้านไปหมด... พวกมันสิบใบเอาไปแลกไก่ฟรีได้ชิ้นหนึ่ง... 
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: My mother would keep collecting them for me…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: แม่จะเก็บพวกมันไว้ให้ผม...
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: You did all that to feed me a chicken you wouldn’t eat…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: แม่ทำทั้งหมดนั่นก็เพื่อให้ผมได้กินไก่ที่แม่ไม่เคยจะได้กิน...
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: ......
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ......
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: Hm?
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: หืม? 
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: Oh.
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: โอ้ 
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: These are pizza coupons.
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: พวกนี้มันคูปองพิซซ่านิ
+        ```
+        
+        ---
+
+        <img src="../images/None_Extra.png" alt="Eunbong" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Owner's Momma: Son, your momma...
+        มาม๊าเจ้าของร้าน: ลูก แม่น่ะ...
+        ```
+        ```
+        Owner's Momma: She liked… pizza better…
+        มาม๊าเจ้าของบ้าน: แม่ชอบ... พิซซ่ามากกว่า... 
+        ```
+
+        ---
+
+        <img src="../images/Eunbong.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Eunbong's Bar & Fryers Owner: Agh… My head…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: อ๊าก... หัวฉัน...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Dante: <He’s gone back to normal.>
+        ดันเต้ซ <เขากลับมาเป็นปกติแล้ว>
+        ```
+
+        ---
+
         <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
+        Outis: That was a sound plan. The carrot and stick approach. It’s an effective tactic often employed in military operations.
+        เอาทิส: เมื่อกี้เป็นแผนที่ดีใช่เล่น ยุทธการแท่งแครอท เป็นหนึ่งในกลยุทธ์หากินทางการทหารที่ได้ผลดีอย่าบอกใคร 
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
+        Ishmael: That… was a plan? I don’t see how it was any different from your usual bawling out and striking first…
+        อิชมาเอล: นั่น... น่ะเหรอที่เรียกว่าแผน? ฉันไม่เห็นว่ามันจะต่างตรงไหนจากปกติที่เธอเอาแต่ตะคอก และเข้าโจมตีก่อนเลยสักนิด
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Outis: It was subtle, and this roo— strapping young lad caught my hint and followed well.
+        เอาทิส: เป็นเรื่องละเอียดอ่อนน่ะ ถึงพูดไปก็คงไม่เกต และเจ้าหนูหน้า(ใหม่)— หมายถึง เจ้าหนูเด็กหนุ่มคนนี้ก็เข้าใจคำใบ้ของฉัน และปฎิบัติตามอย่างดีเยี่ยม
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Sinclair: T—Thank you, Captain Outis!
+        ซินแคร์: ข—ขอบคุณนะครับ กัปตันเอาทิส!
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Dante: <You almost called him “rookie”, didn’t you?>
+        ดันเต้: <เมื่อกี้เธอเกือบหลุดปากเรียกเขาว่า “หน้าใหม่” ใช่ไหมล่ะนั่น?>
+        ```
+
+        ---
+
+        <img src="../images/Eunbong.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;"> 
+        
+        ```
+        Eunbong's Bar & Fryers Owner: I can’t thank you enough. I think I’m ready to start anew.
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ผมไม่รู้เลยว่าต้องขอบคุณเท่าไหร่ถึงจะพอ ผมคิดว่า ผมพร้อมแล้วที่จะเริ่มต้นใหม่
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: It wasn’t the recipe I needed… As long as I remember to cook from the heart for those I care about… even if it comes in the shape… of a pizza… I know my customers will still appreciate their earnest servings.
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: มันไม่ใช่สูตรอะไรทั้งนั้นที่ผมต้องการ... ตราบใดที่ผมยังคงจำวิธีที่จะทำอาหารด้วยใจให้กับคนที่ผมเป็นห่วง... ถึงแม้ว่ามันจะต้องลงเอยที่... พิซซ่า... แต่ผมรู้ ว่าลูกค้าจะยังคงชื่นชมกับมื้ออาหารที่น่าปิติยินดีด้วยใจจริง
+        ```
+
+        ---
+        
+        ```
+        Heathcliff: Oi, your rival promised us a lifetime vouch for free chicken. What do you have?
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Rodion: I… thought I’d be stuffing my face with drumsticks of countless flavors by now…
+        โรเดียน: 
+        ```
+
+        ---
+
+        ```
+        Eunbong's Bar & Fryers Owner: ......
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ......
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: It’s nothing much, but please take this…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            The owner of Eunbong’s gave us a wrapped-up box.
+            ```
+
+        ---
+
+        ```
+        Eunbong's Bar & Fryers Owner: It’s an invaluable treasure of mine, there’s nothing else like it…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: 
+        ```
+
+        ---
+
+        ```
+        Don Quixote: Could we accept such a rarity from thee?
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Eunbong's Bar & Fryers Owner: I wouldn’t have been able to reopen my restaurant without your help… So I insist, please take it as your reward.
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: 
+        ```
+
+        ---
+
+        **Location: Abroad Mephistopheles | บนเมฟิสโตเฟเลส**
+
+        ---
+
+        ```
+        Don Quixote: …And thus, we had resolved the Distortion and claimed our spoils!
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Vergilius: ......
+        วอร์จิลิอุส: ......
+        ```
+
+        ---
+
+        ```
+        Don Quixote: Pray tell, pray tell! Are you perhaps speechless with astonishment at the glory of our tale?!
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Vergilius: “We then embarked to Eunbong’s” was where I tuned out.
+        วอร์จิลิอุส: 
+        ```
+
+        ---
+
+        ```
+        Don Quixote: That means you have heard nary a word!
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Vergilius: Why should I bother listening to your embellished drivel when Faust’s report will fill me in on all the details I need?
+        วอร์จิลิอุส: 
+        ```
+
+        ---
+
+        ```
+        Rodion: C’mon now, Donqui. Forget about this sourpuss and gather ‘round so we can open the box. Heeheehee.
+        โรเดียน: 
+        ```
+        ```
+        Rodion: I wonder what’s inside~
+        โรเดียน: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Surrounded by Sinners full of anticipation, the lid was lifted…
+            ```
+
+        ---
+
+        ```
+        Eunbong's Bar & Fryers Owner: “Meet Bongy, the one and only doll of our mascot. I made it hoping it’d see use one day, but I’m glad to be giving it as a gift of gratitude. ^0^/”
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: 
+        ```
+
+        ---
+
+        ```
+        Rodion: No way… This can’t be it. Maybe he hid something in the plush’s belly?
+        โรเดียน: 
+        ```
+
+        ---
+
+        ```
+        Dante: <He didn’t seem like the kind of person to do that…>
+        ดันเต้: 
+        ```
+
+        ---
+
+        ```
+        Gregor: Was probably trying to get rid of it and we were there to take it, eh?
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Let’s toss this thing in that concinerator.
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        ```
+        Charon: Charon likes this passenger.
+        ชารอน: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: What’s there to like about—
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+        
+        ```
+        Charon: It’s got eyes and nothing else.
+        ชารอน: 
+        ```
+        ```
+        Charon: It’s nice.
+        ชารอน: 
+        ```
+
+        ---
+
+        ```
+        Vergilius: …Alright. That’s that, then. Keep the doll.
+        วอร์จิลิอุส: 
+        ```
+
+        ---
+
+        ```
+        Meursault: That is an incorrect assessment as the doll has a torso and limbs.
+        เมอร์โซลท์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Just like that, the chicken plushie we got instead of free food for life earned its seat on the bus…
+            ```
+
+        ---
+
+        ```
+        Samjo: Yes, Chief Dongrang. The Distortion has been resolved. I confirmed it with my own eyes.
+        แซมโจ: 
+        ```
+        
+        ---
+
+        **Location: Bodhisattva Chicken | ร้านไก่โพธิสัตว์**
+
+        ---
+
+        ```
+        Samjo: They did seem somewhat unreliable at first, yes… But, I believe it should be okay to speak with them. Yes, I’ll bring them over now.
+        แซมโจ: 
+        ```
+
+        ---
+
+        ```
+        Bodhisattva Chicken's Manager: W—What now of all things?
+        ผู้จัดการร้านไก่โพธิสัตว์: 
+        ```
+
+        ---
+
+        ```
+        Samjo: I… dislike sentences that lack a subject.
+        แซมโจ: 
+        ```
+
+        ---
+
+        ```
+        Bodhisattva Chicken's Manager: Once that restaurant reopens, we’ll lose our customers… Then I’ll miss the quota, and…
+        ผู้จัดการร้านไก่โพธิสัตว์: 
+        ```
+
+        ---
+
+        ```
+        Samjo: You should have started looking for a way to live the moment you put the stolen recipe in a concept incinerator.
+        แซมโจ: 
+        ```
+        ```
+        Samjo: Haven’t you ever heard the saying: “If you rob a house, make sure the homeowner never realizes it”?
+        แซมโจ: 
+        ```
+
+        ---
+
+        ```
+        Bodhisattva Chicken's Manager: 	I… I don’t know anything about… I didn’t…
+        ผู้จัดการร้านไก่โพธิสัตว์: 
+        ```
+
+        ---
+
+        ```
+        Samjo: Yes, of course you wouldn’t; I just made that up. Remember it well next time.
+        แซมโจ: 
+        ```
+        ```
+        Samjo: I’ll see you around.
+        แซมโจ: 
+        ```
+        ```
+        Samjo: I have visitors that need greeting.
+        แซมโจ: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            And before long, we were dragged into a mess of unprecedented scale…
+            ```
 ---
 
 ### เพิ่มเติม

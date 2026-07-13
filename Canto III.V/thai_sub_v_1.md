@@ -633,7 +633,7 @@
         
         ```
         Bodhisattva Chicken's Manager: I don’t know if they’re augmented or what, but those plucked and prepped hens would break into the restaurant and destroy things… 
-        ผู้จัดการร้านไก่โพธิสัตว์: ผมไม่ทราบเลยครับว่าเขาโกรธอะไรผมหรือเปล่า แต่เจ้าพวกไก่ที่ถูกถอนขนเตรียมทอดพวกนั่นอาจพังเข้ามาในร้าน แล้วทำลายข้าวของ...
+        ผู้จัดการร้านไก่โพธิสัตว์: อั๊วไม่ทราบเลยครับว่าอีโกรธอะไรอั๊วหรือเปล่า แต่เจ้าพวกไก่ที่ถูกถอนขนเตรียมทอดพวกนั่นอาจพังเข้ามาในร้าน แล้วทำลายข้าวของ...
         ```
 
         ---
@@ -722,7 +722,7 @@
 
         ```
         Bodhisattva Chicken’s Manager: A lifetime voucher?! I never heard of such a—
-        ผู้จัดการร้านไก่โพธิสัตว์: บัตรกินกำนัล/วอยเชอร์ ตลอดชีวิต?! ผมไม่เคยได้ยินว่าเราจะทำอย่างนั่—
+        ผู้จัดการร้านไก่โพธิสัตว์: บัตรกินกำนัล/วอยเชอร์ ตลอดชีวิต?! อั๊วไม่เคยได้ยินว่าเราสัญญากันอย่างนั่น(นะ)—
         ```
 
         ---
@@ -740,7 +740,7 @@
 
         ```
         Bodhisattva Chicken's Manager: You what?!
-        ผู้จัดการร้านไก่โพธิสัตว์: คุณว่าไงนะ?!
+        ผู้จัดการร้านไก่โพธิสัตว์: ลื้อว่าไงนะ?!
         ```
 
         ---
@@ -3849,6 +3849,7 @@
 
             ```
             While there was a spectacle occurring on Gregor’s team, the air had grown tense among Ryōshū’s crew.
+            ในขณะที่นานาเหตุการณ์กำลังเกิดขึ้นในทีมของเกรกอร์ บรรยากาศภายในทีมของเรียวชูกลับดูตึงเครียดมากกว่าปกติ
             ```
 
         ---
@@ -3861,121 +3862,155 @@
         ```
         ```
         Sinclair: How in the Wings’ names am I supposed to make food that’s both salty and clean, sweet but not too sugary, and lightly cooked but somehow also crispy!
-        ซินแคร์: 
+        ซินแคร์: แล้วผมต้องทำอีท่าไหนกันถึงจะทำอาหารที่ทั้งเค็มแต่รสสะอาด หวานแต่ไม่เลี่ยน แถมสุกแค่พอดีแต่ก็ต้องกรอบอีก!
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Sinclair yelled, throwing the apron he had been wearing to the floor.
+            ซินแคร์แหกปากร้องพร้อมกับโยนผ้ากันเปื้อนที่เขาใส่ลงบนพื้น
             ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: I can’t do this anymore! I guess Ishmael was right, beating Heathcliff at arm wrestling is gonna be easier than this!
-        ซินแคร์: 
+        ซินแคร์: ผมทนไม่ไหวอีกต่อไปแล้ว! คุณอิชมาเอลพูดถูก เทียบกันกับการเอาชนะฮิธคลิฟฟ์ด้วยการงัดข้อยังง่ายซะยิ่งกว่าไอนี้ซะอีก!
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: That—That was a joke…
-        อิชมาเอล: 
+        อิชมาเอล: เอาน่า—มันก็แค่มุก...
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: Statistically speaking, it is as likely as Sinclair’s height increasing by five centimeters in just one week; in other words, a nigh impossib—
-        เฟาสท์: 
+        เฟาสท์: ในทางสถิติ มันก็เหมือนกับการที่ส่วนสูงซินแคร์เพิ่มขึ้นห้าเซนติเมตรภายในเวลาเพียงหนึ่งอาทิตย์; หรือกล่าวอีกนัยหนึ่งได้ว่ามันเป็นเหตุการณ์ที่แทบเป็นไปไม่ไ—
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Shut up already! It’s all the same!!!
-        ซินแคร์: 
+        ซินแคร์: หุบปากได้แล้วน่า! มันก็เหมือนกันนั้นแหละ!!!
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: How weak, you cannot withstand a few criticisms and come whining like the pathetic soldier you are.
-        เอาทิส: 
+        เอาทิส: อ่อนแออะไรเช่นนี้ กะอีแค่อดทนต่อคำวิจารย์นิด ๆ หน่อย ๆ ก็ยังทำไม่ได้ เอาแต่ร้องคร่ำครวญเหมือนทหารน่าสมเพซ นั่นแหละที่เธอเป็น
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: If you’re so darn sure of yourself, Outis… W-Why don’t you do it yourself then?
-        ซินแคร์: 
+        ซินแคร์: ถ้าคุณมั่นใจในตัวเองมากซะขนาดนั้น แล้วทำไมคุณเอาทิส... ถึงไม่ทำเองเลยล่ะครับ?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             As courageous as his rebuttal was, his eyes were shut tight.
+            แม้การโต้กลับนั่นจะเต็มไปด้วยความกล้าหาญมากเพียงใด แต่ตาสองข้างเขากลับหลับปี้
             ```
 
         ---
 
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Outis: …You leave me no choice.
-        เอาทิส: 
+        เอาทิส: ...เธอทำให้ฉันไม่มีทางเลือกเองนะ
         ```
         
         ---
 
+        <img src="../images/Outis_cook.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Outis: Out of my way, stragglers. It’s about time someone led this troop.
-        เอาทิส: 
+        เอาทิส: ไสหัวไป ไอพวกท้ายแถวไม่ได้เรื่อง มันถึงเวลาแล้วที่ต้องมีใครสักคนนำทัพนี้
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             In a series of turbulent events I didn’t fully catch, Meursault took up Gregor’s culinary antennae and toque blanche.
+            จากเหตุการณ์วุ่นวายที่เกิดขึ้นเมื่อกี้นี้ ตอนนี้ผมเลยตามไม่ทัน ว่าทำไมเมอร์โซลท์ถึงกำลังทำหน้าที่ทีควรจะเป็นของเกรกอร์ และสวมหมวกเชฟของเขาอยู่
             ```
             ```
             The kitchen grew busy as Gregor’s Sinners moved according to Meursault’s order.
+            ครัวเริ่มที่จะยุ่งมากขึ้น เมื่อเหล่าคนบาปของเกรกอร์พากันเคลื่อนตัวไปตามคำสั่งของเมอร์โซลท์
             ```
 
         ---
 
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Don Quixote: Behold, Meursault! I have carved this one into the adorable shape of a star…
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ดูสิ ท่านเมอร์โซลท์! ข้าแกะสลักเจ้านี้เป็นรูปดาวน่ารักด้วยนะขอรับ...
         ```
 
         ---
+
+        <img src="../images/Meursault_cook.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: Potatoes should be cut into square pieces so that they may be evenly cooked on all sides.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: มันฝรั่งควรถูกตัดเป็นชิ้นสี่เหลี่ยมจัตุรัส พวกมันจะได้สุกเท่า ๆ กันเวลาที่เอาไปทอด
         ```
 
         ---
 
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Don Quixote: Nevertheless…!!
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: แต่กระนั้น...!!
         ```
 
         ---
 
         ```
         Meursault: Square shapes. Five centimeters.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: รูปร่างสี่เหลี่ยมจัตุรัส ขนาดห้าเซนติเมตรเท่านั้น
         ```
 
         ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Don Quixote: ......
@@ -3984,49 +4019,62 @@
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         * เสียงในหัว
 
             ```
             Meursault looked more charismatic than ever with the mantle of head chef upon his shoulders.
+            เมอร์โซลท์ดูมีเสน่ห์ซะยิ่งกว่าตอนไหน ๆ ที่เคยเป็น เมื่อมงกุฏและหน้าที่แห่งเชฟถูกวางลงบนบ่า
             ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: Eh, whatever. A chicken’s a chicken, it can only be so special.
-        เกรกอร์: 
+        เกรกอร์: เออ จะอะไรก็ช่าง ยังไงซะไก่ก็คือไก่ มันจะพิเศษได้แค่ไหนกันเชียว
         ```
         ```
         Gregor: Who knows, that lost recipe of his might’ve been all superficial stuff like “one spoon of earnestness and three scoops of effort”, ‘ne?
-        เกรกอร์: 
+        เกรกอร์: ใครจะรู้ล่ะ ว่าไอสูตรที่หมอนั่นทำหายไปบางทีแล้วอาจเป็นแค่ของพื้น ๆ อย่าง “ความมุ่งมั่นหนึ่งช้อนโต๊ะ กับ ความตั้งใจสามสกูป” อะไรแบบนั่นก็ได้
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Oho~ So this is how you cook potatoes~
-        ฮงหลู่: 
+        ฮงหลู่: อ้ออ~ นี้เป็นวิธีที่คุณอบมันฝรั่งสิน้าครัาบ~
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: What the… Ya thought they harvested baked potatoes out in the fields?
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: อะไรวะ... นี้แกคิดว่าเวลาที่ผู้คนต้องการมันฝรั่งอบแล้วพวกเขาก็แค่เก็บเกี่ยวออกมาจากไร่หรือไง?
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Taking me for a fool, aren’t you…!
-        ฮงหลู่: 
+        ฮงหลู่: คุณคิดว่าผมโง่มากสินะครับ...!
         ```
         ```
         Hong Lu: Obviously, ripe potatoes fall from their trees when the time is right.
-        ฮงหลู๋: 
+        ฮงหลู๋: ก็ต้องรู้อยู่แล้วสิ ว่ามันฝรั่งที่สุกงอมน่ะ จะตกลงมาจากต้นของพวกมันเมื่อถึงเวลา
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: ......
@@ -4035,88 +4083,110 @@
 
         ---
 
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Hong Lu: Pft, I was just kidding, Heathcliff.
-        ฮงหลู่: 
+        ฮงหลู่: ฟิ่บ ผมล้อเล่นน่ะครับ คุณฮิธคลิฟฟ์
         ```
         ```
         Hong Lu: Oh? What are you planning to do with that tenderizer—
-        ฮงหลู่: 
+        ฮงหลู่: โอ้? แล้วคุณวางแผนจะใช้เครื่องทุบเนื้อนั่นทำอะไรเหรอครับ—
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: A serene flower has blossomed on this yam. Ah, so a bud can indeed bloom even upon this barren ground.
-        ยี่ซัง: 
+        ยี่ซัง: หากดอกไม้ที่สงบงามดอกหนึ่งได้ผลิบานบนหัวมันฉันใด อา ดอกตูมเองก็สามารถผลิบานบนผืนดินอันแห้งแล้งได้ฉันนั้น
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: That is a sign that the potato is poisonous; it must be disposed of immediately. Don Quixote, confiscate it.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: นั่นเป็นสัญญาณว่ามันฝรั่งเป็นพิษ; และมันต้องถูกกำจัดทิ้งในทันที ดอนกิโฆเต้ ยึด/ริบ มันมาซะ
         ```
 
         ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Don Quixote: Righty-ho!!!
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: รับทราบขอรับ!!!
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: Ah… Please do not do such…
-        ยี่ซัง: 
+        ยี่ซัง: อา... ได้โปรดอย่าทำอะไรเช่นนั่นเลย...
         ```
         ```
         Yi Sang: Burnt things are significant in their own ways. In truth, the state of being “burnt” may as well be an imaginary concept defined by man when the essence of an object has remained unchanged.
-        ยี่ซัง: 
+        ยี่ซัง: สิ่งทีเผาไหม้ต่างมีความหมายในแบบของตัวเองทั้งสิ้น ภายใต้ความจริงที่ว่า สภาวะของการ “ถูกเผา” อาจเป็นเพียงแนวคิดทางจินตภาพของบุรุษที่ถูกนิยามขึ้นมาก็เท่านั้น เพราะท้ายสุด แก่นแท้ของวัตถุเหล่านั่นก็ไม่เคยที่จะแปรเปลี่ยนไปเลย
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: “Burnt” refers to the condition in which a food item is discolored beyond a certain degree and produces an acrid smell after prolonged exposure to high heat.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: “การเผาไหม้” หมายถึง ภาวะที่รายการอาหารแปรเปลี่ยนรูปลักษณ์ทางกายภาพ เช่น สี หรือ กลิ่น เมื่อถึงอุณหภมิที่เหมาะสม และสร้างกลิ่นฉุนออกมาตามหลังเมื่อคงอยู่ในความร้อนที่สูงเป็นระยะเวลานาน
         ```
         ```
         Meursault: And this one has burnt to its core. It is only right to discard it as long-term consumption of burnt food can negatively impact the body.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: และอันนี้เองก็ไหม้จนถึงแก่นของมันแล้ว เพราะงั้น มันจะเป็นการดีกว่าที่เราจะทิ้งมัน แทนที่จะรับประทานมัน และรับผลเสียระยะยาวของอาหารไหม้ที่ส่งผลต่อร่างกาย
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: How regrettable...
-        ยี่ซัง: 
+        ยี่ซัง: ช่างน่าเสียดายอะไรเช่นนี้...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Meursault became a ruthless chef, while Yi Sang remained mostly unhelpful.
+            เมอร์โซลท์กลายเป็นเชพที่ไร้ปรานี ในขณะที่ยี่ซังกลายเป็นคนที่ไร้ประโยชน์ที่สุดไปโดยปริยาย
             ```
             ```
             Heathcliff was peeling ingredients at a surprisingly brisk pace.
+            ระหว่างนั้น ฮิธคลิฟฟ์ก็กำลังปองเปลือกวัตถุดิบด้วยความว่องไวอย่างน่าประหลาดใจ
             ```
 
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: Don’t gab at me. It’ll ruin my focus.
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: อย่ามาชวนฉันคุยสิวะ มันจะทำให้ฉันเสียสมาธิ
         ```
         ```
         Heathcliff:	Knives are a luxury. A real pauper can peel any spud with nothing more than a metal spoon.
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: มีดน่ะเป็นของพวกคนรวยโง่ ๆ  แต่คนจนอย่างเราการที่จะปอกเปลือกมันฝรั่งมีแค่ช้อนเหล็กก็เหลือเฟือแล้ว 
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: ......
@@ -4124,79 +4194,690 @@
         ```
         ```
         Meursault: This gets a pass. You are rewarded extra points for the expertise displayed in your aslant strokes.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: แบบนี้ถือว่าผ่าน คุณทำได้ดีมาก ถือว่าผมให้คะแนนพิเศษกับคุณสำหรับความชำนาญที่ปรากฎผ่านรอยเส้นเฉียงที่เรียบเนียนนี้
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: That’s class!!!!
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: ต้องให้ได้อย่างนี้สิ!!!!
         ```
 
         ---
+
+        <img src="../images/Outis_cook.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: Watch closely. You need to employ a wide variety of ingredients. Being a picky eater is what’s stunted your growth.
-        เอาทิส: 
+        เอาทิส: ดูให้ดีล่ะ เธอต้องใส่วัตถุดิบให้หลากหลายกว่านี้ เพราะเอาแต่เลือกกินไงร่างกายเธอเลยไม่โตสักที
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: I… I can still get taller from here…!
-        ซินแคร์: 
+        ซินแคร์: ผม... ผมยังสูงได้มากกว่านี้นะครับ...!
         ```
         ```
         Sinclair: ...I think.
-        ซินแคร์: 
+        ซินแคร์: ...ผมคิดว่า
         ```
 
         ---
+
+        <img src="../images/Outis_cook.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: Also, an unbalanced diet is the reason why your hair’s turned all grey.
-        เอาทิส: 
+        เอาทิส: อีกอย่าง การที่เธอเอาแต่ไดเอทโดยที่ไม่สนสภาพร่างกาย เป็นสาเหตุที่ทำให้ทั้งหัวเธอสีเทา
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: Faust has… always had…
-        เฟาสท์: 
+        เฟาสท์: เฟาสท์มี... ผมสีเทาตั้งแต่แรก(อยู่แล้วนะคะ)...
         ```
 
         ---
 
+        <img src="../images/Outis_cook.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Faust: Your hands in particular have become coarse and rough for the same reason.
-        เฟาสท์: 
+        Outis: Your hands in particular have become coarse and rough for the same reason.
+        เอาทิส: มือเธอที่สากและแตกกร้านเองก็เหมือนกัน 
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Excuse me? This is because of all the work I did aboard the ship!
-        อิชมาเอล: 
+        อิชมาเอล: ว่าไงนะป้า? ที่ฉันเป็นแบบนี้ก็เพราะงานบนเรือที่ฉันทำต่างหาก! 
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Me next, Outis! What about me? What’s the diagnosis?
-        โรเดียน: 
+        โรเดียน: ต่อไปก็ฉันนะ เอาทิส! แล้วฉันล่ะ? คำวินิจฉัยเป็นไง? 
         ```
 
         ---
 
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Outis: Don’t yell frivolously like that! You’re being a distraction!
-        เอาทิส: 
+        เอาทิส: พวกเธอช่วยหุบปาก และหยุดพูดไร้สาระได้แล้ว! รู้ไหมว่าพวกเธอกำลังทำฉันเสียสมาธิ!
         ```
 
     ---
 
     * **Episode: 9 | ตอนที่ 9<br>Location: Eunbong’s Bar & Fryers Kitchen | ห้องครัวร้านไก่ทอดและร้านเหล้าของอึนบง**
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <You know we only have two chances left, right, team?>
+        ดันเต้: <พวกนายรู้ใช่ไหม ว่าตอนนี้เราเหลือโอกาศอีกแค่สองครั้งเท่านั้น?>
+        ```
+        ```
+        Dante: <How about we start with Meursault’s, made by following the formula to a tee?>
+        ดันเต้: <งั้น เรามาเริ่มกันกับจานที่เมอร์โซลท์ทำก็แล้วกัน เป็นจานที่ทำตามสูตรอย่างเคร่งครัดทุกระเบียดนิ้ว?>
+        ```
+
+        * เสียงในหัว
+
+            ```
+            Prepared with pinpoint precision, Meursault’s dish looked like a picture in a cookbook come to life
+            ถูกตระเตรียมไปด้วยความแม่นยำระดับจุด จานของเมอร์โซลท์ที่ออกมา... มันดูเหมือนกับภาพวาดในหนังสือทำอาหารที่มีชีวิตไม่มีผิด
+            ```
+
+        ```
+        Dante: <Right, we have something that looks like an actual serving, so that’s a good start.>
+        ดันเต้: <เอาล่ะ อย่างน้อย ๆ ตอนนี้ เราก็มีอะไรที่ดูจะเสิร์ฟได้จริง ๆ สักที ถือว่าเริ่มต้นได้ดี>
+        ```
+
+        ---
+
+        <img src="../images/ChickenKing.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Eunbong's Bar & Fryers Owner: ......
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ......
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            After having a taste of Meursault’s work, the restaurant owner quietly savored it, contemplating for a while.
+            หลังจากที่ลองชิมอาหารของเมอร์โซลท์ เจ้าของร้านพลางดื่มด่ำรสชาติของมัน และครุ่นคิดกับตัวเองไปสักพัก
+            ```
+
+        ---
+
+        <img src="../images/ChickenKing.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Eunbong's Bar & Fryers Owner: ......
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ......
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: Gagaga… Gigigi… Gugugu…
+        เจ้าของรานไก่ทอดและร้านเหล้าอึนบง: กากากา... กี้กี้กี้ย์... กูกูกูกูว...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <“I had to ruminate on this dish for a long time. It was an excellent serving in all tangible ways—the smell, the taste, the presentation. Yet, I felt that it was still missing something I couldn’t quite describe with words.”>
+        ดันเต้: <“ฉันใช้เวลาตรึกตรอง ครุ่นคิดอยู่นานสองนานว่าจานนี้เป็นยังไง และมันก็ยอดเยี่ยมมากในทุกด้านที่สัมผัสได้—ทั้งกลิ่น รสชาติ การนำเสนอ ถึงอย่างนั้น ฉันก็ยังรู้สึกว่ามันขาดอะไรไป บางสิ่งที่ฉันไม่อาจอธิบายด้วยคำพูดได้>
+        ```
+
+        ---
+
+        <img src="../images/ChickenKing.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Eunbong's Bar & Fryers Owner: Gegegeh… Gogogo…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: เกอเกอเก... โกโกโกว์...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <“And that… was professionalism as a cook. An ironic smidgen of a blemish within perfection…”>
+        ดันเต้: <“และสิ่งนั้น... ก็คือความเป็นมืออาชีพในฐานะพ่อครัว ที่ชั่งแดกดัน เราก็ต่างมีรอยด่างพร้อยจุดเล็กจิ้วที่ซ่อนอยู่ใต้ภาพอันสมบูรณ์แบบที่เราวาดขึ้น”>
+        ```
+
+        ---
+
+        <img src="../images/ChickenKing.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Eunbong's Bar & Fryers Owner: ......
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ......
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <“That is why this dish cannot get a pass, unfortunately.”>
+        ดันเต้: <“เพราะงั้นจานนี้จึงยังไม่ผ่านเกณฑ์ ช่างน่าเสียดาย”>
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: He suddenly started sounding like a posh judge…
+        อิชมาเอล: นายเริ่มจะพูดเหมือนพวกกรรมการมาดหรูขึ้นทุกทีละนะ...
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Someone tug the mask off that blighter’s head. The only thing distorted ‘bout him might be his crooked attitude.
+        ฮิธคลิฟฟ์: ใครก็ได้ช่วยดึงหน้ากากบ้าบอที่ไอเจ้านั่นใส่สักทีได้ไหม สิ่งเดียวที่บิดเบี้ยวก็คงมีแต่ใจมันเท่านั่นแหละ
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: …Je m’avoue vaincu.
+        เมอร์โซลท์: ...ผมขอน้อมรับความพ่ายแพ้ครั้งนี้
+        ```
+        ```
+        Meursault: Nevertheless, I hold no regrets over this battle.
+        เมอร์โซลท์: ถึงอย่างนั้น ผมก็ไม่รู้สึกเสียดายเลยที่ได้ต่อสู้
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <At least the chickens aren’t bum-rushing us this time.>
+        ดันเต้: <อย่างน้อยรอบนี้พวกไก่สดก็ไม่ได้กระแทกพวกมันใส่เราล่ะนะ>
+        ```
+
+        * เสียงในหัว
+
+            ```
+            With only one chance left, Outis brought her dish to the table.
+            ด้วยโอกาศเดียวที่เหลืออยู่ เอาทิสนำจานอาหารของเธอวางบนโต๊ะ
+            ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">        
+
+        ```
+        Dante: <It looks neat. Nothing too fancy, but still simple and clean.>
+        ดันเต้: <มันดูเรียบร้อย ไม่มีอะไรเป็นพิเศษ แต่ก็ง่ายและสะอาด>
+        ```
+        ```
+        Dante: <What are these couple of needles on the dish for, Outis? They look like a clock’s hands.>
+        ดันเต้: <เข็มปักสองเล่มที่อยู่บนจานนี้มีไว้เพื่ออะไรเหรอ เอาทิส? มันดูเหมือนกับเข็มนาฬิกา>
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">   
+
+        ```
+        Outis: They are a simple decoration I added in tribute to you, Executive Manager.
+        เอาทิส: มันเป็นของตกแต่งอย่างง่ายน่ะคะ ฉันเพิ่มมันก็เพื่อระลึกถึงคุณคะ ท่านผู้จัดการสูงสุด
+        ```
+        
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">   
+
+        ```
+        Dante: <Ooo…! I’d give bonus points if I could.>
+        ดันเต้: <โอ้ว..! ขอบคุณล่ะกันนะ... ฉันคงให้พิเศษไปแล้วถ้าฉันให้ได้>
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">   
+
+        ```
+        Ishmael: Ugh…
+        อิชมาเอล: เอ๊ออือ... *แหวะ จะอ้วก
+        ```
+
+        ---
+
+        <img src="../images/ChickenKing.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;">   
+
+        ```
+        Eunbong's Bar & Fryers Owner: ......
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ......
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: !!!
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: !!!
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">   
+
+        * เสียงในหัว
+
+            ```
+            The comment that followed from the owner was too sensational for me to put into words.
+            คำพูดที่ออกมาจากเจ้าของร้านเต็มไปด้วยความรู้สึกมากเกินไป ที่ผมจะกลั่นกรองเป็นคำพูด
+            ```
+
+        ---
+
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">   
+
+        ```
+        Owner's Momma: You’re such a mess! What are you doing with that freaky mask on your head?
+        มาม๊าเจ้าของร้าน: แกช่างเป็นความล้มเหลว! แกคิดว่าแกกำลังทำอะไรอยู่ถึงได้สวมหน้ากากประหลาดนั่น?
+        ```
+        ```
+        Owner's Momma: Back in your momma’s day, we grinned and bore with all sorts of nonsense! How are you gonna live through this unforgiving world if you get all heartbroken over something so small? Get it together already…
+        มาม๊าเจ้าของร้าน: ย้อนกลับไปตอนที่แม่ยังสาว ๆ พวกเราต่างฝืนยิ้มแล้วอดทน ให้กับเรื่องไร้สาระเป็นร้อยพัน! แล้วลูกจะใช้ชีวิตต่อไปยังไง ในโลกที่ไร้ซึ่งการให้อภัย ถ้ากับอีเรื่องแค่นี้ยังทนไม่ได้? ลูกต้องตั้งสติได้แล้ว...
+        ```
+
+        ---
+
+        <img src="../images/None_Extra.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;">  
+
+        * เสียงในหัวเจ้าของร้าน
+
+            ```
+            My mother… was always like that.
+            แม่ฉัน... ก็เป็นแบบนั่นตลอดนั้นแหละ
+            ```
+            ```
+            Rather than kind and caring words, she would scold me with her nitpicky lectures.
+            แทนที่จะใจดีและพูดปลอบใจ เธอจะดุด่าฉันด้วยคำสอนจู้จี้จุกจิกของเธอ
+            ```
+            ```
+            She was so particular about chicken, too, rarely touching a piece that anybody else would take in a heartbeat…
+            และเธอก็เป็นคนที่เคร่งครัดมากเกี่ยวกับไก่ เรียกได้ว่า แทบจะไม่แตะชิ้นที่ใครต่อใครจะเลือกในทันที...
+            ```
+            ```
+            Running this restaurant, I had forgotten something important.
+            ก่อนที่ฉันจะมาเปิดร้านนี้ มันเหมือนกับ ว่าฉันได้ลืมเลือนบางอย่างที่สำคัญไป
+            ```
+            ```
+            I…
+            ฉัน...
+            ```
+
+        ```
+        Eunbong's Bar & Fryers Owner: Oh, mother...
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: อา แม่ครับ...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Dante: <Now’s our chance! The Distortion or whatever on him is weakening!>
+        ดันเต้: <นี้แหละโอกาศของเรา! ตัวตนที่บิดเบี้ยวหรืออะไรก็ช่างกำลังอ่อนแอลง!>
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Sinclair: Look at this! Some kind of door has appeared next to him!
+        ซินแคร์: ดูนั่นสิครับ! ประตูของอะไรบางอย่างปรากฎออกมาข้าง ๆ เขา!
+        ```
+        ```
+        Sinclair: Should we go through it?
+        ซินแคร์: เราควรเข้าไปไหมครับ?
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Rodion: What made Outie’s dish stand out anyway?
+        โรเดียน: แล้วอะไรกันน้าที่ทำให้จานของเอาที้แแตกต่างออกไป?
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Outis: Let us march, soldiers. May we see the end of this.
+        เอาทิส: เคลื่อนทัพได้แล้ว เหล่าทหาร เราจะมาจบเรื่องนี้กัน
+        ```
+
+    ---
+
+    * **Episode: 10 | ตอนที่ 10<br>Location: Eunbong’s Bar & Fryers - The Past | ร้านไก่ทอดและร้านเหล้าของอึนบง - อดีต**
+
+        <img src="../images/None_Extra.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Dante: <I’m having visions I’ve never seen before!>
+        ดันเต้: <ฉันเห็นนิมิตที่ฉันไม่เคยเห็นมาก่อน!>
+        ```
+        ```
+        Dante: <These must be his memories.>
+        ดันเต้: <น่าจะเป็นความทรงจำของเขา>
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Faust: They might be recollections that he partially had lost due to the shock.
+        เฟาสท์: พวกมันน่าจะเป็นผลึกความทรงจำที่เขาเคยมี และทำหายไปจากอาการช็อคทางจิต
+        ```
+
+        ---
+
+        <img src="../images/Bosal.png" alt="Bosal" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Bodhisattva Chicken's Manager: Phew… I’ve finally found it. I thought he’d keep his top-secret recipe locked up tight and away, but he was using it as a trivet to eat ramen…!
+        ผู้จัดการร้านไก่โพธิสัตว์: วุ้ย... ในที่สุดอั๊วก็เจอมันสักที อั๊วก็นึกว่าอีเก็บสูตรลับไว้ในเซฟที่ไหนซะอีก แต่ทีแท้อีก็ใช้มันรองจานเวลากินราเมน...!
+        ```
+
+        ---
+
+        <img src="../images/Eunbong.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Eunbong's Bar & Fryers Owner: I—Is that my restaurant’s recipe? How did you get your hands on it?
+        เจ้าของร้านไก่ทอดและร้านหล้าอึนบง: น—นั่นสูตรอาหารร้านฉันไม่ใช่เหรอ? แกเอามันมาได้ยังไง?
+        ```
+
+        ---
+
+        <img src="../images/Bosal.png" alt="Bosal" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Bodhisattva Chicken's Manager: I sent a spy. Did you really think a part-timer willing to come in an hour early to help with prep on minimum wage would actually exist?
+        ผู้จัดการร้านไก่โพธิสัตว์: อั๊วก็แค่ส่งสายลับมา นี้ลื้อคิดจริง ๆ เหรอ ว่าจะมีพนักงานพาร์ททามคนไหนตั้งใจจะเข้างานก่อนร้านเปิดเพื่อช่วยลื้อเตรียมของด้วยค่าแรงที่ต่ำขนาดนั่น?
+        ```
+
+        ---
+
+        <img src="../images/Eunbong.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Eunbong's Bar & Fryers Owner: But why— Why would you…! 
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: แต่ทำไม— แกถึงกล้าทำแบบนี้...!
+        ```
+
+        ---
+
+        <img src="../images/Bosal.png" alt="Bosal" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Bodhisattva Chicken's Manager: I had no choice! If I don’t meet the quota HQ demands from me, my restaurant will be shut down!
+        ผู้จัดการร้านไก่โพธิสัตว์: ก็เพราะ ลื้อไม่เหลือทางเลือกให้อั๊วเลย! ถ้าอั๊วทำไม่ได้ตามเป้าที่สำนักงานใหญ่กำหนด ร้านของอั๊วก็ต้องถูกปิดตัวลง!
+        ```
+
+        ---
+
+        <img src="../images/Eunbong.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Eunbong's Bar & Fryers Owner: The… The recipe’s still in my head! Two spoons of sugar! One and a half spoons of soy sauce, then add minced garlic…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: สูตร... สูตรอาหารนั่นยังอยู่ในหัวฉัน! น้ำตาลสองช้อนโต๊ะ! ซีอิ๊วหนึ่งช้อนครึ่ง จากนั่นก็ใส่กะเทียมสับ...
+        ```
+
+        ---
+
+        <img src="../images/Bosal.png" alt="Bosal" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Bodhisattva Chicken's Manager: It’s no use—I’ll have it burnt in the concept incinerator. Any trace of the recipe will be gone, including the memories in your head.
+        ผู้จัดการร้านไก่โพธิสัตว์: ลื้อจะดิ้นรนยังไงก็เปล่าประโยชน์—เพราะ อั๊วจะเผามันทิ้งด้วย เตาเผาแนวคิด/คอนเซ็ปต์อินซิเนอเรเตอร์ แล้วหลังจากนั้นสูตรของลื้อก็หายไปตลอดกาลอย่างไร้ร่องรอย รวมถึงความทรงจำในหัวลื้อด้วย
+        ```
+
+        ---
+
+        <img src="../images/Eunbong.png" alt="Eunbong" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Eunbong's Bar Fryers Owner: NOOOOOOO!! 
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ม่ายยยยยย!!
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: Two spoons of sugar! One and a half spoons of soy sauce…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: น้ำตาลสองช้อนโต๊ะ! ซีอิ๊วหนึ่งช้อนครึ่ง...
+        ```
+
+        ---
+
+        <img src="../images/Bosal.png" alt="Bosal" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Bodhisattva Chicken's Manager: Like I said… You should’ve shut down your restaurant when I warned you!
+        ผู้จัดการร้านไก่โพธิสัตว์: อย่างที่อั๊วเคยบอกไป... ว่าลื้อควรจะปิดกิจการของตัวเองในตอนที่อั๊วเตือนลื้อ!
+        ```
+
+        ---
+
+        <img src="../images/Eunbong.png" alt="Eunbong" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Eunbong's Bar & Fryers Owner: Two… S-Sugar… No, was it sugar? I can’t remember a thing…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: น-น้ำตาล... สอง... น้ำตาลหรือเปล่านะ? ฉันจำอะไรไม่ได้เลย... 
+        ```
+
+        ---
+
+        **Location: Eunbong's Bar & Fryers | ร้านไก่ทอดและหล้าอึนบง**
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Ryoshu: I never liked that pest. Knew he was rotten from all the N.S.O.P. signs plastered over his walls.
+        เรียวชู: ฉันไม่เคยชอบไอแมลงนั่นเลย มองออกแต่แรกมันเน่าแฟะ แค่ดูสัญญะ เอ็น.เอส.โอ.พี ที่ติดอยู่อยู่รอบร้านมันก็รู้แล้ว
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Ishmael: If it was put in the concept incinerator… That recipe is as good as gone…
+        อิชมาเอล: ถ้ามันถูกเอาไปเผาใน คอนเซ็ปต์อินซิเนอเรเตอร์ ไปแล้ว... ก็หมายความว่าไม่มีทางที่เราจะเอามันกลับมาได้...
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Gregor: What’s a concept incinerator ab—
+        เกรกอร์: ไอ คอนเซ็ปต์อินซิเนอเรเตอร์ นี้คือ—
+        ```
+        ```
+        Gregor: …Nevermind, Ishmael. Your face tells me I don’t wanna ask about it.
+        เกรกอร์: ...ชั่งมันเถอะ อิชมาเอล หน้าเธอฟ้องหมดแล้วว่าฉันไม่ควรถาม 
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Ishmael: Pardon?
+        อิชมาเอล: ประธานโทษ?
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">  
+
+        ```
+        Yi Sang: The concept incinerator…
+        ยี่ซัง: คอนเซ็ปต์อินซิเนอเรเตอร์...
+        ```
+        ```
+        Yi Sang: It is a trusted method of permanently erasing a technology.
+        ยี่ซัง: เป็นวิธีที่เชื่อถือได้ในการลบเลือนเทคโลยีที่เคยมีอยู่อย่างถาวร
+        ```
+        ```
+        Yi Sang: For instance… It has the ability to make it as if Miss Faust never invented Mephistopheles.
+        ยี่ซัง: ยกตัวอย่างเช่น... มันมีความสามารถในการทำ... ราวกับว่าคุณเฟาฟสท์ไม่เคยที่จะประดิษฐ์เมฟิสโตเฟเลสมาตั้งแต่แรก
+        ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Hong Lu: Does it turn things back in time?
+        ฮงหลู๋: งั้นมันก็ย้อนเวลาสิ่งของเหรอครับ?
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Yi Sang: No, not quite. It simply… is oblivionized, as though the brain had never conceived it.
+        ยี่ซัง: ไม่ ไม่เชิง มันก็แค่... ทำให้สิ่งนั่นถูกลืมเลือนจนหมดสิ้น เหมือนกับว่าสมองเราไม่เคยที่จะรับรู้ว่ามีมันอยู่
+        ```
+        ```
+        Yi Sang: Any documentation, photography, the tiniest bits and parts of its composition, and even Miss Faust’s own memories will be dimmed and obliterated.
+        ยี่ซัง: ไม่ว่าจะเป็นเอกสารใด รวมถึงภาพถ่าย หรือแม้แต่จุดที่เล็กที่สุด องค์ประกอบของมัน ซึ่งแม้แต่ตัวคุณเฟาสท์เองก็ไม่อาจที่จะจดจำความทรงจำเหล่านั่นที่พร่ามัว และถูกลบให้หายไปได้
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Faust: The effectiveness and range of the incineration will depend on the price of the product.
+        เฟาสท์: ประสิทธิภาพ และระยะหวังผลของการเผาไหม้จะขึ้นอยู่กับราคาของสินค้า
+        ```
+
+        ---
+
+        <img src="../images/ChickenKing.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Eunbong's Bar & Fryers Owner: It’s true…! I can’t remember if the marinade was based on pepper or soy sauce… How much sugar or salt I should put… Nothing’s left in my head! None of my customers can remember how it tasted!
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ใช่แล้ว...! ฉันจำไม่ได้ ว่าส่วนผสมของน้ำหมักที่ฉันต้องใช้ มันคือพริกไทย หรือ ซีอิ๊วกันแน่... แล้วฉันต้องใช้น้ำตาล หรือ เกลือเท่าไหร่... ไม่มีอะไรเลยที่หลงเหลือในหัวฉัน! ลูกค้าเองก็ลืมเลือนรสชาติมันไปหมดแล้ว!
+        ```
+        ```
+        Eunbong's Bar & Fryers Owner: There’s no use in trying at this point…! It’s all useless…
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: พอเป็นแบบนี้แล้ว พยายามไปก็เท่านั้น...! มันไม่มีค่าอะไร... 
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Outis: Hmph, you’re soft-hearted. Eunbong’s? You should do away with that tacky name and give your restaurant a better title.
+        เอาทิส: เหอะ คุณเป็นคนใจดีสินะคะ อึนบง? เพราะงั้นทำไม คุณถึงไม่สู้ต่อล่ะ เริ่มด้วยการเปลียนชื่อเห่ย ๆ นั่น และตั้งชื่อให้ดีกว่าเดิมดีไหม
+        ```
+
+        ---
+
+        <img src="../images/ChickenKing.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Eunbong's Bar & Fryers Owner: Eunbong is my mother’s name…
+        เจ้าร้านไก่ทอดและร้านเหล้าอึนบง: อึนบงคือชื่อแม่ฉัน...
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Sinclair: Oh...
+        ซินแคร์: โอ้...
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Ryoshu: T.W.H.
+        เรียวชู: ที.ดับบิว.เฮช
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Outis: …I suppose tacky can also mean a friendly warmth.
+        เอาทิส: ...ฉันว่าเห่ยก็หมายความได้ว่าความอบอุ่นที่เป็นมิตรไง
+        ```
+        ```
+        Outis: The problem is still your weak will!
+        เอาทิส: ปัญหามันอยู่แค่ที่ว่าใจคุณยังคงอ่อนแอก็เท่านั้นเอง!
+        ```
+        
+        ---
+    
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Dante: <Just… Why are you so eager to start fights…>
+        ดันเต้: <แค่ถามเผื่อไว้ก่อนนะ... แต่ทำไมเธอถึงกระหายที่จะสู้ขนาดนั้นล่ะ...>
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;"> 
+
+        ```
+        Outis: Come! I will fix that helpless attitude of yours!
+        เอาทิส: เข้ามา! ฉันจะซ่อมแซมท่าทีน่าสมเพซของนายด้วยตัวฉันเอง!
+        ```
+
+    ---
+
+    * **Episode: 11 | ตอนที่ 11<br>Location: Eunbong’s Bar & Fryers | ร้านไก่ทอดและร้านเหล้าของอึนบง**
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
 

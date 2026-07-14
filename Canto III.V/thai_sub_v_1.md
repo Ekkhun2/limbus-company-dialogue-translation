@@ -5034,20 +5034,26 @@
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;"> 
         
         ```
         Heathcliff: Oi, your rival promised us a lifetime vouch for free chicken. What do you have?
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: โอ่ย คู่แข่งแกสัญญากับพวกเราไว้ว่าจะให้บัตรกินไก่ฟรีตลอดชีวิต แล้วแกมีอะไรบ้าง?
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Rodion: I… thought I’d be stuffing my face with drumsticks of countless flavors by now…
-        โรเดียน: 
+        โรเดียน: ฉัน... ก็นึกไปว่าตัวเองจะได้เอาหน้าจุ่มกองน่องไก่ชิ้นโต ๆ หลากรสชาติซะอีก...
         ```
 
         ---
+
+        <img src="../images/Eunbong.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Eunbong's Bar & Fryers Owner: ......
@@ -5055,36 +5061,45 @@
         ```
         ```
         Eunbong's Bar & Fryers Owner: It’s nothing much, but please take this…
-        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: 
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: มันอาจจะไม่ได้มากมายอะไร แต่ช่วยรับไว้เถอะนะครับ... 
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"> 
 
         * เสียงในหัว
 
             ```
             The owner of Eunbong’s gave us a wrapped-up box.
+            เจ้าของร้านอึนบงยื่นกล่องหนึ่งที่ถูกปิดตายมาให้เรา
             ```
 
         ---
 
+        <img src="../images/Eunbong.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;"> 
+
         ```
         Eunbong's Bar & Fryers Owner: It’s an invaluable treasure of mine, there’s nothing else like it…
-        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: 
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: มันเป็นสมบัติส่วนตัวของฉันที่ล้ำค่าเกินจะตีราคา ไม่มีสิ่งอื่นใดแล้วที่ควรค่าจะให้ได้... 
         ```
 
         ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Don Quixote: Could we accept such a rarity from thee?
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ของระดับนั่น ท่านไม่เก็บไว้จะดีหรือขอรับ?
         ```
 
         ---
 
+        <img src="../images/Eunbong.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;"> 
+
         ```
         Eunbong's Bar & Fryers Owner: I wouldn’t have been able to reopen my restaurant without your help… So I insist, please take it as your reward.
-        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: 
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: ไม่ล่ะ ฉันคงจะกลับมาเปิดร้านไม่ได้ถ้าไม่ใช่เพราะความช่วยเหลือของพวกเธอ... เพราะงั้น รับไว้เถอะ ได้โปรดรับมันแทนคำขอบคุณของฉันด้วย
         ```
 
         ---
@@ -5093,12 +5108,16 @@
 
         ---
 
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;"> 
+
         ```
         Don Quixote: …And thus, we had resolved the Distortion and claimed our spoils!
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ...และเหตุฉะนี้ พวกเราจึงสามารถกำราบผู้บิดเบี้ยว และรับรางวัลอันทรงเกียรติแห่งวีรชนผู้กอบกู้!
         ```
 
         ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Vergilius: ......
@@ -5107,49 +5126,62 @@
 
         ---
 
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;"> 
+
         ```
         Don Quixote: Pray tell, pray tell! Are you perhaps speechless with astonishment at the glory of our tale?!
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: บอกข้าหน่อย บอกข้าหน่อย! ที่ท่านพูดไม่ออกราวกับตกตะลึงไปเช่นนั้น ก็เพราะเรื่องราวแห่งเกียรติยศของพวกเราใช่ไหมขอรับ? 
         ```
 
         ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Vergilius: “We then embarked to Eunbong’s” was where I tuned out.
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: “ก่อนที่เราจะเทียบท่าที่อึนบง” แล้วหลังจากนั้นฉันก็ไม่ได้ฟังอะไรแล้ว
         ```
 
         ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Don Quixote: That means you have heard nary a word!
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: เช่นนั้น ท่านก็ไม่ได้ฟังเลยสินะขอรับ!
         ```
 
         ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Vergilius: Why should I bother listening to your embellished drivel when Faust’s report will fill me in on all the details I need?
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: ทำไมฉันต้องมาเสียเวลาฟังไอเรื่องไร้สาระที่แกแต่งด้วย ในเมื่อลำพังรายงานของเฟาสท์ก็เพียงพอที่จะตอบสิ่งที่ฉันอยากรู้?
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Rodion: C’mon now, Donqui. Forget about this sourpuss and gather ‘round so we can open the box. Heeheehee.
-        โรเดียน: 
+        โรเดียน: เอาน่า ดอนกิ ไม่ต้องไปแคร์คำพูดคนบูดบิ้งแบบนั่นหรอก เรามารวมทุกคน แล้วมาดูกันดีกว่าว่าในกล่องนั่นมีอะไร ฮือฮื่อฮื้ออ
         ```
         ```
         Rodion: I wonder what’s inside~
-        โรเดียน: 
+        โรเดียน: ฉันสังสัยจังเลยว่ามีอะไรอยู่ข้างใน~
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"> 
 
         * เสียงในหัว
 
             ```
             Surrounded by Sinners full of anticipation, the lid was lifted…
+            
             ```
 
         ---

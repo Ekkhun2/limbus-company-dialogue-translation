@@ -1,0 +1,548 @@
+### Chapter 4
+
+---
+
+* ***The Unchanging*** **(ผู้ไม่แปรเปลี่ยน)**
+
+    * **Episode: 1 | ตอนที่ 1**
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัวยี่ซัง
+
+            ```
+            We were neither highfliers nor greedy vultures; we were merely children who loved technology.
+            พวกเราไม่ใช่ทั้งคนที่ทะเยอทะยาน หรือ อีแร้งจอมละโมบ; พวกเราก็เป็นเพียงแค่เด็กที่รักในเทคโนโลยี
+            ```
+            ```
+            Do you remember the day when we first felt that we were breathing?
+            คุณจำได้หรือเปล่า ในวันแรกที่รู้สึกตัวว่าตัวเองกำลังหายใจ?
+            ```
+            ```
+            Back then…
+            ในตอนนั้น...
+            ```
+            ```
+            That breath alone would suffice.
+            แค่ลมหายใจนั่นก็เพียงพอแล้ว
+            ```
+            ```
+            Or perhaps…
+            หรือบางที...
+            ```
+            ```
+            It was the air that was exceptionally clear that day.
+            มันก็เพราะอากาศที่ ปลอดโปร่ง/แจ่มใส เป็นพิเศษในวันนั้น
+            ```
+        
+        ```
+        Yi Sang: It is time… to turn the clock.
+        ยี่ซัง: มันได้เวลาแล้ว... ที่จะหมุนนาฬิกากลับ
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            I can hear Yi Sang, the only conscious Sinner at the moment, muster up his remaining strength to speak.
+            ผมได้ยินยี่ซัง คนบาปเพียงหนึ่งเดียวที่ยังคงมีสติในตอนนี้ รวบรวมแรงที่เหลืออยู่เพื่อพูดออกมา
+            ```
+            ```
+            The others are on the floor among dismembered corpses like powerless puppets.
+            กับคนอื่น ๆ ที่นอนกองอยู่บนพื้น กับกองศพที่แหลกเป็นชิ้น ๆ ไม่ต่างอะไรกับหุ่นเชิดไร้พลัง 
+            ```
+            ```
+            Fatal injuries were left by an Abnormality.
+            พร้อมกับบาดแผลสาหัสที่คงไว้บนตัวของ แอบนอร์มาลิตี/สิ่งแปลกปลอม
+            ```
+            ```
+            Yet, we are in the middle of a Nest.
+            แต่ไม่ใช่ว่าเราอยู่ใจกลางเนสหรอกเหรอ
+            ```
+            ```
+            Weren’t Abnormalities… supposed to be confined within Lobotomy Corp’s branch facilities or dungeons?
+            ไม่ใช่ว่าสิ่งแปลกปลอมพวกนี้... ต้องถูกกักกัน ภายในสาขาย่อยของศูนย์วิจัยโลโบโตมี่ หรือ ดันเจี้ยนพวกนั่นเหรอ?
+            ```
+            ```
+            Meanwhile, the Abnormality pierced Yi Sang’s abdomen as I wondered.
+            ในขณะที่เดียวกัน สิ่งแปลกปลอมนั่นก็แทงทะลุท้องของยี่ซังเหมือนที่ผมคิดไว้ไม่มีผิด
+            ```
+            ```
+            I had no one else to share this question with.
+            ผมไม่เหลือใครให้ถามแล้วนะ
+            ```
+
+        ---
+        
+        **Location: Aboard Mephistopheles | บนรถเมฟิสโตเฟเลส**
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: Where are we going this time?
+        ฮงหลู่: ครั้งนี้ เราจะไปไหนกันเหรอครับ?
+        ```
+        
+        ---
+
+        * เสียงในหัว
+
+            ```
+            The Sinners seemed to grow quite accustomed to this work.
+            เหล่าคนบาปดูจะเริ่มคุ้นเคยงานนี้
+            ```
+            ```
+            As if we were on a roadtrip, some were far less hesitant to ask about our next destination.
+            แล้วก็ถ้านี้เป็นโรดทริป บางคนก็คงกล้าถามกว่านี้ว่าเรากำลังจะไปไหน
+            ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: That’s not quite the right question. This mission begins with a person, rather than a place.
+        เฟาสท์: ถามแบบนั่นก็ไม่เชิงนะคะ เพราะ ภารกิจนี้ขึ้นอยู่กับ คน/ใคร มากกว่า สถานที่/ที่ไหนค่ะ
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Yi Sang: A person, you say?
+        ยี่ซัง: เธอพูดว่าคนงั้นเหรอ?
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: We happen to have a client.
+        เฟาสท์: พอดีว่าเรามีลูกค้าน่ะค่ะ
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: You mean… We take requests from outside like we’re a Fixer Office or something?
+        อิชมาเอล: เธอกำลังจะหมายความว่า... พวกเรารับคำขอจากข้างนอกเหมือนกับว่าเราเป็นเจ้าหน้าที่ฟิกเซอร์ หรือ อะไรอย่างงั้นเหรอ?
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Oho, hath our carriage begun to be frequented by requests already?¡Excelente! It may take little time at all to become a renowned Fixer!
+        ดอน กิโฆเต้: โอ้วหิ รถม้าของเราเริ่มมีคนมาติดต่อขอใช้บริการบ้างแล้วสินะขอรับ? สุดยอดไปเลย! มันอาจต้องใช้เวลาสักหน่อยจนกว่าจะกลายเป็นฟิกเซอร์ที่เป็นที่รู้จัก! 
+        ```
+
+        ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Vergilius: Quiet. I’ll be answering questions.
+        วอร์จิลิอุส: เงียบซะ ฉันจะตอบคำถามของพวกแกเอง
+        ```
+        ```
+        Vergilius: As you all know, the Golden Boughs are a relatively recent discovery.
+        วอร์จิลิอุส: อย่างที่พวกแกรู้ ว่ากิ่งทองเป็นสิ่งใหม่ที่พึ่งถูกค้นพบเมื่อไม่นานมานี้
+        ```
+        ```
+        Vergilius: Fortunately, J Corp. and D Corp. didn’t have much interest when we visited their districts.
+        วอร์จิลิอุส: โชคดีที่เจคอร์ปกับดีคอร์ปไม่ให้ความสนใจมากนัก ถ้าเราจะเข้าไปในเขตของพวกเขา
+        ```
+        ```
+        Vergilius: That is why those facilities were populated by no more than Backstreets miscreants or ragtag Syndicates.
+        แต่เพราะนั่นเองก็เป็นเหตุผล ว่าทำไมสถานที่เหล่านั่นถึงเต็มไปด้วยพวกอัธพาลจากเบคลสตรีท หรือไม่ ก็ซินดิเคตที่กระจายตัว
+        ```
+        ```
+        Vergilius: However…There are Wings that have caught wind of their existence and value early, like K Corp, whose turf we’re in right now.
+        วอร์จิลิอุส: ถึงอย่างนั้น...มันก็มี วิงส์/Wing หูดีประสาทดีที่สัมผัสได้ถึงกระแสลมแห่งการมีตัวตน และมูลค่าของพวกมันอยู่ เหมือนอย่างเคคอร์ป ที่เรากำลังเหยียบหางอยู่ตอนนี้
+        ```
+        
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Gregor: Hmm? But I thought we’d already taken the Golden Bough here in K Corp’s Nest?
+        เกรกอร์: หืมม? แต่ไม่ใช่ว่าเราพึ่งเก็บกึ่งทองที่นี้ในเนสเคคอร์ปเหรอครับ?
+        ```
+
+        ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Vergilius: I never said that there were any rules that say only one Bough may exist in a District.
+        วอร์จิลิอุส: ฉันเคยบอกด้วยรึไง ว่ามันมีกฎข้อไหนที่เขียนว่ากึ่งทองจะมีได้แค่อันเดียวในเขตหนึ่ง 
+        ```
+        ```
+        Vergilius: The distribution of Lobotomy Corp’s branch facilities is more complicated than you’d expect. They can be found everywhere… spread quite literally like tree branches.
+        วอร์จิลิอุส: การกระจายตัวสาขาย่อยของศูนย์วิจัยโลโบโตมี่นั่นซับซ้อนเกินกว่าที่แกจะรู้ซะอีก พวกมันสามารถถูกพบได้ทุกที่... กระจายตัวแทรกไปทุกหนแห่งไม่ต่างอะไรกับกิ่งของต้นไม้
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Like how one was connected to our estate’s basement…
+        ซินแคร์: เหมือนอันนั่นใช่ไหมครับ ที่ติดกับห้องใต้ดินครอบครัวผม...
+        ```
+        
+        ---
+    
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Vergilius: There also haven’t been any clear definitions about who owns the Boughs.
+        วอร์จิลิอุส: อีกอย่าง ก็ไม่มีนิยามอะไรตายตัวว่าใครจะเป็นผู้ครอบครองกิ่งทอง
+        ```
+        ```
+        Vergilius: Which is why everyone’s been playing by the primitive rule that “the first finders of a Bough are its keepers”.
+        วอร์จิลิอุส: ซึ่งเป็นสาเหตุว่าทำไมทุกคนถึงเล่นตามกฎสากลดั้งเดิมที่ว่า “ใครเจอก่อน ก็ได้ก่อน”
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Rodion: Well, that’s how it usually goes with slumbering treasures~
+        โรเดียน: แหม นั่นก็เป็นสิ่งที่เกิดขึ้นตลอดกับบรรดาขุมทรัพย์ที่ถูกซ่อนนั้นแหละน้า~
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Gregor: In that case… Are you telling us that we’ve accepted the request to earn ownership of a Golden Bough?
+        เกรกอร์: ถ้างั้น... คุณกำลังจะบอกว่าเราพึ่งรับคำขอให้เก็บกู้ และช่วงชิงอำนาจถือครองกิ่งทองนั่นมาใช่ไหม? 
+        ```
+
+        ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Vergilius: To be exact, they made the offer first.
+        วอร์จิลิอุส: พูดให้ถูก คือ พวกเขาเป็นฝ่ายเสนอเราก่อน 
+        ```
+        ```
+        Vergilius: Since a Golden Bough is on the line, we have…
+        วอร์จิลิอุส: แล้วพอกิ่งทองกลายเป็นรางวัลที่อยู่บนเส้นชัย พวกจะไปทำอะไรได้ นอกจาก...
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+    
+        ```
+        Ishmael: No choice… I get it now.
+        อิชมาเอล: ไม่ใช่ทางเลือก... ฉันเข้าใจแล้ว
+        ```
+
+        ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Vergilius: Thus… Haaa, I don’t know how many times I have to remind you of this, but do not do anything to aggravate the client.
+        วอร์จิลิอุส: ดังนั้น... ฮาาา ฉันไม่รู้ว่าต้องเตือนเรื่องนี้กับพวกแกอีกกี่ครั้ง แต่อย่าทำอะไรให้สถานการณ์ระหว่างเรากับลูกค้าแย่ลงโดยเด็ดขาด
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <By the way…>
+        ดันเต้: <ยังไงก็เถอะ...>
+        ```
+
+        ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Vergilius: Now then, keep your mouths shut until you’re there. All as usual.
+        วอร์จิลิอุส: ที่นี้ ก็ช่วยหุบปากของพวกแกจนกว่าจะถึงที่นั่น เหมือนตลอดมาก็แล้วกัน
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <……>
+        ดันเต้: <......>
+        ```
+        
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Faust: Dante seemed to have something to say.
+        เฟาสท์: ดูเหมือนดันเต้มีอะไรอยากจะพูดนะคะ
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <…Thank you, Faust.>
+        ดันเต้: <...ขอบคุณมาก เฟาสท์>
+        ```
+
+        ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Vergilius: Ah, sorry about that, Dante. I do hope you understand that it’s quite cumbersome to grow used to the concept that the ticking of a clock can be something to respond to.
+        วอร์จิลิอุส: อา โทษทีโทษที ดันเต้ ฉันหวังว่านายจะเข้าใจ ว่ายุ่งยากแค่ไหนที่ต้องเคยชินตลอดเวลากับแนวคิดที่ว่า เสียงนาฬิกาเป็นอะไรที่ต้องตอบรับ
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <…So what are Golden Boughs used for, anyway?>
+        ดันเต้: <...แล้ว เราจะเอากิ่งทองไปทำอะไรล่ะ?>
+        ```
+        ```
+        Dante: <When I think about it, all we were told was a vague order to collect them… And nothing about what the company plans to do with them.>
+        ดันเต้: <พอมาคิดดูแล้ว สิ่งที่เราถูกบอกมาตลอดก็มีแต่คำสั่งที่ครุมเครือ อย่างเช่นการเก็บกู้มัน หรืออะไรอย่างนั้น... และพวกเราก็ไม่รู้เลยว่าองค์กรวางแผนจะเอามันไปทำอะไร>
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+
+        ```
+        Faust: ……
+        เฟาสท์: ......
+        ```
+        ```       
+        Faust: They’re asking about the purpose of the Golden Boughs.
+        เฟาสท์: เขาถามเกี่ยวกับวัตถุประสงค์ของกิ่งทองนะคะ
+        ```
+
+        ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Vergilius: …Uh-huh.
+        วอร์จิลิอุสซ ...อา-หะ
+        ```
+        ```
+        Vergilius: I see you’ve finally begun to ruminate on subjects, Manager Dante. Here you are, growing curious about the company’s plans.
+        วอร์จิลิอุส: เห็นทีว่าในที่สุด นายก็เริ่มขบคิดไตร่ตรองและรู้จักตั้งคำถามสักทีสินะ คุณผู้จัดการดันเต้ ยินดีด้วย ให้กับความสงสัยก้าวแรกสู่แผนการบริษัท
+        ```
+        ```
+        Vergilius: Then I ought to aid your management as a guide by providing kind explanation.
+        วอร์จิลิอุส: อุตส่าห์คิดได้ตั้งขนาดนี้ ถ้างั้นฉันเอง ก็ควรที่จะช่วยสนุนสนุนนายกับการทำงานในฐานะผู้จัดการบ้าง ด้วยการอธิบายอย่างเป็นกันเอง และเข้าใจง่าย
+        ```
+        ```
+        Vergilius: The Golden Boughs…
+        วอร์จิลิอุส: กิ่งทองน่ะ...
+        ```
+        ```
+        Vergilius: They are branches, as their name suggests. That’s what we call stems growing from the trunk of a tree. These ones happen to have a golden glow.
+        วอร์จิลิอุส: พวกมันคือกึ่งไม้ เหมือนที่ชื่อมันบอกนั่นแหละ และมันก็เป็นสิ่งที่เราเรียกว่ากิ่งก้านที่งอกออกมาจากลำต้นของต้นไม้ โดยที่เจ้าพวกนั่นมีสีทองอร่าม
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Ohoooo… Forsooth…
+        ดอน กิโฆเต้: โอ้วววว... งี้นี้เองงง...
+        ```
+
+        ---
+
+        * เสียงในหัว
+            ```
+            Don Quixote was the only one responding passionately to this information.
+            ดอนกิโฆเต้เป็นเพียงคนเดียวที่ตอบสนองข้อมูลนั่นด้วยท่าทีที่หลงไหล
+            ```
+            ```
+            Thanks to this exchange, he painted me as an ignorant bloke who doesn’t even know what a branch is.
+            ต้องขอบใจเลยจริง ๆ ที่เขามองฉันเป็นแค่ไอโง่ที่ไม่รู้ประสีประสาว่ากิ่งไม้คืออะไร
+            ```
+            ```
+            Rodya shrugs at me as if to chaff me for expecting a real answer.
+            โรดย่ายักไหล่ให้ฉัน อย่างกับจะเยาะเย้ยฉันที่หวังจะได้คำตอบจริง ๆ 
+            ```
+
+        ---
+
+        <img src="../images/Charon.png" alt="Charon" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Charon: Verg, the road is blocked. Should I go around it?
+        ชารอน: วอร์ค ถนนมันโดนบัง ให้ฉันขับอ้อมไหม?
+        ```
+
+        ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Vergilius: ......
+        วอร์จิลิอุส: ......
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: It’s blocked?
+        อิชมาเอล: โดนบังเนี้ยนะ?
+        ```
+        ```
+        Ishmael: Strange that there’s a blocked road. This is in the middle of K Corp’s Nest, too; it’s unlikely that there’s a scene—
+        อิชมาเอล: แปลกชะมัด ที่จะมีถนนที่โดนบัง นี้มันใจกลางเนสเคคอร์ปนะ; อีกอย่าง ที่นี้ก็ดูเหมือนจะไม่ได้เกิดเหตุการณ์อะไรด้ว—
+        ```
+        
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+        
+            ```
+            Before Ishmael could finish her sentence, a dull thud at the window interrupted her.
+            ก่อนที่อิชมาเอลจะพูดจบประโยค เสียงตุบอันหนักอึ้งของบางอย่างที่กระทบกระจกก็ขัดเธอ
+            ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: …Something just got flung at the bus and boinked off… That was a person, wasn’t it?
+        โรเดียน: ...ไม่ใช่ว่ามีอะไรโดนเขวี้ยงใส่บัส แล้วกระเด็นออกไปหรอกใช่ม้า... เป็นคนหรือเปล่าน้า? *เหอะ ๆ*
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: A male individual who appears to be in his early 40s. There seems to be a serious injury in his occipital region. He had already died before the impact.
+        เมอร์โซลท์: เป็นผู้ชายอายุประมาณสี่สิบต้น ๆ และมีร่องรอยของบาดแผลบริเวณใกล้กับท้ายทอยเขาด้วย ดูเหมือนว่าเขาจะตายก่อนหน้าที่จะชนกับรถบัส 
+        ```
+
+        ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Vergilius: Yeah, sure doesn’t seem like the average scuffle.
+        วอร์จิลิอุส: ถูกเพ้ง แถมแม่งดูไม่เหมือนการวิวาทธรรมดาซะด้วย
+        ```
+        ```
+        Vergilius: Pitstop. If it’s a problem you can handle, come back after you’re done.
+        วอร์จิลิอุส: เราจะแวะตรงนี้ ถ้ามันเป็นปัญหาที่พวกแกรับมือได้ ก็รีบจบ แล้วกลับมาซะ
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: …And what about if it isn’t?
+        โรเดียน: ...แล้วถ้ามันไม่ใช่ล่ะ?
+        ```
+
+        ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Vergilius: The clock’ll have to spin until it’s been dealt with.
+        วอร์จิลิอุส: ถ้าไม่ใช่... คุณนาฬิกาคงต้องหมุนจนกว่ามันจะโดนจัดการนั่นแหละ
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Dante: <That’s one elegant way to tell us to go die a thousand deaths…>
+        ดันเต้: <เป็นวิธีบอกให้พวกเราไสหัวไปตายเป็นพันรอบที่สง่างามซะไม่มีอะ...>
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: Hm, now then…
+        โรเดียน: หืม เอางั้นก็ได้...
+        ```
+        ```
+        Rodion: Off the bus.
+        โรเดียน: ทุกคนลงบัสได้
+        ```
+
+        ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Vergilius: ......
+        วอร์จิลิอุส: ......
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: What? Weren’t you about to say the same thing anyway? Saved you the trouble~
+        โรเดียน: อะไรกัน? ไม่ใช่ว่าคุณจะพูดเหมือนเดิมเหรอ? ช่วยเซฟเวลาไง~
+        ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: I just can’t wait, what adventures are in store for us this time?
+        ฮงหลู่: ผมชักจะรอไม่ไหวแล้วสิ การผจญภัยแบบไหนกันที่รอเราอยู่ภายภาคหน้า? 
+        ```
+
+    ---
+
+    * **Episode: 2 | ตอนที่ 2**
+---
+
+### เพิ่มเติม
+* <*ยังไม่เสร็จ> หมายถึง ยังไม่ครบถ้วนหรือยังขาดหายเนื้อหาบางส่วนอยู่
+* <*รูปภาพ> หมายถึง มีการใช้รูปภาพภายในข้อความแล้วไม่สามารถใส่ได้ไม่ว่ากรณีใดก็ตาม
+* <*ไม่แน่ใจ> หมายถึง บทสนทนาที่แปลหรือประโยคคำพูดที่อาจไม่ตรงตามวัตถุประสงค์หรือบริบท์แท้จริง
+* <*ระดับภาษา> หมายถึง บทสนทนนาที่เแปลแล้วอาจไม่ตรงบริบทของตัวละครในเชิงของระดับภาษา เช่น สรรพนามที่ใช้เรียกตัวเองหรือผู้อื่น คำลงท้ายประโยค
+* <*คล้าย> หมายถึง คำที่ถูกใช้ในบทสนทนามีความซ้ำซากกับบทสนทนาอื่น

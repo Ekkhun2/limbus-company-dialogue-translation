@@ -5166,7 +5166,7 @@
 
         ```
         Rodion: C’mon now, Donqui. Forget about this sourpuss and gather ‘round so we can open the box. Heeheehee.
-        โรเดียน: เอาน่า ดอนกิ ไม่ต้องไปแคร์คำพูดคนบูดบิ้งแบบนั่นหรอก เรามารวมทุกคน แล้วมาดูกันดีกว่าว่าในกล่องนั่นมีอะไร ฮือฮื่อฮื้ออ
+        โรเดียน: เอาน่า ดอนกิ ไม่ต้องไปแคร์คำพูดคนบูดบิ้งแบบนั่นหรอก เรารวมทุกคนมา แล้วดูกันดีกว่าว่าในกล่องนั่นมีอะไร ฮือฮื่อฮื้ออ
         ```
         ```
         Rodion: I wonder what’s inside~
@@ -5181,96 +5181,121 @@
 
             ```
             Surrounded by Sinners full of anticipation, the lid was lifted…
-            
+            ล้อมรอบไปด้วยคนบาปที่ตั้งตาคอย ทันใดนั้น ฝาก็ถูกเปิดออก...
             ```
 
         ---
 
+        <img src="../images/Eunbong.png" alt="EunbongOwner" width="100" style="display: block; margin: 0 auto;"> 
+
         ```
         Eunbong's Bar & Fryers Owner: “Meet Bongy, the one and only doll of our mascot. I made it hoping it’d see use one day, but I’m glad to be giving it as a gift of gratitude. ^0^/”
-        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: 
+        เจ้าของร้านไก่ทอดและร้านเหล้าอึนบง: “เชิญพบกับบองกี้ ตุ๊กตามาสคอตเพียงหนึ่งเดียวจากร้านเรา ฉันทำมันขึ้นมา เพราะหวังว่าจะได้ใช้มันในสักวัน ถึงตอนนี้จะแย่ไปหน่อยที่ต้องปล่อยมันไป แต่ฉันก็ยินดีที่จะมอบมันเป็นของขวัญแทนคำขอบคุณ ^0^/” 
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Rodion: No way… This can’t be it. Maybe he hid something in the plush’s belly?
-        โรเดียน: 
+        โรเดียน: ไม่จริงน่า... ตัองไม่ใช่แบบนี้สิ บางที เขาอาจจะ ซ่อน/ซุก อะไรไว้ในพุงตุ๊กตานี้ก็ได้?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Dante: <He didn’t seem like the kind of person to do that…>
-        ดันเต้: 
+        ดันเต้: <เขาดูไม่ใช่คนประเภทที่จะทำอะไรอย่างนั้นนะ...>
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Gregor: Was probably trying to get rid of it and we were there to take it, eh?
-        เกรกอร์: 
+        เกรกอร์: ดูยังไงก็คงพยายามที่จะทิ้งมันนั่นแหละ หวยก็เลยตกมาที่เรามั้ง?
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Heathcliff: Let’s toss this thing in that concinerator.
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: งั้นมาทิ้งไอเจ้านี้ลงเตาเผาให้จบ ๆ ไปล่ะกัน
         ```
 
         ---
+
+        <img src="../images/Charon.png" alt="Charon" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Charon: Charon likes this passenger.
-        ชารอน: 
+        ชารอน: ชารอนชอบผู้ โดยสาร/เดินทาง คนนี้
         ```
 
         ---
+
+        <img src="../images/Charon.png" alt="Charon" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Heathcliff: What’s there to like about—
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: หะ ไอนี้มันมีอะไรให้ชอบด้วยรึไง—
         ```
 
         ---
+
+        <img src="../images/Charon.png" alt="Charon" width="100" style="display: block; margin: 0 auto;"> 
         
         ```
         Charon: It’s got eyes and nothing else.
-        ชารอน: 
+        ชารอน: มันมีตาก็แค่นั้น
         ```
         ```
         Charon: It’s nice.
-        ชารอน: 
+        ชารอน: มันน่ารัก
         ```
 
         ---
+
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Vergilius: …Alright. That’s that, then. Keep the doll.
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: ...โอเค เอางั้นก็ได้ เก็บตุ๊กตานั้นซะ 
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Meursault: That is an incorrect assessment as the doll has a torso and limbs.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: พูดแบบนั่นก็ไม่ถูกซะทีเดียวนะครับ ตุ๊กตานั่นมีแค่ตาซะทีไหน มันมีแขนกับขาด้วยนะครับ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"> 
 
         * เสียงในหัว
 
             ```
             Just like that, the chicken plushie we got instead of free food for life earned its seat on the bus…
+            เพราะงั้นเอง ตุ๊กตาไก่ยัดนุ่นก็ได้ที่นั่งของมันบนรถบัส แทนที่ไก่ฟรีทั้งชีวิตที่เราควรได้... 
             ```
 
         ---
 
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;"> 
+
         ```
         Samjo: Yes, Chief Dongrang. The Distortion has been resolved. I confirmed it with my own eyes.
-        แซมโจ: 
+        แซมโจ: ครับ เชฟดงรัง การบิดเบี้ยวได้รับการแก้ไขเรียบร้อยแล้ว ผมเห็นมันด้วยตาของตัวเอง
         ```
         
         ---
@@ -5279,71 +5304,88 @@
 
         ---
 
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;"> 
+
         ```
         Samjo: They did seem somewhat unreliable at first, yes… But, I believe it should be okay to speak with them. Yes, I’ll bring them over now.
-        แซมโจ: 
+        แซมโจ: ตอนแรก พวกเขาก็ดูจะพึ่งพาไม่ได้ แต่ใช่ครับ... ผมเชื่อว่ามันโอเคที่เราจะคุยกับพวกเขา ครับ ผมจะพาพวกเขามาเดี๋ยวนี้แหละ
         ```
 
         ---
+
+        <img src="../images/Bosal.png" alt="Bosal" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Bodhisattva Chicken's Manager: W—What now of all things?
-        ผู้จัดการร้านไก่โพธิสัตว์: 
+        ผู้จัดการร้านไก่โพธิสัตว์: ร—เรื่องเป็นไงมั้งอะ?
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Samjo: I… dislike sentences that lack a subject.
-        แซมโจ: 
+        แซมโจ: หา... โทษทีนะครับ แต่พอดีว่าผม... ไม่ชอบประโยคที่ไม่มีประธาน
         ```
 
         ---
+
+        <img src="../images/Bosal.png" alt="Bosal" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Bodhisattva Chicken's Manager: Once that restaurant reopens, we’ll lose our customers… Then I’ll miss the quota, and…
-        ผู้จัดการร้านไก่โพธิสัตว์: 
+        ผู้จัดการร้านไก่โพธิสัตว์: พอร้านนั่นเปิดใหม่ อั๊วก็ต้องเสียลูกค้าอั๊วไปแน่... จากนั้นอั๊วก็จะทำไม่ถึงยอด แล้วก็...
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Samjo: You should have started looking for a way to live the moment you put the stolen recipe in a concept incinerator.
-        แซมโจ: 
+        แซมโจ: ผมว่าคุณควรที่จะเริ่มมองหาลู่ทางใหม่ได้แล้วนะครับ ตั้งแต่วินาทีที่คุณขโมยสูตรนั่นมา แล้วก็เผาทิ้งใน คอนเซ็ปต์อินซิเนอเรเตอร์
         ```
         ```
         Samjo: Haven’t you ever heard the saying: “If you rob a house, make sure the homeowner never realizes it”?
-        แซมโจ: 
+        แซมโจ: คุณไม่เคยได้ยินคำพูดนี้บ้างเลยเหรอครับ ที่ว่า: “ถ้าคุณปล้นบ้านใคร ก็จงทำให้แน่ใจว่าเจ้าของบ้านจะไม่รู้ตัว”?
         ```
 
         ---
+
+        <img src="../images/Bosal.png" alt="Bosal" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Bodhisattva Chicken's Manager: 	I… I don’t know anything about… I didn’t…
-        ผู้จัดการร้านไก่โพธิสัตว์: 
+        ผู้จัดการร้านไก่โพธิสัตว์: อั๊ว... อั๊วไม่รู้เรื่องอะไรจริง ๆ นะ... อั๊วสาบานได้...
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
         Samjo: Yes, of course you wouldn’t; I just made that up. Remember it well next time.
-        แซมโจ: 
+        แซมโจ: ใช่สิ แน่นอนว่าคุณไม่รู้อยู่แล้ว; ผมแค่แต่งขึ้นมาน่ะครับ เจอกันครั้งหน้า ก็จำไว้ให้ขึ้นใจด้วยนะครับ
         ```
         ```
         Samjo: I’ll see you around.
-        แซมโจ: 
+        แซมโจ: ไว้เจอกัน
         ```
         ```
         Samjo: I have visitors that need greeting.
-        แซมโจ: 
+        แซมโจ: พอดีว่าผมมีแขกที่ต้องไปทักทาย
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"> 
 
         * เสียงในหัว
 
             ```
             And before long, we were dragged into a mess of unprecedented scale…
+            และไม่นานนัก พวกเราก็ถูกลากไปผัวพันกับปัญหา ในระดับที่พวกเราไม่เคยเจอมาก่อน...
             ```
 ---
 

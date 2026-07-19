@@ -699,7 +699,7 @@
 
         ```
         Dante: <No… That’s different… That one is an Abnormality, not a Distortion. I’m sure of this… somehow.>
-        ดันเต้: <ไม่... นั่นไม่เหมือนกัน... ไอนั่นมันเป็นสิ่งแปลกปลอม ไม่ได้บิดเบี้ยว ได้รู้ทำไม... แต่ฉันมั่นใจว่าอย่างนั่น>
+        ดันเต้: <ไม่... นั่นไม่เหมือนกัน... ไอนั่นมันเป็นสิ่งแปลกปลอม ไม่ใช่ผู้บิดเบี้ยว ไม่รู้เหมือนกันว่าทำไม... แต่ฉันมั่นใจว่าอย่างนั่น>
         ```
 
         ---
@@ -708,7 +708,7 @@
 
         ```
         Faust: As Dante suggested, that entity is likely to be an Abnormality. Our manager is able to “sense” it.
-        เฟาสท์: 
+        เฟาสท์: อย่างที่ดันเต้พูดเลยค่ะ ตัวตนนั่นน่าจะเป็นสิ่งแปลกปลอม และดูเหมือนว่าคุณผู้จัดการของเราจะสามารถ “สัมผัส” ถึงมันได้ค่ะ 
         ```
 
         ---
@@ -717,61 +717,85 @@
 
         ```
         Dante: <But then, why…>
-        ดันเต้: <>
+        ดันเต้: <แล้วทำไม...>
         ```
         ```
         Dante: <Why is an Abnormality in the middle of a Nest?>
-        ดันเต้: <>
+        ดันเต้: <ถึงมีสิ่งแปลกปลอมอยู่ใจกลางเนสได้ล่ะ?>
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Faust: It’s a phenomenon of which Faust has never been notified. Most Lobotomy Corp. facilities were shut down as soon as the Wing was dissolved.
+        เฟาสท์: มันเป็นปรากฎการณ์ที่เฟาสท์ไม่เคยได้รับแจ้งมาก่อนเลยค่ะ ศูนย์วิจัยโลโบโตมี่มากกว่าร้อยละแปดสิบ ถูกปิดตายหลังการล้มสลายของวิงส์
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             I was reminded of the site burial Yuri told us about, but I quickly shook off those gloomy memories.
+            พอเธอพูดเรื่องนั่น ก็ทำเอาฉันนึกสิ่งที่ยูริเคยบอกกับเรา เกี่ยวกับศูนย์วิจัยที่ถูกฝังกลบ ก่อนที่ฉันจะปัดความทรงจำแสนอึมครึมพวกนั่นไป และตั้งสติ
             ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: Even if an Abnormality did break out in the meantime, there should have been a report informing us of such a fact before this mission.
+        เฟาสท์: เพราะฉะนั้น ถ้าเกิดว่ามีสิ่งแปลกปลอมออกมาระหว่างช่วงเวลานั่น มันก็ควรที่จะมีรายงานที่บอกเราเกี่ยวกับข้อเท็จจริงในส่วนนี้ ก่อนที่จะเริ่มภารกิจ
         ```
         ```
         Faust: It’s hard to imagine that the LCC would have been unable to notice if such an event actually occurred.
+        เฟาสท์: มันยากที่จะจินตนาการว่า เอลซีซี ทำพลาด และไม่สามารถรับรู้ ได้ถึงเหตุการณ์ที่เกิด ณ ขณะนั่น
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: …Could they be the security staff that gets sent by K Corp?
+        ซินแคร์: ...แล้วถ้าเกิด ว่าพวกมันเป็นเจ้าหน้าที่รักษาความปลอดภัยที่ถูกส่งออกมาโดยเคคอร์ปล่ะครับ?
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Rather than suppressing the Abnormality… they’re just getting completely wrecked.
+        อิชมาเอล: แทนที่จะกักกันสิ่งแปลกปลอมเอาไว้... ก็เล่นปล่อยพวกมันไปซะดื้อ ๆ ให้ออกอาละวาด
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Mmh… It sorta takes me back to the time when we got beat bad in D Corp’s District…
+        เกรกอร์: 
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Aw, c’mon~ First, that chicken restaurant guy goes cuckoo, and now this? I’m really over this kinda Nest K welcome…
+        โรเดียน: 
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 

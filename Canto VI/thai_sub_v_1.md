@@ -532,12 +532,685 @@
 
         ```
         Hong Lu: I just can’t wait, what adventures are in store for us this time?
-        ฮงหลู่: ผมชักจะรอไม่ไหวแล้วสิ การผจญภัยแบบไหนกันที่รอเราอยู่ภายภาคหน้า? 
+        ฮงหลู่: ผมชักจะรอไม่ไหวแล้วสิ การผจญภัยแบบไหนกันที่กำลังรอเราอยู่ภายภาคหน้า? 
         ```
 
     ---
 
-    * **Episode: 2 | ตอนที่ 2**
+    * **Episode: 2 | ตอนที่ 2<br>Location: Nest K's Streets | บนถนนเนสเค**
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: As you saw through the bus… we are in the middle of a Nest. A place that should be the furthest from unexpected trouble.
+        เฟาสท์: อย่างที่ทุกคนเห็นผ่านบัส... ว่าเรากำลังอยู่ใจกลางเนส สถานที่ที่ควรจะห่างไกลที่สุดจากปัญหาอันไม่คาดคิด
+        ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: Hmm… Would that mean this is a precious commotion? 
+        ฮงหลู่: หืมม... งั้นก็หมายความว่านี้ต้องเรื่องวุ่นวายสุดยอดเลยใช่ไหมครับ?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+        
+            ```
+            Everyone except drowsy Hong Lu was tensed up, carefully observing what was going on…
+            ทุกคนยกเว้นฮงหลู่ที่งัวเงียเกร็งไปหมด พร้อมกับตั้งหน้าตั้งตาสังเกตสิ่งที่เกิดขึ้น...
+            ```
+
+        ```
+        Dante: <Hm? Is that…>
+        ดันเต้: <หืม? นั่นมัน...>
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Someone was running our way in a hurry from the other side.
+            ใครบางคนกำลังวิ่งมาทางพวกเราด้วยท่าทีที่รีบร้อนจากอีกฝากหนึ่งของถนน
+            ```
+            ```
+            The civilian was too hurried to look ahead; they bumped into the Sinners and fell to the ground.
+            และดูเหมือนว่าประชาชนคนนั่นจะรีบร้อนเกินไปที่จะมองรอบ ๆ; ก่อนที่เธอจะพุ่งชนคนบาป และล้มลงกับพื้น
+            ```
+
+        ---
+
+        <img src="../images/K_people.png" alt="Civilian" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Running Civilian: Huff, huff… D-Don’t go that way!
+        ประชาชนที่วิ่งหนีตาย: เฮือก เฮือก... อ-อย่าไปทางนั่นนะ!
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Come now, you may rest easy! We have galloped hither to save innocent lives such as yours for we are—
+        ดอน กิโฆเต้: เอาน่า เจ้าพักก่อนเถอะ! พวกเราควบม้ามาที่นี้ก็เพื่อช่วยเหลือชีวิตของผู้บริสุทธิ์เยี่ยงพวกเจ้า เพราะเราคือ—
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: We are no such things as heroes, so please don’t say anything unnecessary.
+        อิชมาเอล: เราไม่ได้เป็นอะไรที่ใกล้เคียงกับฮีโร่เลยสักนิด เพราะงั้น ก็ช่วยหยุดพูดอะไรที่ไม่จำเป็นสักที
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Oi, we need to cross here. If you’re here to stop us for nothing, then I’ll give you a taste of this bat.
+        ฮิธคลิฟฟ์: โอ่ย เราต้องข้ามตรงนี้ไปนะเฟ้ย ถ้าแกอุตสาห์ทอมาถึงนี้เพื่อหยุดพวกเรา งั้นฉันก็คงไม่มีทางเลือกอื่น นอกจากให้แกได้ลิ้มสชาติของกระบองนี้ 
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Looking at Heathcliff’s intimidating face and Ishmael’s frowned expression in turn, the civilian seemed to take a moment to consider which would be more of a threat.
+            พอมองหน้าฮิธคลิฟฟ์ที่ดุอย่างกับหมา กับ ท่าทีบูดบึ้งของอิชมาเอล ฉันก็ชักจะไม่แน่ใจแล้วนะ ว่าประชาชนคนนั่นจะคิดว่าอะไรกันที่อันตรายกว่า
+            ```
+        
+        ---
+
+        <img src="../images/K_people.png" alt="Civilian" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Running Civilian: There’s… something ahead… something that shouldn’t be real…
+        ประชาชนที่วิ่งหนีตาย: มันมี... ตัวอะไรบางอย่างอยู่ข้างหน้านี้... ตัวอะไรสักอย่างที่ควรมีอยู่จริง...  
+        ```
+        ```
+        Running Civilian: I dunno what it was, I’ve never seen anything like it… Everyone was screaming and running, and then… people rolling on the floor… set on fire…
+        ประชาชนที่วิ่งหนีตาย: ฉันไม่รู้ว่ามันเป็นตัวอะไร ฉันไม่เคยเห็นอะไรแบบนั่นมาก่อน... ทุกคนต่างกรีดร้องและวิ่งหนีตาย แล้วก็มีคน... ที่กลิ้งไปมาอยู่บนพื้น... ไฟลุกท่วมไปทั้งตัว...
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: Did the entity you witnessed have a form that does not resemble a human?
+        เมอร์โซลท์: ขอเสียมารยาทหน่อยนะครับ แต่ผมขอสอบถามได้ไหมว่า ตัวตนที่คุณพบเห็นมีลักษณะร่างกายที่ไม่เหมือนมนุษย์ใช่ไหม?
+        ```
+
+        ---
+
+        <img src="../images/K_people.png" alt="Civilian" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Running Civilian: …Yeah, you’re right. That’s right…!
+        ประชาชนที่วิ่งหนีตาย: ...ใช่ ตามที่คุณว่าเลย นั่นแหละ...!
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: Then, if it isn’t a person… Keeping the suspected possibilities in our minds, we headed for the center of the disturbance…
+        อิชมาเอล: งั้น ถ้ามันไม่ใช่คน... ก็ตั้งข้อสันนิษฐานไว้ได้เลย ว่าพวกเรากำลังมุ่งหน้า ไปยังจุดศูนย์กลางของความโกลาหล
+        ```
+
+        ---
+
+        **Location: Nest K’s Ruined Streets | ถนนเนสเคที่ทรุดตัว**
+        
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: W—What’s going on here?
+        ซินแคร์: ก-เกิดอะไรขึ้นที่นี้?
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: It could, er… be a Distortion or whatever, no? Like that chicken place?
+        ฮิธคลิฟฟ์: มันอาจเป็นฝีมือของไอนั่น... ที่เขาเรียกว่าอะไรนะ? บิดบงบิดเบี้ยวอะไรนั่นน่ะ? เหมือนกับไอไก่ที่เราเคยเจอในร้านคราวก่อน? 
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <No… That’s different… That one is an Abnormality, not a Distortion. I’m sure of this… somehow.>
+        ดันเต้: <ไม่... นั่นไม่เหมือนกัน... ไอนั่นมันเป็นสิ่งแปลกปลอม ไม่ได้บิดเบี้ยว ได้รู้ทำไม... แต่ฉันมั่นใจว่าอย่างนั่น>
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: As Dante suggested, that entity is likely to be an Abnormality. Our manager is able to “sense” it.
+        เฟาสท์: 
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <But then, why…>
+        ดันเต้: <>
+        ```
+        ```
+        Dante: <Why is an Abnormality in the middle of a Nest?>
+        ดันเต้: <>
+        ```
+
+        ---
+        
+        ```
+        Faust: It’s a phenomenon of which Faust has never been notified. Most Lobotomy Corp. facilities were shut down as soon as the Wing was dissolved.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            I was reminded of the site burial Yuri told us about, but I quickly shook off those gloomy memories.
+            ```
+
+        ---
+
+        ```
+        Faust: Even if an Abnormality did break out in the meantime, there should have been a report informing us of such a fact before this mission.
+        ```
+        ```
+        Faust: It’s hard to imagine that the LCC would have been unable to notice if such an event actually occurred.
+        ```
+
+        ---
+
+        ```
+        Sinclair: …Could they be the security staff that gets sent by K Corp?
+        ```
+
+        ---
+
+        ```
+        Ishmael: Rather than suppressing the Abnormality… they’re just getting completely wrecked.
+        ```
+
+        ---
+
+        ```
+        Gregor: Mmh… It sorta takes me back to the time when we got beat bad in D Corp’s District…
+        ```
+
+        ---
+
+        ```
+        Rodion: Aw, c’mon~ First, that chicken restaurant guy goes cuckoo, and now this? I’m really over this kinda Nest K welcome…
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Right as they complained…
+            ```
+
+        ---
+
+        ```
+        Heathcliff: Gah! Bloody…
+        ```
+
+        ---
+
+        * เสียงในหัว
+            
+            ```
+            Debris created by the rampaging Abnormality narrowly grazed past us.
+            ```
+            
+        ---
+
+        ```
+        Heathcliff: Hah, the hell are you doing? Just watching from here won’t do any of us any good!
+        ```
+        ```
+        Heathcliff: …It’ll crush us all to a pulp.
+        ```
+
+        ---
+        
+        ```
+        Outis: ……
+        ```
+        ```
+        Outis: You’re gravely mistaken. Have that insane brat’s daily ramblings finally managed to brainwash you?
+        ```
+
+        ---
+
+        ```
+        Don Quixote: Ho, hark? I prithee, who dost thou mean by this “insane brat”?
+        ```
+        
+        ---
+
+        ```
+        Outis: The guide only instructed us to return once the commotion has been dealt with. He never ordered us to deal with it ourselves.
+        ```
+        
+        ---
+
+        ```
+        Heathcliff: For goodness’ sake, what’s there to be so damn obtuse about?
+        ```
+        ```
+        Heathcliff: Didn’t you see what just happened? It almost blew my head off! Who knows what else will happen if it keeps up!
+        ```
+        ```
+        Heathcliff: This’ll be over if we just beat that damn thing down… What else do we got? Parking a seat to keep watching, gobbling some chicken? Huh?!
+        ```
+
+        ---
+
+        ```
+        Outis: There’s no need to waste our lives on fights unrelated to our missions.
+        ```
+        ```
+        Outis: I’m sure you filth didn’t even realize, but here’s the thing…
+        ```
+        ```
+        Outis: The more you die, the less efficient you become in battle.
+        ```
+        ```
+        Outis: Experiencing a certain pain will make you learn to fear and avoid it.
+        ```
+
+        ---
+
+        ```
+        Meursault: ……
+        ```
+
+        ---
+
+        ```
+        Sinclair: …People are dying over there as we speak, though?
+        ```
+
+        ---
+
+        ```
+        Outis: Although it will cost much time and many lives… they will eventually suppress it. Just as we do.
+        ```
+        ```
+        Outis: And I must say… I didn’t expect a whining amateur who’d cry out for his parents whenever he died to willingly suggest self-sacrifice.
+        ```
+        ```
+        Outis: Death has become a triviality to you, has it?
+        ```
+
+        ---
+
+        ```
+        Sinclair: ……
+        ```
+
+        ---
+
+        ```
+        Meursault: If we must make the best decision between the Sinners, it’s right to listen to her.
+        ```
+
+        ---
+
+        ```
+        Dante: <I…>
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            We’re not Fixers, and we certainly cannot be heroes.
+            ```
+            ```
+            Turning the clock obviously hurts whenever I do it, and the pain is something I can never get used to.
+            ```
+            ```
+            And yet…
+            ```
+
+        ---
+
+        ```
+        Dante: <We should suppress it. I can’t logically explain why, but… I feel like we should.>
+        ```
+
+        ---
+
+        ```
+        Outis: ……
+        ```
+
+        ---
+
+        ```
+        Heathcliff: I’d have crushed that clock and run out there if you gabbled the same rubbish, clockface.
+        ```
+
+        ---
+
+        ```
+        Meursault: If that is your decision, I will abide by it.
+        ```
+
+        ---
+
+        ```
+        Gregor: Yeah, aight… I’m sure you made the right call.
+        ```
+
+        ---
+
+        ```
+        Sinclair: Hey, um… Thank you for making that decision.
+        ```
+
+        ---
+
+        ```
+        Ryoshu: You worry too much over little things, clock. You won’t be an artist.
+        ```
+
+        ---
+
+        ```
+        Outis: …This judgement was made for none other than you, Executive Manager.
+        ```
+
+        ---
+
+        * เสียงในหัว
+        
+            ```
+            The Sinners walk ahead after leaving me comments.
+            ```
+            ```
+            While all the others moved forward, Faust remained and gave me a peculiar stare.
+            ```
+
+        ---
+
+        ```
+        Dante: <What is it? You think my judgement was inefficient?>
+        ```
+
+        ---
+
+        ```
+        Faust: No, I just thought it would be interesting to see how you react once you’ve reclaimed your memory.
+        ```
+
+        * เสียงในหัว 
+
+            ```
+            Faust’s strange statement held me in place for a moment, but I decided I want to deal with the questions that are immediately ahead of me first.
+            ```
+
+        ---
+        
+        ```
+        Dante: <Faust, I’ve been wondering for a while… Are you really okay with being treated like this, considering your talent and everything?>
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Someone of her caliber should have no problem enjoying a luxurious life in the City.
+            ```
+
+        ---
+
+        ```
+        Faust: Faust doesn’t mind. Additionally, “talent” feels like the incorrect word to describe Faust.
+        ```
+        ```
+        Faust: Many can possess talent, but Faust does not want to be included in the many.
+        ```
+        ```
+        Faust: Among the Sinners, if we were looking for a talented individual of the most commonly agreed definition, that would be… Yi Sang. For your information, I am a genius.
+        ```
+
+        ---
+
+        * เสียงในหัว
+        
+            ```
+            Yi Sang stops walking behind the other Sinners and turns around to face me.
+            ```
+            ```
+            Looking again, his eyes actually stare into the emptiness behind me.
+            ```
+
+        ---
+
+        ```
+        Yi Sang: …I am no such individual.
+        ```
+        ```
+        Yi Sang: I have long stopped fluttering my wings.
+        ```
+        ```
+        Yi Sang: Thus, it would be of no use to discuss my talent, Manager.
+        ```
+
+        ---
+
+        ```
+        Dante: <……>
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Curiously enough, I find that some Sinners feel more distant as we spend more time together.
+            ```
+
+        ---
+
+        ```
+        Ryoshu: What’s that flying machine? It’s been irking me. Got the urge to S.I.D. for the three-thousandth time.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: That… is a device called a drone.
+        ```
+
+        ---
+
+        ```
+        Ishmael: Oh, they might be combat drones K Corp. sent to help us. The Wing seems to be above average in terms of technology.
+        ```
+
+        ---
+
+        ```
+        Faust: No, viewing its design, it doesn’t appear to be equipped with combat functionalities. It also has a camera at the center.
+        ```
+
+        ---
+
+        ```
+        Ishmael: Well… I guess it makes sense to get a close look at the mess happening in a well-off Nest.
+        ```
+
+        ---
+
+        * เสียงในหัว
+        
+            ```
+            Abashed, Ishmael mumbled.
+            ```
+
+        ---
+
+        ```
+        Don Quixote: Ohh! Will we be featured on the thing called the “news”?
+        ```
+
+        ---
+
+        ```
+        Sinclair: Wait, something’s off… Why’re…
+        ```
+        ```
+        Sinclair: Why are they only filming corpses and dying people?
+        ```
+
+        ---
+
+        ```
+        Gregor: Well, it’s the provocative stuff that draws more attention, doesn’t it?
+        ```
+
+        ---
+
+        ```
+        Rodion: “Look at this terrible incident! See how morbid it is!” or something like that.
+        ```
+
+        ---
+
+        ```
+        Sinclair: But…
+        ```
+
+        ---
+
+        ```       
+        Rodion: Hold up, kiddo! In front of you!
+        ```
+
+        ---
+
+        ```
+        Sinclair: Kngh… This is… definitely weird…
+        ```
+        
+        ---
+
+        ```
+        Dante: <Sinclair!>
+        ```
+
+        ---
+
+        ```
+        Sinclair: Look at this thing. Why does it have its camera glued to me…?
+        ```
+
+        ---
+
+        ```
+        Ryoshu: …I don’t appreciate a soulless audience.
+        ```
+
+        ---
+
+        ```
+        Meursault: There is a considerable number of them. And these drones…
+        ```
+        ```
+        Meursault: They appear to be deliberately preventing us from entering the area where the Abnormality is.
+        ```
+
+        ---
+
+        ```
+        Gregor: Can’t be. We’re here to help, so they’d have no reason to get in…
+        ```
+        ```
+        Gregor: Our way… right…?
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Now the drones have started lining up, and formed a wall as if to stop us from proceeding any farther.
+            ```
+        
+        ---
+
+        ```
+        Mysterious Drone: Greetings, citizens. Please keep ten meters of distance for your own safety.
+        ```
+        ```
+        Mysterious Drone: K Corp’s staff has been dispatched. Your safety is assured. Please keep ten meters of distance.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: No, look, your staff is being slaughtered over there, can’t you see?
+        ```
+
+        ---
+
+        ```
+        Mysterious Drone: Greetings, citizens, your safety is assured. Please keep ten meters of distance.
+        ```
+
+        ---
+
+        ```
+        Ishmael: Hah, the instructions make no sense. What difference is ten meters going to make in this mess?
+        ```
+
+        ---
+
+        ```
+        Gregor: Tsk, not gonna do us any favors, huh…
+        ```
+        ```
+        Gregor: Dunno if they’re malfunctioning or just badly designed, but we’ll have to get rid of all these before we can get to the Abnormality.
+        ```
+
+    ---
+
 ---
 
 ### เพิ่มเติม

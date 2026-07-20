@@ -48,7 +48,7 @@
 
             ```
             I can hear Yi Sang, the only conscious Sinner at the moment, muster up his remaining strength to speak.
-            ผมได้ยินยี่ซัง คนบาปเพียงหนึ่งเดียวที่ยังคงมีสติในตอนนี้ รวบรวมแรงที่เหลืออยู่เพื่อพูดออกมา
+            ฉันได้ยินยี่ซัง คนบาปเพียงหนึ่งเดียวที่ยังคงมีสติในตอนนี้ รวบรวมแรงที่เหลืออยู่เพื่อพูดออกมา
             ```
             ```
             The others are on the floor among dismembered corpses like powerless puppets.
@@ -68,11 +68,11 @@
             ```
             ```
             Meanwhile, the Abnormality pierced Yi Sang’s abdomen as I wondered.
-            ในขณะที่เดียวกัน สิ่งแปลกปลอมนั่นก็แทงทะลุท้องของยี่ซังเหมือนที่ผมคิดไว้ไม่มีผิด
+            ในขณะที่เดียวกัน สิ่งแปลกปลอมนั่นก็แทงทะลุท้องของยี่ซัง เหมือนที่ฉันคิดไว้ไม่มีผิด
             ```
             ```
             I had no one else to share this question with.
-            ผมไม่เหลือใครให้ถามแล้วนะ
+            ฉันไม่เหลือใครให้ถามแล้วนะ
             ```
 
         ---
@@ -763,16 +763,16 @@
 
         ```
         Sinclair: …Could they be the security staff that gets sent by K Corp?
-        ซินแคร์: ...แล้วถ้าเกิด ว่าพวกมันเป็นเจ้าหน้าที่รักษาความปลอดภัยที่ถูกส่งออกมาโดยเคคอร์ปล่ะครับ?
+        ซินแคร์: ...แล้วถ้าเกิด ว่าพวกมันเป็นเจ้าหน้าที่รักษาความปลอดภัยที่ถูกส่งมาโดยเคคอร์ปล่ะครับ?
         ```
 
         ---
 
-        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Rather than suppressing the Abnormality… they’re just getting completely wrecked.
-        อิชมาเอล: แทนที่จะกักกันสิ่งแปลกปลอมเอาไว้... ก็เล่นปล่อยพวกมันไปซะดื้อ ๆ ให้ออกอาละวาด
+        อิชมาเอล: แทนที่จะกักกันสิ่งแปลกปลอมพวกนั่นไว้ได้... พวกแม่งก็เล่นโดนมันซัดซะยับเยินแทน
         ```
 
         ---
@@ -781,7 +781,7 @@
 
         ```
         Gregor: Mmh… It sorta takes me back to the time when we got beat bad in D Corp’s District…
-        เกรกอร์: 
+        เกรกอร์: เห้อ... ทำเอาฉันนึกถึงตอนนั่นเลย ที่เราต้องไปทำภารกิจในเขตดีคอร์ป แล้วสุดท้ายก็โดนจัดการกันซะอ่วมจนต้องวิ่งแจ้นกลับมา...
         ```
 
         ---
@@ -790,7 +790,7 @@
 
         ```
         Rodion: Aw, c’mon~ First, that chicken restaurant guy goes cuckoo, and now this? I’m really over this kinda Nest K welcome…
-        โรเดียน: 
+        โรเดียน: โถ่ เอาน่า~ ตอนแรกก็เป็นไก่เจ้าของร้านที่เสียสติ พอมางวดนี้ก็ยังจะมี...? ฉันชักจะทนไม่ไหวกับการต้อนรับนี้ของเนสเคแล้วนะ...
         ```
 
         ---
@@ -801,436 +801,611 @@
 
             ```
             Right as they complained…
+            ไม่มีอะไรจะเถียงเลย...
             ```
 
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: Gah! Bloody…
+        ฮิธคลิฟฟ์: เห้ย! เวรเอ้ย...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
             
             ```
             Debris created by the rampaging Abnormality narrowly grazed past us.
+            ซากปรักหักพักที่เกิดขึ้นจากการอาละวาดอันเป็นฝีมือของสิ่งแปลกปลอมกระเด็นเฉี่ยวพวกเราไปไม่ถึงเมตร
             ```
             
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: Hah, the hell are you doing? Just watching from here won’t do any of us any good!
+        ฮิธคลิฟฟ์: หะ *ถอนหายใจ* มัวทำบ้าอะไรของแกอยู่? เอาแต่ยืนมองอยู่ตรงนั่นแม่งก็ไม่ช่วยอะไรเราเลยนะเว้ย! 
         ```
         ```
         Heathcliff: …It’ll crush us all to a pulp.
+        ฮิธคลิฟฟ์: ...เดี๋ยวก็โดนมันทับแบน ตายเป็นเนื้อผลไม้ซะหรอก
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
         
         ```
-        Outis: ……
+        Outis: ......
+        เอาทิส: ......
         ```
         ```
         Outis: You’re gravely mistaken. Have that insane brat’s daily ramblings finally managed to brainwash you?
+        เอาทิส: นายเข้าใจอะไรผิดหรือเปล่าเนี้ย นี้คำพูดเพ้อเจ้อรายวันของไอเด็กบ้านั่น ในที่สุดก็ล้างสมองนายได้แล้วเหรอ?
         ```
 
         ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Don Quixote: Ho, hark? I prithee, who dost thou mean by this “insane brat”?
+        ดอน กิโฆเต้: อุ้ย? ข้าขออนุญาติถามได้ไหมขอรับ? ว่า “เด็กบ้า” ที่ท่านหมายถึงคือใคร?
         ```
         
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: The guide only instructed us to return once the commotion has been dealt with. He never ordered us to deal with it ourselves.
+        เอาทิส: ท่านผู้นำทางแค่บอกเราให้กลับมา เมื่อเรื่องวุ่นวายสิ้นสุดลงแล้ว เขาไม่ได้สั่งเราเลยสักคำ ว่าให้จัดการมันด้วยตัวเอง
         ```
         
         ---
 
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: For goodness’ sake, what’s there to be so damn obtuse about?
+        ฮิธคลิฟฟ์: จะให้หนีกับผีนะสิ มีเรื่องอะไรที่ต้องกังวลนักกังวลหนา?  
         ```
         ```
         Heathcliff: Didn’t you see what just happened? It almost blew my head off! Who knows what else will happen if it keeps up!
+        ฮิธคลิฟฟ์: แกเห็นสิ่งที่เกิดขึ้นเมื่อกี้ไหม? แม่งเกือบทำหัวฉันขาด! แล้วใครจะรู้ล่ะว่ามันจะทำอะไรได้อีก ถ้ามันยังลอยนวลต่อไป!  
         ```
         ```
         Heathcliff: This’ll be over if we just beat that damn thing down… What else do we got? Parking a seat to keep watching, gobbling some chicken? Huh?!
+        ฮิธคลิฟฟ์: เรื่องนี้จะจบลงก็ต่อเมื่อเราโค่นไอห่านั่นได้สำเร็จ... แล้วแกยังจะเอาอะไรอีก? นั่งดูความวินาศบนรถบัส แล้วก็กินไก่รอความตายหรือไง? หะ?!   
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: There’s no need to waste our lives on fights unrelated to our missions.
+        เอาทิส: ไม่มีความจำเป็นที่เราจะเอาชีวิตของตัวเองไปทิ้งในการต่อสู้ ซึ่งไม่เกี่ยวข้องอะไรกับภารกิจที่เราได้รับมอบหมาย
         ```
         ```
         Outis: I’m sure you filth didn’t even realize, but here’s the thing…
+        เอาทิส: ฉันมั่นใจ ว่าไอโสโครกอย่างนายคงยังไม่รู้ตัว แต่นี้คือสิ่งที่มันเป็น...  
         ```
         ```
         Outis: The more you die, the less efficient you become in battle.
+        เอาทิส: ยิ่งนายตายมากเท่าไหร่ ก็หมายถึงการที่นายจะด้อยประสิทธิภาพในการต่อสู้มากขึ้นเท่านั้น
         ```
         ```
         Outis: Experiencing a certain pain will make you learn to fear and avoid it.
+        เอาทิส: การประสบกับความเจ็บปวดเดิม ๆ ซ้ำ ๆ จะทำให้นายเรียนรู้ที่จะกลัว และหลีกเลี่ยงมัน 
         ```
 
         ---
 
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Meursault: ……
+        Meursault: ......
+        เมอร์โซลท์: ......
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: …People are dying over there as we speak, though?
+        ซินแคร์: ...รู้ใช่ไหม ว่าในระหว่างที่เราคุยกัน ผู้คนพวกนั่นกำลังค่อย ๆ ล้มตายกันอยู่?
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: Although it will cost much time and many lives… they will eventually suppress it. Just as we do.
+        เอาทิส: ถึงแม้ว่ามันจะต้องใช้เวลาอีกนานแค่ไหน หรือ ต้องแลกกับอีกกี่ชีวิตที่ต้องเสียไป... ในท้ายที่สุด เดี๋ยวพวกเขาก็หยุดมันได้เองเหมือนกับเรานั่นแหละ
         ```
         ```
         Outis: And I must say… I didn’t expect a whining amateur who’d cry out for his parents whenever he died to willingly suggest self-sacrifice.
+        เอาทิส: แต่ต้องยอมรับเลยจริง ๆ... ว่าฉันไม่คิดไม่ฝัน ว่ามือสมัครเล่นขี้แยอย่างเธอ ที่เอาแต่ร้องไห้ให้กับครอบครัว ในตอนที่เขาตั้งใจจะเสียสละตนเองเพื่อให้เธอวิ่งหนี
         ```
         ```
         Outis: Death has become a triviality to you, has it?
+        เอาทิส: ความตายคงกลายเป็นเรื่องธรรมดาสำหรับเธอไปแล้ว ใช่ไหม?
         ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Sinclair: ……
+        Sinclair: ......
+        ซินแคร์: ......
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: If we must make the best decision between the Sinners, it’s right to listen to her.
+        เมอร์โซลท์: ถ้าเราเหล่าคนบาปจำเป็นต้องเลือกทางที่ดีที่สุด เช่นนั้น มันก็เป็นการถูกต้องที่เราจะทำตามสิ่งที่เธอบอก
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <I…>
+        ดันเต้: <ฉัน...>
         ```
-
-        ---
 
         * เสียงในหัว
 
             ```
             We’re not Fixers, and we certainly cannot be heroes.
+            เราไม่ได้เป็นฟิกเซอร์ และเราก็ไม่มีทางเป็นฮีโร่ได้เหมือนกัน
             ```
             ```
             Turning the clock obviously hurts whenever I do it, and the pain is something I can never get used to.
+            ยังไงการหมุนนาฬิกากลับก็เป็นสิ่งที่เจ็บปวดทุกครั้งที่ฉันทำมัน และความเจ็บปวดนั่น ก็เป็นอะไรที่ฉันไม่เคยชินสักที
             ```
             ```
             And yet…
+            แต่ถึงอย่างนั่น
             ```
-
-        ---
 
         ```
         Dante: <We should suppress it. I can’t logically explain why, but… I feel like we should.>
+        ดันเต้: <เราควรที่จะปราบปรามมัน ฉันก็อธิบายในเชิงตรรกะไม่ได้เหมือนกันว่าทำไม แต่... ฉันรู้สึก ว่าเราควรทำแบบนั่น>
         ```
 
         ---
 
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Outis: ……
+        Outis: ......
+        เอาทิส: ......
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: I’d have crushed that clock and run out there if you gabbled the same rubbish, clockface.
+        ฮิธคลิฟฟ์: ฉันคงจะซัดไอหน้านาฬิกานั่นของแก และวิ่งออกไปแล้ว ถ้าเมื่อกี้แกยังพล่ามเรื่องเดิม ๆ ออกมา โชคดีไปน้า คุณหน้านาฬิกา
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: If that is your decision, I will abide by it.
+        เมอร์โซลท์: ถ้านั่นเป็นการตัดสินใจของท่าน กระผมก็พร้อมที่จะปฎิบัติตามอย่างเคร่งครัด
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Yeah, aight… I’m sure you made the right call.
+        เกรกอร์: ได้ จัดไป... ฉันมั่นใจว่านายเลือกได้ถูกต้องแล้วล่ะ
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Hey, um… Thank you for making that decision.
+        ซินแคร์: นี้ อืม... ขอบคุณนะครับ ที่ตัดสินใจไปแบบนั่น 
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: You worry too much over little things, clock. You won’t be an artist.
+        เรียวชู: นายจะเอาแต่กังวลเรื่องเล็ก ๆ น้อย ๆ ไปถึงไหนกัน คุณนาฬิกา เพราะงี้ไงนายถึงยังไม่ถึงขั้นศิลปิน 
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: …This judgement was made for none other than you, Executive Manager.
+        เอาทิส: ...สิทธิ์ในการตัดสินเป็นของท่านค่ะ ท่านผู้จัดการสูงสุด
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
         
             ```
             The Sinners walk ahead after leaving me comments.
+            เหล่าคนบาปเดินไปข้างหน้าโดยไม่พูดอะไร
             ```
             ```
             While all the others moved forward, Faust remained and gave me a peculiar stare.
+            แต่ในขณะที่ทุกคนกำลังก้าวไปข้างหน้า เฟาสท์กลับยืนอยู่กับที่ และจ้องมองมาที่ฉันด้วยสายตาที่ ประหลาดชอบกล/แปลกประหลาด
             ```
-
-        ---
 
         ```
         Dante: <What is it? You think my judgement was inefficient?>
+        ดันเต้: <มีอะไรหรือเปล่า? เธอคิดว่าการตัดสินใจของฉํนมันไม่มีประสิทธิภาพเหรอ?>
         ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: No, I just thought it would be interesting to see how you react once you’ve reclaimed your memory.
+        เฟาสท์: เปล่าค่ะ ฉันแค่คิดน่ะคะ ว่ามันจะน่าสนใจมากแค่ไหน ที่จะได้เห็นคุณตอบสนองยังไง ในตอน ที่คุณได้ความทรงจำกลับมา
         ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว 
 
             ```
             Faust’s strange statement held me in place for a moment, but I decided I want to deal with the questions that are immediately ahead of me first.
+            คำพูดที่แปลกประหลาดของเฟาสท์กับเอาฉันชะงักไปสักพัก ก่อนที่ฉันจะตัดสินใจ ว่าตัวเองต้องการที่จะจัดการคำถามพวกนั่น ที่จู่ ๆ ก็ผุดออกมาก่อน
             ```
-
-        ---
         
         ```
         Dante: <Faust, I’ve been wondering for a while… Are you really okay with being treated like this, considering your talent and everything?>
+        ดันเต้: <เฟาสท์ ฉันสงสัยมาได้สักพักแล้ว... ว่าเธอโอเคจริง ๆ หรือเปล่า กับการที่ต้องถูกปฎิบัติแบบนี้ ทั้ง ๆ ที่เธอก็เป็นฉลาดและมีพรสวรรค์มากขนาดนี้?>
         ```
-
-        ---
 
         * เสียงในหัว
 
             ```
             Someone of her caliber should have no problem enjoying a luxurious life in the City.
+            คนเก่งแบบเธอ คงมีความสุขกับชีวิตแสนสบายได้ไม่ยากในเดอะซิตี้
             ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: Faust doesn’t mind. Additionally, “talent” feels like the incorrect word to describe Faust.
+        เฟาสท์: เรื่องนั่นเฟาสท์ไม่ถือหรอกค่ะ อีกอย่างคำว่า “พรสวรรค์” นี้ ก็ดูจะเป็นคำที่ไม่เหมาะที่ใช้อธิบายเฟาสท์เลยนะคะ
         ```
         ```
         Faust: Many can possess talent, but Faust does not want to be included in the many.
+        เฟาสท์: หลายคนมีสิ่งที่เรียกว่าพรสวรรค์ แต่เฟาสท์ไม่อยากเหมารวมตัวเองกับคนพวกนั่น
         ```
         ```
         Faust: Among the Sinners, if we were looking for a talented individual of the most commonly agreed definition, that would be… Yi Sang. For your information, I am a genius.
+        เฟาสท์: ในบรรดาเหล่าคนบาป ถ้าเราจะบอกว่าใครเป็นบุคคลผู้มีพรสวรรค์อย่างแท้จริงล่ะก็ นิยามที่ถูกยอมรับโดยทั่วกัน... ก็คงเป็นยี่ซัง ส่วนฉันเป็นแค่อัจริยะ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
         
             ```
             Yi Sang stops walking behind the other Sinners and turns around to face me.
+            ยี่ซังที่เดินอยู่หลังคนบาปหยุดชะงัก และหันมาหาฉัน
             ```
             ```
             Looking again, his eyes actually stare into the emptiness behind me.
+            พอลองมองดี ๆ ดวงตาของเขากำลังจ้องมองไปยังความว่างเปล่าที่อยู่หลังฉัน
             ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Yi Sang: …I am no such individual.
+        ยี่ซัง: ...ผมไม่ได้เป็นอะไรแบบนั่นหรอกครับ
         ```
         ```
         Yi Sang: I have long stopped fluttering my wings.
+        ยี่ซัง: ตัวผมได้หยุดที่จะกระพือปีกมานานมากแล้ว
         ```
         ```
         Yi Sang: Thus, it would be of no use to discuss my talent, Manager.
+        ยี่ซัง: เพราะงั้น มันไม่มีประโยชน์อะไรที่จะสนทนาเกี่ยวกับพรสวรรค์ของผมหรอกครับ คุณผู้จัดการ
         ```
 
         ---
 
-        ```
-        Dante: <……>
-        ```
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
-        ---
+        ```
+        Dante: <......>
+        ดันเต้: <......>
+        ```
 
         * เสียงในหัว
 
             ```
             Curiously enough, I find that some Sinners feel more distant as we spend more time together.
+            ที่น่าแปลกก็คือ คนบาปบางคนยิ่งใช้เวลากับพวกเขามากเท่าไหร่ ก็รู้สึกว่าพวกเขายิ่งห่างไกลออกไปมากเท่านั่น
             ```
 
         ---
 
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ryoshu: What’s that flying machine? It’s been irking me. Got the urge to S.I.D. for the three-thousandth time.
+        เรียวชู: ไอเครื่องจักรที่บินได้นั่นอะไร? มันกวนใจฉันมาสักพักแล้ว ทำเอารู้สึกอยาก  ซิด/S.I.D เป็นเสี่ยง ๆ สักสามพันครั้ง  
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: That… is a device called a drone.
+        ยี่ซัง: นั่น... คืออุปกรณ์ที่เรียกว่าโดรน
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Oh, they might be combat drones K Corp. sent to help us. The Wing seems to be above average in terms of technology.
+        อิชมาเอล: อ้อ พวกมันก็คงเป็นโดรนจู่โจมของเคคอร์ป ที่ถูกส่งมาช่วยพวกเรา ดูเหมือนว่าวิงส์ที่นี้จะมีวิทยาการล้ำหน้ากว่าปกติแฮะ 
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: No, viewing its design, it doesn’t appear to be equipped with combat functionalities. It also has a camera at the center.
+        เฟาสท์: อาจจะยังนะคะ อ้างอิงจากการออกแบบแล้ว ดูเหมือนว่ามันจะไม่ได้ติดตั้งฟังก์ชันสำหรับการต่อสู้เอาไว้ อย่างเช่นตรงนั่นเองก็มีกล้องติดเอาไว้ตรงกึ่งกลางนั่น เห็นไหมคะ  
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Well… I guess it makes sense to get a close look at the mess happening in a well-off Nest.
+        อิชมาเอล: แหม... ฉันเดาว่ามันน่าจะเป็นการเมคเซ้นส์กว่า ถ้าเราจะเข้าไปใกล้ ๆ เพื่อดูความโกลาหลที่เกิดขึ้นในเนสที่อยู่ดีแบบนี้
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
         
             ```
             Abashed, Ishmael mumbled.
+            อิชมาเอลพึมพัมออกมาด้วยความเขินอาย
             ```
 
         ---
 
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Don Quixote: Ohh! Will we be featured on the thing called the “news”?
+        ดอน กิโฆเต้: โอ้ว! พวกเรากำลังถูกสลักลงไปในสิ่งนั่นที่เรียกว่า “ข่าว” ใช่ไหมขอรับ?
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Wait, something’s off… Why’re…
+        ซินแคร์: เดี๋ยว มีบางอย่างผิดปกติ... ทำไม...
         ```
         ```
         Sinclair: Why are they only filming corpses and dying people?
+        ซินแคร์: ทำไมพวกเขาถึงเอาแต่ถ่ายศพกับผู้คนล้มตายล่ะ?
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Well, it’s the provocative stuff that draws more attention, doesn’t it?
+        เกรกอร์: ก็นะ ถ้าเรื่องเร้าใจ ก็จะดึงดูดความสนใจได้มากกว่าใช่ไหมล่ะ?
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: “Look at this terrible incident! See how morbid it is!” or something like that.
+        โรเดียน: “มองเหตุการณ์ที่แสนเลวร้ายนี้สิ! ดูสิว่ามันชั่วร้ายมากแค่ไหน!” หรืออะไรประมาณนั่นแหละ
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: But…
+        ซินแคร์: แต่...
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```       
         Rodion: Hold up, kiddo! In front of you!
+        โรเดียน: เดี๋ยวก่อน เจ้าหนู! ข้างหน้าเธอ!
         ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: Kngh… This is… definitely weird…
+        ซินแคร์: คะเอิ่ก... นี้มัน... แปลกเกินไปแล้ว...
         ```
         
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dante: <Sinclair!>
+        ดันเต้: <ซินแคร์!>
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Look at this thing. Why does it have its camera glued to me…?
+        ซินแคร์: ดูไอนี้สิ ทำไมมันถึงติดกล้องของมันที่ตัวผม...?
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: …I don’t appreciate a soulless audience.
+        เรียวชู: ...ฉันไม่ชอบคนดูที่ไร้จิตวิญญาณ
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: There is a considerable number of them. And these drones…
+        เมอร์โซลท์: มีพวกมันมากโขอยู่นะครับ แถมโดรนพวกนี้เอง...
         ```
         ```
         Meursault: They appear to be deliberately preventing us from entering the area where the Abnormality is.
+        เมอร์โซลท์: ก็กำลังจงใจที่จะขัดขว้างพวกเราไม่ให้เข้าไปในพื้นที่ที่มีสิ่งแปลกปลอมอยู่
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Can’t be. We’re here to help, so they’d have no reason to get in…
+        เกรกอร์: คงไม่ใช่หรอกมั้ง พวกเรามานี้ก็เพื่อช่วย เพราะงั้น พวกเขาก็คงไม่มีเหตุผลอะไร ที่จะมา...
         ```
         ```
         Gregor: Our way… right…?
+        เกรกอร์: ขว้างทางพวกเรา... หรอกใช่ไหม...?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Now the drones have started lining up, and formed a wall as if to stop us from proceeding any farther.
+            ที่นี้โดรนก็เริ่มที่จะตั้งแถว และสร้างแนวกำแพง ราวกับต้องการจะหยุดพวกเราไม่ให้ไปไกลกว่านี้
             ```
         
         ---
 
+        <img src="../images/K_machine2.png" alt="Drone" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Mysterious Drone: Greetings, citizens. Please keep ten meters of distance for your own safety.
+        โดรนปริศนา: สวัสดีท่านประชาชน ได้โปรดถอยออกไปสิบเมตร เพื่อความปลอดภัยของตัวท่านเอง
         ```
         ```
         Mysterious Drone: K Corp’s staff has been dispatched. Your safety is assured. Please keep ten meters of distance.
+        โดรนปริศนา: เจ้าหน้าที่เคคอร์ปได้รับการหมอบหมายหน้าที่เรียบร้อยแล้ว โปรดมั่นใจในความปลอดภัยของพวกท่าน และถอยออกไปเป็นระยะสิบเมตรด้วยครับ
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: No, look, your staff is being slaughtered over there, can’t you see?
+        ฮิธคลิฟฟ์: ไม่อะ แกก็ลองมองดูสิ ว่าไอเจ้าหน้าที่ที่แกพึ่งพูดถึงไปเมื่อกี้ กำลังถูกฆ่าอย่างกับหมูกับหมาตรงนั่นไง ไม่เห็นเรอะ?
         ```
 
         ---
+
+        <img src="../images/K_machine2.png" alt="Drone" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Mysterious Drone: Greetings, citizens, your safety is assured. Please keep ten meters of distance.
+        โดรนปริศนา: สวัสดีท่านประชาชน โปรดมั่นใจในความปลอดภัยของพวกท่าน และถอยออกไปเป็นระยะสิบเมตรด้วยครับ
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Hah, the instructions make no sense. What difference is ten meters going to make in this mess?
+        อิชมาเอล: หะ คำสั่งแม่งห่วยชะมัด กะอีแค่ถอยไปสิบเมตร มันจะต่างอะไรในสถานการณ์แบบนี้กัน?
         ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Drone" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: Tsk, not gonna do us any favors, huh…
+        เกรกอร์: ชิ จะไม่ช่วยห่าอะไรเราเลยใช่ไหมเนี้ย...
         ```
         ```
         Gregor: Dunno if they’re malfunctioning or just badly designed, but we’ll have to get rid of all these before we can get to the Abnormality.
+        เกรกอร์: ไม่รู้เลยว่าไอพวกนี้แฮงค์ไปแล้ว หรือ แค่ดีไซด์มาแย่เฉย ๆ แต่เราคงต้องจัดการพวกมันทิ้งซะเดี๋ยวนี้ ถ้าเราต้องการที่เข้าไปหาสิ่งแปลกปลอมข้างในนั่น
         ```
 
     ---

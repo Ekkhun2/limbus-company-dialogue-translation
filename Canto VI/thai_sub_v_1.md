@@ -537,7 +537,7 @@
 
     ---
 
-    * **Episode: 2 | ตอนที่ 2<br>Location: Nest K's Streets | บนถนนเนสเค**
+    * **Episode: 2 | ตอนที่ 2<br>Location: Nest K's Streets | ถนนเนสเค**
 
         <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
@@ -1397,7 +1397,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Drone" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Tsk, not gonna do us any favors, huh…
@@ -1410,6 +1410,222 @@
 
     ---
 
+    * **Episode: 3 | ตอนที่ 3<br>Location: Nest K’s Ruined Streets | ถนนเนสเคที่พังทลาย**
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: That’s the last of ‘em… They aren’t gonna make us pay for the damages, are they?
+        โรเดียน: นั่นตัวสุดท้ายแล้ว... พวกเขาคงไม่ได้มารีบไถกับเราให้จ่ายค่าเสียหายใช่ไหมเนี้ย?
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Faust: I‘ll try to report that it was an act of self-defense.
+        เฟาสท์: เดี๋ยวดิฉันจะพยายามแจ้งละกันนะคะ ว่ามันการกระทำเพื่อป้องกันตัว
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: Fau, darling… Did I ever tell you this? You’re really just so… how do I put it… You rock!
+        โรเดียน: เฟา ที่รัก... ไม่รู้ว่าฉันเคยบอกเธอหรือเปล่า? แต่เธอนี้ค่อนข้างที่จะแบบ(ใสซื่อ/ซื่อบื้อ)... ยังไงดี... แบบว่าเจ๋งน่ะ! ใช่!
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: You were rather late to realize it.
+        เฟาสท์: ขอบคุณค่ะ แต่จะว่าไปก็รู้สึกตัวช้าจังเลยนะคะ
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Ishmael: …Something feels strange about this Abnormality. Doesn’t quite feel like the others we’ve fought.
+        อิชมาเอล: ...มีบางอย่างที่แปลกออกไปกับสิ่งแปลกปลอมนี้ รู้สึกไม่เหมือนกับไอตัวที่เราเคยสู้มาก่อน
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Hmm, not sure if we even have that much experience in that department, but…
+        เกรกอร์: หืมม ถึงเราจะมีประสบการณ์ตรงในเรื่องนั่นมากแค่ไหน ก็คงวางใจอะไรไม่ได้ นอกจาก...
+        ```
+        ```
+        Gregor: Well, I guess there’s the crowd around us shouting and yelling…?
+        เกรกอร์: จะว่าไป ทำไมรอบตัวเราถึงมีฝูงชนตะโกนใส่กับตะคอกด้วยล่ะ...? 
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: What’s up with these Abnormalities… How’d they show up in the middle of a Nest, and how did they get… more horrifying?
+        โรเดียน: เกิดอะไรขึ้นกับสิ่งแปลกปลอมพวกนี้... ทำไมพวกมันถึงโผล่หัวออกมาใจกลางเนสได้ แถมยังดู... น่ากลัวกว่าปกติอีก?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <And I’ve seen that one in the Mirror Dungeons a few times, too. Never in a fight, though.>
+        ดันเต้: <อา... ฉันว่าฉันเคยเห็นเจ้านั่นในดันเจี้ยนกระจกเป็นครั้งคราว แต่ก็ไม่เคยสู้ด้วยสักครั้ง>
+        ```
+        ```
+        Dante: <Come to think of it… What was the deal with those Abnormalities in the Mirror Dungeons that didn’t fight us?>
+        ดันเต้: <พอมาคิด ๆ ดูแล้ว... จะเกิดอะไรขึ้น? กับเจ้าพวกสิ่งแปลกปลอมพวกนั่นที่อยู่ในดันเจี้ยนกระจกที่ไม่ได้สู้กับเรา?>
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Faust: Those were glimpses into the Abnormalities’ mental spaces and habitats viewed through cracks in the mirrored world.
+        เฟาสท์: พวกนั่นเป็นเพียงภาพที่แวบเข้ามาเพียงชั่วครู่ ของพื้นที่แห่งจิตใจ และที่อยู่ของสิ่งแปลกปลอมเหล่านั่น ที่ถูกมองผ่านรอยร้าวในโลกกลับด้าน
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: It is a chasm, incredibly narrow and unstable.
+        ยี่ซัง: มันเป็นช่องว่าง ที่ใหญ่ไพศาลและไมเสถียร
+        ```
+        
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: Indeed. Which only allowed for limited interaction.
+        เฟาสท์: ถูกต้อง ซึ่งเป็นเหตุผลว่าทำไม เราถึงมีปฎิสัมพันธ์กับพวกมันได้อย่างจำกัด
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Forget that, all I wanna know is… why are these so tough? They’re as nasty as what we faced on the railway.
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: That is certainly true.
+        เมอร์โซลท์: 
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Besides, what is this… sickening fluid dripping from them?
+        ซินแคร์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            As the Sinners pointed out, the Abnormalities here were clearly different from what we’ve encountered before.
+            ```
+            ```
+            This is…
+            ```
+            ```
+            It oozes a mysterious liquid with a blue glint.
+            ```
+
+        ---
+
+        ```
+        Faust: We have no time to analyze its constituents, so we should be careful not to come in contact with it.
+        ```
+
+        ---
+
+        ```
+        Rodion: Yeesh~ No need to tell me. I’m not about to smudge myself with that.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Oi! Did these things eat bad food off the floor or what? It’s like they’ve got rabies—
+        ```
+
+        ---
+
+        ```
+        Sinclair: Huh? Above you, Mr. Heathcliff!
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Heathcliff was knocked to the ground, unable to resist.
+            ```
+
+        ---
+
+        ```
+        Ishmael: Manager… It looks like you have your work cut out for you.
+        ```
+
+        ---
+
+        ```
+        Outis: …Please remember that I gave you my expostulation, Executive Manager.
+        ```
+        ```
+        Outis: All men, prepare for battle!
+        ```
+
+        ---
+
+        ```
+        Dante: <Figured it would come to this…>
+        ดันเต้: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+            
+            ```
+            I’ve come too far to be afraid of pulling dead Sinners back to life.
+            ```
+
+        ---
+
+        ```
+        Dante: <Let’s beat ‘em and head back.>
+        ดันเต้: 
+        ```
 ---
 
 ### เพิ่มเติม

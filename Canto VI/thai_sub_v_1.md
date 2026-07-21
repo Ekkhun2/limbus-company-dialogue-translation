@@ -1505,7 +1505,7 @@
 
         ```
         Yi Sang: It is a chasm, incredibly narrow and unstable.
-        ยี่ซัง: มันเป็นช่องว่าง ที่ใหญ่ไพศาลและไมเสถียร
+        ยี่ซัง: มันเป็นช่องว่าง ที่ใหญ่ไพศาลและไม่เสถียร
         ```
         
         ---
@@ -1523,7 +1523,7 @@
 
         ```
         Heathcliff: Forget that, all I wanna know is… why are these so tough? They’re as nasty as what we faced on the railway.
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: ชั่งหัวเรื่องนั่นไปเถอะน้า อย่างเดียวที่ฉันอยากรู้ก็คือ... ทำไมไอพวกห่านี้ถึงแข็งแกร่งเป็นบ้าเป็นหลังได้ขนาดนี้กัน? แม่งเก่งถึงระดับที่ เทียบเท่ากับไอตัวที่เคยสู้บนรางรถไฟเลยมั้ง
         ```
 
         ---
@@ -1532,7 +1532,7 @@
 
         ```
         Meursault: That is certainly true.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: พูดอีกก็ถูกอีกนะครับ
         ```
 
         ---
@@ -1541,10 +1541,12 @@
 
         ```
         Sinclair: Besides, what is this… sickening fluid dripping from them?
-        ซินแคร์: 
+        ซินแคร์: อีกอย่าง ไอเหนียว ๆ นี้มันอะไร... ของเหลวน่าสะอิดสะเอียนที่ไหลออกมาจากตัวพวกมัน?  
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 

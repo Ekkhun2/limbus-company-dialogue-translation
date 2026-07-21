@@ -1552,30 +1552,42 @@
 
             ```
             As the Sinners pointed out, the Abnormalities here were clearly different from what we’ve encountered before.
+            ตามที่คนบาปพูดเลย สิ่งแปลงปลอมพวกที่อยู่ที่นี้ ดูยังไง ก็ไม่เหมือนกับสิ่งที่เราเคยเจอมาก่อน
             ```
             ```
             This is…
+            นี้มัน...
             ```
             ```
             It oozes a mysterious liquid with a blue glint.
+            กำลังพ้นของเหลวปริศนาประกายน้ำเงินอะไรอยู่
             ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: We have no time to analyze its constituents, so we should be careful not to come in contact with it.
+        เฟาสท์: 
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Yeesh~ No need to tell me. I’m not about to smudge myself with that.
+        โรเดียน: 
         ```
 
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: Oi! Did these things eat bad food off the floor or what? It’s like they’ve got rabies—
+        ฮิธคลิฟฟ์: 
         ```
 
         ---

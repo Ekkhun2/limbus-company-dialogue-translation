@@ -1560,7 +1560,7 @@
             ```
             ```
             It oozes a mysterious liquid with a blue glint.
-            กำลังพ้นของเหลวปริศนาประกายน้ำเงินอะไรอยู่
+            กำลังพ้นของเหลวอะไรก็ไม่รู้ที่มีประกายสีน้ำเงินเหรอ
             ```
 
         ---
@@ -1569,7 +1569,7 @@
 
         ```
         Faust: We have no time to analyze its constituents, so we should be careful not to come in contact with it.
-        เฟาสท์: 
+        เฟาสท์: พวกเราไม่มีเวลามาวิเคราะห์ส่วนประกอบในสารคัดหลั่งของมัน เพราะงั้น โปรดระวัง อย่าสัมผัสกับมันโดยตรงเด็ดขาดเลยนะคะ
         ```
 
         ---
@@ -1578,7 +1578,7 @@
 
         ```
         Rodion: Yeesh~ No need to tell me. I’m not about to smudge myself with that.
-        โรเดียน: 
+        โรเดียน: จ้าาาา~ ไม่ต้องบอกก็รู้แล้ว ฉันไม่มีทางที่จะเปื้อนไอนั่นแน่
         ```
 
         ---
@@ -1587,13 +1587,14 @@
 
         ```
         Heathcliff: Oi! Did these things eat bad food off the floor or what? It’s like they’ve got rabies—
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: โอ่ย! 
         ```
 
         ---
 
         ```
         Sinclair: Huh? Above you, Mr. Heathcliff!
+        ซินแคร์: 
         ```
 
         ---
@@ -1608,15 +1609,18 @@
 
         ```
         Ishmael: Manager… It looks like you have your work cut out for you.
+        อิชมาเอล: 
         ```
 
         ---
 
         ```
         Outis: …Please remember that I gave you my expostulation, Executive Manager.
+        เอาทิส: 
         ```
         ```
         Outis: All men, prepare for battle!
+        เอาทิส: 
         ```
 
         ---

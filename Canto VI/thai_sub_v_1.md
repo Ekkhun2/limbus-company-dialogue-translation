@@ -1578,7 +1578,7 @@
 
         ```
         Rodion: Yeesh~ No need to tell me. I’m not about to smudge myself with that.
-        โรเดียน: จ้าาาา~ ไม่ต้องบอกก็รู้แล้ว ฉันไม่มีทางที่จะเปื้อนไอนั่นแน่
+        โรเดียน: จ้าาาา~ ไม่ต้องบอกก็รู้แล้วล่ะ ฉันจะไม่ยอมให้ตัวเองเปื้อนไอนั่นแน่
         ```
 
         ---
@@ -1587,32 +1587,41 @@
 
         ```
         Heathcliff: Oi! Did these things eat bad food off the floor or what? It’s like they’ve got rabies—
-        ฮิธคลิฟฟ์: โอ่ย! 
+        ฮิธคลิฟฟ์: โอ่ย! ไอพวกนี้กินอะไรผิดสำแดงมาหรือไงวะเนี้ย? อย่างกับว่าพวกแม่งติดพิษสนุขบ้าไม่มีผิ(ด)—
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Huh? Above you, Mr. Heathcliff!
-        ซินแคร์: 
+        ซินแคร์: หะ? บนหัวครับ! คุณฮิธคลิฟฟ์!
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Heathcliff was knocked to the ground, unable to resist.
+            ฮิธคลิฟฟ์โดนกระแทกลงไปที่พื้นอย่างขัดขืนไม่ได้
             ```
 
         ---
 
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ishmael: Manager… It looks like you have your work cut out for you.
-        อิชมาเอล: 
+        อิชมาเอล: ผู้จัดการ... ดูเหมือนว่าคุณจะมีงานต้องทำแล้วนะ
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: …Please remember that I gave you my expostulation, Executive Manager.

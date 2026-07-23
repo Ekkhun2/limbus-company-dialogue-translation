@@ -1657,9 +1657,13 @@
 
     * **Episode: 4 | ตอนที่ 4**
 
-        ```
-        As the prolonged cycles of pain came to an end…
-        ```
+
+        * เสียงในหัว
+
+            ```
+            As the prolonged cycles of pain came to an end…
+            เมื่อวัฎจักรแห่งความเจ็บปวดจบลง...
+            ```
 
         ---
 
@@ -1669,67 +1673,220 @@
         
         ```
         Faust: The Abnormality has been successfully suppressed. We can return to the bus now.
+        เฟาสท์: สิ่งแปลกปลอมถูกปราบปรามโดยสมบูรณ์แล้วค่ะ ตอนนี้ เรากลับไปที่รถบัสได้แล้ว
         ```
 
         ---
-        It was a “success” that accompanied many deaths and revivals on
-                    our side, but I nodded anyway.
-        We got back on the bus, harboring a few unanswered questions.
-        Location:Aboard Mephistopheles
-        Vergilius: You came back later than expected. I was just about to take my
-                    first nap in a while.
-        I explained the oddities we ran into earlier to Vergilius. (To be
-                    more precise, Faust did the heavy speaking.)
-        I was expecting him to coldly tell me to do my job as the middle
-                    manager and follow whatever orders I’m given, but his answer was
-                    surprisingly earnest.
-        Vergilius: …The existence of Abnormalities has been almost completely unknown
-                    to the public, and we don’t possess all the details on them,
-                    either, Dante.
-        Dante: <Didn’t think you’d admit it right away.>
-        Faust flinched a little, but she didn’t relay what I just said.
-        Vergilius: Enigmatic as they are… let’s leave Ms. Faust and other departments
-                    of our proud Limbus Company to uncover all the details in the
-                    future, as we likely ought to.
-        Faust: …Will do.
-        Was Faust given any time at all to do some sort of research on
-                    this job?
-        The mysteries were left unsolved, but… if Faust accepted the
-                    suggestion without a hitch, that probably means she’s thought of a
-                    way.
-        Outis: You, why do you have your shoulders hunched over like that?
-        Outis: You’re short enough as you are, and this shrunken posture makes
-                    you practically imperceptible.
-        Don Quixote: …I hoped to meet Lord Siegfried again…
-        Gregor: (Who was Lord Sieg…fried, again?)
-        Ishmael: Wasn’t that the man who took photos of himself while cutting us
-                    down with one hand?
-        Gregor: (Right… That Zack Friture guy…?)
-        Ishmael was breathing audibly through her nose. The incident at
-                    the checkpoint must’ve left some deep grudges for her.
-        Don Quixote: Eager was I to show him… my valiant acts of rescuing imperiled
-                    civilians…
-        Don Quixote: I vowed that I shall meet him again as a Fixer of noble cause…
-        Gregor: Reunions are more touching if it’s after a long time, Don Quixote.
-                    Try thinking that it’s a good thing he didn’t show up today.
-        Vergilius: It really is strange, though.
-        Vergilius: He’s not one to miss spectacles with this many spectators around.
-        Hong Lu: Oho… Is he kind of like a celebrity, then?
-        Vergilius: You could say that. He has a flair for showmanship, so it’s usual
-                    for K Corp. to take advantage of these kinds of commotions by
-                    sending him.
-        Vergilius: But… if he hasn’t shown up for this perfect opportunity to draw
-                    the public’s full attention…
-        Dante: <That means this isn’t something they want people to
-                    notice…>
-        Don Quixote: I shan’t… take such vicious slander of Lord Siegfried!
-        Don Quixote: On the fifth row of Page 42 of his autobiography “A Hero Should
-                    Keep Smiling Until His Last”, he writes that he shall be there to
-                    aid the weak no matter when and where!
-        Vergilius: …Hah. Alright, you’d best hold that belief of yours dearly.
-        Vergilius: That way, you’ll have something to cling to when you face the
-                    extreme in the future.
 
+        จะความหวังก็ดี จะความฝันก็ดี หรือ แม้แต่ความสิ้นหวัง ก็ล้วนแล้วแต่ เป็นอาหารอันโอชะของผม 
+
+        * เสียงในหัว
+
+            ```
+            It was a “success” that accompanied many deaths and revivals on our side, but I nodded anyway.
+            มันเป็น “ความสำเร็จ” ที่แลกมาด้วยความตาย และการชุบชีวิตนับครั้งไม่ถ้วน  แต่ไม่ว่ายังไง ฉันก็พยักหน้าตอบ
+            ```
+            ```
+            We got back on the bus, harboring a few unanswered questions.
+            เรากลับมาที่รถบัสพร้อมกับคำถามที่ไม่ได้รับคำตอบอยู่เต็มอก
+            ```
+
+        ---
+
+        **Location: Aboard Mephistopheles | บนรถเมฟิสโตเฟเลส**
+        
+        ---
+
+        ```
+        Vergilius: You came back later than expected. I was just about to take my first nap in a while.
+        วอร์จิลิอุส: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            I explained the oddities we ran into earlier to Vergilius. (To be more precise, Faust did the heavy speaking.)
+            ```
+            ```
+            I was expecting him to coldly tell me to do my job as the middle manager and follow whatever orders I’m given, but his answer was surprisingly earnest.
+            ```
+
+        ---
+
+        ```
+        Vergilius: …The existence of Abnormalities has been almost completely unknown to the public, and we don’t possess all the details on them, either, Dante.
+        วอร์จิลิอุส: 
+        ```
+
+        ---
+
+        ```
+        Dante: <Didn’t think you’d admit it right away.>
+        ดันเต้: 
+        ```
+
+        ---
+
+        ```
+        Faust flinched a little, but she didn’t relay what I just said.
+        เฟาสท์: 
+        ```
+
+        ---
+
+        ```
+        Vergilius: Enigmatic as they are… let’s leave Ms. Faust and other departments of our proud Limbus Company to uncover all the details in the future, as we likely ought to.
+        วอร์จิลิอุส: 
+        ```
+
+        ---
+        
+        ```
+        Faust: …Will do.
+        เฟาสท์: ...เดี๋ยวทำให้ค่ะ
+        ```
+
+        ---
+
+        * เสียงในหัว
+        
+            ```
+            Was Faust given any time at all to do some sort of research on this job?
+            ```
+            ```
+            The mysteries were left unsolved, but… if Faust accepted the suggestion without a hitch, that probably means she’s thought of a way.
+            ```
+
+        ---
+
+        ```
+        Outis: You, why do you have your shoulders hunched over like that?
+        เอาทิส: 
+        ```
+        ```
+        Outis: You’re short enough as you are, and this shrunken posture makes you practically imperceptible.
+        เอาทิส: 
+        ```
+
+        ---
+
+        ```
+        Don Quixote: …I hoped to meet Lord Siegfried again…
+        ดอน กิโฆเต้: 
+        ```
+        
+        ---
+
+        ```
+        Gregor: (Who was Lord Sieg…fried, again?)
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Ishmael: Wasn’t that the man who took photos of himself while cutting us down with one hand?
+        อิชมาเอล: 
+        ```
+
+        ---
+
+        ```
+        Gregor: (Right… That Zack Friture guy…?)
+        เกรกอร์: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+        
+            ```
+            Ishmael was breathing audibly through her nose. The incident at the checkpoint must’ve left some deep grudges for her.
+            ```
+
+        ---
+
+        ```
+        Don Quixote: Eager was I to show him… my valiant acts of rescuing imperiled civilians…
+        ดอน กิโฆเต้: 
+        ```
+        ```
+        Don Quixote: I vowed that I shall meet him again as a Fixer of noble cause…
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Gregor: Reunions are more touching if it’s after a long time, Don Quixote. Try thinking that it’s a good thing he didn’t show up today.
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Vergilius: It really is strange, though.
+        วอร์จิลิอุส: 
+        ```
+        ```
+        Vergilius: He’s not one to miss spectacles with this many spectators around.
+        วอร์จิลิอุส: 
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Oho… Is he kind of like a celebrity, then?
+        ฮงหลู่: 
+        ```
+
+        ---
+
+        ```
+        Vergilius: You could say that. He has a flair for showmanship, so it’s usual for K Corp. to take advantage of these kinds of commotions by sending him.
+        วอร์จิลิอุส: 
+        ```
+
+        ---
+
+        ```
+        Vergilius: But… if he hasn’t shown up for this perfect opportunity to draw the public’s full attention…
+        วอร์จิลิอุส: 
+        ```
+
+        ---
+
+        ```
+        Dante: <That means this isn’t something they want people to notice…>
+        ดันเต้: 
+        ```
+
+        ---
+        
+        ```
+        Don Quixote: I shan’t… take such vicious slander of Lord Siegfried!
+        ดอน กิโฆเต้: 
+        ```
+        ```
+        Don Quixote: On the fifth row of Page 42 of his autobiography “A Hero Should Keep Smiling Until His Last”, he writes that he shall be there to aid the weak no matter when and where!
+        ดอน กิโฆเต้: 
+        ```
+
+        ---
+
+        ```
+        Vergilius: …Hah. Alright, you’d best hold that belief of yours dearly.
+        วอร์จิลิอุส: 
+        ```
+        ```
+        Vergilius: That way, you’ll have something to cling to when you face the extreme in the future.
+        วอร์จิลิอุส: 
+        ```
+    ---
+
+    * **Episode: 5 | ตอนที่ 5**
 ---
 
 ### เพิ่มเติม

@@ -1587,7 +1587,7 @@
 
         ```
         Heathcliff: Oi! Did these things eat bad food off the floor or what? It’s like they’ve got rabies—
-        ฮิธคลิฟฟ์: โอ่ย! ไอพวกนี้กินอะไรผิดสำแดงมาหรือไงวะเนี้ย? อย่างกับว่าพวกแม่งติดพิษสนุขบ้าไม่มีผิ(ด)—
+        ฮิธคลิฟฟ์: โอ่ย! ไอพวกนี้กินอะไรผิดสำแดงมาหรือไงวะเนี้ย? พวกแม่งคลั่งอย่างกับหมาที่ติดเชื้อพิษสนัขบ้าไม่มีผิ(ด)—
         ```
 
         ---
@@ -1625,34 +1625,111 @@
 
         ```
         Outis: …Please remember that I gave you my expostulation, Executive Manager.
-        เอาทิส: 
+        เอาทิส: ...โปรดจำไว้ด้วยนะคะ ว่าดิฉันเตือนท่านแล้ว ท่านผู้จัดการสูงสุด
         ```
         ```
         Outis: All men, prepare for battle!
-        เอาทิส: 
+        เอาทิส: พลทหารทุกคน เตรียมรับศึกได้!
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <Figured it would come to this…>
-        ดันเต้: 
+        ดันเต้: <รู้อยู่แล้วว่าสุดท้ายต้องลงเอยแบบนี้/รู้อยู่แล้วว่าต้องเป็นอิหรอบนี้ ...>
         ```
-
-        ---
 
         * เสียงในหัว
             
             ```
             I’ve come too far to be afraid of pulling dead Sinners back to life.
+            ฉันมาไกลเกินจะรู้สึกกลัวแล้ว กับการที่ต้องดึงเหล่าคนบาปที่ตายไปกลับมา เพราะงั้น...
             ```
-
-        ---
 
         ```
         Dante: <Let’s beat ‘em and head back.>
-        ดันเต้: 
+        ดันเต้: <รีบจัดการพวกมัน และกลับกันดีกว่า>
         ```
+
+    ---
+
+    * **Episode: 4 | ตอนที่ 4**
+
+        ```
+        As the prolonged cycles of pain came to an end…
+        ```
+
+        ---
+
+        **Location:Nest K’s Ruined Streets | ถนนเนสเคที่พังทลาย**
+        
+        ---
+        
+        ```
+        Faust: The Abnormality has been successfully suppressed. We can return to the bus now.
+        ```
+
+        ---
+        It was a “success” that accompanied many deaths and revivals on
+                    our side, but I nodded anyway.
+        We got back on the bus, harboring a few unanswered questions.
+        Location:Aboard Mephistopheles
+        Vergilius: You came back later than expected. I was just about to take my
+                    first nap in a while.
+        I explained the oddities we ran into earlier to Vergilius. (To be
+                    more precise, Faust did the heavy speaking.)
+        I was expecting him to coldly tell me to do my job as the middle
+                    manager and follow whatever orders I’m given, but his answer was
+                    surprisingly earnest.
+        Vergilius: …The existence of Abnormalities has been almost completely unknown
+                    to the public, and we don’t possess all the details on them,
+                    either, Dante.
+        Dante: <Didn’t think you’d admit it right away.>
+        Faust flinched a little, but she didn’t relay what I just said.
+        Vergilius: Enigmatic as they are… let’s leave Ms. Faust and other departments
+                    of our proud Limbus Company to uncover all the details in the
+                    future, as we likely ought to.
+        Faust: …Will do.
+        Was Faust given any time at all to do some sort of research on
+                    this job?
+        The mysteries were left unsolved, but… if Faust accepted the
+                    suggestion without a hitch, that probably means she’s thought of a
+                    way.
+        Outis: You, why do you have your shoulders hunched over like that?
+        Outis: You’re short enough as you are, and this shrunken posture makes
+                    you practically imperceptible.
+        Don Quixote: …I hoped to meet Lord Siegfried again…
+        Gregor: (Who was Lord Sieg…fried, again?)
+        Ishmael: Wasn’t that the man who took photos of himself while cutting us
+                    down with one hand?
+        Gregor: (Right… That Zack Friture guy…?)
+        Ishmael was breathing audibly through her nose. The incident at
+                    the checkpoint must’ve left some deep grudges for her.
+        Don Quixote: Eager was I to show him… my valiant acts of rescuing imperiled
+                    civilians…
+        Don Quixote: I vowed that I shall meet him again as a Fixer of noble cause…
+        Gregor: Reunions are more touching if it’s after a long time, Don Quixote.
+                    Try thinking that it’s a good thing he didn’t show up today.
+        Vergilius: It really is strange, though.
+        Vergilius: He’s not one to miss spectacles with this many spectators around.
+        Hong Lu: Oho… Is he kind of like a celebrity, then?
+        Vergilius: You could say that. He has a flair for showmanship, so it’s usual
+                    for K Corp. to take advantage of these kinds of commotions by
+                    sending him.
+        Vergilius: But… if he hasn’t shown up for this perfect opportunity to draw
+                    the public’s full attention…
+        Dante: <That means this isn’t something they want people to
+                    notice…>
+        Don Quixote: I shan’t… take such vicious slander of Lord Siegfried!
+        Don Quixote: On the fifth row of Page 42 of his autobiography “A Hero Should
+                    Keep Smiling Until His Last”, he writes that he shall be there to
+                    aid the weak no matter when and where!
+        Vergilius: …Hah. Alright, you’d best hold that belief of yours dearly.
+        Vergilius: That way, you’ll have something to cling to when you face the
+                    extreme in the future.
+
 ---
 
 ### เพิ่มเติม

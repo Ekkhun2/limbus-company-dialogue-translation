@@ -2104,7 +2104,7 @@
 
         ---
 
-        <img src="../images/Dongrang.png" alt="Dante" Dongrang="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongrang.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: A pleasure to meet you, I’m Dongrang. I heard a lot about you from Samjo—it almost made me a fan.
@@ -2113,7 +2113,7 @@
 
         ---
 
-        <img src="../images/DonQuixote.png" alt="DonQuixote" Dongrang="100" style="display: block; margin: 0 auto;">
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Don Quixote: Fan??? Didst thou say just now that we have earned thine adoration?
@@ -2122,7 +2122,7 @@
 
         ---
 
-        <img src="../images/Rodion.png" alt="Rodion" Dongrang="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: It’s just flattery, Don Quixote…
@@ -2131,8 +2131,7 @@
 
         ---
 
-        <img src="../images/Dongrang.png" alt="Dongrang" Dongrang="100" style="display: block; margin: 0 auto;">
-
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: If I’m being quite honest… the test wasn’t my idea. I mean, you aren’t lab hens or anything, and you deserve better than involuntary tests.
@@ -2141,7 +2140,7 @@
 
         ---
 
-        <img src="../images/Samjo.png" alt="Samjo" Dongrang="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Indeed, it was my suggestion.
@@ -2158,7 +2157,7 @@
 
         ---
 
-        <img src="../images/Ishmael.png" alt="Ishmael" Dongrang="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Ahem… So, that means you’re requesting us…
@@ -2167,7 +2166,7 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" Dongrang="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -2178,7 +2177,7 @@
 
         ---
 
-        <img src="../images/Dongrang.png" alt="Dongrang" Dongrang="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Dongrang: Why, of course. Because, you all are…

@@ -1681,8 +1681,6 @@
 
         ---
 
-        จะความหวังก็ดี จะความฝันก็ดี หรือ แม้แต่ความสิ้นหวัง ก็ล้วนแล้วแต่ เป็นอาหารอันโอชะของผม 
-
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
@@ -2110,59 +2108,96 @@
 
         ```
         Dongrang: A pleasure to meet you, I’m Dongrang. I heard a lot about you from Samjo—it almost made me a fan.
-        
+        ดงรัง: เป็นเกียรติมากที่ได้พบพวกคุณ ผมดงรัง ผมได้ยินกิตติมศักดิ์ของพวกคุณมาเยอะเลยจากแซมโจ—อีกนิด ผมคงเป็นแฟน ๆ ไปแล้วมั่งเนี้ย เหอะเหอะ 
         ```
 
         ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" Dongrang="100" style="display: block; margin: 0 auto;">
 
         ```
         Don Quixote: Fan??? Didst thou say just now that we have earned thine adoration?
+        ดอน กิโฆเต้: แฟน??? เมื่อครู่นี้ เจ้ากล่าวหรือว่าพวกเราสมควรได้รับความเทิดทูนบูชาจากเจ้า?
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" Dongrang="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: It’s just flattery, Don Quixote…
+        โรเดียน: แค่การประจบสอพลอน่ะ ไม่ต้องคิดมากนะ ดอนกิโฆเต้...
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" Dongrang="100" style="display: block; margin: 0 auto;">
+
 
         ```
         Dongrang: If I’m being quite honest… the test wasn’t my idea. I mean, you aren’t lab hens or anything, and you deserve better than involuntary tests.
+        ดงรัง: ถ้าให้ผมพูดจริง ๆ... การทดสอบไม่ใช่ไอเดียของผมแต่แรก ก็แบบ พวกคุณไม่ได้เป็นไก่ทดลอง หรือ อะไรทำนองนั่น พวกคุณสมควรที่จะได้อะไรดีกว่า การทดสอบที่ไม่ได้เต็มใจ 
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" Dongrang="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Indeed, it was my suggestion.
+        แซมโจ: ถูกต้องตามนั่นเลยครับ มันเป็นคำแนะนำของผมเอง
         ```
         ```
         Samjo: I had reason to do so as your “Limbus Company” is a little-known firm that… could or could not be newly established.
+        แซมโจ: แต่ผมมีเหตุผล ก็เพราะ “ลิมบัสคอมเพนี” เป็นองค์กรที่ไม่ค่อยเป็นที่รู้จัก ซึ่งมัน... ก็อาจเป็นองค์กรที่พึ่งถูกตั้งใหม่ หรือ ไม่ก็ถูกจัดมานานแล้ว 
         ```
         ```
         Samjo: We couldn’t take the risk of entrusting an unknown organization with a request on Mr. Dongrang’s word alone.
+        แซมโจ: และเราก็ไม่อาจที่จะยอมรับความเสี่ยง ของการวางใจกับองค์กรที่เอาแน่เอานอนไม่ได้ จากการตัดสินใจเพียงลมปากของคุณดงรัง
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" Dongrang="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Ahem… So, that means you’re requesting us…
-        ```
-        ```
-        Ishmael asked for confirmation that this was indeed a direct request, her face seeming rather proud.
+        อิชมาเอล: อะแฮ่ม... งั้นก็หมายความว่าคุณ กำลังร้องขอพวกเราอยู่สินะ...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" Dongrang="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Ishmael asked for confirmation that this was indeed a direct request, her face seeming rather proud.
+            อิชมาเอล
+            ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" Dongrang="100" style="display: block; margin: 0 auto;">
         
         ```
         Dongrang: Why, of course. Because, you all are…
+        ดงรัง: 
         ```
         ```
-        Dongrang: …….
+        Dongrang: ......
+        ดงรัง: ......
         ```
         ```
         Dongrang: Ah, why don’t I show you to my lab? There are many fun things to see.
+        ดงรัง: 
+        ```
+
+        ---
+
+        ```
         Dante: <Changing the subject so shamelessly is only gonna bother us more…>
+        ดันเต้: 
         ```
 
         ---

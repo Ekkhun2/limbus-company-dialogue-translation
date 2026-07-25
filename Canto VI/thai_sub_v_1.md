@@ -1941,19 +1941,23 @@
 
         * เสียงในหัว
 
-        ```
-        As the futile conversations reached an end, the bus lazily pulled to a stop.
-        ```
-        ```
-        We’d arrived… in front of a building so tall that it would take a while to count the floors.
-        ```
-        ```
-        A few shrank down as if intimidated. (I understood Sinclair being one, but Heathcliff and Ishmael also seemed to be pressured.)
-        ```
-        ```
-        A few looked around with curious eyes…
-        And some others walked and carried themselves as if they knew they deserved royal treatment.
-        ```
+            ```
+            As the futile conversations reached an end, the bus lazily pulled to a stop.
+            เมื่อบทสนทนาไร้ประโยชน์มาถึงจุดจบ รถบัสก็เทียบท่าอย่างเฉื่อยชา ก่อนที่จะหยุดนึ่ง
+            ```
+            ```
+            We’d arrived… in front of a building so tall that it would take a while to count the floors.
+            เรามาถึงแล้ว... หน้าอาคารที่สูงมาก สูงซะจนคงต้องใช้เวลาไปสักพักกว่าจะนับชั้นให้หมด
+            ```
+            ```
+            A few shrank down as if intimidated. (I understood Sinclair being one, but Heathcliff and Ishmael also seemed to be pressured.)
+            บางคนก็หดตัวราวกับรู้สึกกลัว (ฉันเข้าใจซินแคร์ที่เป็นอย่างนั่น แต่กับฮิธคลิฟฟ์กับอิชมาเอลเองก็ดูเหมือนจะรู้สึกกดดันไม่ต่างกัน)
+            ```
+            ```
+            A few looked around with curious eyes…
+            And some others walked and carried themselves as if they knew they deserved royal treatment.
+            อีกส่วนน้อยคนอื่น ๆ ก็มองไปรอบ ๆ ด้วยสายตาที่สงสัย... ในขณะที่บางคนก็เดินเข้าไป และทำอย่างกับว่ารู้อยู่แล้ว ว่าตัวเองสมควรที่จะได้รับการดูแลดุจดั่งแขกคนสำคัญ
+            ```
 
         ---
 
@@ -1961,66 +1965,247 @@
         
         ---
 
-        Hong Lu: Fuhu, I guess we’ve earned some renown. We’re finally being
-                    invited to places regular people would live.
-        Heathcliff: Lemme make one thing clear… If the request and the reward’s a load
-                    of tosh like the last time, I’m out.
-        Heathcliff ground his teeth, whether by Hong Lu’s words or due to
-                    memories of what we got into last time we were here.
-        Samjo: Ah, you’re a little late as expected.
-        Dante: <As expected?>
-        Outis: That man is…
-        Samjo: It’s a pleasure to meet you again. I want you to know that this is
-                    my heartfelt sentiment and not a formality.
-        A familiar face I never expected to see again greeted us.
-        Heathcliff: …I’m out. Already told ya.
-        Dante: <Give it a moment! Let’s at least hear what he has to say,
-                    okay?>
-        Heathcliff: Let go! Do you even get how it feels to have nightmares about
-                    doing the tango with raw chickens? Huh?
-        Samjo: To tell you the truth, my last request was a test to measure your
-                    competence.
-        Samjo: And you passed with flying colors. Congratulations. I mean this
-                    one as well.
-        Heathcliff: Who are you to test and grade us?! You—
-        Samjo: That’s of course—
-        ???: That’s of course at the discretion of Mr. Samjo, my shrewd
-                    secretary. So you must be… from Limbus Company.
-        Dongrang: A pleasure to meet you, I’m Dongrang. I heard a lot about you from
-                    Samjo—it almost made me a fan.
-        Don Quixote: Fan??? Didst thou say just now that we have earned thine
-                    adoration?
-        Rodion: It’s just flattery, Don Quixote…
-        Dongrang: If I’m being quite honest… the test wasn’t my idea. I mean, you
-                    aren’t lab hens or anything, and you deserve better than
-                    involuntary tests.
-        Samjo: Indeed, it was my suggestion.
-        Samjo: I had reason to do so as your “Limbus Company” is a little-known
-                    firm that… could or could not be newly established.
-        Samjo: We couldn’t take the risk of entrusting an unknown organization
-                    with a request on Mr. Dongrang’s word alone.
-        Ishmael: Ahem… So, that means you’re requesting us…
-        Ishmael asked for confirmation that this was indeed a direct
-                    request, her face seeming rather proud.
-        Dongrang: Why, of course. Because, you all are…
-        Dongrang: …….
-        Dongrang: Ah, why don’t I show you to my lab? There are many fun things to
-                    see.
-        Dante: <Changing the subject so shamelessly is only gonna bother us
-                    more…>
-        Samjo: Sorry? Are you really going to take these people to your
-                    laboratory?
-        Dongrang: Why not? They passed your test, didn’t they, Mr. Samjo.
-        Dongrang: And if they’ve got the skills to take down what they called an
-                    “Abnormality” as we saw today…
-        Don Quixote: Aha~ Thou hast heard? My, traces of heroic deeds indeed make
-                    themselves known to the masses in no time! Fufu…
-        Dongrang: Haha, that’s a fun way to put it.
-        Dongrang: Ah, and you must be the manager… it was Dante, yes? May we speak
-                    for a moment?
-        Faust tried to say something to Dongrang, but he and Samjo pulled
-                    me far away by the time she stepped forward.
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
+        ```
+        Hong Lu: Fuhu, I guess we’ve earned some renown. We’re finally being invited to places regular people would live.
+        ฮงหลู่: เหอะเห๊อะ ผมว่าพวกเราก็ดังใช่เล่นเลยนะครับ ในที่สุดเราเอง ก็ถูกเชิญมายังสถานที่ปกติที่มีผู้คนอาศัยกันจริง ๆ สักทีนะครับ 
+        ```
+        
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Lemme make one thing clear… If the request and the reward’s a load of tosh like the last time, I’m out.
+        ฮิธคลิฟฟ์: ขอพูดให้เคลียร์ก่อน... ว่าถ้าคำของวดนี้ ยังได้รางวัลห่วย ๆ เหมือนรอบก่อนล่ะก็ ฉันขอบาย
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Heathcliff ground his teeth, whether by Hong Lu’s words or due to memories of what we got into last time we were here.
+            ฮิธคลิฟฟ์กัดฟันแน่น ไม่ว่าจะเพราะคำพูดของฮงหลู่ หรือ จะเป็นความทรงจำแย่ ๆ ของสิ่งที่เราพึ่งไปเจอมาครั้งก่อนตอนที่เราอยู่นี้
+            ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Ah, you’re a little late as expected.
+        แซมโจ: อา มาช้ากว่าที่คาดไว้นิดหน่อยนะครับ
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Dante: <As expected?>
+        ดันเต้: <คาดไว้ เหรอ?>
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: That man is…
+        เอาทิส: ผู้ชายคนนั่นมัน...
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: It’s a pleasure to meet you again. I want you to know that this is my heartfelt sentiment and not a formality.
+        แซมโจ: ยินดีที่ได้พบพวกคุณอีกครั้งนะครับ ผมอยากให้คุณรู้ ว่านี้คือความรู้สึกที่ออกมาจากใจจริง และไม่ใช่แค่พิธิการแต่อย่างใด
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            A familiar face I never expected to see again greeted us.
+            ใบหน้าอันคุ้นเคย ของคนที่ฉันไม่คาดคิดว่าจะได้พบอีกต้อนรับเรา
+            ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: …I’m out. Already told ya.
+        ฮิธคลิฟฟ์: ...ฉันบายนะ บอกพวกนายไปแล้ว
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Give it a moment! Let’s at least hear what he has to say,okay?>
+        ดันเต้: <เห้ย ช่วยรอสักเดี๋ยวไม่ได้หรือไง! อย่างน้อย ๆ ก็ช่วยฟังก่อนได้ไหมว่าเขาจะพูดอะไร?>
+        ```
+        
+        ---
+
+        <img src="../images/Heathclifff.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Heathcliff: Let go! Do you even get how it feels to have nightmares about doing the tango with raw chickens? Huh?
+        ฮิธคลิฟฟ์: ชั่งแม่ง! นายรู้บ้างไหม ว่ามันรู้สึกยังไง ที่ต้องฝันเห็นตัวเองที่กำลังเต้นแทงโก้อยู่ไก่สดน่ะ? หะ?  
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: To tell you the truth, my last request was a test to measure your competence.
+        แซมโจ: ให้พูดตรง ๆ คำขอก่อนหน้านี้ของผมเป็นแค่บททดสอบ เพื่อชี้วัดขีดความสามารถของพวกคุณก็เท่านั่น
+        ```
+        ```
+        Samjo: And you passed with flying colors. Congratulations. I mean this one as well.
+        แซมโจ: และพวกคุณก็สอบผ่านมาได้อย่างงดงาม ยินดีด้วยนะครับ ผมหมายถึง รอบนี้ก็เหมือนกัน
+        ```
+
+        ---
+
+        <img src="../images/Heathclifff.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Who are you to test and grade us?! You—
+        แซมโจ: แกคิดว่าแกเป็นใครกัน ถึงกล้ามาทดสอบ และให้คะแนนพวกเราฟะ?! แก—
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: That’s of course—
+        แซมโจ: เรื่องนั่นก็แน่นอนอยู่แล้วครับ(ว่า)—
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: That’s of course at the discretion of Mr. Samjo, my shrewd secretary. So you must be… from Limbus Company.
+        บุคคลปริศนา: เรื่องนั่นก็แน่นอนอยู่แล้วครับ ว่าต้องเป็นดุลพินิจของคุณแซมโจ เลขาที่แสนฉลาดของผม งั้นพวกคุณก็คงมาจาก... ลิมบัสคอมเพนี สินะครับ
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dante" Dongrang="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: A pleasure to meet you, I’m Dongrang. I heard a lot about you from Samjo—it almost made me a fan.
+        
+        ```
+
+        ---
+
+        ```
+        Don Quixote: Fan??? Didst thou say just now that we have earned thine adoration?
+        ```
+
+        ---
+
+        ```
+        Rodion: It’s just flattery, Don Quixote…
+        ```
+
+        ---
+
+        ```
+        Dongrang: If I’m being quite honest… the test wasn’t my idea. I mean, you aren’t lab hens or anything, and you deserve better than involuntary tests.
+        ```
+
+        ---
+
+        ```
+        Samjo: Indeed, it was my suggestion.
+        ```
+        ```
+        Samjo: I had reason to do so as your “Limbus Company” is a little-known firm that… could or could not be newly established.
+        ```
+        ```
+        Samjo: We couldn’t take the risk of entrusting an unknown organization with a request on Mr. Dongrang’s word alone.
+        ```
+
+        ---
+
+        ```
+        Ishmael: Ahem… So, that means you’re requesting us…
+        ```
+        ```
+        Ishmael asked for confirmation that this was indeed a direct request, her face seeming rather proud.
+        ```
+
+        ---
+        
+        ```
+        Dongrang: Why, of course. Because, you all are…
+        ```
+        ```
+        Dongrang: …….
+        ```
+        ```
+        Dongrang: Ah, why don’t I show you to my lab? There are many fun things to see.
+        Dante: <Changing the subject so shamelessly is only gonna bother us more…>
+        ```
+
+        ---
+
+        ```
+        Samjo: Sorry? Are you really going to take these people to your laboratory?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Why not? They passed your test, didn’t they, Mr. Samjo.
+        ```
+        ```
+        Dongrang: And if they’ve got the skills to take down what they called an “Abnormality” as we saw today…
+        ```
+
+        ---
+
+        ```
+        Don Quixote: Aha~ Thou hast heard? My, traces of heroic deeds indeed make themselves known to the masses in no time! Fufu…
+        ```
+
+        ---
+
+        ```
+        Dongrang: Haha, that’s a fun way to put it.
+        ```
+        ```
+        Dongrang: Ah, and you must be the manager… it was Dante, yes? May we speak for a moment?
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Faust tried to say something to Dongrang, but he and Samjo pulled me far away by the time she stepped forward.
+            ```
+
+    ---
+
+    * **Episode: 6 | ตอนที่ 6<br>Location: K Corp. Laboratory Lobby | โถงต้อนรับศูนย์วิจัยคคอร์ป** 
 ---
 
 ### เพิ่มเติม

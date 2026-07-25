@@ -1657,6 +1657,7 @@
 
     * **Episode: 4 | ตอนที่ 4**
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -1670,6 +1671,8 @@
         **Location:Nest K’s Ruined Streets | ถนนเนสเคที่พังทลาย**
         
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Faust: The Abnormality has been successfully suppressed. We can return to the bus now.
@@ -1680,11 +1683,13 @@
 
         จะความหวังก็ดี จะความฝันก็ดี หรือ แม้แต่ความสิ้นหวัง ก็ล้วนแล้วแต่ เป็นอาหารอันโอชะของผม 
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         * เสียงในหัว
 
             ```
             It was a “success” that accompanied many deaths and revivals on our side, but I nodded anyway.
-            มันเป็น “ความสำเร็จ” ที่แลกมาด้วยความตาย และการชุบชีวิตนับครั้งไม่ถ้วน  แต่ไม่ว่ายังไง ฉันก็พยักหน้าตอบ
+            มันเป็น “ความสำเร็จ” ที่แลกมาด้วยความตาย และการชุบชีวิตนับครั้งไม่ถ้วน ก่อนที่ ฉันจะพยักหน้าตอบ
             ```
             ```
             We got back on the bus, harboring a few unanswered questions.
@@ -1697,196 +1702,325 @@
         
         ---
 
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Vergilius: You came back later than expected. I was just about to take my first nap in a while.
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: มาช้ากว่าที่คาดเอาไว้ซะอีกนะ ว่าจะหลับรอสักงีบแล้วเชียว 
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             I explained the oddities we ran into earlier to Vergilius. (To be more precise, Faust did the heavy speaking.)
+            ฉันเล่าเรื่องความผิดปกติที่เราพึงไปเจอมากับวอร์จิลิอุส (หรือพูดให้ถูกกว่าก็ เฟาสท์เป็นคนพูดแทนฉันทั้งหมดนั่นแหละ)
             ```
             ```
             I was expecting him to coldly tell me to do my job as the middle manager and follow whatever orders I’m given, but his answer was surprisingly earnest.
+            ตอนแรก ฉันก็นึกว่าเขาจะพูดอะไรถางถางฉันด้วยน้ำเสียงที่เย็นชา ว่านี้ก็เป็นส่วนหนึ่งของงานในฐานะผู้จัดการระดับกลางที่ต้องทำตามคำสั่งที่ได้รับหมอบหมาย แต่สิ่งที่เขาพูดออกมากลับน่าตกตะลึงกว่าที่ฉันคิดไว้ซะอีก
             ```
 
         ---
 
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Vergilius: …The existence of Abnormalities has been almost completely unknown to the public, and we don’t possess all the details on them, either, Dante.
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: ...การมีอยู่ของสิ่งแปลกปลอมแทบจะเป็นเรื่องที่สาธารณชนไม่เคยรับรู้มาก่อนเลย และฝ่ายเราเองก็ไม่ได้มีรายละเอียดข้อมูลเกี่ยวกับพวกมันเหมือนกัน
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <Didn’t think you’d admit it right away.>
-        ดันเต้: 
+        ดันเต้: <ไม่คิดเลยนะ ว่านายจะยอมรับออกมาโต้ง ๆ>
         ```
+
+        * เสียงในหัว
+
+            ```
+            Faust flinched a little, but she didn’t relay what I just said.
+            เฟาสท์สะดุ้งเล็กน้อย ก่อนที่เธอจะเมินเฉย และไม่บอกต่อสิ่งที่ฉันพูดออกไป
+            ```
 
         ---
 
-        ```
-        Faust flinched a little, but she didn’t relay what I just said.
-        เฟาสท์: 
-        ```
-
-        ---
+        <img src="../images/Vergilius.png" alt="Vegilius" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Vergilius: Enigmatic as they are… let’s leave Ms. Faust and other departments of our proud Limbus Company to uncover all the details in the future, as we likely ought to.
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: เป็นพวกที่น่าฉงนดี... แต่ช่างปะไร ไว้เราค่อยปล่อยให้คุณเฟาสท์ กับ แผนกทีมงานแห่งลิมบัสคอมเพนีที่แสนภาคภูมิของเราจัดการเรื่องเปิดโปงรายละเอียดในอนาคตเอาก็ได้ เหมือนที่เราเคยทำมาตลอด
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Faust: …Will do.
-        เฟาสท์: ...เดี๋ยวทำให้ค่ะ
+        เฟาสท์: ...เดี๋ยวทำให้ค่ะ/ไว้จะทำให้นะคะ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
         
             ```
             Was Faust given any time at all to do some sort of research on this job?
+            ไม่ใช่ว่าเฟาสท์ต้องทำงานเป็นคนบาป แล้วเธอจะเอาเวลาไหนมาสืบค้นกัน?
             ```
             ```
             The mysteries were left unsolved, but… if Faust accepted the suggestion without a hitch, that probably means she’s thought of a way.
+            ปริศนาถูกทิ้งร้างโดยที่ไม่ได้รับคำตอบ... ส่วนเฟาสท์ที่ตอบรับข้อเสนอไปโดยไม่ลังเล ก็คงหมายความ ว่าเธอมีทางออกอยู่แล้วก็ได้
             ```
 
         ---
 
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Outis: You, why do you have your shoulders hunched over like that?
-        เอาทิส: 
+        เอาทิส: นี้ ทำไมเธอถึงห่อไหล่แบบนั่นล่ะ?
         ```
         ```
         Outis: You’re short enough as you are, and this shrunken posture makes you practically imperceptible.
-        เอาทิส: 
+        เอาทิส: เดิมทีเธอก็เตี้ยอยู่แล้ว แต่ถ้ายังฝืนหดตัวต่อไป ทีนี้คงไม่มีใครมองเห็นเห็นเธอแล้วล่ะมั้ง
         ```
 
         ---
 
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Don Quixote: …I hoped to meet Lord Siegfried again…
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ...ข้าอยากพบท่านลอร์ดซีคฟรีดอีกรอบ...
         ```
         
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: (Who was Lord Sieg…fried, again?)
-        เกรกอร์: 
+        เกรกอร์: (ใครคือลอร์ดซีค...ฟรีดนะ?)
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Wasn’t that the man who took photos of himself while cutting us down with one hand?
-        อิชมาเอล: 
+        อิชมาเอล: ไอผู้ชายคนนั่นน่ะเหรอ ที่ถ่ายรูปตัวเอง ในระหว่างที่กำลังตัดพวกเราเป็นชิ้น ๆ ด้วยมือเดียวน่ะนะ?
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: (Right… That Zack Friture guy…?)
-        เกรกอร์: 
+        เกรกอร์: (อ้อ... ไอเจ้าแซคฟรีเจอร์อะไรนั่นน่ะเหรอ...?)
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
         
             ```
             Ishmael was breathing audibly through her nose. The incident at the checkpoint must’ve left some deep grudges for her.
+            ฉันได้ยิน... เสียงของอิชมาเอลที่ถอนหายใจจากรูจมูก ดูเหมือนว่าเหตุการณ์ในตอนด่านตรวจ จะยังคงหลงเหลือบาดแผลที่ลึกลงไปในใจเธอ 
             ```
 
         ---
 
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Don Quixote: Eager was I to show him… my valiant acts of rescuing imperiled civilians…
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ข้าปราถณาอย่างสุดซึ้งที่จักบอกเขา... เกี่ยวกับการกระทำที่แสนกล้าหาญของข้า ผู้ช่วยเหลือเหล่าประชาชนผู้บริสุทธิ์ให้รอดพ้นจากอันตรายสุดชั่วร้าย...
         ```
         ```
         Don Quixote: I vowed that I shall meet him again as a Fixer of noble cause…
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ข้าสวดภาวณาว่าข้าจักได้เจอเขาอีกในฐานะของฟิกเซอร์ผู้ทรงเกียรติ...
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Reunions are more touching if it’s after a long time, Don Quixote. Try thinking that it’s a good thing he didn’t show up today.
-        เกรกอร์: 
+        เกรกอร์: อ้อ งั้นเหรอ รู้ไหมว่าการกลับมาพบหน้ากันจะน่าประทับใจมากกว่า ถ้าเราไม่ได้เจอกันมานานแล้ว เพราะงั้น ก็ลองคิดดูว่า นับเป็นการดีแล้ว ที่เขาไม่ได้โผล่มาวันนี้ 
         ```
 
         ---
+
+        <img src="../images/Vergilius.png" alt="Vergiilus" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Vergilius: It really is strange, though.
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: แต่มันก็แปลกดีเหมือนกัน
         ```
         ```
         Vergilius: He’s not one to miss spectacles with this many spectators around.
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: ไอหมอนั่นไม่ใช่คนประเภทที่จะปล่อยสถานการณ์ที่มีผู้ชมมากขนาดนี้หลุดรอดไปง่าย ๆ 
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Oho… Is he kind of like a celebrity, then?
-        ฮงหลู่: 
+        ฮงหลู่: โอ้ว... งั้นเขาก็เป็นดาราอะไร อย่างนั่น/เทือกนั่น เหรอครับ? 
         ```
 
         ---
+
+        <img src="../images/Vergiilus.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">   
 
         ```
         Vergilius: You could say that. He has a flair for showmanship, so it’s usual for K Corp. to take advantage of these kinds of commotions by sending him.
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: พูดงั้นก็ไม่ผิดหรอก ไอหมอนั่นเป็นคนที่มีลีลาการแสดงที่โดดเด่นสะดุดตา เป็นเรื่องปกติ ที่เคคอร์ปจะฉวยโอกาศจากวุ่นวายในลักษณะนี้ ด้วยการส่งเขาไป
         ```
-
-        ---
-
         ```
         Vergilius: But… if he hasn’t shown up for this perfect opportunity to draw the public’s full attention…
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: แต่... การที่ไอหมอนั่นไม่ปรากฎตัวออกมา ทั้ง ๆ ที่นี้ก็เป็นโอกาศที่สมบูรณ์แบบ ที่จะดึงความสนใจจากสาธารณชนเต็มประดาแท้ ๆ...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">   
 
         ```
         Dante: <That means this isn’t something they want people to notice…>
-        ดันเต้: 
+        ดันเต้: <นั่นก็หมายความว่า นี้ไม่ใช่สิ่งที่พวกเขาต้องการให้คนรับรู้...>
         ```
 
         ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">   
         
         ```
         Don Quixote: I shan’t… take such vicious slander of Lord Siegfried!
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ข้าจักไม่ยอม... เชื่อคำใส่ร้ายสุดชั่วช้านั่นของลอร์ดซิคฟรีตเด็ดขาด! 
         ```
         ```
         Don Quixote: On the fifth row of Page 42 of his autobiography “A Hero Should Keep Smiling Until His Last”, he writes that he shall be there to aid the weak no matter when and where!
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: ในบรรทัดที่ห้าของหน้า 42 ที่เขียนไว้ในอัตชีวประวัติของเขา “ฮีโร่ต้องยิ้มให้อยู่เสมอ ตราบจนลมหายใจสุดท้ายของเขา” เขาเขียนมัน เพื่อบอก ว่าเขาจะไม่มีวันหันหลังให้ผู้อ่อนแอ ไม่ว่าเมื่อไร หรือ ที่ไหนก็ตาม!
         ```
 
         ---
 
+        <img src="../images/Vergiilus.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">   
+
         ```
         Vergilius: …Hah. Alright, you’d best hold that belief of yours dearly.
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: ...หะ ก็แล้วแต่ งั้นแกก็ยึดมั่นกับความเชื่อนั่นเอาไว้ให้ดีก็แล้วกัน
         ```
         ```
         Vergilius: That way, you’ll have something to cling to when you face the extreme in the future.
-        วอร์จิลิอุส: 
+        วอร์จิลิอุส: เพราะเมื่อถึงเวลานั่น แกจะได้มีอะไรให้โอบกอด ในตอนที่แกต้องเผชิญหน้า กับความจมดึ่งสุดขีดในอนาคต
         ```
     ---
 
     * **Episode: 5 | ตอนที่ 5**
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+        ```
+        As the futile conversations reached an end, the bus lazily pulled to a stop.
+        ```
+        ```
+        We’d arrived… in front of a building so tall that it would take a while to count the floors.
+        ```
+        ```
+        A few shrank down as if intimidated. (I understood Sinclair being one, but Heathcliff and Ishmael also seemed to be pressured.)
+        ```
+        ```
+        A few looked around with curious eyes…
+        And some others walked and carried themselves as if they knew they deserved royal treatment.
+        ```
+
+        ---
+
+        **Location: K Corp. Laboratory Lobby | โถงต้อนรับศูนย์วิจัยคคอร์ป**
+        
+        ---
+
+        Hong Lu: Fuhu, I guess we’ve earned some renown. We’re finally being
+                    invited to places regular people would live.
+        Heathcliff: Lemme make one thing clear… If the request and the reward’s a load
+                    of tosh like the last time, I’m out.
+        Heathcliff ground his teeth, whether by Hong Lu’s words or due to
+                    memories of what we got into last time we were here.
+        Samjo: Ah, you’re a little late as expected.
+        Dante: <As expected?>
+        Outis: That man is…
+        Samjo: It’s a pleasure to meet you again. I want you to know that this is
+                    my heartfelt sentiment and not a formality.
+        A familiar face I never expected to see again greeted us.
+        Heathcliff: …I’m out. Already told ya.
+        Dante: <Give it a moment! Let’s at least hear what he has to say,
+                    okay?>
+        Heathcliff: Let go! Do you even get how it feels to have nightmares about
+                    doing the tango with raw chickens? Huh?
+        Samjo: To tell you the truth, my last request was a test to measure your
+                    competence.
+        Samjo: And you passed with flying colors. Congratulations. I mean this
+                    one as well.
+        Heathcliff: Who are you to test and grade us?! You—
+        Samjo: That’s of course—
+        ???: That’s of course at the discretion of Mr. Samjo, my shrewd
+                    secretary. So you must be… from Limbus Company.
+        Dongrang: A pleasure to meet you, I’m Dongrang. I heard a lot about you from
+                    Samjo—it almost made me a fan.
+        Don Quixote: Fan??? Didst thou say just now that we have earned thine
+                    adoration?
+        Rodion: It’s just flattery, Don Quixote…
+        Dongrang: If I’m being quite honest… the test wasn’t my idea. I mean, you
+                    aren’t lab hens or anything, and you deserve better than
+                    involuntary tests.
+        Samjo: Indeed, it was my suggestion.
+        Samjo: I had reason to do so as your “Limbus Company” is a little-known
+                    firm that… could or could not be newly established.
+        Samjo: We couldn’t take the risk of entrusting an unknown organization
+                    with a request on Mr. Dongrang’s word alone.
+        Ishmael: Ahem… So, that means you’re requesting us…
+        Ishmael asked for confirmation that this was indeed a direct
+                    request, her face seeming rather proud.
+        Dongrang: Why, of course. Because, you all are…
+        Dongrang: …….
+        Dongrang: Ah, why don’t I show you to my lab? There are many fun things to
+                    see.
+        Dante: <Changing the subject so shamelessly is only gonna bother us
+                    more…>
+        Samjo: Sorry? Are you really going to take these people to your
+                    laboratory?
+        Dongrang: Why not? They passed your test, didn’t they, Mr. Samjo.
+        Dongrang: And if they’ve got the skills to take down what they called an
+                    “Abnormality” as we saw today…
+        Don Quixote: Aha~ Thou hast heard? My, traces of heroic deeds indeed make
+                    themselves known to the masses in no time! Fufu…
+        Dongrang: Haha, that’s a fun way to put it.
+        Dongrang: Ah, and you must be the manager… it was Dante, yes? May we speak
+                    for a moment?
+        Faust tried to say something to Dongrang, but he and Samjo pulled
+                    me far away by the time she stepped forward.
+
 ---
 
 ### เพิ่มเติม

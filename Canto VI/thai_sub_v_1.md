@@ -1886,7 +1886,7 @@
 
         ---
 
-        <img src="../images/Vergiilus.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">   
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">   
 
         ```
         Vergilius: You could say that. He has a flair for showmanship, so it’s usual for K Corp. to take advantage of these kinds of commotions by sending him.
@@ -1921,7 +1921,7 @@
 
         ---
 
-        <img src="../images/Vergiilus.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">   
+        <img src="../images/Vergilius.png" alt="Vergilius" width="100" style="display: block; margin: 0 auto;">   
 
         ```
         Vergilius: …Hah. Alright, you’d best hold that belief of yours dearly.
@@ -2055,7 +2055,7 @@
         
         ---
 
-        <img src="../images/Heathclifff.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Heathcliff: Let go! Do you even get how it feels to have nightmares about doing the tango with raw chickens? Huh?
@@ -2077,7 +2077,7 @@
 
         ---
 
-        <img src="../images/Heathclifff.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Who are you to test and grade us?! You—
@@ -2162,7 +2162,7 @@
 
         ```
         Ishmael: Ahem… So, that means you’re requesting us…
-        อิชมาเอล: อะแฮ่ม... งั้นก็หมายความว่าคุณ กำลังร้องขอพวกเราอยู่สินะ...
+        อิชมาเอล: อะแฮ่ม... งั้นก็หมายความว่าคุณ กำลังร้องขอให้พวกเราช่วยอยู่สินะ...
         ```
 
         ---

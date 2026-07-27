@@ -2354,36 +2354,38 @@
 
         ```
         Samjo: See, this is why I can’t let my guard down for even a second. You’re too easily influenced by human attachment…
-        แซมโจ: เห็นไหมล่ะครับ ว่าทำไมผมถึงลดการ์ดจากคุณไม่ได้สักวิเดียว คุณถูกชักจูงง่ายเกินไป ด้วยความผูกพันระหว่างคน...
+        แซมโจ: เห็นไหมล่ะครับ ว่าทำไมผมถึงลดการ์ดจากคุณไม่ได้สักวิเดียว คุณถูกชักจูงง่ายเกินไป จากความผูกพันระหว่าง มนุษย์/บุคคล...
         ```
         
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: So, let me ask you a favor; use your tact and consideration to… pretend that you know nothing about the relationship between him and me, okay?
-        ดงรัง: 
+        ดงรัง: เพราะงั้น ขอรบกวนอะไรหน่อยได้ไหมครับ; ผมอยากให้คุณใช้ลูกเล่นอะไรก็ได้ และแสร้งทำ... เหมือนกับ ว่าคุณไม่รู้เรื่องความสัมพันธ์ระหว่างผมกับเขาหน่อยนะครับ?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <You haven’t even told me who that friend is…>
-        ดันเต้: 
+        ดันเต้: <นายยังไม่ได้บอกฉันเลยด้วยซ้ำ ว่าเพื่อนที่นายหมายถึงคือใคร...>
         ```
-
-        ---
 
         * เสียงในหัว
 
             ```
             I could only let out a deep sigh and shake my head…
             The conversation that never got through ended as arbitrarily as it began.
+            ฉันทำได้แต่ถอนหายใจเฮือกใหญ่ออกมา และส่ายหัว... บทสนทนาที่คุยกันเมื่อกี้จบลง อย่างไม่มีปี่ไม่มีคลุ่ย พอ ๆ กับตอนที่มันเริ่มต้น
             ```
-
-        ---
 
         ```
         Dante: <This isn’t asking a favor. You’re givine me a notice.>
+        ดันเต้: <นี้ไม่เรียกว่าขอแล้ว ถ้านายจะเล่นบอกฉันมาโต้ง ๆ แบบนี้>
         ```
 
         ---
@@ -2392,32 +2394,44 @@
         
         ---
 
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Samjo: We’re at the laboratory aisle. Ordinary visitors would not be permitted to go any further…
+        แซมโจ: เรามาถึงยังทางเดินห้องแลปแล้วครับ โดยปกติ ผู้เยี่ยมชมโดยทั่ว ๆ ไป จะไม่มีสิทธิ์ไปไกลมากกว่านี้...
         ```
         ```
         Samjo: But since you’ve been invited by Mr. Dongrang… I will show you to the interior.
+        แซมโจ: แต่ในเมื่อพวกคุณถูกเชิญมา ด้วยตัวของคุณดงรังเองก็คงช่วยไม่ได้... ผมจะพาไปดูด้านในเองครับ
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Wow… I hoped… I could work at a company as big as this.
+        ซินแคร์: ว้าว... ผมหวังว่า... เราจะได้ทำงาน ในองค์กรที่ใหญ่เท่านี้จัง
         ```
 
         ---
 
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Rodion: Then, maybe you could’ve applied to one~ Why didn’t you give it a shot?
+        โรเดียน: แหม บางทีพวกคุณน่าจะรับเพิ่มสักคนน้า~ ไม่คิดงั้นเหรอ?
         ```
 
         ---
 
         ```
         Ishmael: You’re joking, right, Rodion? Not everyone can join these companies. This kind of firm only accepts the very best of the elite.
+        อิชมาเอล: 
         ```
         ```
         Ishmael: Like Faust or Yi Sang, for example…
+        อิชมาเอล: 
         ```
         
         ---

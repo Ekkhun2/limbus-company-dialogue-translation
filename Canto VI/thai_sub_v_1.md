@@ -2242,7 +2242,7 @@
         ```
         ```
         Dongrang: Ah, and you must be the manager… it was Dante, yes? May we speak for a moment?
-        ดงรัง: อา และคุณที่อยู่ทางนี้ คงเป็นคุณผู้จัดการไม่ผิดแน่... ชื่อดันเต้ใช่ไหมครับ? จะว่าอะไรไหม ถ้าผม... จะขอคุยด้วยเป็นการส่วนตัวสักเดี๋ยว?
+        ดงรัง: อา และคุณที่อยู่ทางนี้ คงเป็นคุณผู้จัดการไม่ผิดแน่... ชื่อดันเต้ใช่ไหมครับ? จะว่าอะไรไหม ถ้าผม... จะขอคุยด้วยเป็นการส่วนตัวสักหน่อย?
         ```
 
         ---
@@ -2265,80 +2265,110 @@
 
         ```
         Dante: <I mean… I don’t mind, but you two can’t hear me anyway.>
+        ดันเต้: <คือ... ฉันก็ไม่ได้ว่าอะไรหรอกนะ แต่ถึงฉันพูดอะไรไปพวกนายก็คงไม่ได้ยินอยู่ดี>
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: I was too embarrassed to bring it up in front of the whole group, but actually, one of your… employees was an old friend of mine.
+        ดงรัง: พอดีว่าผม รู้สึกค่อนข้างอับอายน่ะครับที่จะพูดเรื่องนี้ออกมาต่อหน้าทั้งกลุ่ม แต่อันที่จริงแล้ว หนึ่งใน... พนักงานของคุณ เคยเป็นเพื่อนกับผมน่ะครับ 
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Dante: <Oh, who is it?>
+        ดันเต้: <โอ้ ใครเหรอ/ถามได้ไหมว่าใคร?>
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: And he wouldn’t give me a nod, either. Perhaps he was embarrassed like me. It was a struggle to hide how disheartened I was.
+        ดงรัง: แล้วเขาคนนั่นก็ไม่ได้พนักหน้าตอบผมด้วย เพราะงั้นบางที เขาอาจจะรู้สึกอับอายอยู่เหมือนกัน มันเรื่องยากมากเลยล่ะครับ ที่จะปกปิด ว่าผมท้อใจแค่ไหน
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <Maybe you weren’t as close as you thought, then? …Wait, can you hear my voice?>
+        ดันเต้: <บางที คุณกับเขาอาจไม่ได้สนิทอย่างที่คุณคิดก็ได้? ...เดี๋ยวนะ คุณได้ยินเสียงผมด้วยเหรอ?>
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
 
         ```
         Samjo: Mr. Dongrang, this individual is unable to communicate normally.
+        แซมโจ: คุณดงรังครับ บุคคลผู้นี้ ไม่สามารถสื่อสารได้อย่างปกติครับ
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: That’s why I’m speaking, Mr. Samjo. It’s like I’m back to being a child, muttering my woes to a wind-up toy, don’t you think?
+        ดงรัง: นั่นแหละว่าทำไมผมถึงพูดอยู่ คุณแซมโจ มันก็เหมือนกับการที่ผมกลับกลายเป็นเด็ก พึมพัมความทุกข์ใจกับของเล่นไขลาน คุณไม่คิดงั้นเหรอ?  
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             …That all was a monologue?
+            ...ทั้งหมดนั่นแค่พูดคนเดียวเนี้ยนะ?
             ```
-
-        ---
 
         ```
         Dante: <What are you two even doing?>
+        ดันเต้: <พวกคุณกำลังทำอะไรอยู่กันแน่?>
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: It was mostly because of him that I decided to send my request to you. I can trust a familiar person better than a stranger.
+        ดงรัง: ส่วนหลักก็เพราะเขาเลย ที่ผมตัดสินใจส่งคำร้องขอให้กับพวกคุณ ก็อย่างว่า ผมจะเชื่อใจใครได้ มากกว่าคนคุ้นเคยที่ไม่ใช่คนแปลกหน้า
         ```
 
         ---
 
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Samjo: See, this is why I can’t let my guard down for even a second. You’re too easily influenced by human attachment…
+        แซมโจ: เห็นไหมล่ะครับ ว่าทำไมผมถึงลดการ์ดจากคุณไม่ได้สักวิเดียว คุณถูกชักจูงง่ายเกินไป ด้วยความผูกพันระหว่างคน...
         ```
         
         ---
 
         ```
         Dongrang: So, let me ask you a favor; use your tact and consideration to… pretend that you know nothing about the relationship between him and me, okay?
+        ดงรัง: 
         ```
 
         ---
 
         ```
         Dante: <You haven’t even told me who that friend is…>
+        ดันเต้: 
         ```
 
         ---
@@ -2488,175 +2518,541 @@
 
         ---
 
-        Dongrang: Take as many as you’d like. Mr. Samjo, pack some snacks from the
-                    break room into small bundles to give them later.
+        ```
+        Dongrang: Take as many as you’d like. Mr. Samjo, pack some snacks from the break room into small bundles to give them later.
+        ```
+
+        ---
+
+        ```
         Samjo: Understood.
-        Rodion: That’s awesome, Ishy, maybe we should quit our job and join up
-                    here?
-        Ishmael: Everyone can hear you, Rodya…
+        ```
+
+        ---
+        
+        ```
+        Rodion: That’s awesome, Ishy, maybe we should quit our job and join up here?
+        ```
+
+        ---
+
+        ```
+        Ishmael: Everyone can hear you, Rodya… 
+        ```
+        
+        ---
+
+        ```
         Faust: Rodion, the work contract says…
+        ```
+
+        ---
+
+        ```
         Rodion: Joking, Faust. Joking. See?
+        ```
+
+        ---
+
+        ```
         Dante: <……>
+        ```
+
+        ---
+
+        ```
         Dongrang: Let’s move on to the request—
-        Shrenne: You’re bringing outsiders into the building now… What are you, a
-                    field trip guide, Dongrang?
-        Dongrang: Ah. Pardon me for a moment. This is Shrenne. She’s the manager of
-                    the department next to mine and a colleague who joined the company
-                    at the same time as I did. Visiting me to hurl hurtful words takes
-                    up much of her daily routine.
-        Shrenne: I figured someone’s got to point out the massive drain on our
-                    company's welfare budget that is your team.
-        Dongrang: Ah, if you’re wondering about how we spend our welfare budget…
-                    You’ll see when the Department of the Year trophy is awarded.
-                    Right, Samjo?
-        Samjo: It would take a full day to list the benefits the department
-                    chosen as the best receives.
+        ```
+
+        ---
+
+        ```
+        Shrenne: You’re bringing outsiders into the building now… What are you, a field trip guide, Dongrang?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Ah. Pardon me for a moment. This is Shrenne. She’s the manager of the department next to mine and a colleague who joined the company at the same time as I did. Visiting me to hurl hurtful words takes up much of her daily routine.
+        ```
+
+        ---
+
+        ```
+        Shrenne: I figured someone’s got to point out the massive drain on our company's welfare budget that is your team.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Ah, if you’re wondering about how we spend our welfare budget… You’ll see when the Department of the Year trophy is awarded. Right, Samjo?
+        ```
+
+        ---
+
+        ```
+        Samjo: It would take a full day to list the benefits the department chosen as the best receives.
+        ```
+
+        ---
+
+        ```
         Shrenne: Eugh, you’re snobs, the both of you.
-        Gregor: Hm. Is that a rival? I do suppose excellence is followed by envy
-                    wherever it is.
-        Dongrang: Envy fuels advancement, as they say, so it’s only right for us to
-                    show a little generosity for those following behind. Should we
-                    give some of the pies we bought from that store to Shrenne’s
-                    department, Mr. Samjo?
-        Samjo: I was planning to do so. The pepper, chili, lettuce, and
-                    curry-flavored ones, specifically.
+        ```
+
+        ---
+
+        ```
+        Gregor: Hm. Is that a rival? I do suppose excellence is followed by envy wherever it is.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Envy fuels advancement, as they say, so it’s only right for us to show a little generosity for those following behind. Should we give some of the pies we bought from that store to Shrenne’s department, Mr. Samjo?
+        ```
+
+        ---
+
+        ```
+        Samjo: I was planning to do so. The pepper, chili, lettuce, and curry-flavored ones, specifically.
+        ```
+
+        ---
+
+        ```
         Rodion: Gasp… That… also sounds tasty?
+        ```
+
+        ---
+
+        ```
         Dongrang: Haha… Now then, let’s get back to the main topic.
-        Dongrang: I heard the rumors. They were about a newly formed company
-                    collecting organic objects called “Golden Boughs”.
-        Dongrang: And those Golden Boughs are found exclusively inside the
-                    closed-down branch facilities of Lobotomy Corp.
+        ```
+        ```
+        Dongrang: I heard the rumors. They were about a newly formed company collecting organic objects called “Golden Boughs”.
+        ```
+        ```
+        Dongrang: And those Golden Boughs are found exclusively inside the closed-down branch facilities of Lobotomy Corp.
+        ```
+
+        ---
+
+        ```
         Outis: How did you learn about the existence of Golden Boughs?
-        Dongrang: It was a recent discovery. We’d been using a Lobotomy Corp. branch
-                    near our research facility as a lab until a few months ago.
+        ```
+
+        ---
+
+        ```
+        Dongrang: It was a recent discovery. We’d been using a Lobotomy Corp. branch near our research facility as a lab until a few months ago.
+        ```
+
+        ---
+
+        ```
         Heathcliff: You… set up a lab in that horrible place?
+        ```
+
+        ---
+
+        ```
         Sinclair: But, I thought they were all buried underground…
-        Gregor: Well… I guess there were rare resources and documents they could
-                    use…
+        ```
+
+        ---
+
+        ```
+        Gregor: Well… I guess there were rare resources and documents they could use…
+        ```
+
+        ---
+
+        ```
         Faust: …Did the scope of your research include Abnormalities?
-        Dongrang: Why, certainly. No researcher could overlook such intriguing
-                    subjects.
-        Heathcliff: Researchers must be all soft in the head if that’s what they’re
-                    interested in…
+        ```
+
+        ---
+
+        ```
+        Dongrang: Why, certainly. No researcher could overlook such intriguing subjects.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Researchers must be all soft in the head if that’s what they’re interested in…
+        ```
+        ```
         Heathcliff: …Hold on.
-        Heathcliff: When you were mumbling rubbish and tossing a rock at one of them
-                    chickenheads, did you…
+        ```
+        ```
+        Heathcliff: When you were mumbling rubbish and tossing a rock at one of them chickenheads, did you…
+        ```
+
+        ---
+
+        ```
         Samjo: Ahrmhrm…
-        Faust: I will say, Heathcliff’s unexpected fits of insight surprise me
-                    sometimes.
-        Faust: You led us into dealing with a Distortion in a “coincidental”
-                    encounter so that you could gather data for your research on
-                    Abnormalities.
-        Dongrang: Mr. Samjo here is no good at acting. I suppose it’s due to his
-                    upright way of life.
-        Dongrang: Please understand. We had no means to clearly distinguish a
-                    Distortion from an Abnormality.
-        Dongrang: A person distorts “when the mind crumbles to figurative pieces…”
-                    was it? That was a stellar figure of speech. Did you restore his
-                    crumbled mind back to health, then?
+        ```
+
+        ---
+
+        ```
+        Faust: I will say, Heathcliff’s unexpected fits of insight surprise me sometimes.
+        ```
+        ```
+        Faust: You led us into dealing with a Distortion in a “coincidental” encounter so that you could gather data for your research on Abnormalities.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Mr. Samjo here is no good at acting. I suppose it’s due to his upright way of life.
+        ```
+        ```
+        Dongrang: Please understand. We had no means to clearly distinguish a Distortion from an Abnormality.
+        ```
+        ```
+        Dongrang: A person distorts “when the mind crumbles to figurative pieces…” was it? That was a stellar figure of speech. Did you restore his crumbled mind back to health, then?
+        ```
+
+        ---
+
+        ```
         Faust: There is no way to piece together someone else’s broken mind.
-        Faust: We merely showed him the way. It was the choice of the restaurant
-                    owner whether to stay there or take that path.
-        Dongrang: Wow, you know so much. If I were just a bit younger, I’d have
-                    jumped and hopped trying to high-five you.
+        ```
+        ```
+        Faust: We merely showed him the way. It was the choice of the restaurant owner whether to stay there or take that path.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Wow, you know so much. If I were just a bit younger, I’d have jumped and hopped trying to high-five you.
+        ```
+
+        ---
+
+        ```
         Faust: You’re always unwelcome to try.
+        ```
+
+        ---
+
+        ```
         Samjo: Mr. Dongrang, you’re becoming sidetracked again.
-        Dongrang: Ah, you’re right. Alright… Then, one day, while we happily
-                    indulged in research in that laboratory of the Lobotomy Corp.
-                    branch facility, armed terrorists attacked the place. It was all
-                    too sudden.
-        Dongrang: Have you ever seen a bomb set off before your eyes? It’s quite the
-                    spectacle. It all starts and ends in a split second. Just like the
-                    universe, isn’t it?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Ah, you’re right. Alright… Then, one day, while we happily indulged in research in that laboratory of the Lobotomy Corp. branch facility, armed terrorists attacked the place. It was all too sudden.
+        ```
+        ```
+        Dongrang: Have you ever seen a bomb set off before your eyes? It’s quite the spectacle. It all starts and ends in a split second. Just like the universe, isn’t it?
+        ```
+
+        ---
+
+        ```
         Outis: Where are the terrorists now?
-        Samjo: The members have almost nothing in common, and their motive is
-                    unknown. They only showed up recently.
-        Samjo: In the end, the terrorist organization took over the laboratory
-                    Mr. Dongrang’s team had stayed in.
+        ```
+
+        ---
+
+        ```
+        Samjo: The members have almost nothing in common, and their motive is unknown. They only showed up recently.
+        ```
+        ```
+        Samjo: In the end, the terrorist organization took over the laboratory Mr. Dongrang’s team had stayed in.
+        ```
+
+        ---
+
+        ```
         Outis: Mm. That must be when the lab was moved.
+        ```
+
+        ---
+
+        ```
         Yi Sang: …How severe was the damage?
-        Dongrang turned his gaze from Yi Sang to the sporadically
-                    unoccupied seats.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Dongrang turned his gaze from Yi Sang to the sporadically unoccupied seats.
+            ```
+
+        ---
+
+        ```
         Dongrang: You see, those empty seats…
-        Dongrang: They’ll stay that way for a while. Their owners died—in that act
-                    of terror.
-        Looking closely, I saw snacks and flowers placed on their
-                    cushions, probably as a way to mourn the dead.
-        Dongrang: Ah, this fellow we only managed to recover a finger from. We
-                    couldn’t find the right place to put it, so we’ve been keeping it
-                    in storage. It should be over at the display on the second floor.
-        A solemn silence filled the office, but Dongrang continued,
-                    brushing the empty desk with his hand.
+        ```
+        ```
+        Dongrang: They’ll stay that way for a while. Their owners died—in that act of terror.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Looking closely, I saw snacks and flowers placed on their cushions, probably as a way to mourn the dead.
+            ```
+
+        ---
+
+        ```
+        Dongrang: Ah, this fellow we only managed to recover a finger from. We couldn’t find the right place to put it, so we’ve been keeping it in storage. It should be over at the display on the second floor.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            A solemn silence filled the office, but Dongrang continued, brushing the empty desk with his hand.
+            ```
+
+        ---
+
+        ```
         Dongrang: There is so much we had to leave behind.
+        ```
+
+        ---
+
+        ```
         Gregor: …Dongrang…
-        Dongrang: I especially miss the plaque modeled after the face of my
-                    character, that was a favorite souvenir of mine.
-        Gregor: I’ll be stumped, I can’t tell how much of what he says is a joke
-                    and how much of it is serious.
+        ```
+
+        ---
+
+        ```
+        Dongrang: I especially miss the plaque modeled after the face of my character, that was a favorite souvenir of mine.
+        ```
+
+        ---
+
+        ```
+        Gregor: I’ll be stumped, I can’t tell how much of what he says is a joke and how much of it is serious.
+        ```
+
+        ---
+
+        ```
         Outis: What about that seat, then?
-        Our attention was brought to a white desk that was completely
-                    empty.
+        ```
+
+        ---
+
+        * เสียงในหัว
+        
+        ```
+        Our attention was brought to a white desk that was completely empty.
+        ```
+
+        ---
+
+        ```
         Dongrang: Ah, that one is reserved.
+        ```
+        ```
         Dongrang: We’re waiting for a new employee to take that seat.
-        Ishmael: Oh… Is there an application guideline for the position, then?
-                    Where can I see it?
+        ```
+
+        ---
+
+        ```
+        Ishmael: Oh… Is there an application guideline for the position, then? Where can I see it?
+        ```
+
+        ---
+
+        ```
         Samjo: Ahem.
-        Ishmael’s bright-eyed inquisition was interrupted by Samjo’s
-                    displeased utterance.
-        Dongrang: Oh dear, our Mr. Samjo is feeling all uncomfortable now. Shall we
-                    actually get to the point then, Samjo?
-        Samjo: Let me be blunt; I suggest an accord that will benefit both
-                    parties.
-        Samjo: If you help us retake the laboratory, we’ll yield the ownership of
-                    the Golden Bough we found to you.
-        Faust: I have a question. Is this a fixed contract, or a post-fulfillment
-                    review contract? Will it be represented by delegate bodies or
-                    co-executive members?
-        Samjo: Allow me to answer that. This will be an immediate
-                    delegate-body-represented contract with no warranty liability. A
-                    contractual signing overseen by an observer from a Grade 1
-                    Contract Office will take place following due process.
-        Dante: <A Contract Office…? I-I dunno what’s going on… Does it really
-                    have to be so complicated?>
-        Ishmael: In J Corp’s District, we couldn’t get the Golden Bough right away
-                    despite winning because we didn’t have anyone overseeing the deal.
-        Gregor: Oh… That Ayuda from the Merry Archils? She started a fight even
-                    after Rodya won the game.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Ishmael’s bright-eyed inquisition was interrupted by Samjo’s displeased utterance.
+            ```
+
+        ---
+
+        ```
+        Dongrang: Oh dear, our Mr. Samjo is feeling all uncomfortable now. Shall we actually get to the point then, Samjo?
+        ```
+
+        ---
+
+        ```
+        Samjo: Let me be blunt; I suggest an accord that will benefit both parties.
+        ```
+        ```
+        Samjo: If you help us retake the laboratory, we’ll yield the ownership of the Golden Bough we found to you.
+        ```
+        
+        ---
+
+        ```
+        Faust: I have a question. Is this a fixed contract, or a post-fulfillment review contract? Will it be represented by delegate bodies or co-executive members?
+        ```
+
+        ---
+
+        ```
+        Samjo: Allow me to answer that. This will be an immediate delegate-body-represented contract with no warranty liability. A contractual signing overseen by an observer from a Grade 1 Contract Office will take place following due process.
+        ```
+
+        ---
+
+        ```
+        Dante: <A Contract Office…? I-I dunno what’s going on… Does it really have to be so complicated?>
+        ```
+
+        ---
+
+        ```
+        Ishmael: In J Corp’s District, we couldn’t get the Golden Bough right away despite winning because we didn’t have anyone overseeing the deal.
+        ```
+
+        ---
+
+        ```
+        Gregor: Oh… That Ayuda from the Merry Archils? She started a fight even after Rodya won the game.
+        ```
+
+        ---
+
+        ```
         Sinclair: It’s Aida from Los Mariachis…
-        Ishmael: That’s right. Instead of playing the role of the observer, she
-                    left us with no choice but to take the Bough with force.
-        Ishmael: Which is why it is safer to use the service of an Association or a
-                    Contract Office to stand as an observer or to notarize the
-                    contract even if it can be costly. That’s what Faust probably
-                    considered most carefully, I think.
-        Ishmael explained like it was common knowledge. I guess it’s
-                    something well-known among City folks…
+        ```
+
+        ---
+
+        ```
+        Ishmael: That’s right. Instead of playing the role of the observer, she left us with no choice but to take the Bough with force.
+        ```
+        ```
+        Ishmael: Which is why it is safer to use the service of an Association or a Contract Office to stand as an observer or to notarize the contract even if it can be costly. That’s what Faust probably considered most carefully, I think.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Ishmael explained like it was common knowledge. I guess it’s something well-known among City folks…
+            ```
+
+        ---
+
+        ```
         Faust: This contract certainly favors our side.
+        ```
+        ```
         Faust & Samjo: As long as the goal is achieved.
-        …We watched with our mouths agape as the two declared the
-                    conclusion at once.
-        Dongrang: This is a secret, but, I frankly don’t get more than half of what
-                    Samjo says. I just nod like “Oh I see~” and move on.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            …We watched with our mouths agape as the two declared the conclusion at once.
+            ```
+
+        ---
+
+        ```
+        Dongrang: This is a secret, but, I frankly don’t get more than half of what Samjo says. I just nod like “Oh I see~” and move on.
+        ```
+
+        ---
+
+        ```
         Gregor: Isn’t that a coincidence? It’s the same for us, too.
-        Ishmael: Aren’t you supposed to be the last person to be ignorant of your
-                    secretary’s words…?
-        Hong Lu: Aha, still, I guess making a contract with K Corp’s laboratory
-                    means we won’t be fighting against the Wing’s staff for a while.
+        ```
+
+        ---
+
+        ```
+        Ishmael: Aren’t you supposed to be the last person to be ignorant of your secretary’s words…?
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Aha, still, I guess making a contract with K Corp’s laboratory means we won’t be fighting against the Wing’s staff for a while.
+        ```
+        ```
         Hong Lu: You know, those people who would keep healing their wounds.
-        The team fell into a somber silence. All the memories related to
-                    them were filled with misery and suffering.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            The team fell into a somber silence. All the memories related to them were filled with misery and suffering.
+            ```
+
+        ---
+
+        ```
         Dongrang: Ah, so you’ve seen K Corp’s regenerative technology already.
+        ```
+
+        ---
+
+        ```
         Rodion: Ugh, we’ve more than seen it!
+        ```
+
+        ---
+
+        ```
         Gregor: Had to deal with it over and over, I get sick of the thought…
-        Dongrang: Ah… Why don’t I show you around my lab instead, then? It’s not
-                    here, though… You’ll have to take the elevator once more.
-        Samjo: Geh? You would show them that much, Mr. Dongrang? That place is
-                    off-limits for unauthorized personnel…
-        Dongrang: Hah, you just made a really funny noise, Mr. Samjo. Well, it
-                    shouldn’t hurt. We’re hanging out a bit to celebrate the
-                    provisional contract being signed.
-        I wasn’t sure if that was an appropriate way to celebrate things…
-                    but since no one on the team objected, I decided to follow him.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Ah… Why don’t I show you around my lab instead, then? It’s not here, though… You’ll have to take the elevator once more.
+        ```
+
+        ---
+
+        ```
+        Samjo: Geh? You would show them that much, Mr. Dongrang? That place is off-limits for unauthorized personnel…
+        ```
+
+        ---
+
+        ```
+        Dongrang: Hah, you just made a really funny noise, Mr. Samjo. Well, it shouldn’t hurt. We’re hanging out a bit to celebrate the provisional contract being signed.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            I wasn’t sure if that was an appropriate way to celebrate things… but since no one on the team objected, I decided to follow him.
+            ```
+
+    ---
+
+    * **Episode: 7 | ตอนที่ 7<br>Location: K Corp. Laboratory - Modification Lab | ห้องแลปศูนย์วิจัยคคอร์ป - ห้องดัดแปลง** 
 ---
 
 ### เพิ่มเติม

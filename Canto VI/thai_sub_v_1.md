@@ -1959,7 +1959,7 @@
 
         ---
 
-        **Location: K Corp. Laboratory Lobby | โถงต้อนรับศูนย์วิจัยคคอร์ป**
+        **Location: K Corp. Laboratory Lobby | ล็อบบี้ศูนย์วิจัยคคอร์ป**
         
         ---
 
@@ -2258,7 +2258,7 @@
 
     ---
 
-    * **Episode: 6 | ตอนที่ 6<br>Location: K Corp. Laboratory Lobby | โถงต้อนรับศูนย์วิจัยคคอร์ป** 
+    * **Episode: 6 | ตอนที่ 6<br>Location: K Corp. Laboratory Lobby | ล็อบบี้ศูนย์วิจัยคคอร์ป** 
 
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
@@ -2411,7 +2411,7 @@
 
         ```
         Sinclair: Wow… I hoped… I could work at a company as big as this.
-        ซินแคร์: ว้าว... ผมหวังว่า... เราจะได้ทำงาน ในองค์กรที่ใหญ่เท่านี้จัง
+        ซินแคร์: ว้าว... ผมหวังว่า... จะได้ทำงาน ในองค์กรที่ใหญ่เท่านี้เหมือนกัน
         ```
 
         ---
@@ -2425,51 +2425,61 @@
 
         ---
 
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ishmael: You’re joking, right, Rodion? Not everyone can join these companies. This kind of firm only accepts the very best of the elite.
-        อิชมาเอล: 
+        อิชมาเอล: นี้เธอล้อกันเล่นใช่ไหมเนี้ย โรเดียน? ไม่ใช่ว่าทุกคนจะเข้าองค์กรที่รับแต่พวกหัวกะทิแบบนี้ได้หรอกนะ 
         ```
         ```
         Ishmael: Like Faust or Yi Sang, for example…
-        อิชมาเอล: 
+        อิชมาเอล: ถ้าเฟาสท์ หรือ ยี่ซัง ก็ว่าไปอย่าง...
         ```
         
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
         
             ```
             Ishmael’s remark gave me a good opportunity to bring up my earlier question.
+            คำพูดของอิชมาเอลเปิดโอกาศให้ฉันได้หยิบยกคำถามที่เคยคิดไว้ก่อนหน้านี้ออกมา
             ```
-
-        ---
 
         ```
         Dante: <Yeah, why did you choose to join Limbus Company out of all the options you had? There must’ve been better places to shoot for.>
+        ดันเต้: <อ่า จริงสิ ทำไมเธอถึงเลือกที่จะเข้ามาทำงานในลิมบัสคอมเพนีแทนที่จะไปที่อื่นล่ะ? มันก็น่าจะมีที่ที่ดีกว่านี้อยู่ไม่ใช่เหรอ>
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: Because I am Faust.
+        เฟาสท์: เพราะฉันคือเฟาสท์ค่ะ
         ```
 
         ---
 
         ```
-        Dante: <……>
+        Dante: <......>
+        ดันเต้: <......>
         ```
 
         ---
 
-        ```
-        There was a certain energy in her confidently clarifying tone that discouraged me from asking another question.
-        ```
+        * เสียงในหัว
 
-        ---
+            ```
+            There was a certain energy in her confidently clarifying tone that discouraged me from asking another question.
+            มีพลังงานอะไรบางอย่าง ในน้ำเสียงอธิบายปนมั่นใจนั่น ที่ทำเอาฉันหมดไฟจะถามต่อเลย
+            ```
 
         ```
         Dante: <What about you, Yi Sang?>
+        ดันเต้: <แล้วนายล่ะ ยี่ซัง?>
         ```
 
         ---

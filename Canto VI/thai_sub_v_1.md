@@ -2484,34 +2484,45 @@
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Yi Sang: Let me take the trouble of asking in return. Manager, why did you join the company you work for?
+        ยี่ซัง: งั้นผมขอรบกวนถามกลับบ้าง คุณผู้จัดการ ทำไมคุณถึงเข้ามาทำงานในองค์กรนี้ล่ะครับ?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <I mean, that’s because I had no other choice.>
+        ดันเต้: <คือว่า เรื่องนั่นฉันมีทางเลือกซะทีไหนล่ะ>
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: …That should sufficiently answer your question.
+        ยี่ซัง: ...นั่นก็น่าจะเพียงพอแล้วที่จะตอบคำถามของคุณ
         ```
 
         ---
 
-        ```
-        Dante: <……>
-        ```
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
-        ---
+        ```
+        Dante: <......>
+        ดันเต้: <......>
+        ```
 
         * เสียงในหัว
         
             ```
             It looks like Ishmael wasn’t exaggerating about the qualifications it takes to join this firm.
+            ดูเหมือนว่าอิชมาเอลจะไม่ได้พูดเว้อไปเองสินะ เรื่องคุณสมบัติที่ตัวบุคคลพึงมี ในการที่จะเข้าร่วมกับองค์กรนี้ได้
             ```
 
         ---
@@ -2524,80 +2535,117 @@
 
             ```
             The laboratory was dominated by a stillness that could only be achieved with everyone in total focus.
+            ห้องแลปตกอยู่ในความเงียบสงัด ในแบบที่จะเกิดขึ้นได้ เมื่อทุกคนต่างใจจดใจจ่ออยู่กับบางสิ่งเท่านั้น
             ```
 
         ---
 
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Rodion: Dante, Dante, Dante, look, there… You see that? The fridge is full of snacks… We could take one… or ten, and they wouldn’t notice!
+        โรเดียน: ดันเต้ ดันเต้ ดันเต้ ดูตรงนั่นสิ... เห็นไหม? ตู้เย็นนั่นมีแต่ขนมเต็มไปหมดเลย... บางทีเราน่าจะเอาไปสักถุง... หรือสิบ จะเท่าไหร่ยังไงพวกเขาก็คงไม่รู้หรอก!
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             And we would break that stillness with nonchalance.
+            แล้วเราก็ทำลายความเงียบสงัดนั่นไป ด้วยการทำตัวไม่รู้ร้อน 
             ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: Take as many as you’d like. Mr. Samjo, pack some snacks from the break room into small bundles to give them later.
+        ดงรัง: อยากเอาไปเท่าไหร่ ก็หยิบตามใจชอบได้เลยนะครับ คุณแซมโจ หลังจบนี้ ผมวานคุณให้ช่วยแพ็คขนมที่อยู่ในห้องพักเป็นมัดเล็ก ๆ เพื่อส่งมอบให้พวกเขาด้วยนะครับ 
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Understood.
+        แซมโจ: รับทราบครับ
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Rodion: That’s awesome, Ishy, maybe we should quit our job and join up here?
+        โรเดียน: นั่นเยี่ยมไปเลยค่ะ อิชชี่ บางทีเราน่าจะลาออก และมาทำงานที่นี้น้า?
         ```
 
         ---
 
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ishmael: Everyone can hear you, Rodya… 
+        อิชมาเอล: ทุกคนได้ยินเธอหมดนะ โรดย่า...
         ```
         
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: Rodion, the work contract says…
+        เฟาสท์: โรเดียน สัญญาจ้างบอกว่า...
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Joking, Faust. Joking. See?
+        โรเดียน: ล้อเล่นน่ะ เฟาสท์ ล้อเล่น เข้าใจไหม?
         ```
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dante: <……>
+        Dante: <......>
+        ดันเต้: <......>
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Let’s move on to the request—
+        ดงรัง: งั้นเรามาเข้าเรื่องคำขอกันเลยนะ(ครับ)—
         ```
 
         ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Shrenne: You’re bringing outsiders into the building now… What are you, a field trip guide, Dongrang?
+        ชเรนน์: รอบนี้นายเล่นพาคนนอกเข้ามาถีงข้างในแลปเราเลยเหรอ... นายเป็นบ้านักหนาเนี้ย คนนำเที่ยวหรือไง ดงรัง?
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: Ah. Pardon me for a moment. This is Shrenne. She’s the manager of the department next to mine and a colleague who joined the company at the same time as I did. Visiting me to hurl hurtful words takes up much of her daily routine.
+        ดงรัง: 
         ```
 
         ---

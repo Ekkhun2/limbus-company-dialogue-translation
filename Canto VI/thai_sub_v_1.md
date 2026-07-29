@@ -2225,7 +2225,7 @@
 
         ---
 
-        <img src="../images/DonQUixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Don Quixote: Aha~ Thou hast heard? My, traces of heroic deeds indeed make themselves known to the masses in no time! Fufu…

@@ -60,11 +60,11 @@
             ```
             ```
             Yet, we are in the middle of a Nest.
-            แต่ไม่ใช่ว่าเราอยู่ใจกลางเนสหรอกเหรอ
+            แต่ไม่ใช่ว่าเราอยู่ใจกลางเนสหรอกหรอ
             ```
             ```
             Weren’t Abnormalities… supposed to be confined within Lobotomy Corp’s branch facilities or dungeons?
-            ไม่ใช่ว่าสิ่งแปลกปลอมพวกนี้... ต้องถูกกักกัน ภายในสาขาย่อยของศูนย์วิจัยโลโบโตมี่ หรือ ดันเจี้ยนพวกนั่นเหรอ?
+            ไม่ใช่ว่าสิ่งแปลกปลอมพวกนี้... ต้องถูกกักกัน ภายในสาขาย่อยของศูนย์วิจัยโลโบโตมี่ หรือ ดันเจี้ยนพวกนั่นหรอ?
             ```
             ```
             Meanwhile, the Abnormality pierced Yi Sang’s abdomen as I wondered.
@@ -85,7 +85,7 @@
 
         ```
         Hong Lu: Where are we going this time?
-        ฮงหลู่: ครั้งนี้ เราจะไปไหนกันเหรอครับ?
+        ฮงหลู่: ครั้งนี้ เราจะไปไหนกันหรอครับ?
         ```
         
         ---
@@ -116,7 +116,7 @@
         
         ```
         Yi Sang: A person, you say?
-        ยี่ซัง: เธอพูดว่าคนงั้นเหรอ?
+        ยี่ซัง: เธอพูดว่าคนงั้นหรอ?
         ```
 
         ---
@@ -134,7 +134,7 @@
 
         ```
         Ishmael: You mean… We take requests from outside like we’re a Fixer Office or something?
-        อิชมาเอล: เธอกำลังจะหมายความว่า... พวกเรารับคำขอจากข้างนอกเหมือนกับว่าเราเป็นเจ้าหน้าที่ฟิกเซอร์ หรือ อะไรอย่างงั้นเหรอ?
+        อิชมาเอล: เธอกำลังจะหมายความว่า... พวกเรารับคำขอจากข้างนอกเหมือนกับว่าเราเป็นเจ้าหน้าที่ฟิกเซอร์ หรือ อะไรอย่างงั้นหรอ?
         ```
 
         ---
@@ -177,7 +177,7 @@
         
         ```
         Gregor: Hmm? But I thought we’d already taken the Golden Bough here in K Corp’s Nest?
-        เกรกอร์: หืมม? แต่ไม่ใช่ว่าเราพึ่งเก็บกึ่งทองที่นี้ในเนสเคคอร์ปเหรอครับ?
+        เกรกอร์: หืมม? แต่ไม่ใช่ว่าเราพึ่งเก็บกึ่งทองที่นี้ในเนสเคคอร์ปหรอครับ?
         ```
 
         ---
@@ -523,7 +523,7 @@
 
         ```
         Rodion: What? Weren’t you about to say the same thing anyway? Saved you the trouble~
-        โรเดียน: อะไรกัน? ไม่ใช่ว่าคุณจะพูดเหมือนเดิมเหรอ? ช่วยเซฟเวลาไง~
+        โรเดียน: อะไรกัน? ไม่ใช่ว่าคุณจะพูดเหมือนเดิมหรอ? ช่วยเซฟเวลาไง~
         ```
 
         ---
@@ -847,7 +847,7 @@
         ```
         ```
         Outis: You’re gravely mistaken. Have that insane brat’s daily ramblings finally managed to brainwash you?
-        เอาทิส: นายเข้าใจอะไรผิดหรือเปล่าเนี้ย นี้คำพูดเพ้อเจ้อรายวันของไอเด็กบ้านั่น ในที่สุดก็ล้างสมองนายได้แล้วเหรอ?
+        เอาทิส: นายเข้าใจอะไรผิดหรือเปล่าเนี้ย นี้คำพูดเพ้อเจ้อรายวันของไอเด็กบ้านั่น ในที่สุดก็ล้างสมองนายได้แล้วหรอ?
         ```
 
         ---
@@ -1068,7 +1068,7 @@
 
         ```
         Dante: <What is it? You think my judgement was inefficient?>
-        ดันเต้: <มีอะไรหรือเปล่า? เธอคิดว่าการตัดสินใจของฉํนมันไม่มีประสิทธิภาพเหรอ?>
+        ดันเต้: <มีอะไรหรือเปล่า? เธอคิดว่าการตัดสินใจของฉํนมันไม่มีประสิทธิภาพหรอ?>
         ```
 
         ---
@@ -1560,7 +1560,7 @@
             ```
             ```
             It oozes a mysterious liquid with a blue glint.
-            กำลังพ้นของเหลวอะไรก็ไม่รู้ที่มีประกายสีน้ำเงินเหรอ
+            กำลังพ้นของเหลวอะไรก็ไม่รู้ที่มีประกายสีน้ำเงินหรอ
             ```
 
         ---
@@ -1817,7 +1817,7 @@
 
         ```
         Ishmael: Wasn’t that the man who took photos of himself while cutting us down with one hand?
-        อิชมาเอล: ไอผู้ชายคนนั่นน่ะเหรอ ที่ถ่ายรูปตัวเอง ในระหว่างที่กำลังตัดพวกเราเป็นชิ้น ๆ ด้วยมือเดียวน่ะนะ?
+        อิชมาเอล: ไอผู้ชายคนนั่นน่ะหรอ ที่ถ่ายรูปตัวเอง ในระหว่างที่กำลังตัดพวกเราเป็นชิ้น ๆ ด้วยมือเดียวน่ะนะ?
         ```
 
         ---
@@ -1826,7 +1826,7 @@
 
         ```
         Gregor: (Right… That Zack Friture guy…?)
-        เกรกอร์: (อ้อ... ไอเจ้าแซคฟรีเจอร์อะไรนั่นน่ะเหรอ...?)
+        เกรกอร์: (อ้อ... ไอเจ้าแซคฟรีเจอร์อะไรนั่นน่ะหรอ...?)
         ```
 
         ---
@@ -1859,7 +1859,7 @@
 
         ```
         Gregor: Reunions are more touching if it’s after a long time, Don Quixote. Try thinking that it’s a good thing he didn’t show up today.
-        เกรกอร์: อ้อ งั้นเหรอ รู้ไหมว่าการกลับมาพบหน้ากันจะน่าประทับใจมากกว่า ถ้าเราไม่ได้เจอกันมานานแล้ว เพราะงั้น ก็ลองคิดดูว่า นับเป็นการดีแล้ว ที่เขาไม่ได้โผล่มาวันนี้ 
+        เกรกอร์: อ้อ งั้นหรอ รู้ไหมว่าการกลับมาพบหน้ากันจะน่าประทับใจมากกว่า ถ้าเราไม่ได้เจอกันมานานแล้ว เพราะงั้น ก็ลองคิดดูว่า นับเป็นการดีแล้ว ที่เขาไม่ได้โผล่มาวันนี้ 
         ```
 
         ---
@@ -1881,7 +1881,7 @@
 
         ```
         Hong Lu: Oho… Is he kind of like a celebrity, then?
-        ฮงหลู่: โอ้ว... งั้นเขาก็เป็นดาราอะไร อย่างนั่น/เทือกนั่น เหรอครับ? 
+        ฮงหลู่: โอ้ว... งั้นเขาก็เป็นดาราอะไร อย่างนั่น/เทือกนั่น หรอครับ? 
         ```
 
         ---
@@ -2003,7 +2003,7 @@
         
         ```
         Dante: <As expected?>
-        ดันเต้: <คาดไว้ เหรอ?>
+        ดันเต้: <คาดไว้ หรอ?>
         ```
 
         ---
@@ -2207,7 +2207,7 @@
 
         ```
         Samjo: Sorry? Are you really going to take these people to your laboratory?
-        แซมโจ: เดี๋ยวก่อนสิครับ? นี้คุณจะพาคนพวกนี้ ไปแลปคุณจริง ๆ เหรอ?
+        แซมโจ: เดี๋ยวก่อนสิครับ? นี้คุณจะพาคนพวกนี้ ไปแลปคุณจริง ๆ หรอ?
         ```
 
         ---
@@ -2283,7 +2283,7 @@
         
         ```
         Dante: <Oh, who is it?>
-        ดันเต้: <โอ้ ใครเหรอ/ถามได้ไหมว่าใคร?>
+        ดันเต้: <โอ้ ใครหรอ/ถามได้ไหมว่าใคร?>
         ```
 
         ---
@@ -2301,7 +2301,7 @@
 
         ```
         Dante: <Maybe you weren’t as close as you thought, then? …Wait, can you hear my voice?>
-        ดันเต้: <บางที คุณกับเขาอาจไม่ได้สนิทอย่างที่คุณคิดก็ได้? ...เดี๋ยวนะ คุณได้ยินเสียงผมด้วยเหรอ?>
+        ดันเต้: <บางที คุณกับเขาอาจไม่ได้สนิทอย่างที่คุณคิดก็ได้? ...เดี๋ยวนะ คุณได้ยินเสียงผมด้วยหรอ?>
         ```
 
         ---
@@ -2320,7 +2320,7 @@
 
         ```
         Dongrang: That’s why I’m speaking, Mr. Samjo. It’s like I’m back to being a child, muttering my woes to a wind-up toy, don’t you think?
-        ดงรัง: นั่นแหละว่าทำไมผมถึงพูดอยู่ คุณแซมโจ มันก็เหมือนกับการที่ผมกลับกลายเป็นเด็ก พึมพัมความทุกข์ใจกับของเล่นไขลาน คุณไม่คิดงั้นเหรอ?  
+        ดงรัง: นั่นแหละว่าทำไมผมถึงพูดอยู่ คุณแซมโจ มันก็เหมือนกับการที่ผมกลับกลายเป็นเด็ก พึมพัมความทุกข์ใจกับของเล่นไขลาน คุณไม่คิดงั้นหรอ?  
         ```
 
         ---
@@ -2420,7 +2420,7 @@
 
         ```
         Rodion: Then, maybe you could’ve applied to one~ Why didn’t you give it a shot?
-        โรเดียน: แหม บางทีพวกคุณน่าจะรับเพิ่มสักคนน้า~ ไม่คิดงั้นเหรอ?
+        โรเดียน: แหม บางทีพวกคุณน่าจะรับเพิ่มสักคนน้า~ ไม่คิดงั้นหรอ?
         ```
 
         ---
@@ -2449,7 +2449,7 @@
 
         ```
         Dante: <Yeah, why did you choose to join Limbus Company out of all the options you had? There must’ve been better places to shoot for.>
-        ดันเต้: <อ่า จริงสิ ทำไมเธอถึงเลือกที่จะเข้ามาทำงานในลิมบัสคอมเพนีแทนที่จะไปที่อื่นล่ะ? มันก็น่าจะมีที่ที่ดีกว่านี้อยู่ไม่ใช่เหรอ>
+        ดันเต้: <อ่า จริงสิ ทำไมเธอถึงเลือกที่จะเข้ามาทำงานในลิมบัสคอมเพนีแทนที่จะไปที่อื่นล่ะ? มันก็น่าจะมีที่ที่ดีกว่านี้อยู่ไม่ใช่หรอ>
         ```
 
         ---
@@ -2636,7 +2636,7 @@
 
         ```
         Shrenne: You’re bringing outsiders into the building now… What are you, a field trip guide, Dongrang?
-        ชเรนน์: รอบนี้นายเล่นพาคนนอกเข้ามาถึงข้างในแลปเราเลยเหรอ... ตอบฉันทีสิ ว่านายเป็นบ้าอะไร คนนำเที่ยวหรือไง ดงรัง?
+        ชเรนน์: รอบนี้นายเล่นพาคนนอกเข้ามาถึงข้างในแลปเราเลยหรอ... ตอบฉันทีสิ ว่านายเป็นบ้าอะไร คนนำเที่ยวหรือไง ดงรัง?
         ```
 
         --- 
@@ -2690,7 +2690,7 @@
 
         ```
         Gregor: Hm. Is that a rival? I do suppose excellence is followed by envy wherever it is.
-        เกรกอร์: หืม นั่นคู่แข่งคุณเหรอครับ? แหม ไม่ว่าจะที่ไหน ความดีเด่นก็มักจะตามมาด้วยความริษยาอยู่เสมอเลยนะครับ
+        เกรกอร์: หืม นั่นคู่แข่งคุณหรอครับ? แหม ไม่ว่าจะที่ไหน ความดีเด่นก็มักจะตามมาด้วยความริษยาอยู่เสมอเลยนะครับ
         ```
 
         ---
@@ -2770,7 +2770,7 @@
 
         ```
         Sinclair: But, I thought they were all buried underground…
-        ซินแคร์: แต่ไม่ใช่ว่าพวกมัน ถูกฝังอยู่ใต้ดินหมดแล้วเหรอครับ...
+        ซินแคร์: แต่ไม่ใช่ว่าพวกมัน ถูกฝังอยู่ใต้ดินหมดแล้วหรอครับ...
         ```
 
         ---
@@ -2862,44 +2862,60 @@
 
         ```
         Faust: There is no way to piece together someone else’s broken mind.
-        เฟาสท์: 
+        เฟาสท์: ไม่มีทางไหนที่จะปะติดชิ้นส่วนของจิตใจใครที่พังไปแล้วให้กลับมาได้หรอกค่ะ
         ```
         ```
         Faust: We merely showed him the way. It was the choice of the restaurant owner whether to stay there or take that path.
-        เฟาสท์: 
+        เฟาสท์: เราเพียงแค่แสดงหนทางให้กับเขา และมันก็เป็นการตัดสินใจของตัวเจ้าของร้านเอง ที่เลือกจะอยู่ต่อ หรือ เลือกเส้นทางใหม่ที่พวกเรามอบให้เขาก็เท่านั้นค่ะ
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Wow, you know so much. If I were just a bit younger, I’d have jumped and hopped trying to high-five you.
+        ดงรัง: ว้าว คุณนี้รู้เยอะดีจังเลยนะครับ ถ้าผมเด็กกว่านี้หน่อย ก็คงกระโดดโยง ๆ เหมือนกระต่ายตาดำ ๆ ที่ตื่นเต้น แล้วพยายามไฮไฟว์กับคุณแล้วล่ะครับ
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: You’re always unwelcome to try.
+        เฟาสท์: ไม่ยินดีเสมอค่ะ
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Mr. Dongrang, you’re becoming sidetracked again.
+        แซมโจ: คุณดงรัง นอกเรื่องอีกแล้วนะครับ
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Ah, you’re right. Alright… Then, one day, while we happily indulged in research in that laboratory of the Lobotomy Corp. branch facility, armed terrorists attacked the place. It was all too sudden.
+        ดงรัง: 
         ```
         ```
         Dongrang: Have you ever seen a bomb set off before your eyes? It’s quite the spectacle. It all starts and ends in a split second. Just like the universe, isn’t it?
+        ดงรัง: 
         ```
 
         ---
 
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Outis: Where are the terrorists now?
+        เอาทิส: 
         ```
 
         ---

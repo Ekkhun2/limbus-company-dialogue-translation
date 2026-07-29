@@ -2238,7 +2238,7 @@
 
         ```
         Dongrang: Haha, that’s a fun way to put it.
-        ดงรัง: ฮาฮา เป็นวิธีพูดที่น่าสนุกดีนะครับ
+        ดงรัง: ฮาฮา เป็นวิธีพูดที่น่าสนใจดีนะครับ
         ```
         ```
         Dongrang: Ah, and you must be the manager… it was Dante, yes? May we speak for a moment?
@@ -2663,7 +2663,7 @@
 
         ```
         Dongrang: Ah, if you’re wondering about how we spend our welfare budget… You’ll see when the Department of the Year trophy is awarded. Right, Samjo?
-        ดงรัง: อา ถ้าคุณสงสัยเกี่ยวกับเรื่องที่ผมใช้เงินทุนสวัสดิการไปยังไงบ้าง... ก็รอดูตอนรางวัลแผนกดีเด่นถูกมอบเองก็แล้วกันนะครับ ใช่ไหม แซมโจ?
+        ดงรัง: อา ถ้าคุณสงสัยเกี่ยวกับเรื่องที่ผมบริหารเงินทุนสวัสดิการไปยังไงบ้าง... ก็รอดูสิ้นปีนี้สิครับ ว่ารางวัลแผนกออฟเดอะเยียร์จะถูกมอบให้ใคร ใช่ไหม แซมโจ?
         ```
 
         ---
@@ -2672,7 +2672,7 @@
 
         ```
         Samjo: It would take a full day to list the benefits the department chosen as the best receives.
-        แซมโจ: 
+        แซมโจ: มันคงต้องใช้เวลาทั้งวันเลยล่ะมั้งครับ กว่าจะลิสต์คุณประโยชน์ต่อบริษัทครบทุกข้อของว่าที่แผนกที่ดีที่สุด
         ```
 
         ---
@@ -2681,7 +2681,7 @@
 
         ```
         Shrenne: Eugh, you’re snobs, the both of you.
-        ชเรนน์: 
+        ชเรนน์: เออ พวกนายทั้งคู่ก็ หัวสูง/ถือดี พอกันเลย
         ```
 
         ---
@@ -2690,91 +2690,131 @@
 
         ```
         Gregor: Hm. Is that a rival? I do suppose excellence is followed by envy wherever it is.
-        เกรกอร์: 
+        เกรกอร์: หืม นั่นคู่แข่งคุณเหรอครับ? แหม ไม่ว่าจะที่ไหน ความดีเด่นก็มักจะตามมาด้วยความริษยาอยู่เสมอเลยนะครับ
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Envy fuels advancement, as they say, so it’s only right for us to show a little generosity for those following behind. Should we give some of the pies we bought from that store to Shrenne’s department, Mr. Samjo?
+        ดงรัง: คนเคยพูดกันน่ะครับ ว่าความริษยาเป็นเชื้อเพลิงให้ก้าวเดินต่อไป แต่ถึงอย่างนั่นเรา ก็ควรที่จะแสดงความเอื้อเผื่อแผ่บ้าง ให้กับคนที่ยังรั้งท้ายอยู่ด้านหลัง จะว่าไป เราก็น่าจะแบ่งพายที่พึ่งซื้อจากร้านนั่นให้แผนกของคุณชเรนน์บ้างนะ คุณแซมโจ? 
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: I was planning to do so. The pepper, chili, lettuce, and curry-flavored ones, specifically.
+        แซมโจ: ผมกะว่าจะทำอย่างนั่นอยู่เลยครับ โดยเฉพาะรสพริกไทย รสพริก รสผักกาดหอม แล้วก็รสแกงกะหรี่
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Gasp… That… also sounds tasty?
+        โรเดียน: เฮือก... นั่น... ก็ฟังดูน่ากินจัง?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Haha… Now then, let’s get back to the main topic.
+        ดงรัง: ฮาฮา... เอาเป็นว่า ทีนี้ เรากลับมาคุยที่ประเด็นหลักของเราดีกว่านะครับ
         ```
         ```
         Dongrang: I heard the rumors. They were about a newly formed company collecting organic objects called “Golden Boughs”.
+        ดงรัง: ผมได้ยินข่าวลือมาว่า พวกเขาเป็นบริษัทพึ่งก่อตั้ง ที่ไล่ตามเก็บอินทรีย์วัตถุที่เรียกว่า “กิ่งทอง”
         ```
         ```
         Dongrang: And those Golden Boughs are found exclusively inside the closed-down branch facilities of Lobotomy Corp.
+        ดงรัง: และกิ่งทองพวกนั่นก็สามารถถูกพบได้ ภายในสาขาย่อยที่ถูกปิดตายไปแล้วของสถาบันวิจัยโลโบโตมี่เท่านั่น
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: How did you learn about the existence of Golden Boughs?
+        เอาทิส: คุณรู้เรื่องการมีอยู่ของกิ่งทองได้ยังไง?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: It was a recent discovery. We’d been using a Lobotomy Corp. branch near our research facility as a lab until a few months ago.
+        ดงรัง: มันเป็นการค้นพบใหม่เมื่อไม่นานมานี้น่ะครับ ในขณะที่เรากำลังใช้สถาบันวิจัยโลโบโตมี่ สาขาไม่ใกล้ไม่ไกลกับศูนย์วิจัยเราเป็นแลปทดลอง จนกระทั่งไม่กี่เดือนก่อน  
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: You… set up a lab in that horrible place?
+        ฮิธคลิฟฟ์: แก... ตั้งแลปในที่ห่วย ๆ พันธ์นั่นเนี้ยนะ?
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: But, I thought they were all buried underground…
+        ซินแคร์: แต่ไม่ใช่ว่าพวกมัน ถูกฝังอยู่ใต้ดินหมดแล้วเหรอครับ...
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Well… I guess there were rare resources and documents they could use…
+        เกรกอร์: เออ... ฉันเดาว่า ที่นั่นก็คงมีทรัพยากรหายาก ไม่ก็เอกสารที่พวกเขาใช้ได้ละมั้ง...
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: …Did the scope of your research include Abnormalities?
+        เฟาสท์: ...แล้วขอบเขตของการวิจัยคุณ นับรวมพวกสิ่งแปลกปลอมด้วยหรือเปล่าคะ?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Why, certainly. No researcher could overlook such intriguing subjects.
+        ดงรัง: ทำไมจะไม่ล่ะครับ ไม่มีนักวิจัยคนไหน จะมองข้ามเรื่องน่าสนใจแบบนั่นได้ลงหรอกครับ
         ```
 
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: Researchers must be all soft in the head if that’s what they’re interested in…
+        ฮิธคลิฟฟ์: 
         ```
         ```
         Heathcliff: …Hold on.
+        ฮิธคลิฟฟ์: 
         ```
         ```
         Heathcliff: When you were mumbling rubbish and tossing a rock at one of them chickenheads, did you…
+        ฮิธคลิฟฟ์: 
         ```
 
         ---

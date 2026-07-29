@@ -2148,7 +2148,7 @@
         ```
         ```
         Samjo: I had reason to do so as your “Limbus Company” is a little-known firm that… could or could not be newly established.
-        แซมโจ: แต่ผมมีเหตุผล ก็เพราะ “ลิมบัสคอมเพนี” เป็นองค์กรที่ไม่ค่อยเป็นที่รู้จัก ซึ่งมัน... ก็อาจเป็นองค์กรที่พึ่งถูกตั้งใหม่ หรือ ไม่ก็ถูกจัดมานานแล้ว 
+        แซมโจ: แต่ผมมีเหตุผล ก็เพราะ “ลิมบัสคอมเพนี” เป็นบริษัทที่ไม่ค่อยเป็นที่รู้จัก ซึ่งมัน... ก็อาจเป็นองค์กรที่พึ่งถูกจัดตั้งใหม่ หรือ ไม่ก็นานแล้ว 
         ```
         ```
         Samjo: We couldn’t take the risk of entrusting an unknown organization with a request on Mr. Dongrang’s word alone.
@@ -2411,7 +2411,7 @@
 
         ```
         Sinclair: Wow… I hoped… I could work at a company as big as this.
-        ซินแคร์: ว้าว... ผมหวังว่า... จะได้ทำงาน ในองค์กรที่ใหญ่เท่านี้เหมือนกัน
+        ซินแคร์: ว้าว... ผมเองก็อยาก... จะได้ทำงาน ในบริษัทที่ใหญ่เท่านี้บ้างจัง
         ```
 
         ---
@@ -2488,7 +2488,7 @@
 
         ```
         Yi Sang: Let me take the trouble of asking in return. Manager, why did you join the company you work for?
-        ยี่ซัง: งั้นผมขอรบกวนถามกลับบ้าง คุณผู้จัดการ ทำไมคุณถึงเข้ามาทำงานในองค์กรนี้ล่ะครับ?
+        ยี่ซัง: งั้นผมขอรบกวนถามกลับบ้าง คุณผู้จัดการ ทำไมคุณถึงเข้ามาทำงานในบริษัทนี้ล่ะครับ?
         ```
 
         ---
@@ -2522,7 +2522,7 @@
         
             ```
             It looks like Ishmael wasn’t exaggerating about the qualifications it takes to join this firm.
-            ดูเหมือนว่าอิชมาเอลจะไม่ได้พูดเว้อไปเองสินะ เรื่องคุณสมบัติที่ตัวบุคคลพึงมี ในการที่จะเข้าร่วมกับองค์กรนี้ได้
+            ดูเหมือนว่าอิชมาเอลจะไม่ได้พูดเว้อไปเองสินะ เรื่องคุณสมบัติที่ตัวบุคคลพึงมี ในการที่จะเข้าร่วมบริษัทนี้ได้
             ```
 
         ---
@@ -2636,7 +2636,25 @@
 
         ```
         Shrenne: You’re bringing outsiders into the building now… What are you, a field trip guide, Dongrang?
-        ชเรนน์: รอบนี้นายเล่นพาคนนอกเข้ามาถีงข้างในแลปเราเลยเหรอ... นายเป็นบ้านักหนาเนี้ย คนนำเที่ยวหรือไง ดงรัง?
+        ชเรนน์: รอบนี้นายเล่นพาคนนอกเข้ามาถึงข้างในแลปเราเลยเหรอ... ตอบฉันทีสิ ว่านายเป็นบ้าอะไร คนนำเที่ยวหรือไง ดงรัง?
+        ```
+
+        --- 
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Ah. Pardon me for a moment. This is Shrenne. She’s the manager of the department next to mine and a colleague who joined the company at the same time as I did. Visiting me to hurl hurtful words takes up much of her daily routine.
+        ดงรัง: อา ขออภัยกับการเสียมารยาทเมื่อครู่ด้วยนะครับ นี้ชเรนน์ เธอเป็นผู้จัดการแผนกเพื่อนบ้านที่อยู่ถัดจากผมไปหนึ่งบล็อก และเป็นคุณเพื่อนร่วมงานที่เข้าร่วมบริษัทมาในเวลาเดียวกันกับผม หนึ่งในกิจวัตรประจำวันของเธอคือการแวะเวียนมาหา แล้วพูดคำพูดเสียดแทงหัวใจดวงน้อย ๆ ของผมทุกวี่ทุกวัน
+        ```
+
+        ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Shrenne: I figured someone’s got to point out the massive drain on our company's welfare budget that is your team.
+        ชเรนน์: ฉันรู้ว่าจำเป็นต้องมีใครสักคนที่ต้องแฉ  ว่าทุนสวัสดิการบริษัทเรากำลังถูกสูบเลือดสูบเนื้อกินอย่างหน้าไม่อายจากทีมของนายอยู่
         ```
 
         ---
@@ -2644,38 +2662,35 @@
         <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Dongrang: Ah. Pardon me for a moment. This is Shrenne. She’s the manager of the department next to mine and a colleague who joined the company at the same time as I did. Visiting me to hurl hurtful words takes up much of her daily routine.
-        ดงรัง: 
-        ```
-
-        ---
-
-        ```
-        Shrenne: I figured someone’s got to point out the massive drain on our company's welfare budget that is your team.
-        ```
-
-        ---
-
-        ```
         Dongrang: Ah, if you’re wondering about how we spend our welfare budget… You’ll see when the Department of the Year trophy is awarded. Right, Samjo?
+        ดงรัง: อา ถ้าคุณสงสัยเกี่ยวกับเรื่องที่ผมใช้เงินทุนสวัสดิการไปยังไงบ้าง... ก็รอดูตอนรางวัลแผนกดีเด่นถูกมอบเองก็แล้วกันนะครับ ใช่ไหม แซมโจ?
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: It would take a full day to list the benefits the department chosen as the best receives.
+        แซมโจ: 
         ```
 
         ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Shrenne: Eugh, you’re snobs, the both of you.
+        ชเรนน์: 
         ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: Hm. Is that a rival? I do suppose excellence is followed by envy wherever it is.
+        เกรกอร์: 
         ```
 
         ---

@@ -2797,7 +2797,7 @@
 
         ```
         Dongrang: Why, certainly. No researcher could overlook such intriguing subjects.
-        ดงรัง: ทำไมจะไม่ล่ะครับ ไม่มีนักวิจัยคนไหน จะมองข้ามเรื่องน่าสนใจแบบนั่นได้ลงหรอกครับ
+        ดงรัง: ทำไมจะไม่ล่ะครับ ไม่มีนักวิจัยคนไหน ที่จะมองข้ามหัวข้อที่น่าสนใจแบบนั่นได้ลงคอหรอกครับ
         ```
 
         ---
@@ -2806,51 +2806,67 @@
 
         ```
         Heathcliff: Researchers must be all soft in the head if that’s what they’re interested in…
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: พวกนักวิจัยคงจะสมองนิ่มกันไปหมดแล้วมั้ง ถ้าไอห่านั่นเป็นสิ่งที่พวกมันสนใจ...
         ```
         ```
         Heathcliff: …Hold on.
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: ...เดี๋ยวก่อนนะ
         ```
         ```
         Heathcliff: When you were mumbling rubbish and tossing a rock at one of them chickenheads, did you…
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: ในตอนนั่น ที่แกบ่นพึมพำพูดพล้ามอะไรออกมาไม่รู้เรื่อง ก่อนที่แกจะโยนก้อนหินใส่หนึ่งในพวกหัวไก่ แล้วลากตีนมาหาพวกเรา พอมาคิด ๆ ดู นี้แก(จงใจใช่ไหม)...
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Ahrmhrm…
+        แซมโจ: อึบอืมม...
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: I will say, Heathcliff’s unexpected fits of insight surprise me sometimes.
+        เฟาสท์: ต้องยอมรับเลยนะคะ ว่าช่วงเวลาแห่งการตระหนักรู้ของฮิธคลิฟฟ์นี้ ช่าง เป็นสิ่งที่ยากจะหยั่งถึง ขณะที่บางที ก็ทำเอาฉันตกใจเหมือนกันค่ะ
         ```
         ```
         Faust: You led us into dealing with a Distortion in a “coincidental” encounter so that you could gather data for your research on Abnormalities.
+        เฟาสท์: คุณชี้นำพวกเราให้จัดการกับผู้บิดเบี้ยว ในการเผชิญหน้าที่จัดฉากว่าเป็นเรื่อง “บังเอิญ” เพื่อที่ว่าคุณจะได้รวบรวมข้อมูลไปใช้ในงานวิจัยสิ่งแปลกปลอมของคุณสินะคะ
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Mr. Samjo here is no good at acting. I suppose it’s due to his upright way of life.
+        ดงรัง: คุณแซมโจเนี้ยแสดงไม่เก่งเอาซะเลยนะครับ แต่นั่นก็คงเป็นวิธีชีวิตที่ซื่อตรงของเขา
         ```
         ```
         Dongrang: Please understand. We had no means to clearly distinguish a Distortion from an Abnormality.
+        ดงรัง: โปรดเข้าใจด้วยเถอะครับ ว่าเราไม่ได้มีเจตาจะคัดแยกระหว่างผู้บิดเบี้ยวกับสิ่งแปลกปลอมอย่างชัดเจน
         ```
         ```
         Dongrang: A person distorts “when the mind crumbles to figurative pieces…” was it? That was a stellar figure of speech. Did you restore his crumbled mind back to health, then?
+        ดงรัง: คนเราจะบิดเบี้ยวก็ต่อเมื่อ “จิตใจแตกสลายราวกับแหลกเป็นเสี่ยง ๆ...” สินะครับ? ช่างเป็นสำนวนโวหารที่ยอดเยี่ยม แล้วคุณฟื้นคืนจิตใจของเขาที่แตกสลายไป กลับมาได้ไหมครับ?
         ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: There is no way to piece together someone else’s broken mind.
+        เฟาสท์: 
         ```
         ```
         Faust: We merely showed him the way. It was the choice of the restaurant owner whether to stay there or take that path.
+        เฟาสท์: 
         ```
 
         ---

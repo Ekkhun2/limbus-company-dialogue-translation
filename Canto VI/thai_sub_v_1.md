@@ -2059,7 +2059,7 @@
         
         ```
         Heathcliff: Let go! Do you even get how it feels to have nightmares about doing the tango with raw chickens? Huh?
-        ฮิธคลิฟฟ์: ชั่งแม่ง! นายรู้บ้างไหม ว่ามันรู้สึกยังไง ที่ต้องฝันเห็นตัวเองที่กำลังเต้นแทงโก้อยู่ไก่สดน่ะ? หะ?  
+        ฮิธคลิฟฟ์: ชั่งแม่ง! นายรู้บ้างไหม ว่ามันรู้สึกยังไง ที่ต้องฝันร้ายเห็นตัวเองที่กำลังเต้นแทงโก้อยู่ไก่สดน่ะ? หะ?  
         ```
 
         ---
@@ -2656,7 +2656,7 @@
 
         ```
         Shrenne: I figured someone’s got to point out the massive drain on our company's welfare budget that is your team.
-        ชเรนน์: ฉันรู้ว่าจำเป็นต้องมีใครสักคนที่ต้องแฉ  ว่าทุนสวัสดิการบริษัทเรากำลังถูกสูบเลือดสูบเนื้อกินอย่างหน้าไม่อายจากทีมของนายอยู่
+        ชเรนน์: ฉันรู้ว่าจำเป็นต้องมีใครสักคนที่ต้องแฉ ว่าทุนสวัสดิการบริษัทเรากำลังถูกสูบเลือดสูบเนื้อกินอย่างหน้าไม่อายจากทีมของนายอยู่
         ```
 
         ---
@@ -2904,11 +2904,11 @@
 
         ```
         Dongrang: Ah, you’re right. Alright… Then, one day, while we happily indulged in research in that laboratory of the Lobotomy Corp. branch facility, armed terrorists attacked the place. It was all too sudden.
-        ดงรัง: 
+        ดงรัง: อา ใช่เลยตามนั่น โอเค... ทีนี้ อยู่มาวันหนึ่ง ในขณะที่พวกเรากำลังดื่มดำกับการวิจัยอย่างมีความสุขในแลปโลโบโตมี่่อยู่นั่นเอง จู่ ๆ ก็มีเหล่าผู้ก่อการร้ายปรากฎตัวออกมา แล้วเข้าถล่มที่นั่นจนราบเป็นหน้ากลอง
         ```
         ```
         Dongrang: Have you ever seen a bomb set off before your eyes? It’s quite the spectacle. It all starts and ends in a split second. Just like the universe, isn’t it?
-        ดงรัง: 
+        ดงรัง: พวกคุณเคยเห็นระเบิดที่ถูกจุดฉนวนต่อหน้าต่อตาไหมล่ะครับ? นับเป็นภาพที่น่าทึ่งไม่น้อย มันเริ่มขึ้น และสิ้นสุดลงในเสี้ยววิ ไม่ต่างอะไรกับจักรวาลเลย ว่าไหมครับ? 
         ```
 
         ---
@@ -2917,56 +2917,78 @@
 
         ```
         Outis: Where are the terrorists now?
-        เอาทิส: 
+        เอาทิส: แล้วผู้ก่อการร้ายพวกนั่นอยู่ไหนแล้วล่ะคะ?
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: The members have almost nothing in common, and their motive is unknown. They only showed up recently.
+        แซมโจ: สมาชิกแต่ละคนในกลุ่มก่อการร้ายดูจะไม่มีจุดร่วมอะไรที่ตรงกันเลยครับ รวมถึงวัตถุประสงค์ของพวกเขาเองก็เป็นสิ่งที่เราไม่ทราบแน่ชัด ถ้าจะพอรู้อะไร ก็คงเป็นเรื่องที่พวกเขาพึ่งจะโผล่หัวออกมาตอนนี้ก็เท่านั่นแหละครับ
         ```
         ```
         Samjo: In the end, the terrorist organization took over the laboratory Mr. Dongrang’s team had stayed in.
+        แซมโจ: สุดท้าย องค์กรผู้ก่อการร้ายนั่นก็ยึดแลปของทีมคุณดงรังไป
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: Mm. That must be when the lab was moved.
+        เอาทิส: อืม นั่นน่าจะเป็นตอนที่แลปถูกเคลื่อนย้าย
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: …How severe was the damage?
+        ยี่ซัง: ...เสียหายหนักแค่ไหนล่ะครับ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Dongrang turned his gaze from Yi Sang to the sporadically unoccupied seats.
+            ดงรัง หลบสายตาของเขา/หลบหน้าหลบตา จากยี่ซัง ไปยังที่นั่งที่ไม่มีใครอยู่เป็นครั้งคราว
             ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: You see, those empty seats…
+        ดงรัง: พวกคุณเห็นที่นั่งที่ว่างเหล่าพวกนั่นไหมครับ...
         ```
         ```
         Dongrang: They’ll stay that way for a while. Their owners died—in that act of terror.
+        ดงรัง: พวกมันจะอยู่อย่างนั่นไปสักพัก เพื่อรำลึกถึงเจ้าของของพวกมัน—ที่ต้องตายจากไป เพราะเหตุโศกนาฏกรรมไม่คาดคิด
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Looking closely, I saw snacks and flowers placed on their cushions, probably as a way to mourn the dead.
+            พอมองดูใกล้ ๆ ฉันก็เห็นขนมกับดอกไม้ ที่ถูกวางลงบนเบาะรองนั่งพวกนั่น คงเป็นวิธีการที่พวกเขาไว้อาลัยกับคนที่จากไป 
             ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Ah, this fellow we only managed to recover a finger from. We couldn’t find the right place to put it, so we’ve been keeping it in storage. It should be over at the display on the second floor.

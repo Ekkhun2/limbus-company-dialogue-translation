@@ -2983,7 +2983,7 @@
 
             ```
             Looking closely, I saw snacks and flowers placed on their cushions, probably as a way to mourn the dead.
-            พอมองดูใกล้ ๆ ฉันก็เห็นขนมกับดอกไม้ ที่ถูกวางลงบนเบาะรองนั่งพวกนั่น คงเป็นวิธีการที่พวกเขาไว้อาลัยกับคนที่จากไป 
+            พอลองดูใกล้ ๆ ฉันก็เห็นขนมกับดอกไม้ ที่ถูกวางลงกับที่นั่ง บนเบาะรองนั่งพวกนั่น คงเป็นวิธีการที่พวกเขาใช้ เพื่อไว้อาลัยต่อคนที่ตายไป
             ```
 
         ---
@@ -2992,53 +2992,72 @@
 
         ```
         Dongrang: Ah, this fellow we only managed to recover a finger from. We couldn’t find the right place to put it, so we’ve been keeping it in storage. It should be over at the display on the second floor.
+        ดงรัง: อา ส่วนสหายคนนี้เราเก็บกู้ซากมาได้เหลือก็แค่เศษนิ้วเดียว ด้วยความที่เราไม่รู้จะเอาไปไว้ที่ไหน ก็เลยเก็บมันไว้ในห้องเก็บของมาตลอด น่าจะอยู่ในตู้กระจกชั้นสองล่ะมั้งถ้าจำไม่ผิด
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             A solemn silence filled the office, but Dongrang continued, brushing the empty desk with his hand.
+            ความเงียบงันอันเคร่งขรึมปกคลุมไปทั่วห้องทำงาน แต่ดงรังกลับยังคงปัดโต๊ะที่ว่างเปล่าไปมาด้วยมือของเขา
             ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: There is so much we had to leave behind.
+        ดงรัง: มีหลายสิ่งเหลือเกินที่เราจำใจต้องทิ้งไว้ด้านหลัง
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: …Dongrang…
+        เกรกอร์ซ ...ดงรัง...
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: I especially miss the plaque modeled after the face of my character, that was a favorite souvenir of mine.
+        ดงรัง: 
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: I’ll be stumped, I can’t tell how much of what he says is a joke and how much of it is serious.
+        เกรกอร์: 
         ```
 
         ---
 
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Outis: What about that seat, then?
+        เอาทิส: 
         ```
 
         ---
 
         * เสียงในหัว
         
-        ```
-        Our attention was brought to a white desk that was completely empty.
-        ```
+            ```
+            Our attention was brought to a white desk that was completely empty.
+            ```
 
         ---
 

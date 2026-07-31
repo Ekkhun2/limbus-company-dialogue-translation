@@ -3230,19 +3230,25 @@
 
             ```
             …We watched with our mouths agape as the two declared the conclusion at once.
-            ...เรามองดูทั้งคู่ <.จบตรงนี้ 3.03:7/31/2026>
+            ...เรามองดูพวกเขา ด้วยความตกตะลึง/พร้อมกับอ้าปากค้าง ในช่วงจัวหวะเดียวกับที่ทั้งสองประกาศผลสรุปพร้อมกัน
             ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: This is a secret, but, I frankly don’t get more than half of what Samjo says. I just nod like “Oh I see~” and move on.
+        ดงรัง: 
         ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: Isn’t that a coincidence? It’s the same for us, too.
+        เกรกอร์: 
         ```
 
         ---

@@ -2992,7 +2992,7 @@
 
         ```
         Dongrang: Ah, this fellow we only managed to recover a finger from. We couldn’t find the right place to put it, so we’ve been keeping it in storage. It should be over at the display on the second floor.
-        ดงรัง: อา ส่วนสหายคนนี้เราเก็บกู้ซากมาได้เหลือก็แค่เศษนิ้วเดียว ด้วยความที่เราไม่รู้จะเอาไปไว้ที่ไหน ก็เลยเก็บมันไว้ในห้องเก็บของมาตลอด น่าจะอยู่ในตู้กระจกชั้นสองล่ะมั้งถ้าจำไม่ผิด
+        ดงรัง: อา ส่วนสหายคนนี้เราเก็บกู้ซากมาได้เหลือก็แค่เศษนิ้วเดียว ด้วยความที่เราไม่รู้จะเอาไปไว้ที่ไหน ก็เลยเก็บมันไว้ในห้องเก็บของมาตลอด น่าจะอยู่ในตู้กระจกชั้นสองล่ะมั้งครับถ้าจำไม่ผิด
         ```
 
         ---
@@ -3003,7 +3003,7 @@
 
             ```
             A solemn silence filled the office, but Dongrang continued, brushing the empty desk with his hand.
-            ความเงียบงันอันเคร่งขรึมปกคลุมไปทั่วห้องทำงาน แต่ดงรังกลับยังคงปัดโต๊ะที่ว่างเปล่าไปมาด้วยมือของเขา
+            ความเงียบอันเคร่งขรึม ปกคลุม/แพร์กระจาย ไปทั่วห้องทำงาน แต่ดงรังกลับยังคงปัดโต๊ะที่ว่างเปล่าไปมาด้วยมือเขาได้หน้าตาเฉย
             ```
 
         ---
@@ -3030,7 +3030,7 @@
 
         ```
         Dongrang: I especially miss the plaque modeled after the face of my character, that was a favorite souvenir of mine.
-        ดงรัง: 
+        ดงรัง: โดยเฉพาะรูปปูนปั้นที่แกะสลักหน้าผมเอาไว้ ชิ้นนั่นเป็นของที่ระลึกโปรดผมเลย
         ```
 
         ---
@@ -3039,7 +3039,7 @@
 
         ```
         Gregor: I’ll be stumped, I can’t tell how much of what he says is a joke and how much of it is serious.
-        เกรกอร์: 
+        เกรกอร์: ฉันงงตึบไปหมดแล้วเนี้ย ดูไม่ออกเลยว่าอะไรที่เขาพูดบ้างเป็นทีเล่นทีจริง
         ```
 
         ---
@@ -3048,129 +3048,189 @@
 
         ```
         Outis: What about that seat, then?
-        เอาทิส: 
+        เอาทิส: แล้วที่นั่งตรงนั่นล่ะคะ?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
         
             ```
             Our attention was brought to a white desk that was completely empty.
+            ความสนใจของเราถูกเบี่ยงเบนไปยังโต๊ะสีขาวที่โล่งสนิท
             ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: Ah, that one is reserved.
+        ดงรัง: อา โต๊ะนั่นจองแล้วน่ะครับ
         ```
         ```
         Dongrang: We’re waiting for a new employee to take that seat.
+        ดงรัง: สำหนักรับพนักงานใหม่ที่เรากำลังเฝ้าคอย
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Oh… Is there an application guideline for the position, then? Where can I see it?
+        อิชมาเอล: โอ้... งั้นมันก็ต้องมีแนวทางการสมัครงานสำหรับตำแหน่งนั่นอยู่สินะคะ? จะว่าอะไรไหมถ้าจะขอดู? 
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Ahem.
+        แซมโจ: อะแฮ่ม
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Ishmael’s bright-eyed inquisition was interrupted by Samjo’s displeased utterance.
+            การซักถามด้วยแววตาอันสดใสของอิชมาเอลถูกขัดจังหวะ ด้วยท่าทีที่ไม่พอใจของแซมโจ
             ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: Oh dear, our Mr. Samjo is feeling all uncomfortable now. Shall we actually get to the point then, Samjo?
+        ดังรัง: โอ้ แหม ดูเหมือนคุณแซมโจของพวกเราจะรู้สึกไม่สบายใจแล้วนะครับ เอาเป็นว่าเรามาเข้าเรื่องกันจริง ๆ จัง ๆ สักทีดีกว่าเนอะ แซมโจ?
         ```
 
         ---
 
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Samjo: Let me be blunt; I suggest an accord that will benefit both parties.
+        แซมโจ: ผมขอพูด แบบไม่อ้อมค้อม/ตรง ๆ เลยล่ะกัน; ผมขอเสนอข้อตกลงที่จะมอบผลประโยชน์ให้กับพวกเราทั้งสองฝ่าย
         ```
         ```
         Samjo: If you help us retake the laboratory, we’ll yield the ownership of the Golden Bough we found to you.
+        แซมโจ: ถ้าคุณช่วยพวกเราชิงแลปที่ถูกยึดไปกลับมา พวกเราจะมอบกรรมสิทธิ์การถือครองกิ่งทองที่พวกเราเจอให้กับพวกคุณ
         ```
         
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: I have a question. Is this a fixed contract, or a post-fulfillment review contract? Will it be represented by delegate bodies or co-executive members?
+        เฟาสท์: ดิฉันมีคำถามคะ นี้เป็นสัญญาแบบกำหนดเงื่อนไขตายตัว หรือ สัญญาทบทวนหลังส่งมอบงานคะ? งานนี้จะถือว่าเสร็จสิ้น ก็ต่อเมื่อพวกเรา ส่งมอบร่างคณะผู้แทน หรือ กรรมการบริหารร่วมหรือเปล่าคะ?
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Allow me to answer that. This will be an immediate delegate-body-represented contract with no warranty liability. A contractual signing overseen by an observer from a Grade 1 Contract Office will take place following due process.
+        แซมโจ: ขออนุญาติให้ผมตอบคำถามนั่นด้วยครับ งานนี้เป็นสัญญาว่าจ้างที่มีผลทันที เมื่อส่งมอบร่างของผู้แทน ซึ่งไม่มีการรับประกันความรับผิดชอบใด ๆ ทั้งนั้น กับเหตุการณ์ไม่คาดคิดต่าง ๆ นา ๆ ที่เกิดขึ้นในระหว่างปฎบัติงาน และเราจะไปเซ็นท์สัญญากัน ณ สถานที่ซึ่งได้รับการกำกับดูแล ภายในสำนักงานสัญญาเกรด 1 โดยเฉพาะ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <A Contract Office…? I-I dunno what’s going on… Does it really have to be so complicated?>
+        ดันเต้: <สำนักงานสัญญา...? ฉ-ฉันไม่รู้ว่าด้วยซ้ำว่าพวกนายกำลังพูดเรื่องอะไรกันอยู่... ทำไมมันต้องฟังดูยุ่งยากขนาดนี้ด้วย?>
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: In J Corp’s District, we couldn’t get the Golden Bough right away despite winning because we didn’t have anyone overseeing the deal.
+        อิชมาเอล: จำได้ไหมในเขตเจคอร์ป พวกเราไม่สามารถที่จะเอากิ่งทองออกมาได้ในทันที ทั้ง ๆ ที่เราก็เป็นฝ่ายชนะ เป็นปัญหาที่เกิดขึ้น ในเมื่อเราไม่มีใครเป็นคนกลางคุมข้อตกลง
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Oh… That Ayuda from the Merry Archils? She started a fight even after Rodya won the game.
+        เกรกอร์: โอ้... หมายถึงอายูดะคนนั่น ที่มาจาก สุขสันต์วันอาร์คิลส์/เมอร์รี อาร์คิลส์ น่ะเหรอ? นางนั่นเล่นเปิดฉากต่อสู้หลังจากที่โรดย่าชนะเกมไปแล้ว
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: It’s Aida from Los Mariachis…
+        ซินแคร์: เธอชื่อไอด้าจาก คณะนักดนตรีมาริอาซี/โลสมาริอาชิส ต่างหากล่ะครับ...
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: That’s right. Instead of playing the role of the observer, she left us with no choice but to take the Bough with force.
+        อิชมาเอล: ถูกเพ้งตามนั่นเลย แทนที่จะเล่นบทเป็นผู้สังเกตการซะดี ๆ เธอกลับไม่เหลือทางเลือกให้พวกเรา นอกจากต้องแย้งกิ่งมาด้วยกำลัง
         ```
         ```
         Ishmael: Which is why it is safer to use the service of an Association or a Contract Office to stand as an observer or to notarize the contract even if it can be costly. That’s what Faust probably considered most carefully, I think.
+        อิชมาเอล: เพราะงั้นแหละว่าทำไม มันถึงเป็นการปลอดภัยกว่า ที่จะใช้บริการของสมาคม หรือ สำนักงานสัญญา เพื่อเป็นตัวแทนผู้สังเกตการ หรือ รับรองสัญญา แม้ว่ามันจะต้องใช้เงินมากไม่น้อย แต่นั่นก็คงเป็นสิ่งที่เฟาสท์น่าคิดเอาไว้อยู่แล้วอย่างระมัดระวังที่สุด ฉันคิดว่า
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Ishmael explained like it was common knowledge. I guess it’s something well-known among City folks…
+            อิชมาเอลอธิบายออกมาราวกับว่ามันเป็นเรื่องง่ายอะไรอย่างงั้นแหละ ฉันเดาว่ามันก็คงเป็นความรู้พื้นฐาน ที่ชาวเดอะซิตี้โดยทัวไปรู้กันเป็นเรื่องปกติอยู่แล้วล่ะมั้ง
             ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: This contract certainly favors our side.
-        ```
-        ```
-        Faust & Samjo: As long as the goal is achieved.
+        เฟาสท์: สัญญาฉบับนี้เอนประโยชน์ให้ฝั่งเรา
         ```
 
         ---
+
+        <img src="../images/FauSam.png" alt="Faust&Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust & Samjo: As long as the goal is achieved.
+        เฟาสท์และแซมโจ: ตราบใดที่เป้าหมายบรรลุผลสำเร็จ
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             …We watched with our mouths agape as the two declared the conclusion at once.
+            ...เรามองดูทั้งคู่ <.จบตรงนี้ 3.03:7/31/2026>
             ```
 
         ---

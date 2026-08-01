@@ -3620,7 +3620,7 @@
 
         ```
         Samjo: I must object. Chickens cannot fly in the first place, and this technology is providing quality welfare to many...
-        แซมโจ: ขอโทษด้วยนะครับ แต่ผมคงต้องขอแย้งคำกล่าวอ้างเมื่อครู่ สัตว์ปีกวงเล็บไก่เป็นสัตว์ที่บินไม่ได้อยู่แล้วตั้งแต่แรก และเทคโนโลยีนี้ก็ช่วยให้ผู้คนได้อิ่มท้องโดยทั่วกัน...
+        แซมโจ: ขอโทษด้วยนะครับ แต่ผมคงต้องขอแย้งคำกล่าวอ้างเมื่อครู่ สัตว์ปีกวงเล็บไก่เป็นสัตว์ที่บินไม่ได้อยู่แล้วตั้งแต่แรก และเทคโนโลยีนี้ก็ช่วยให้ผู้คนได้อิ่มท้องกับอาหารชั้นดีโดยทั่วกัน...
         ```
 
         ---
@@ -3629,7 +3629,7 @@
 
         ```
         Dongrang: It's okay, Samjo.
-        ดงรัง: 
+        ดงรัง: ไม่เป็นไร แซมโจ
         ```
         ```
         Dongrang: For someone who usually wouldn't look others in the eye to glare directly at a person...
@@ -3651,23 +3651,33 @@
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: The husbandry...
+        ดงรัง: 
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: ...Something seems to have happened to the lab.
+        แซมโจ: 
         ```
         ```
         Samjo: Will it be a good choice to head there now?
+        แซมโจ: 
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: It'll be fine, Samjo. They're skilled enough that they got out of a scuffle with K Corp. security staff armed with our regenerative ampules without a scratch.
+        ดงรัง: 
         ```
 
     ---

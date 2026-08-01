@@ -3353,8 +3353,328 @@
 
     * **Episode: 7 | ตอนที่ 7<br>Location: K Corp. Laboratory - Modification Lab | ห้องแลปศูนย์วิจัยคคอร์ป - ห้องดัดแปลง** 
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: This is where regenerative ampules are made.
+        ดงรัง: นี้เป็นที่ที่หลอดแก้วบรรจุยาฟื้นฟูถูกสร้างขึ้นมาน่ะครับ
+        ```
+        ```
+        Dongrang: They’re publicly called “HP bullets”… but the underlying principle is a nanobot-based medical treatment.
+        ดงรัง: พวกมันรู้จักกันในนาม “กระสุนเฮชพี/เฮชพีบุลเล็ต”... ซึ่งมีหลักการการทำงานเป็นการรักษาด้วยนาโนบอท
+        ```
+        ```
+        Dongrang: There have been struggles here and there, but at the moment, the ampule I sliiightly modified recently is the most commonly used version.
+        ดงรัง: ถึงแม้ว่ามันจะยังมีจุดบงพร่องอยู่บ้าง แต่ ณ วินาทีนี้ หลอดแก้วบรรจุยาที่ผมปรับแต่งเล็กน้อยนี้ ท้ายที่สุด พวกมันก็กลายเป็นเวอร์ชั่นที่ใช้กันอย่างแพร์หลายในหมู่รัฐบาลเคคอร์ป
         ```
 
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: So let me get this straight… You’re the one who supplied that? Dammit, do you have any idea how much that made us suffer—
+        ฮิธคลิฟฟ์: งั้นเท่าที่ฉันเข้าใจก็คือ... แกเป็นคนที่อยู่เบื้องหลังของพวกนี้? ให้ตายเถอะ นี้แกรู้บ้างหรือเปล่า ว่าไอนี้ทำพวกเราเจ็บเจียนตาย ไม่รู้ตั้งกี่รอบ/มากแค่ไหน—
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: We barely managed to crawl over that adversary…
+        อิชมาเอล: หยุดเดี๋ยวนี้เลย พวกเราพึ่งจะก้าวผ่านความบาดหมางนั่นไปนะ แล้วนายยังจะ...
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: I’m relieved that none of you seem to have passed away or suffered severe wounds, at the very least.
+        ดงรัง: ผมรู้สึกโล่งใจ ที่ไม่มีใครในพวกคุณต้องจากไป หรือทุกข์ทรมาณกับแผลฉกรรจ์แสนสาหัส อย่างน้อยที่สุด
+        ```
+        ```
+        Dongrang: Ah! That reminds me, I was told companies have different definitions of “death on the job” and the processes of dealing with them. I’m sure Mr. Samjo gave me an explanation on it…
+        ดงรัง: อ้า! พอพูดถึงเรื่องนั่นก็พึ่งจะนึกออก ผมเคยรู้มาน่ะครับ ว่าแต่ละบริษัทก็มีนิยามเรื่อง “ตายในหน้าที่” ที่ต่างกัน รวมถึงกระบวนการในการรับผิดชอบก็ด้วย ผมคิดว่าคุณแซมโจน่าจะเป็นคนอธิบายเรื่องนั่นให้กับผมล่ะมั้ง...   
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: So, Dongrang, are you… continuing your research on improving those 
+        cure-all nanobots?
+        เกรกอร์: แล้วดงรังครับ คุณได้... ต่อยอดงานวิจัยที่จะรักษาทุกสิ่งด้วยนาโนบอทอะไรนี้ต่อไปไหมครับ?
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Haha, of course not. HP bullets have long been commercialized. My project right now is the improvement of livestock using them.
+        ดงรัง: ฮาฮา แน่นอนว่าต้องไม่อยู่แล้วครับ เฮชพีบุลเล็ตเดิมทีเป็นของในงานวิจัย ที่กลายเป็นสินค้าซื้อขายเมื่อนานมาแล้วล่ะครับ งานของผมในตอนนี้ ก็มีแต่ปรับปรุงปศุสัตว์โดยใช้พวกมัน
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: Improving… livestock?
+        อิชมาเอล: ปรับปรุง... ปศุสัตว์หรอคะ?
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: If “cutting” as a concept is reduced to irrelevance… if it becomes limited to a fleeting moment…
+        ดงรัง: ใช่ครับ หากการ “ตัดเฉือน” เป็นแนวคิดที่ถูกลดทอนจนหมดความสำคัญ... ถ้าหากว่าวันหนึ่งมันกลายเป็นสิ่งที่ถูกจำกัดเพียงชั่วขณะที่ล่วงผ่านไปอย่างรวดเร็ว...
+        ```
+        ```
+        Dongrang: Think about it. We can get an endless supply of high-quality meat.
+        ดงรัง: ลองคิดดูสิครับ ว่าเราจะมีเสบียงของเนื้อคุณภาพดีได้ไม่จำกัด
+        ```
+        ```
+        Dongrang: And it’s not just any meat; the flesh will come from livestock researched and improved with the combined efforts of countless minds… That’s the quality and rarity we’re talking about.
+        ดงรัง: และมันจะไม่ใช่แค่เนื้อธรรมดาทั่ว ๆ ไป; เนื้อหนังมังสาจะไหลมาเทมาจากปศุสัตว์ ซึ่งถูกวิจัย และปรับปรุงอย่างเข้มงวด ด้วยความมุมานะพยายามของเหล่ามันสมองนับไม่ถ้วน... นั่นแหละ คือคุณภาพ และความหายากที่เรากำลังพูดถึง
+        ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: It seems…
+        ฮงหลู่: ดูเหมือนว่า...
+        ```
+        ```
+        Hong Lu: Dongrang has a love for meat as deep as Rodya’s!
+        ฮงหลู่: ดงรังจะเป็นมีทเลิฟเวอร์ผู้รักเนื้อสุดหัวใจเหมือนโรดย่าเลยนะครับ!
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Hmm… Love, you say? You might be right, if endlessly devoting time and care could be called love.
+        ดงรัง: หืมม... รักเหรอครับ? บางที คุณอาจจะพูดถูกก็ได้ ถ้าการอุทิศเวลา และความเอาใจใส่อย่างไม่มีที่สิ้นสุดเรียกว่าความรักได้ล่ะก็นะ
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Hah. I guess snobby bunches get along well, eh?
+        ฮิธคลิฟฟ์: หะ ว่าแล้วว่าไอพวกหัวสูงมันต้องเข้ากันได้เป็นปี่เป็นขลุ่ยเลย?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Don’t beat up our client, okay, Heathcliff?>
+        ดันเต้: <อย่าทำร้ายลูกค้าของเราเด็ดขาดนะ โอเค/เข้าใจ ไหม ฮิธคลิฟฟ์?>
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Depends on how they behave.
+        ฮิธคลิฟฟ์: ก็ขึ้นอยู่ว่าพวกมันทำตัวยังไง
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            We see live chickens whose wings and legs are being sliced endlessly. They don’t even struggle, as if they feel no pain.
+            เรามองเห็นไก่เป็น ๆ ที่ปีก และขาของพวกมันถูกตัดออกมาไม่จบไม่สิ้น ในขณะที่ พวกมันไม่มีท่าทีที่จะขัดขืนอะไรเลย ราวกับว่าพวกมันไม่รู้สึกถึงความเจ็บปวด
+            ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Hmmm… Is this how nanobots look? All I see is liquid…
+        เกรกอร์: หืมมม... นาโนบอทมันหน้าตาแบบนี้หรอครับ? ผมเห็นแต่อะไรน้ำ ๆ พวกนี้ก็ไม่รู้...
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: When infinitesimal particles have fluidity, they will look pretty much the same as fluid.
+        ดงรัง: เมื่ออนุภาคที่เล็กจนแทบวัดไม่ได้มีคุณสมบัติของความเหลว พวกมันเลยดูไม่ต่างอะไรจากของเหลวยังไงล่ะครับ
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Ugh… Is it really necessary to go this far for food?
+        ซินแคร์: อึกเห้อ... มันจำเป็นต้องทำขนาดนี้เพื่ออาหารด้วยหรอครับ? 
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: This sight is too disgusting to handle for a rich boy who grew up on juicy meat, eh?
+        ฮิธคลิฟฟ์: หะ เห็นแค่นี้ก็รู้สึกหยะแหยงจนรับไม่ได้แล้วหรือไง ไอเด็กบ้านรวยที่โตมากับเนื้อช่ำ ๆ ทุกมื้อเอ้ย?   
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: …Kiddo, there are lots of people in the world who’d go any length for a meal.
+        โรเดียน: ...เจ้าหนู รู้ไหมว่ามีคนมากมายบนโลกนี้ ที่พร้อม จะทำอะไรก็ตาม/แลกทุกอย่าง ก็เพื่อ จะได้กินอาหารเพียงมื้อเดียวอยู่นะ
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: No, I mean… This isn’t the same. And my family wouldn’t eat any meat… I, I was an exception, though…
+        ซินแคร์: ไม่ใช่แบบนั่นนะครับที่ผมหมายถึง... นี้มันไม่เหมือนกัน และครอบครัวผมก็ไม่ได้กินเนื้อสัตว์ด้วย... ผม ผมก็แค่... มีแค่ผมคนเดียวที่กินน่ะครับ...
+        ```
+        ```
+        Sinclair: Why does it have to be like this? What I’m trying to say is…
+        ซินแคร์: ทำไมมันต้องเป็นแบบนี้ด้วย? สิ่งที่ผมอยากจะบอกก็คือ...
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: Ah, I think I know what you’re getting at.
+        อิชมาเอล: อา ฉันคิดว่าฉันรู้แล้วว่าเธอพยายามจะพูดอะไร
+        ```
+        ```
+        Ishmael: It does feel rather unnatural, doesn't it? If it was simply for the sake of improving food... there could've been more efficient ways to do it.
+        อิชมาเอล: ที่เธอหมายถึงก็คือ มันให้ความรู้สึกที่ค่อนข้างไม่เป็นธรรมชาติใช่ไหมล่ะ? ถ้าทุกสิ่งที่ทำไปก็เพื่อการพัฒนา และปรับปรุงอาหารแล้ว... มันก็น่าจะมีทางอื่นที่มีประสิทธิภาพมากกว่าถ้าจะทำ
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: Ahh~ There's one thing I can say for sure. If this technology had been made available in the Backstreets...
+        โรเดียน: อาา~ ไม่รู้เหมือนกันนะว่ายังไง แต่มีสิ่งหนึ่งที่ฉันพูดได้เต็มปาก ถ้าเทคโนโลยีนี้ถูกส่งต่อให้คนในเบลคสตรีทเข้าถึงได้ล่ะก็...
+        ```
+        ```
+        Rodion: My friends and I wouldn't have had to rummage through trash cans.
+        โรเดียน: เพื่อน ๆ กับ ฉันก็คงไม่ต้องคุ้ยหาอาหารกินประทังชีวิตจากถังขยะหรอก
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: ...Technology.
+        ยี่ซัง: ...เทคโนโลยี
+        ```
+        ```
+        Yi Sang: No, this is no more than breeding.
+        ยี่ซัง: ไม่สิ ที่เห็นนี้ไม่ต่างอะไรกับการเพาะพันธ์สัตว์เลยสักนิด
+        ```
+        ```
+        Yi Sang: They will never realize they have the ability to fly for their entire lives.
+        ยี่ซัง: พวกมันจะไม่มีวันได้รู้ตัว ว่าตัวเองมีความสามารถที่จะโผบินไปตลอดชีวิต
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Yi Sang spoke, staring directly into Dongrang. It was unusual of him to take this much interest in matters.
+            ยี่ซังพูดออกมา ในขณะที่ตาทั้งสองข้างจ้องไปยังดงรังเขม็ง นับเป็นการผิดวิสัยที่เขาจะสนใจเรื่องอะไรมากขนาดนี้
+            ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: I must object. Chickens cannot fly in the first place, and this technology is providing quality welfare to many...
+        แซมโจ: ขอโทษด้วยนะครับ แต่ผมคงต้องขอแย้งคำกล่าวอ้างเมื่อครู่ สัตว์ปีกวงเล็บไก่เป็นสัตว์ที่บินไม่ได้อยู่แล้วตั้งแต่แรก และเทคโนโลยีนี้ก็ช่วยให้ผู้คนได้อิ่มท้องโดยทั่วกัน...
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: It's okay, Samjo.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: For someone who usually wouldn't look others in the eye to glare directly at a person...
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: That's a sign of desperation, isn't it?
+        ดงรัง: 
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: ......
+        ยี่ซัง: ......
+        ```
+
+        ---
+
+        ```
+        Dongrang: The husbandry...
+        ```
+
+        ---
+
+        ```
+        Samjo: ...Something seems to have happened to the lab.
+        ```
+        ```
+        Samjo: Will it be a good choice to head there now?
+        ```
+
+        ---
+
+        ```
+        Dongrang: It'll be fine, Samjo. They're skilled enough that they got out of a scuffle with K Corp. security staff armed with our regenerative ampules without a scratch.
+        ```
+
+    ---
+
+    * **Episode: 8 | ตอนที่ 8<br>Location: Invaded K Corp. Laboratory | ห้องแลปเคคอร์ปที่ถูกบุกรุก** 
+
+        ```
         ```
 ---
 

@@ -3230,7 +3230,7 @@
 
             ```
             …We watched with our mouths agape as the two declared the conclusion at once.
-            ...เรามองดูพวกเขา ด้วยความตกตะลึง/พร้อมกับอ้าปากค้าง ในช่วงจังหวะเดียวกับที่/เมื่อ ทั้งสองประกาศผลสรุปพร้อมกัน
+            ...เรามองดูพวกเขาด้วยความตกตะลึง ในช่วงจังหวะเดียวกับที่ทั้งสองประกาศผลสรุปออกมาพร้อมกัน
             ```
 
         ---
@@ -3239,7 +3239,7 @@
 
         ```
         Dongrang: This is a secret, but, I frankly don’t get more than half of what Samjo says. I just nod like “Oh I see~” and move on.
-        ดงรัง: 
+        ดงรัง: นี้เป็นความลับอย่าบอกใครนะครับ ให้พูดตามตรง ผมแทบจะไม่เข้าใจสิ่งที่แซมโจพูดเลยด้วยซ้ำ ผมก็แค่ทำทีแบบ “อ้อ ฉันเข้าใจแล้ว ฉันเข้าใจ~” แล้วก็ปล่อยให้เขาสาธยายความต่อไปน่ะครับ
         ```
 
         ---
@@ -3248,79 +3248,114 @@
 
         ```
         Gregor: Isn’t that a coincidence? It’s the same for us, too.
-        เกรกอร์: 
+        เกรกอร์: บังเอิญหรือเปล่าครับเนี้ย? ดูเหมือนฝั่งเราก็จะเป็นเหมือนกันนะครับ 
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Aren’t you supposed to be the last person to be ignorant of your secretary’s words…?
+        อิชมาเอล: ไม่ใช่ว่าคุณควรที่จะเป็นคนสุดท้ายที่เมินเฉยต่อคำพูดของเลขาตัวเองหรอคะ...?
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Aha, still, I guess making a contract with K Corp’s laboratory means we won’t be fighting against the Wing’s staff for a while.
+        ฮงหลู่: อ้าา จะว่าไปแล้ว ถ้าเราทำสัญญากับแลปของเคคอร์ป นั่นก็หมายความว่าเราจะได้พักรบกับเจ้าหน้าที่วิงส์ไปสักพักสินะครับ
         ```
         ```
         Hong Lu: You know, those people who would keep healing their wounds.
+        ฮงหลู่: ก็อย่างที่พวกคุณรู้กัน ว่าการที่ต้องสู้กับคนพวกนั่น ที่เอาแต่รักษาบาดแผลของตัวเองได้ไม่หยุดนี้ เป็นอะไรทีหินสุด ๆ ไปเลยนะครับ 
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             The team fell into a somber silence. All the memories related to them were filled with misery and suffering.
+            จู่ ๆ คนในทีมก็ซึมกระทือกันไปหมด ทำอย่างกับว่าความทรงจำทั้งหมดพวกนั่น ที่เกี่ยวข้องกับพวกเขา มีแต่ความโศกเศร้า และทุกข์ทรมาณยังไงอย่างงั้นแหละ (จริง ๆ ก็ใช่แหละ)
             ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: Ah, so you’ve seen K Corp’s regenerative technology already.
+        ดงรัง: อา แปลว่าพวกคุณก็เคยเห็นเทคโนโลยีคืนสภาพของเคคอร์ปแล้วสินะครับ
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Ugh, we’ve more than seen it!
+        โรเดียน: เห้อ เรามากกว่าเห็นซะอีก!
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Had to deal with it over and over, I get sick of the thought…
+        เกรกอร์: ต้องจัดการกับมันซ้ำ ๆ ซาก ๆ ครั้งแล้ว ครั้งเล่า จนเบื่อเลยล่ะ...
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Ah… Why don’t I show you around my lab instead, then? It’s not here, though… You’ll have to take the elevator once more.
+        ดงรัง: อา... ทำไมผมไม่พาพวกคุณไปดูรอบ ๆ แลปผมดีล่ะ? มันไม่ได้อยู่ที่นี้หรอกครับ... พวกคุณจะต้องขึ้นลิฟอีกรอบ
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Geh? You would show them that much, Mr. Dongrang? That place is off-limits for unauthorized personnel…
+        แซมโจ: เกอะเออะ? คุณจะให้พวกเขาดูมากขนาดนั่นเลยหรอครับ คุณดงรัง? ที่นั่นไม่ใช่สถานที่ที่บุคคลภายนอกได้รับอนุญาตินะครับ...
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Hah, you just made a really funny noise, Mr. Samjo. Well, it shouldn’t hurt. We’re hanging out a bit to celebrate the provisional contract being signed.
+        ดงรัง: หะ เมื่อกี้นี้คุณทำเสียงได้ตลกดีนะครับ คุณแซมโจ ก็แบบ มันก็คงไม่เสียหายอะไร ถ้าพวกเราจะแค่พาทัวร์เล็ก ๆ น้อย ๆ เพื่อเฉลิมฉลองให้กับความสำเร็จครั้งยิ่งใหญ่ ที่เซ็นท์สัญญาชั่วคราวได้สำเร็จไงครับ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             I wasn’t sure if that was an appropriate way to celebrate things… but since no one on the team objected, I decided to follow him.
+            ฉันชักจะเริ่มไม่แน่ใจแล้วนะ ว่านั่นเป็นวิธีการเฉลิมฉลองจริง ๆ หรือเปล่า... แต่ในเมื่อไม่มีใครในทีมคัดค้านอะไร ฉันก็คงทำได้แต่ตามน้ำไปก่อนนั่นแหละ
             ```
 
     ---
 
     * **Episode: 7 | ตอนที่ 7<br>Location: K Corp. Laboratory - Modification Lab | ห้องแลปศูนย์วิจัยคคอร์ป - ห้องดัดแปลง** 
+
+        ```
+
+        ```
 ---
 
 ### เพิ่มเติม

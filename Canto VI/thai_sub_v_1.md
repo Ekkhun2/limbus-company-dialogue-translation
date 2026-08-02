@@ -3773,7 +3773,7 @@
 
         ```
         Dongrang: The first attack did have everyone panicking. The explosive detection broadcasts didn't exist, either. Mister Samjo hid under his desk for quite some time...
-        ดงรัง: 
+        ดงรัง: ใช่ครับ การโจมตีครั้งแรกคงทำให้ทุกคนตื่นตระหนกกันไม่น้อย แต่ก็ดูเหมือนว่าจะไม่มีประกาศตรวจจับพบระเบิดระลอกใหม่แล้วนะครับ แล้วก็คุณแซมโจที่หลบอยู่ใต้โต๊ะตรงนั่นได้สักพักใหญ่ จะไม่ออกมาคุยกันหน่อยหรอครับ...
         ```
 
         ---
@@ -3782,11 +3782,11 @@
 
         ```
         Samjo: As I keep saying, the attack occurred in the lobby, and I was merely attempting to pick up a notebook that fell under the desk.
-        แซมโจ: 
+        แซมโจ: ก็อย่างที่ผมพึ่งบอกไปไงครับ ว่าการโจมตีเกิดขึ้นที่ล็อบบี้ และผมก็แค่กำลังพยายามจะหยิบโน๊ตบุ๊คที่ตกอยู่ใต้โต๊ะน่ะครับ
         ```
         ```
         Samjo: You must take this situation seriously, Mr. Dongrang. An attack on a K Corp. laboratory in the middle of the Nest is not a matter of course.
-        แซมโจ: 
+        แซมโจ: ผมคิดว่าคุณควรที่จะมองสถานการณ์ที่เกิดขึ้นให้ จริงจัง/ซีเรียส มากกว่านี้หน่อยนะครับ คุณดงรัง การโจมตีเคคอร์ป แลปที่ตั้งอยู่ใจกลางเนสแบบนี้ ไม่ใช่เรื่องปกติที่เกิดขึ้นได้ทุกวันนะครับ
         ```
 
         ---
@@ -3795,7 +3795,7 @@
 
         ```
         Dongrang: For sure, they managed to arrive at the floor where the researchers are. Oh, I think I sprained my left ankle, Samjo.
-        ดงรัง: 
+        ดงรัง: คร้าบ ๆ ผมจริงจังอยู่คร้าบ ปานนี้ พวกมันคงไปถึงชั้นที่เหล่านักวิจัยรวมตัวกันแล้วล่ะมั้ง โอ้ ฉันคิดว่าฉันพึ่งจะทำข้อเท้าซ้ายตัวเองแพลง แซมโจ
         ```
 
         ---
@@ -3806,81 +3806,118 @@
 
             ```
             I watched as Samjo injected a regeneration ampule into Dongrang's body.
+            ผมมองแซมโจที่ฉีดยาฟื้นฟู เข้าไป/ไปบน ในร่างกายของดงรัง 
             ```
 
         ---
 
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Outis: Are they the terrorists that are occupying the Lobotomy Corp. branch?
+        เอาทิส: พวกมันเป็นผู้ก่อการร้ายกลุ่มเดียวกัน กับที่ยึดห้องวิจัยที่สาขาโลโบโตมี่หรือเปล่าคะ? 
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongnrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Indeed. Speak of the devil.
+        ดงรัง: ดูเหมือนจะใช่นะครับ พูดถึงก็มาเลย
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: They're part of the terrorist organization? They don't really look like well-trained combatants...
+        ซินแคร์: พวกเขาเป็นส่วนหนึ่งขององค์กรก่อการร้ายหรอครับ? แต่พวกเขาดูไม่เหมือนกับนักสู้ที่ถูกฝึกมาดีเลยนะครับ...
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Would you look at that, you got an eye for that now, kid?
+        ดันเต้: เอ้า ดูนั่นสิ ดูสิว่าใครมีสายตาที่เฉียบคมขึ้นแล้ว ไอหนู?
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: It's natural. They aren't the ones directly engaging in combat.
+        แซมโจ: ยังไงก็ต้องเป็นอย่างงั้นอยู่แล้วล่ะครับ เพราะ พวกเขาไม่ได้เป็นคนที่มีหน้าที่ในการต่อสู้โดยตรง
         ```
         ```
         Samjo: It should take a single glance to notice that they appear lean and frail just like Mr. Dongrang.
+        แซมโจ: มองแว๊บเดียวก็รู้แล้ว จากลักษณะลำตัวที่ขาดสมดุล และอ่อนแอ ไม่ต่างอะไรกับคุณดงรัง 
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: I've seen rich sods that don't get into fights still get body-enhancing augments just in case. You sure they aren't just acting weak?
+        ฮิธคลิฟฟ์: ฉันเคยเห็นไอพวกคนรวยที่ไม่สู้กับใคร แต่ก็ยังมีอุปกรณ์เสริมสมรรถภาพทางด้านร่างกายติดไม้ติดมือเป็นไม้ตายเอาไว้อยู่ แกแน่ใจใช่ไหมว่าพวกมันไม่ได้กำลังแสร้งทำเป็นอ่อนแอ?
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: It's not necessarily the case. As varied as ways to augment the body are, some may be repulsed by it, physically or mentally.
+        เฟาสท์: มันไม่ใช่ว่าต้องเป็นแบบนั่นเสมอไปนะคะ วิธีการเสริมแต่งร่างกายนั่นมีอยู่อย่างหลากหลาย ในทำนองเดียวกัน บางคนก็อาจจะรู้สึกรังเกลียดมัน ไม่ว่าจะทางกายภาพ หรือ จิตใจไม่มากก็น้อย
         ```
         ```
         Faust: Some Nests even forbid their residents from getting procedures above a certain level of power if they aren't qualified.
+        เฟาสท์: บางเนสเองก็ห้ามไม่ให้ผู้อาศัยของพวกเขาเข้ารับการผ่าตัดดัดแปลง เกินกว่าระดับของพลังที่กำหนด หากพวกเขาไม่ผ่านเกณฑ์
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: They don't want the lowly to rise up and topple the ruling class over, huh?
+        โรเดียน: หรือก็คือพวกเขาก็ไม่ต้องการให้พวกรากหญ้าลุกฮือ และโค้นล้มชนชั้นปกครองแบบนั่นใช่ไหม?
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: I couldn't deny those possibilities. Each Nest must have its own reasons.
+        เฟาสท์: ฉันไม่อาจปฎิเสธความเป็นได้พวกนั่นหรอกค่ะ แต่ละเนสก็คงมีเหตุผลรองรับของตนเอง
         ```
         ```
         Faust: But, fundamentally speaking, augmenting procedures are like high-performing vehicles. If an unqualified driver were to try and handle a vehicle with a power output above what they can handle...
+        เฟาสท์: แต่ถ้าจะให้พูดตามหลักการแล้ว ร่างกายที่เสริมแต่งก็ไม่ต่างอะไรกับพาหนะประสิทธิภาพสูง ถ้าคนขับไม่ผ่านเกณฑ์จะลองพยายามที่จะควบคุมพาหนะนั่น ซึ่งมีพลังเกินกว่าที่พวกเขาจะรับไหว...
         ```
         ```
         Faust: Layers of order in the Nest would fall apart in no time, so they'd like to prevent that from happening.
+        เฟาสท์: ระดับชั้นของกฎระเบียบในเนส ก็คงพังทลายลงในเวลาอันสั้น เพราะงั้น พวกเขาก็เลยอาจจะอยากป้องกันเอาไว้ก่อน เพื่อไม่ให้เกิดเหตุการณ์อะไรอย่างนั่นก็ได้นะคะ
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Sorry to interrupt your passionate exposition, the pain was genuine for me, just so you know.
+        ดงรัง: 
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -3892,6 +3929,7 @@
 
         ```
         Don Quixote: Eek!
+        ดอน กิโฆเต้: 
         ```
 
         ---
@@ -4102,6 +4140,7 @@
     ---
 
     * **Episode: 9 | ตอนที่ 9<br>Location: Invaded K Corp. Laboratory | ห้องแลปเคคอร์ปที่ถูกบุกรุก** 
+    
 ---
 
 ### เพิ่มเติม

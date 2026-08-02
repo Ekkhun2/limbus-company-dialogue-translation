@@ -3660,7 +3660,7 @@
 
         ---
 
-        <img src="../images/Samjo.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: ...Something seems to have happened to the lab.
@@ -3673,7 +3673,7 @@
 
         ---
 
-        <img src="../images/Dongrang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: It'll be fine, Samjo. They're skilled enough that they got out of a scuffle with K Corp. security staff armed with our regenerative ampules without a scratch.
@@ -3682,10 +3682,426 @@
 
     ---
 
-    * **Episode: 8 | ตอนที่ 8<br>Location: Invaded K Corp. Laboratory | ห้องแลปเคคอร์ปที่ถูกบุกรุก** 
+    * **Episode: 8 | ตอนที่ 8<br>Location: Invaded K Corp. Laboratory | ห้องแลปเคคอร์ปที่ถูกบุกรุก**
+
+        <img src="../images/None_Extra.png" alt="Announcement" width="100" style="display: block; margin: 0 auto;"> 
 
         ```
+        Announcement: An explosion has been detected. Please protect yourselves from danger by swiftly moving under your desks.
+        เสียงประกาศตามสาย: ตรวจพบการระเบิดภายในอาคาร โปรดปกป้องตนเองจากภัยอันตรายที่เกิดขึ้น ด้วยการหลบใต้โต๊ะของพวกคุณด้วยคะ
         ```
+
+        ---
+
+        <img src="../images/LobotomyMachine2.png" alt="IntimidatingMachine" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Intimidating Machine: ......
+        เครื่องจักรที่ดูน่าเกรงขาม: ......
+        ```
+
+        ---
+
+        <img src="../images/Marie.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: Whoops... That was a misfire.
+        บุคคลปริศนา: อุ๊ปส์... โทษทีเมื่อกี้ยิงพลาดน่ะ
+        ```
+
+        ---
+
+        <img src="../images/None_Extra.png" alt="None_Extra" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Announcement: A second explosion has been detected. Please activate the regeneration ampule in your possession, and...
+        เสียงประกาศตามสาย: ตรวจพบการระเบิดครั้งที่สอง กรุณาเปิดใช้งานหลอดบรรจุยาฟื้นฟูที่ท่านมีอยู่ และ...
+        ```
+        ```
+        Announcement: Please wait for K Corp's security staff that will arrive within 18 seconds of, of, of...
+        เสียงประกาศตามสาย: กรุณารอจนกว่าเจ้าหน้าที่รักษาความปลอดภัยของเคคอร์ปจะไปถึง ในอีก 18 วินา ที ที ที...
+        ```
+
+        ---
+
+        <img src="../images/Ran.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: Same old announcement. I wonder, why are broadcasts like that told in such calm voices?
+        บุคคลปริศนา: ประกาศเดิมนี้อีกแล้ว ทำเอาฉันสงสัยเลยนะ ว่าทำไมเวลาพูดกระจายเสียงออกไป ต้องพูดด้วยน้ำเสียงใจเย็นด้วย
+        ```
+        ```
+        ???: Won't a little gasping and panicking be more effective in getting people to evacuate?
+        บุคคลปริศนา: ไม่ใช่ว่าเสียงหอบนิด ๆ แล้วก็ตื่นตระหนกอีกหน่อย จะมีประสิทธิภาพในการอพยพคนมากกว่าหรอ?
+        ```
+        ```
+        ???: See, getting so preoccupied with all that technology and science nonsense dulls your empathy with feelings.
+        บุคคลปริศนา: เห็นไหมเล่า ว่าการหมกมุ่นอยู่กับเทคโนโลยีพวกนั่นมากเกินไป กับ หลักการทางวิทยาศาศตร์บ้าบอพวกนั่นทำให้ความรู้สึกเห็นเข้าอกเข้าใจของมนุษย์ทู่ลงมากแค่ไหน
+        ```
+        
+        ---
+
+        <img src="../images/Marie.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: ...You talk too much. Be quiet.
+        บุคคลปริศนา: ...เธอพูดมากไปแล้ว เงียบซะ
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+
+        ```
+        Samjo: Is everyone alright? If you aren't, take a regeneration sample. A cross-compatibility test is normally needed, but we're in an emergency...
+        แซมโจ: ทุกคนยังอยู่ดีกันใช่ไหมครับเนี้ย? ถ้าใครไม่ไหวก็บอกผมได้นะครับ จะได้ให้ยาฟื้นฟูตัวทดลองไปสักโดส ถึงแม้จะเป็นตัวที่ยังไม่ได้รับการทดสอบก็เถอะ แต่คงช่วยไม่ได้ล่ะนะครับ ที่ตอนนี้เราอยู่ในสถานการณ์ฉุกเฉิน
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: ...You look unfazed. Doesn't a terrorist attack usually throw everyone into chaos?
+        เกรกอร์: ...คุณดูนิ่งจังเลยนะครับ ไม่ใช่ว่าการโจมตีของผู้ก่อการร้ายควรจะทำให้ทุกคนอยู่ในความโกลาหลหรอครับ?
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: The first attack did have everyone panicking. The explosive detection broadcasts didn't exist, either. Mister Samjo hid under his desk for quite some time...
+        ดงรัง: 
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: As I keep saying, the attack occurred in the lobby, and I was merely attempting to pick up a notebook that fell under the desk.
+        แซมโจ: 
+        ```
+        ```
+        Samjo: You must take this situation seriously, Mr. Dongrang. An attack on a K Corp. laboratory in the middle of the Nest is not a matter of course.
+        แซมโจ: 
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: For sure, they managed to arrive at the floor where the researchers are. Oh, I think I sprained my left ankle, Samjo.
+        ดงรัง: 
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            I watched as Samjo injected a regeneration ampule into Dongrang's body.
+            ```
+
+        ---
+
+        ```
+        Outis: Are they the terrorists that are occupying the Lobotomy Corp. branch?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Indeed. Speak of the devil.
+        ```
+
+        ---
+
+        ```
+        Sinclair: They're part of the terrorist organization? They don't really look like well-trained combatants...
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Would you look at that, you got an eye for that now, kid?
+        ```
+
+        ---
+
+        ```
+        Samjo: It's natural. They aren't the ones directly engaging in combat.
+        ```
+        ```
+        Samjo: It should take a single glance to notice that they appear lean and frail just like Mr. Dongrang.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: I've seen rich sods that don't get into fights still get body-enhancing augments just in case. You sure they aren't just acting weak?
+        ```
+
+        ---
+
+        ```
+        Faust: It's not necessarily the case. As varied as ways to augment the body are, some may be repulsed by it, physically or mentally.
+        ```
+        ```
+        Faust: Some Nests even forbid their residents from getting procedures above a certain level of power if they aren't qualified.
+        ```
+
+        ---
+
+        ```
+        Rodion: They don't want the lowly to rise up and topple the ruling class over, huh?
+        ```
+
+        ---
+
+        ```
+        Faust: I couldn't deny those possibilities. Each Nest must have its own reasons.
+        ```
+        ```
+        Faust: But, fundamentally speaking, augmenting procedures are like high-performing vehicles. If an unqualified driver were to try and handle a vehicle with a power output above what they can handle...
+        ```
+        ```
+        Faust: Layers of order in the Nest would fall apart in no time, so they'd like to prevent that from happening.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Sorry to interrupt your passionate exposition, the pain was genuine for me, just so you know.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Soon enough, people wearing familiar outfits appeared, along with the unforgettable beats of footsteps.
+            ```
+
+        ---
+
+        ```
+        Don Quixote: Eek!
+        ```
+
+        ---
+
+        ```
+        Sinclair: T-The ones from the checkpoint...
+        ```
+
+        ---
+
+        ```
+        Ishmael: And now they're our reliable allies.
+        ```
+
+        ---
+
+        ```
+        Dante: <Those robots... They look seriously hostile...>
+        ```
+
+        ---
+
+        ```
+        ???: Hemorrhage within five seconds. Spinal damage of at least 12 centimeters in length. Direct impact on coronary artery. Destruction of the cranium.
+        ```
+
+        ---
+
+        ```
+        ???: These steps will ensure that the enemy meets immediate death without unnecessary suffering.
+        ```
+        ```
+        ???: It can do that, but wasn't it mainly to fully destroy the brain so that they can't regenerate themselves?
+        ```
+        ```
+        ???: Hey, if you don't mind, could you pretend to be dead if this doesn't kill you right away? My buddy stayed up all night upgrading the instakill function.
+        ???: Quiet.
+        ```
+        ```
+        ???: See~ I told you. With that recoil distance, it only reaches as deep as the occipital lobe. Did you really have to learn it through trial?
+        ```
+        ```
+        ???: Damn it... It should have gone all the way through the temporal lobe.
+        ```
+
+        ---
+
+        ```
+        Dongrang: We can't lose to them, we have robots of our own. They should be here any minute now...
+        ```
+        ```
+        Dongrang: Aha, there it is! The regeneration ampule administration drone.
+        ```
+
+        ---
+
+        ```
+        Ishmael: It must be pretty handy to have them. Do they inject the ampules right as the staff is injured?
+        ```
+
+        ---
+
+        ```
+        Samjo: Yes, as long as their heads aren't lost... and the ampule is injected before the golden time passes and their brain stops functioning... They're practically undying.
+        ```
+
+        ---
+
+        ```
+        K Corp. Security: ...Kgh.
+        ```
+
+        ---
+
+        ```
+        Samjo: Injuries like holes in internal organs...
+        ```
+
+        ---
+
+        ```
+        K Corp. Security: ...Kurgh!
+        ```
+
+        ---
+
+        ```
+        Samjo: Or broken bones can be healed in seconds.
+        ```
+
+        ---
+
+        ```
+        Ishmael: Even still... They wouldn't be immune to pain. How can they be so calm about it...
+        ```
+        ```
+        Ishmael: They won't even bat an eye at a colleague right next to them being cut down.
+        ```
+
+        ---
+
+        ```
+        Meursault: Natural behavior.
+        ```
+        ```
+        Meursault: If all wounds can be healed up in seconds, all judgement regarding it will be secondary.
+        ```
+
+        ---
+
+        ```
+        Hong Lu: If that's the case... Will we become like that eventually?
+        ```
+
+        ---
+
+        ```
+        Meursault: I don't see a reason to think about such things.
+        ```
+
+        ---
+
+        ```
+        Hong Lu: I was just curious.
+        ```
+
+        ---
+
+        ```
+        ???: By the way... Who are these new faces with unfamiliar outfits? Anyone wanna introduce yourself?
+        ```
+        ```
+        ???: None of our business.
+        ```
+        ```
+        ???: True. But it's kinda awkward to be just facing them. Someone's gotta talk, no?
+        ```
+
+        ---
+
+        ```
+        Ishmael: ...Why should we introduce ourselves to a terrorist organization?
+        ```
+
+        ---
+
+        ```
+        ???: We're no mere terrorist organization. Watch your words.
+        ```
+        ```
+        ???: I don't hate the sound of it. It lines up with my beliefs when I was four. I had to answer the call of a grad school because the paper I wrote on atoms won a prize at the age of eleven...
+        ```
+        ```
+        ???: Shut it. We are the technology liberation alliance.
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Liberate what technologies exactly? Does technology yearn for freedom?
+        ```
+
+        ---
+
+        ```
+        Sinclair: Maybe... they're talking about the animals in the lab... I think?
+        ```
+
+        ---
+
+        ```
+        ???: You hear that? He thinks we're animal protectors or something?
+        ```
+        ```
+        ???: Sorry, but that went out of fashion long ago. You think we're working day and night assembling machines just to fight for happily raised chickens fried in healthy oil?
+        ```
+        ```
+        ???: Type X-32 bolts are so hard to get these days, we have to order them from other Nests. Do you have any idea how much tax is added?
+        ```
+    
+        ---
+
+        ```
+        Faust: You can substitute type X-32 bolts by casting a c-9 bolt and tempering it at an interval of two hours.
+        ```
+
+        ---
+
+        ```
+        ???: You aren't gonna win over us by acting all smart...
+        ```
+        ```
+        ???: Oh... Huh... No, she might be right... It could work.
+        ```
+
+        ---
+
+        ```
+        Gregor: Could you tell us why you're offering advice to enemies, Ms. Faust?
+        ```
+
+        ---
+
+        ```
+        Faust: You wouldn't understand. Researchers have a creed more valuable than life.
+        ```
+
+    ---
+
+    * **Episode: 9 | ตอนที่ 9<br>Location: Invaded K Corp. Laboratory | ห้องแลปเคคอร์ปที่ถูกบุกรุก** 
 ---
 
 ### เพิ่มเติม

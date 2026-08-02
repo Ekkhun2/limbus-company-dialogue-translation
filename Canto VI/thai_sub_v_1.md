@@ -3433,7 +3433,7 @@
 
         ```
         Dongrang: If “cutting” as a concept is reduced to irrelevance… if it becomes limited to a fleeting moment…
-        ดงรัง: ใช่ครับ หากการ “ตัดเฉือน” เป็นแนวคิดที่ถูกลดทอนจนหมดความสำคัญ... ถ้าหากว่าวันหนึ่งมันกลายเป็นสิ่งที่ถูกจำกัดเพียงชั่วขณะที่ล่วงผ่านไปอย่างรวดเร็ว...
+        ดงรัง: ใช่ครับ หากการ “ตัดเฉือน” เป็นแนวคิดที่ถูกลดทอนจนหมดความสำคัญ... ถ้าหากว่าวันหนึ่งมันกลายเป็นสิ่งที่ถูกจำกัดเพียงชั่วขณะอันแสนสั้น...
         ```
         ```
         Dongrang: Think about it. We can get an endless supply of high-quality meat.
@@ -3602,7 +3602,7 @@
         ```
         ```
         Yi Sang: They will never realize they have the ability to fly for their entire lives.
-        ยี่ซัง: พวกมันจะไม่มีวันได้รู้ตัว ว่าตัวเองมีความสามารถที่จะโผบินไปตลอดชีวิต
+        ยี่ซัง: พวกมันจะไม่มีวันได้รู้ตัว ว่าตัวเองมีความสามารถที่จะโผบินได้ไปตลอดชีวิต
         ```
 
         ---
@@ -3633,11 +3633,11 @@
         ```
         ```
         Dongrang: For someone who usually wouldn't look others in the eye to glare directly at a person...
-        ดงรัง: 
+        ดงรัง: กับคนที่ปกติไม่ค่อยจะสบตาใคร แต่ตอนนี้ กลับจ้องเขม็งใส่คนอื่นได้ตรง ๆ หน้าตาเฉยแบบนี้...
         ```
         ```
         Dongrang: That's a sign of desperation, isn't it?
-        ดงรัง: 
+        ดงรัง: นับเป็นสัญญะแห่งความสิ้นหวังเลยเนอะ?
         ```
 
         ---
@@ -3655,7 +3655,7 @@
 
         ```
         Dongrang: The husbandry...
-        ดงรัง: 
+        ดงรัง: การเลี้ยงสัตว์...
         ```
 
         ---
@@ -3664,11 +3664,11 @@
 
         ```
         Samjo: ...Something seems to have happened to the lab.
-        แซมโจ: 
+        แซมโจ: ...ดูเหมือนจะเกิดอะไรขึ้นที่แลปนะครับ
         ```
         ```
         Samjo: Will it be a good choice to head there now?
-        แซมโจ: 
+        แซมโจ: ผมว่ามันน่าจะเป็นการดีกว่า ถ้าเราจะมุ่งหน้ากันไปที่นั่นเดี๋ยวนี้?
         ```
 
         ---
@@ -3677,7 +3677,7 @@
 
         ```
         Dongrang: It'll be fine, Samjo. They're skilled enough that they got out of a scuffle with K Corp. security staff armed with our regenerative ampules without a scratch.
-        ดงรัง: 
+        ดงรัง: สบายบรื๋อสะดือโบ๋น่ะแซมโจ ยังไงพวกเขาก็เก่งพอที่จะเอาตัวรอดมาได้จากเงื้อมของมือเจ้าหน้าที่เคคอร์ปเลยน่ะ กับพวกรักษาความปลอดภัยพวกนั่นที่ติดอาวุธกับหลอดบรรจุยาฟื้นฟูเต็มออฟชั่นแล้ว กลับรอดมาได้โดยไม่มีแม้แต่รอยขีดข่วนสักริ้วเดียว ฉันว่ายังไงเราก็ไว้ใจพวกเขาได้
         ```
 
     ---

@@ -3873,7 +3873,7 @@
 
         ```
         Faust: It's not necessarily the case. As varied as ways to augment the body are, some may be repulsed by it, physically or mentally.
-        เฟาสท์: มันไม่ใช่ว่าต้องเป็นแบบนั่นเสมอไปนะคะ วิธีการเสริมแต่งร่างกายนั่นมีอยู่อย่างหลากหลาย ในทำนองเดียวกัน บางคนก็อาจจะรู้สึกรังเกลียดมัน ไม่ว่าจะทางกายภาพ หรือ จิตใจไม่มากก็น้อย
+        เฟาสท์: มันไม่ใช่ว่าต้องเป็นแบบนั่นเสมอไปนะคะ วิธีการเสริมแต่งร่างกายนั่นมีอยู่มากมายหลากหลายแบบ ในทำนองเดียวกัน บางคนก็อาจจะรู้สึกรังเกลียดมัน ไม่ว่าจะทางกายภาพ หรือ จิตใจไม่มากก็น้อย
         ```
         ```
         Faust: Some Nests even forbid their residents from getting procedures above a certain level of power if they aren't qualified.
@@ -3886,7 +3886,7 @@
 
         ```
         Rodion: They don't want the lowly to rise up and topple the ruling class over, huh?
-        โรเดียน: หรือก็คือพวกเขาก็ไม่ต้องการให้พวกรากหญ้าลุกฮือ และโค้นล้มชนชั้นปกครองแบบนั่นใช่ไหม?
+        โรเดียน: หรือก็คือพวกเขาไม่ต้องการให้พวกรากหญ้าลุกฮือ และโค้นล้มชนชั้นปกครองแบบนั่นใช่ไหม?
         ```
 
         ---
@@ -3895,11 +3895,11 @@
 
         ```
         Faust: I couldn't deny those possibilities. Each Nest must have its own reasons.
-        เฟาสท์: ฉันไม่อาจปฎิเสธความเป็นได้พวกนั่นหรอกค่ะ แต่ละเนสก็คงมีเหตุผลรองรับของตนเอง
+        เฟาสท์: ฉันไม่อาจปฎิเสธความเป็นได้พวกนั่นหรอกค่ะ แต่ละเนสก็คงมีเหตุผลรองรับในแบบตนเองที่ต่างกัน
         ```
         ```
         Faust: But, fundamentally speaking, augmenting procedures are like high-performing vehicles. If an unqualified driver were to try and handle a vehicle with a power output above what they can handle...
-        เฟาสท์: แต่ถ้าจะให้พูดตามหลักการแล้ว ร่างกายที่เสริมแต่งก็ไม่ต่างอะไรกับพาหนะประสิทธิภาพสูง ถ้าคนขับไม่ผ่านเกณฑ์จะลองพยายามที่จะควบคุมพาหนะนั่น ซึ่งมีพลังเกินกว่าที่พวกเขาจะรับไหว...
+        เฟาสท์: แต่ถ้าจะให้พูดตามหลักการแล้ว ร่างกายที่เสริมแต่งก็ไม่ต่างอะไรกับยานพาหนะประสิทธิภาพสูง ถ้าคนขับไม่ผ่านเกณฑ์จะลองพยายามที่จะควบคุมพาหนะนั่น ซึ่งมีพลังเกินกว่าที่พวกเขาจะรับไหว...
         ```
         ```
         Faust: Layers of order in the Nest would fall apart in no time, so they'd like to prevent that from happening.
@@ -3912,7 +3912,7 @@
 
         ```
         Dongrang: Sorry to interrupt your passionate exposition, the pain was genuine for me, just so you know.
-        ดงรัง: 
+        ดงรัง: ขอโทษที่ต้องขัดจังหวะนิทรรศการที่รุ่มร้อนของคุณด้วยนะครับ แค่อยากจะบอกว่า ผมรู้สึกเจ็บมากเลยจริง ๆ น่ะครับ
         ```
 
         ---
@@ -3923,224 +3923,367 @@
 
             ```
             Soon enough, people wearing familiar outfits appeared, along with the unforgettable beats of footsteps.
+            ไม่นานนัก เจ้าพวกคนที่สวมใส่ชุดคุ้นตาก็ปรากฎตัวออกมา พร้อมกับเสียงฝีเท้าที่ไม่อาจลืมได้
             ```
 
         ---
 
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Don Quixote: Eek!
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: อึ๋ย!
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: T-The ones from the checkpoint...
+        ซินแคร์: พ-พวกคนจากตอนด่านตรวจนี้ครับ...
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: And now they're our reliable allies.
+        อิชมาเอล: แล้วตอนนี้พวกเขาก็เป็นพันธมิตรที่ไว้ใจได้ไปซะแล้ว
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <Those robots... They look seriously hostile...>
+        ดันเต้: <หุ่นยนต์พวกนั่น... ดูอันตรายไม่เบาเลยนะ...>
         ```
 
         ---
+
+        <img src="../images/Marie.png" alt="???" width="100" style="display: block; margin: 0 auto;">
 
         ```
         ???: Hemorrhage within five seconds. Spinal damage of at least 12 centimeters in length. Direct impact on coronary artery. Destruction of the cranium.
+        บุคคลปริศนา: ตกเลือดภายในห้าวินาที กระดูกสันหลังเสียหายอย่างน้อยยาว 12 เซนติเมตร เข้าปะทะโดยตรงกับหลอดเลือดแดงหัวใจ กระโหลกถูกทำลายสิ้น
         ```
-
-        ---
-
         ```
         ???: These steps will ensure that the enemy meets immediate death without unnecessary suffering.
+        บุคคลปริศนา: ขั้นตอนพวกนี้จะทำให้มั่นใจได้ว่า ศัตรูที่เราต้องเผชิญหน้าจะตายในทันทีโดยที่ไม่ทรมาณ
         ```
+        
+        ---
+
+        <img src="../images/Ran.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+
         ```
         ???: It can do that, but wasn't it mainly to fully destroy the brain so that they can't regenerate themselves?
+        บุคคลปริศนา: จะให้ทำก็ทำได้อยู่หรอก แต่ไม่ใช่ว่าเราแค่ต้องทำลายสมองพวกมันก็พอแล้วหรอ?
         ```
         ```
         ???: Hey, if you don't mind, could you pretend to be dead if this doesn't kill you right away? My buddy stayed up all night upgrading the instakill function.
-        ???: Quiet.
-        ```
-        ```
-        ???: See~ I told you. With that recoil distance, it only reaches as deep as the occipital lobe. Did you really have to learn it through trial?
-        ```
-        ```
-        ???: Damn it... It should have gone all the way through the temporal lobe.
+        บุคคลปริศนา: นี้ ถ้าไม่รังเกียจ ช่วยแกล้งตายหน่อยได้ไหม ถ้าเกิดว่ามันไม่ได้ฆ่านายตายในทันที? คู่หูฉันอุตสาห์ไม่หลับไม่นอนทำมันทั้งคืนเพื่ออัปเกรดฟังก์ชันฆ่าในทันทีเลยนะ
         ```
 
         ---
+
+        <img src="../images/Marie.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        ???: Quiet.
+        บุคคลปริศนา: เงียบซะ
+        ```
+
+        ---
+
+        <img src="../images/Ran.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: See~ I told you. With that recoil distance, it only reaches as deep as the occipital lobe. Did you really have to learn it through trial?
+        บุคคลปริศนา: เห็นไหม~ ฉันบอกแล้ว ว่าด้วยแรงถืบแค่นั่น มันจะไปลึกสุดได้ก็แค่สมองส่วนท้ายทอยก็เท่านั้น นี้นายต้องลองเองก่อนตลอดหรือไง กว่าจะเรียนรู้ได้?
+        ```
+
+        ---
+
+        <img src="../images/Marie.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: Damn it... It should have gone all the way through the temporal lobe.
+        บุคคลปริศนา: เวรเอ้ย... ไม่ใช่ว่ามัน ควรที่จะทะลุถึงสมองกลีบขมับเลยไม่ใช่หรือไง
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: We can't lose to them, we have robots of our own. They should be here any minute now...
+        ดงรัง: เราจะน้อยหน้าพวกเขาไม่ได้เหมือนกันนะครับ เราเองก็มีหุ่นยนต์ ที่น่าจะเก็บเอาไว้แถว ๆ นี้... 
         ```
         ```
         Dongrang: Aha, there it is! The regeneration ampule administration drone.
+        ดงรัง: อาฮา นี้ไง ผมเจอแล้ว! โดรนสำหรับฉีดยาฟื้นฟูภาคสนาม
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: It must be pretty handy to have them. Do they inject the ampules right as the staff is injured?
+        อิชมาเอล: มีมันแบบนี้ก็น่าจะหายห่วงนะคะ ว่าแต่เจ้านี้ฉีดยาในตอนที่เจ้าหน้าที่ได้รับบาดเจ็บหรอคะ?
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Yes, as long as their heads aren't lost... and the ampule is injected before the golden time passes and their brain stops functioning... They're practically undying.
+        แซมโจ: ใช่ครับ ตราบใดที่หัวของพวกเขายังไม่ขาดออกจากคอ... และยานี้ถูกฉีดเข้าไป ก่อนที่เวลาทองจะล่วงเลยผ่าน แล้วสมองของพวกเขาหยุดทำงาน... พวกเขาก็แทบที่จะตายไม่ได้เลยครับ
         ```
 
         ---
+
+        <img src="../images/K_employee.png" alt="KCorpSecurity" width="100" style="display: block; margin: 0 auto;">
 
         ```
         K Corp. Security: ...Kgh.
+        เจ้าหน้าที่รักษาความปลอดภัยเคคอร์ป: ...เฮือก
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Injuries like holes in internal organs...
+        แซมโจ: อาการบาดเจ็บอย่างเช่นรูในอวัยวะภายใน...
         ```
 
         ---
+
+        <img src="../images/K_employee.png" alt="KCorpSecurity" width="100" style="display: block; margin: 0 auto;">
 
         ```
         K Corp. Security: ...Kurgh!
+        เจ้าหน้าที่รักษาความปลอดภัยเคคอร์ป: ...เฮือกฮาอา!
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Or broken bones can be healed in seconds.
+        แซมโจ: หรือจะเป็นกระดูกที่แตกหัก ก็ล้วนสามารถถูกรักษากลับมาได้ในไม่กีวินาที
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Even still... They wouldn't be immune to pain. How can they be so calm about it...
+        อิชมาเอล: ถึงอย่างงั้นก็เถอะค่ะ... แต่พวกเขาก็น่าจะยังรู้สึกถึงความเจ็บปวดได้อยู่ แล้วทำไมพวกเขาถึงดูใจเย็นขนาดนั้นได้...
         ```
         ```
         Ishmael: They won't even bat an eye at a colleague right next to them being cut down.
+        อิชมาเอล: พวกเขาไม่แม้แต่จะชายตามองเพื่อนร่วมงานที่พึ่งถูกตัดเป็นชิ้น ๆ ที่อยู่ข้าง ๆ เลยด้วยซ้ำ
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: Natural behavior.
+        เมอร์โซลท์: พฤติกรรมธรรมชาติน่ะครับ
         ```
         ```
         Meursault: If all wounds can be healed up in seconds, all judgement regarding it will be secondary.
+        เมอร์โซลท์: ถ้าแผลทั้งหมดที่เกิดขึ้น สามารถถูกรักษาได้ภายในไม่กี่วินาที การตัดสินใจนอกเหนือนั่นจะกลายเป็นสิ่งรอง
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: If that's the case... Will we become like that eventually?
+        ฮงหลู่: ถ้าเช่นนั้นแล้ว... วันหนึ่งพวกเราก็จะกลายเป็นแบบนั้นหรอครับ?
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: I don't see a reason to think about such things.
+        เมอร์โซลท์: ขอโทษด้วยนะครับ แต่ผมมองไม่เห็นเหตุผลที่เราต้องคิดเรื่องนั้นเลยสักนิด
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: I was just curious.
+        ฮงหลู่: ผมก็แค่สงสัยน่ะครับ
         ```
 
         ---
+
+        <img src="../images/Ran.png" alt="???" width="100" style="display: block; margin: 0 auto;">
 
         ```
         ???: By the way... Who are these new faces with unfamiliar outfits? Anyone wanna introduce yourself?
-        ```
-        ```
-        ???: None of our business.
-        ```
-        ```
-        ???: True. But it's kinda awkward to be just facing them. Someone's gotta talk, no?
+        บุคคลปริศนา: ไงก็ชั่ง... ไอพวกหน้าใหม่กับชุดไม่คุ้นตาเหรอ? มีใครอยากจะแนะนำตัวเองบ้างไหม?
         ```
 
         ---
+
+        <img src="../images/Marie.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: None of our business.
+        บุคคลปริศนา: ไม่ใช่ ธุระกงการอะไร/เรื่องอะไร ของพวกเราสักหน่อย
+        ```
+
+        ---
+
+        <img src="../images/Ran.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: True. But it's kinda awkward to be just facing them. Someone's gotta talk, no?
+        บุคคลปริศนา: ก็จริง รู้ไหมว่ามันค่อนข้างรู้สึกอึดอัดที่จู่ ๆ ก็ต้องมาเจอกับพวกไหน ็ไม่รู้ เอ้า ไม่มีใครมีปากให้พูดเลยหรือไง?
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: ...Why should we introduce ourselves to a terrorist organization?
+        อิชมาเอล: ...แล้วเรื่องอะไรที่พวกเราต้องแนะนำตัวเองให้กับองค์กรก่อร้ายด้วยเล่า?
         ```
 
         ---
+
+        <img src="../images/Marie.png" alt="???" width="100" style="display: block; margin: 0 auto;">
 
         ```
         ???: We're no mere terrorist organization. Watch your words.
-        ```
-        ```
-        ???: I don't hate the sound of it. It lines up with my beliefs when I was four. I had to answer the call of a grad school because the paper I wrote on atoms won a prize at the age of eleven...
-        ```
-        ```
-        ???: Shut it. We are the technology liberation alliance.
+        บุคคลปริศนา: เราไม่ได้เป็นองค์กรก่อการร้ายอะไรทั้งนั้น ระวังคำพูดของแกด้วย
         ```
 
         ---
+
+        <img src="../images/Ran.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        ???: I don't hate the sound of it. It lines up with my beliefs when I was four. I had to answer the call of a grad school because the paper I wrote on atoms won a prize at the age of eleven...
+        บุคคลปริศนา: ฉันก็ไม่ได้รังเกลียดชื่อนั่นนักหรอกหนา เอาเข้าจริง มันตรงกับความเชื่อของฉันในตอนที่ฉันยังเป็นเด็กเลยล่ะ ฉันต้องรับสายจากบัณฑิตวิทยาลัยก็เพราะงานวิจัยที่เขียนขึ้นเกี่ยวกับอะตอมชนะการประกวดตอนอายุสิบเอ็ดขวบ
+        ```
+
+        ---
+
+        <img src="../images/Marie.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: Shut it. We are the technology liberation alliance.
+        บุคคลปริศนา: หุบปากได้แล้ว พวกรเราคือคณะพันธมิตรผู้ปลดปล่อยเทคโนโลยี
+        ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Liberate what technologies exactly? Does technology yearn for freedom?
+        ฮงหลู่: ที่พูดว่าปลดปล่อยเทคโนโลยีนี้หมายถึงอะไรหรอครับ? เทคโนโลยีเองก็ต้องการอิสระภาพด้วยหรอครับ?
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Maybe... they're talking about the animals in the lab... I think?
+        ซินแคร์: บางที... เขาอาจจะพูดถึงพวกสัตว์ที่ถูกจับอยู่ในแลป... ก็ได้ล่ะมั้งครับ?
         ```
 
         ---
 
+        <img src="../images/Ran.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+
         ```
         ???: You hear that? He thinks we're animal protectors or something?
+        บุคคลปริศนา: เมื่อกี้นายได้ยินปะ? มันคิดว่าเราเป็นผู้พิทักษ์สัตว์ป่าอะไรแบบนั้นด้วยแหละ?
         ```
         ```
         ???: Sorry, but that went out of fashion long ago. You think we're working day and night assembling machines just to fight for happily raised chickens fried in healthy oil?
+        บุคคลปริศนา: โทษทีน้าเจ้าหนู ไม่ได้ตั้งใจจะล้ออะไรเธอนะ แต่พล็อตเรื่องอะไรแบบนั้นมันตกยุคไปนานแล้ว นี้เธอคิดว่าพวกเราตั้งใจทำงานกันหลังคดหลังแข็งทั้งวี่ทั้งวันสร้างเครื่องจักรแล้วเครื่องจักรเล่าทั้งหมดนั้นก็เพื่อต่อสู้ให้ไก่ตาดำ ๆ ที่ต้องถูกทอดในน้ำมันร้อน ๆ น่ะนะ? แค่คิดก็ขำแล้ว
         ```
         ```
         ???: Type X-32 bolts are so hard to get these days, we have to order them from other Nests. Do you have any idea how much tax is added?
+        บุคคลปริศนา: ไทป์ เอ็กซ์-32 โบลต์ เป็นของที่ ทุกวันนี้/เดี๋ยวนี้ หายาก พวกเราก็เลยจำใจต้องสั่งมันจากอีกเนสหนึ่งเท่านั้นถ้าอยากจะได้มา แล้วเธอรู้บ้างหรือเปล่าว่าภาษีสินค้านำเข้าเนี้ยแพงหูฉีกมากแค่ไหน? 
         ```
     
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: You can substitute type X-32 bolts by casting a c-9 bolt and tempering it at an interval of two hours.
+        เฟาสท์: แต่ไม่ใช่ว่าคุณก็ใช้อย่างอื่นแทน ไทป์ เอ็กซ์-32 โบลต์ ก็ได้ไม่ใช่หรอคะ ด้วยการหล่อ ซี-9 โบลต์ และปรับอุณหภูมิให้สูงขึ้นเป็นระยะเวลาสองชั่วโมง
         ```
 
         ---
+
+        <img src="../images/Marie.png" alt="???" width="100" style="display: block; margin: 0 auto;">
 
         ```
         ???: You aren't gonna win over us by acting all smart...
-        ```
-        ```
-        ???: Oh... Huh... No, she might be right... It could work.
+        บุคคลปริศนา: ถึงแกทำตัวฉลาดไปก็เอาชนะพวกฉันไม่ได้หรอกนะ...
         ```
 
         ---
+
+        <img src="../images/Ran.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: Oh... Huh... No, she might be right... It could work.
+        บุคคลปริศนา: โอ้... หะ... ไม่ เธอน่าจะพูดถูก... มันต้องได้ผลแน่ 
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Could you tell us why you're offering advice to enemies, Ms. Faust?
+        เกรกอร์: ช่วยบอกผมทีได้ไหมครับ ว่าทำไมคุณถึงให้คำแนะนำกับคนที่เป็นศัตรูของเราไปกัน คุณเฟาสท์?
         ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: You wouldn't understand. Researchers have a creed more valuable than life.
+        เฟาสท์: คุณไม่เข้าใจหรอกค่ะ นักวิจัยต่างมีอุดมการณ์ประจำตัวของตนเองที่มีค่าซะยิ่งกว่าชีวิต 
         ```
 
     ---
 
     * **Episode: 9 | ตอนที่ 9<br>Location: Invaded K Corp. Laboratory | ห้องแลปเคคอร์ปที่ถูกบุกรุก** 
-    
+
+        ```
+        ```
 ---
 
 ### เพิ่มเติม

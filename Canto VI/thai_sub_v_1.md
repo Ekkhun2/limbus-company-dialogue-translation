@@ -4286,25 +4286,34 @@
 
         ```
         Gregor: That... certainly looks convenient. Broken bones heal up in a matter of moments.
-        เกรกอร์: 
+        เกรกอร์: นั่น... ดูจะค่อนข้างสะดวกสบายดีทีเดียวนะ กระดูกที่แตกหักสมานตัวกลับมาได้ในไม่กี่อึดใจ
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: K Corp. provided us with an astronomical sum of research grants to support our research on improving this ampule. Do keep this a secret from Shrenne, please; she might get mad at me about it for three months.
+        ดงรัง: 
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: Hmph... Clock would only wind the thing after we've died, scared of a little hurting.
+        เรียวชู: 
         ```
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dante: <……>
+        Dante: <......>
+        ดันเต้ <......>
         ```
 
         ---

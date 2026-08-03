@@ -4275,15 +4275,354 @@
 
         ```
         Faust: You wouldn't understand. Researchers have a creed more valuable than life.
-        เฟาสท์: คุณไม่เข้าใจหรอกค่ะ นักวิจัยต่างมีอุดมการณ์ประจำตัวของตนเองที่มีค่าซะยิ่งกว่าชีวิต 
+        เฟาสท์: คุณไม่เข้าใจหรอกค่ะ ว่านักวิจัยทุกคนต่างมีอุดมการณ์ประจำตัวของตนเองที่มีค่าซะยิ่งกว่าชีวิต 
         ```
 
     ---
 
     * **Episode: 9 | ตอนที่ 9<br>Location: Invaded K Corp. Laboratory | ห้องแลปเคคอร์ปที่ถูกบุกรุก** 
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: That... certainly looks convenient. Broken bones heal up in a matter of moments.
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Dongrang: K Corp. provided us with an astronomical sum of research grants to support our research on improving this ampule. Do keep this a secret from Shrenne, please; she might get mad at me about it for three months.
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Hmph... Clock would only wind the thing after we've died, scared of a little hurting.
+        ```
+
+        ---
+
+        ```
+        Dante: <……>
+        ```
+
+        ---
+
+        ```
+        Rodion: I think I cracked a bone in my right hand~ Can I get an ampule? It's kinda harder to grip my axe.
+        ```
+
+        ---
+
+        ```
+        Rodya stood in front of a K Corp. drone and extended her right arm.
+        ```
+
+        ---
+
+        ```
+        Ampule Helper: Welcome. K Corp. drones are always there for your health. Administering regeneration ampule...
         ```
         ```
+        Ampule Helper: ...Cannot administer.
+        ```
+        ```
+        Ampule Helper: Friendly entities of type 3j-54 are eligible for serum injection, but regeneration ampules may only be administered to patients hemorrhaging 1Lr or more of blood. Also, since you have not taken a cross-compatibility test for the ampules, we do not take any responsibility for possible side effects. Thank you.
+        ```
+
+        ---
+
+        ```
+        Rodion: Wha~? What are you talking about, you want me to cut off an arm or a leg or something?
+        ```
+
+        ---
+
+        ```
+        Sinclair: They're...
+        ```
+        ```
+        Sinclair: They're already doing that. Look at the K Corp. staff...
+        ```
+        ```
+        Sinclair: They're cutting up their own limbs... to get the ampule...
+        ```
+
+        ---
+
+        ```
+        Samjo: It's a necessary requirement. It would be a tremendous financial waste to use regeneration ampules for every little scratch.
+        ```
+
+        ---
+
+        ```
+        Samjo: I hate to make comparisons, but its value is far above the caliber of small firms like yours.
+        ```
+
+        ---
+
+        ```
+        Sinclair: ……
+        ```
+
+        ---
+
+        ```
+        Dante: <Yeesh...>
+        ```
+        ```
+        Dante: <It looks a bit dangerous here. Those machines are too rough... They might get me killed if I'm not careful.>
+        ```
+        ```
+        Dante: <I might wanna stay away from the fray a bit just to be safe...>
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Just then, something grazed past my head... I mean, my head with a threatening shrill.
+            ```
+
+        ---
+
+        ```
+        Dante: <Ah...>
+        ```
+
+        ---
+
+        ```
+        Ishmael: Grrr…
+        ```
+
+        * เสียงในหัว
+
+            ```
+            Right as another projectile flew at me, Ishmael swiftly stretched her arm to take the hit.
+            ```
+            ```
+            Turning to the direction the projectiles came from, I didn't find enemy robots.
+            ```
+            ```
+            Instead, there was a K Corp. drone glaring with red.
+            ```
+
+        ---
+
+        ```
+        Outis: Executive Manager! Are you alright?
+        ```
+
+        ---
+
+        ```
+        Ishmael: I'm the one who got hit, Outis...
+        ```
+
+        ---
+
+        ```
+        Outis: I should have taken the projectile for you. Curses!
+        ```
+
+        ---
+
+        ```
+        Ishmael: Excuse me...
+        ```
+
+        ---
+
+        ```
+        Outis: Hah, see what your robots that cost a bomb to make are doing. It fired at an ally!
+        ```
+
+        ---
+
+        ```
+        Samjo: I must object. That was not friendly fire.
+        ```
+        ```
+        Samjo yelled from behind, raising his hand high.
+        ```
+        ```
+        Samjo: However... It does appear that exceptions couldn't be fully configured. I apologize for that particular shortcoming.
+        ```
+
+        ---
+
+        ```
+        Outis: What rubbish are you...
+        ```
+
+        ---
+
+        ```
+        Samjo: As you are aware, you could come into this place purely thanks to Mr. Dongrang's whim.
+        ```
+        ```
+        Samjo: Having visitors in this place is an extremely rare occurrence, and as such, a factor that wasn't put into consideration.
+        ```
+
+        ---
+
+        ```
+        Ishmael: What, ngh... are you talking about?
+        ```
+
+        ---
+
+        ```
+        Samjo: That K Corp's regenerator drones do more than just heal people.
+        ```
+
+        ---
+
+        ```
+        Ishmael: Why... does it look like my body is melting? Can anyone make it... make sense...
+        ```
+
+        ---
+
+        ```
+        Dante: <Ishmael!>
+        ```
+
+        ---
+
+        ```
+        Samjo: Normally, K Corp's drones administer regeneration ampules to injured personnel...
+        ```
+        ```
+        Samjo: However, it injects a decay ampule to deserters.
+        ```
+
+        ---
+
+        ```
+        Dante: <...It shot the decay ampule at me because I was trying to escape the combat zone?>
+        ```
+
+        ---
+
+        ```
+        Gregor: Ain't that just revolting... Think you can pull off summary executions when there isn't even a war going on?
+        ```
+
+        ---
+
+        ```
+        Gregor: Yeah, why not just make the drones fight instead?
+        ```
+
+        ---
+
+        ```
+        Samjo: The Nest you're from must have valued human life, am I right?
+        ```
+
+        ---
+
+        ```
+        Samjo: The value of each drone we have far surpasses that of ten class 2 staff members combined. Do you understand?
+        ```
+
+        ---
+
+        ```
+        Gregor: ..."You should understand," "you accept it"...
+        ```
+        ```
+        Gregor: I've had crappy coercion shoved in my face too many times, I don't feel like complying anymore.
+        ```
+
+        ---
+
+        ```
+        Faust: I do understand where it's coming from. There was research that revealed deploying K Corp's drones in simulated battles increased the odds of victory by 23.5 percent.
+        ```
+        ```
+        Faust: It was a pretty famous paper among scholars.
+        ```
+
+        ---
+        
+        ```
+        Outis: Since the old times, deserters who try to flee from battle have been pointed out as greater detractors of morale than the threat of overwhelming oppression or weakness of the leader.
+        ```
+        ```
+        Outis: Public punishments of deserters are a historically proven tactic supported by many examples.
+        ```
+
+        ---
+
+        ```
+        Gregor: Tch. Understand it all you like, then.
+        ```
+
+        ---
+
+        ```
+        Dante: <Wait, what are you all talking about?>
+        ```
+        ```
+        Dante: <Look at Ishmael, she's... melting down...!>
+        ```
+
+        ---
+
+        ```
+        Outis: Ah, apologies for my negligence, Executive Manager.
+        ```
+        ```
+        Outis: I failed to consider the suffering you must endure when you turn the clock.
+        ```
+
+        ---
+
+        ```
+        Dante: <Wha, that's not what I'm...>
+        ```
+
+        ---
+
+        ```
+        Faust: You might want to hurry if that's your concern. Her heart should still be intact in her current state.
+        ```
+
+        ---
+
+        ```
+        Ishmael: Manager... What'll... happen to me...
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            ......
+            ```
+            ```
+            The clock's hands turn with agony.
+            ```
+            ```
+            Meanwhile, Yi Sang was staring at empty ampules rolling on the floor.
+            ```
+        
+        ---
+
+        ```
+        Yi Sang: ......
+        ```
+
+    ---
+
+    * **Episode: 10 | ตอนที่ 10<br>Location: K Corp. Laboratory | ห้องแลปศูนย์วิจัยเคคอร์ป** 
 ---
 
 ### เพิ่มเติม

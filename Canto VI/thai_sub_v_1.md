@@ -4286,7 +4286,7 @@
 
         ```
         Gregor: That... certainly looks convenient. Broken bones heal up in a matter of moments.
-        เกรกอร์: นั่น... ดูจะค่อนข้างสะดวกสบายดีทีเดียวนะ กระดูกที่แตกหักสมานตัวกลับมาได้ในไม่กี่อึดใจ
+        เกรกอร์: นั่น... ดูจะค่อนข้างสะดวกสบายดีทีเดียวนะ กระดูกที่แตกหักยับเยินสมานตัวกลับมาได้ในไม่กี่อึดใจ
         ```
 
         ---
@@ -4295,7 +4295,7 @@
 
         ```
         Dongrang: K Corp. provided us with an astronomical sum of research grants to support our research on improving this ampule. Do keep this a secret from Shrenne, please; she might get mad at me about it for three months.
-        ดงรัง: 
+        ดงรัง: ก็แหงล่ะครับ เคคอร์ปเป็นผู้มอบงานวิจัยจำนวนมากมายมหาศาลให้กับพวกเรา เพื่อสนับสนุนงานวิจัยนี้ในการพัฒนายาสูตรใหม่ให้สำเร็จ ไงก็ ช่วยเก็บเรื่องนี้เป็นความลับจากชเรนน์ด้วยนะครับ; ถ้าเธอรู้เข้ามีหวังได้ โกรธ/งอน ไปอีกสามเดือนแน่
         ```
 
         ---
@@ -4304,7 +4304,7 @@
 
         ```
         Ryoshu: Hmph... Clock would only wind the thing after we've died, scared of a little hurting.
-        เรียวชู: 
+        เรียวชู: เหอะ... เดี๋ยวคุณนาฬิกาก็หมุนเองนั่นแหละถ้าเราตาย จะป๊อดกลัวเจ็บไปถึงไหนกัน
         ```
 
         ---
@@ -4318,32 +4318,48 @@
 
         ---
 
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Rodion: I think I cracked a bone in my right hand~ Can I get an ampule? It's kinda harder to grip my axe.
+        โรเดียน: ฉันว่าฉันเผลอทำมือขวาตัวเองหักอาา~ ขอยาหน่อยได้ไหม? แบบว่ามันจับขวานยากน่ะ
         ```
 
         ---
 
-        ```
-        Rodya stood in front of a K Corp. drone and extended her right arm.
-        ```
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Rodya stood in front of a K Corp. drone and extended her right arm.
+            โรดย่ายืนต่อหน้าโดรนของเคคอร์ปพร้อมกับที่ยื่นแขนขวาออกไป
+            ```
 
         ---
+
+        <img src="../images/K_Machine1.png" alt="AmpuleDrone" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ampule Helper: Welcome. K Corp. drones are always there for your health. Administering regeneration ampule...
+        ผู้ช่วยฟื้นฟู: ยินดีต้อนรับ โดรนเคคอร์ปพร้อมให้บริการเพื่อสุชภาพท่านเสมอ กำลังจ่ายยาฟื้นฟูแก่ผู้ป่วย...
         ```
         ```
         Ampule Helper: ...Cannot administer.
+        ผู้ช่วยฟื้นฟู: ...ไม่สามารถอนุมัติได้/ไม่อนุมัติ
         ```
         ```
         Ampule Helper: Friendly entities of type 3j-54 are eligible for serum injection, but regeneration ampules may only be administered to patients hemorrhaging 1Lr or more of blood. Also, since you have not taken a cross-compatibility test for the ampules, we do not take any responsibility for possible side effects. Thank you.
+        ผู้ช่วยฟื้นฟู: ตัวตนเพื่อน ชนิด 3เจ-54 มีสิทธิ์เข้ารับการฉีดเซรุ่มเท่านั้น แต่ยาสำหรับฟื้นฟูจะถูกจัดแจงต่อผู้ป่วย ที่มีสภาวะตกเลือดตั้งแต่ 1 ลิตรเป็นต้นไป และดูเหมือนท่านจะยังไม่ได้เข้ารับการทดสอบความเข้าใจกันได้ของเลือดกับยา จึงแจ้งเพื่อทราบว่าพวกเราจะไม่รับผิดชอบผลข้างเคียงใด ๆ ที่เกิดขึ้นโดยเด็ดขาด ขอบคุณค่ะ
         ```
 
         ---
 
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Rodion: Wha~? What are you talking about, you want me to cut off an arm or a leg or something?
+        โรเดียน: 
         ```
 
         ---
@@ -4363,9 +4379,6 @@
         ```
         Samjo: It's a necessary requirement. It would be a tremendous financial waste to use regeneration ampules for every little scratch.
         ```
-
-        ---
-
         ```
         Samjo: I hate to make comparisons, but its value is far above the caliber of small firms like yours.
         ```
@@ -4455,9 +4468,17 @@
         ```
         Samjo: I must object. That was not friendly fire.
         ```
-        ```
-        Samjo yelled from behind, raising his hand high.
-        ```
+
+        ---
+
+        * เสียงในหัว
+        
+            ```
+            Samjo yelled from behind, raising his hand high.
+            ```
+
+        ---
+        
         ```
         Samjo: However... It does appear that exceptions couldn't be fully configured. I apologize for that particular shortcoming.
         ```

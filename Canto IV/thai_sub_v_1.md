@@ -4670,7 +4670,7 @@
         
         ```
         Outis: Since the old times, deserters who try to flee from battle have been pointed out as greater detractors of morale than the threat of overwhelming oppression or weakness of the leader.
-        เอาทิส: ตั้งแต่สมัยก่อนแล้ว ที่ทหารหนี้ทัพที่พยายามหลบหนีจากการต่อสู้จะถูกมองว่าเป็นตัวบั่นทอนขวัญกำลังใจเสียยิ่งกว่ากำลังของศัตรูที่เหนือกว่า หรือ ความอ่อนแอของหัวหน้า 
+        เอาทิส: เรื่องนี้ก็เป็นมาตั้งแต่ สมัยก่อน/สมัยละโว้(joke) แล้ว ที่ทหารหนี้ทัพที่พยายามหลบหนีจากการต่อสู้จะถูกมองว่าเป็นตัวบั่นทอนขวัญกำลังใจเสียยิ่งกว่ากำลังของศัตรูที่เหนือกว่า หรือ หัวหน้าที่อ่อนแอ 
         ```
         ```
         Outis: Public punishments of deserters are a historically proven tactic supported by many examples.
@@ -4683,7 +4683,7 @@
 
         ```
         Gregor: Tch. Understand it all you like, then.
-        เกรกอร์: 
+        เกรกอร์: ชิ อยากจะเข้าใจยังไงก็เชิญเลย
         ```
 
         ---
@@ -4692,11 +4692,11 @@
 
         ```
         Dante: <Wait, what are you all talking about?>
-        ดันเต้: 
+        ดันเต้: <เดี๋ยว พวกนายมัวพูดไร้สาระอะไรกันอยู่เนี้ย?>
         ```
         ```
         Dante: <Look at Ishmael, she's... melting down...!>
-        ดันเต้: 
+        ดันเต้: <ไม่เห็นหรือไงว่าอิชมาเอลเธอกำลัง... ละลายนะ...!>
         ```
 
         ---
@@ -4705,11 +4705,11 @@
 
         ```
         Outis: Ah, apologies for my negligence, Executive Manager.
-        เอาทิส: 
+        เอาทิส: อ้า ขอโทษสำหรับการเมินเฉยของดิฉันด้วยนะคะ ท่านผู้จัดการสูงสุด
         ```
         ```
         Outis: I failed to consider the suffering you must endure when you turn the clock.
-        เอาทิส: 
+        เอาทิส: ฉันลืมคาดคะเนไปถึงความทุกข์ทรมาณที่ท่านจะต้องแบกรับ ในทุกครั้งที่ท่านหมุนนาฬิกากลับ
         ```
 
         ---
@@ -4718,44 +4718,60 @@
 
         ```
         Dante: <Wha, that's not what I'm...>
-        ดันเต้:
+        ดันเต้: <ห๊า ฉันไม่ได้หมายความแบบนั้น ฉัน...>
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: You might want to hurry if that's your concern. Her heart should still be intact in her current state.
+        เฟาสท์: ถ้าจะช่วยต้องรีบหน่อยนะคะ หัวใจของเธอยังคงทำงานได้ในสภาวะปัจจุบันที่เธอเป็นอยู่
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Manager... What'll... happen to me...
+        อิชมาเอล: ผู้จัดการ... จะเกิด... อะไรขึ้นกับฉัน...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             ......
+            *เวรเอ้ย*
             ```
             ```
             The clock's hands turn with agony.
+            เข็มสั้นยาวนาฬิกาหมุนทวนด้วยความโกรธ
             ```
             ```
             Meanwhile, Yi Sang was staring at empty ampules rolling on the floor.
+            ในขณะที่ยี่ซังกำลังจ้องมองไปยังบรรจุยาเปล่าที่กองอยู่บนพื้น
             ```
         
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Yi Sang: ......
+        ยี่ซัง: ......
         ```
 
     ---
 
     * **Episode: 10 | ตอนที่ 10<br>Location: K Corp. Laboratory | ห้องแลปศูนย์วิจัยเคคอร์ป** 
+
+
 ---
 
 ### เพิ่มเติม

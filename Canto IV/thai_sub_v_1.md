@@ -4385,7 +4385,7 @@
 
         ```
         Samjo: It's a necessary requirement. It would be a tremendous financial waste to use regeneration ampules for every little scratch.
-        แซมโจ: มันเป็นเงื่อนไขจำเป็นน่ะครับ ไม่งั้นพวกเราคงได้สูญเงินมหาศาลไปกับการใช้ยาฟื้นฟูแผลถลอกแน่
+        แซมโจ: มันเป็นเงื่อนไขจำเป็นน่ะครับ ไม่งั้นพวกเราคงได้สูญเงิน มหาศาล/บานตะไท ไปกับการใช้ยาฟื้นฟูแผลถลอกแน่
         ```
         ```
         Samjo: I hate to make comparisons, but its value is far above the caliber of small firms like yours.
@@ -4547,7 +4547,7 @@
 
         ```
         Samjo: As you are aware, you could come into this place purely thanks to Mr. Dongrang's whim.
-        แซมโจ: 
+        แซมโจ: ระวังคำพูดแล้วก็สำเหนียดไว้หน่อยก็ดีนะครับ ว่าที่คุณเข้ามาที่นี้ได้ก็เพราะบารมีของคุณดงรังทั้งนั้น
         ```
         ```
         Samjo: Having visitors in this place is an extremely rare occurrence, and as such, a factor that wasn't put into consideration.

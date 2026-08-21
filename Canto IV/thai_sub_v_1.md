@@ -4978,7 +4978,7 @@
 
         ```
         Gregor: We aren't going on a picnic, Dongrang... You gonna be okay?
-        เกรกอร์: พวกเราไม่ได้กำลังจะไปปิกนิกกันนะ ดงรัง... คุณไม่เป็นไรใช่ไหม?
+        เกรกอร์: พวกเราไม่ได้กำลังจะไปปิกนิกกันนะ ดงรัง... นายจะไม่เป็นไรอะไรจริง ๆ ใช่ไหม/นายจะไปจริง ๆ หรอ?
         ```
 
         ---
@@ -4987,7 +4987,7 @@
 
         ```
         Dongrang: No problem, seeing you in battle made me all the more reassured about accompanying you.
-        ดงรัง: แหมม~ ไม่เป็นไรครับหายห่วง พอได้เห็นพวกคุณในการต่อสู้แล้ว—ก็ทำเอาผมรู้สึกไว้วางใจมากขึ้นที่จะทำงานกับพวกคุณ
+        ดงรัง: แหมม~ ไม่เป็นไรครับหายห่วง พอได้เห็นพวกคุณในการต่อสู้เมื่อกี้แล้ว—ก็ทำเอาใจชุ่มกระชวยรู้สึกว่าตัวเองคิดถูกที่ได้ทำงานกับพวกคุณเลยล่ะครับ
         ```
 
         ---
@@ -4996,11 +4996,11 @@
 
         ```
         Faust: Just so you know... the technology our manager Dante uses is on a different level compared to K Corp's ampules; rather than regenerate, it restores.
-        เฟาสท์: 
+        เฟาสท์: ขอบอกไว้ก่อนนะคะ... ว่าเทคโนโลยีที่คุณผู้จัดการดันเต้ของพวกเราใช้นั้น อยู่ในระดับที่ต่างชั้นกับยาฟื้นฟูของเคคอร์ปเป็นไหน ๆ เลยค่ะ; เพราะแทนที่มันจะงอกส่วนที่สึกหรอ สิ่งที่มันทำกลับเป็นการฟื้นฟูสภาพตั้งต้นของคนผู้นั้นแทน
         ```
         ```
         Faust: Therefore, observing it won't provide much insight that can be applied to K Corp's Singularity or regeneration ampules.
-        เฟาสท์: 
+        เฟาสท์: เพราะงั้น ถึงสังเกตไป ก็ไม่ได้ข้อมูลอะไรที่เป็นประโยชน์ต่อการปรับใช้กับซิงกูลาริตี้ หรือ ยาฟื้นฟูหรอกนะคะ
         ```
 
         ---
@@ -5010,7 +5010,7 @@
 
         ```
         Dongrang: Restoration, not healing, huh...
-        ดงรัง:
+        ดงรัง: ฟืันฟูสภาพตั้งต้น แต่ไม่ใช่การรักษางั้นหรอ...
         ```
 
         ---
@@ -5019,55 +5019,79 @@
 
         ```
         Rodion: No way~ Is he trying to copy Dante's ability like what that shady Bodhisattva Chicken guy tried with his rival?!
-        โรเดียน: 
+        โรเดียน: ซวยแล้ว~ นี้เขากำลังพยายามที่จะก็อปปี้ความสามารถของดันเต้ เหมือนกับเจ้าของร้านไก่โพธิสัตว์จอมเจ้าเล่ห์คนนั้น ที่ลงมือกับคู่แข่งของเขาไป?!
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: I wouldn't do such a thing. I'm not the kind of person to cram down food that I know I can't digest.
+        ดงรัง: ผมไม่ทำอะไรเสียมารยาทแบบนั้นอยู่แล้วครับ ผมไม่ใช่คนประเภทที่—จะยัดอาหารที่รู้อยู่แก่ใจว่าตัวเองย่อยไม่ได้ แล้วต้องขย้อนออกมาทีหลังหรอกนะครับ
         ```
 
         ---
+
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: It has to be common practice for someone like you to send capable underlings to do the fighting for you, and yet you insist on being on the front. Are you that hungry for a medal?
+        เอาทิส: มันก็น่าสงสัยดีนะคะ ที่คนอย่างคุณที่ตามหลัก ควรจะรั้งท้ายอยู่ด้านหลัง ในขณะที่ให้สมุนสู้แทนคุณอยู่แนวหน้า แต่กระนั้นคุณก็ยังคงยืนกรานไม่หยุดที่จะอยู่ให้ได้ อาจจะดูเสียมารยาทไปหน่อยนะคะ แต่นี้ คุณหิวเหรียญเกียรติยศอะไรแบบนั้นหรือเปล่าคะ?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: No, it's that I left...
+        ดงรัง: ไม่ไม่ไม่—ไม่ใช่อย่างนั้นนะครับ มันเป็นเรื่องของที่ผมลืมเอาไว้ต่างหาก...
         ```
         ```
         Dongrang: A number of things I couldn't take with me in time.
+        ดงรัง: สิ่งของสองสามอย่างที่ผมเอามาด้วยไม่ทันเวลา
         ```
         ```
         Dongrang: Like the photo commemorating my third consecutive year of winning the excellence award, the plaque of appreciation from K Corp, the photo taken to celebrate my lab's expansion, and... what else was there, Samjo?
+        ดงรัง: อย่างเช่นรูปถ่ายฉลองวันที่ระลึกการส่งมอบรางวัลนักวิจัยดีเด่นแห่งปีที่สามติดต่อกัน หรือจะเป็นป้ายแสดงความยินดีจากเคคอร์ป ทั้งยังรูปภาพที่ถูกถ่ายในวันเฉลิมฉลองเนื่องในโอกาศขยายแลปผม และ... มีอะไรอีกบ้างนะ แซมโจ? 
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: ...Classified documents concerning the research, sir...
+        แซมโจ: ...เอกสารลับเกี่ยวกับงานวิจัยครับ ท่าน...
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: ...So it's more that you wanted to gain back the medals you had.
+        เอาทิส: ...งั้นก็แปลว่าไม่ใช่แค่เหรียญเกียรติยศที่คุณอยากเอากลับมา
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Oh right, that too.
+        ดงรัง: เออ เอาจริง ๆ อันนั้นก็ด้วยครับ
         ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: You really did just barely manage to escape there, huh...
+        เกรกอร์: 
         ```
 
         ---

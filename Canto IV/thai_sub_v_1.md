@@ -4547,11 +4547,11 @@
 
         ```
         Samjo: As you are aware, you could come into this place purely thanks to Mr. Dongrang's whim.
-        แซมโจ: ระวังคำพูดแล้วก็สำเหนียดไว้หน่อยก็ดีนะครับ ว่าที่คุณเข้ามาที่นี้ได้ก็เพราะบารมีของคุณดงรังทั้งนั้น
+        แซมโจ: ก็อย่างที่คุณรู้นั้นแหละครับ ว่าเดิมทีพวกคุณไม่ควรที่จะเข้ามาที่นี้ได้ แต่ที่เป็นอย่างนั้นทั้งหมดก็เพราะบารมีของคุณดงรังทั้งสิ้น
         ```
         ```
         Samjo: Having visitors in this place is an extremely rare occurrence, and as such, a factor that wasn't put into consideration.
-        แซมโจ: 
+        แซมโจ: การที่จู่ ๆ ก็มีผู้เยี่ยมชมในสถานที่แบบนี้ เป็นโอกาศที่นานทีมีหน และเพราะงั้นเองเรื่องนี้ถึงกลายเป็นปัจจัยที่พวกเราไม่อาจคาดถึงนะครับ
         ```
 
         ---
@@ -4560,121 +4560,165 @@
 
         ```
         Ishmael: What, ngh... are you talking about?
-        อิชมาเอล: 
+        อิชมาเอล: คุณ... กำลังหมายความว่าไง?
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: That K Corp's regenerator drones do more than just heal people.
+        แซมโจ: เจ้าโดรนฟื้นฟูพวกนั้นไม่ได้มีหน้าที่แค่รักษาผู้คนอย่างเดียว
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Why... does it look like my body is melting? Can anyone make it... make sense...
+        อิชมาเอล: ทำไม... มันเหมือนกับว่า... ร่างกายของฉันกำลังละลายล่ะ? มีใครพอที่จะ... อธิบายได้ไหม...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <Ishmael!>
+        ดันเต้: <อิชมาเอล!>
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Normally, K Corp's drones administer regeneration ampules to injured personnel...
+        แซมโจ: โดยปกติแล้ว โดรนของเคคอร์ปจะจ่ายยารักษาให้กับบุคลากรที่บาดเจ็บ...
         ```
         ```
         Samjo: However, it injects a decay ampule to deserters.
+        แซมโจ: แต่มันเองก็จะฉีดยาเสื่อมสลายให้กับคนที่ละทิ้งหน้าที่ด้วยเหมือนกัน
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <...It shot the decay ampule at me because I was trying to escape the combat zone?>
+        ดันเต้: <...อย่าบอกนะ ว่ามันพยายามยิงยาเสื่อมสมรรถภาพอะไรนั้นมา ก็เพราะฉันที่พยายามหลบเลี่ยงออกจากพื้นที่การต่อสู้?>
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Ain't that just revolting... Think you can pull off summary executions when there isn't even a war going on?
+        เกรกอร์: ไม่ใช่ว่านั้นออกจะป่าเถื่อนไปหน่อยหรอครับ... ที่จู่ ๆ ก็ตัดสินโทษให้ต้องวิสามัญ ทั้ง ๆ ที่นี้ก็ไม่ได้เป็นสงครามเลยด้วยซ้ำ?
         ```
-
-        ---
-
         ```
         Gregor: Yeah, why not just make the drones fight instead?
+        เกรกอร์: ถ้าคุณมีปัญญาสร้างพวกนั้นได้ แล้วทำไมถึงไม่ให้โดรนพวกนั้นสู้แทนล่ะครับ?
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: The Nest you're from must have valued human life, am I right?
+        แซมโจ: เนสที่คุณจากมาคงให้ค่าสิ่งที่เรียกว่าชีวิตเพื่อนมนุษย์ใช่ไหมครับ?
         ```
-
-        ---
-
         ```
         Samjo: The value of each drone we have far surpasses that of ten class 2 staff members combined. Do you understand?
+        แซมโจ: แล้วคุณรู้ไหมว่ามูลค่าของโดรนพวกนั้นมันมากกว่าบุคคลกรเจ้าหน้าที่ระดับ 2 สิบคนรวมกันอีกนะครับ คุณเก็ตใช่ไหมว่ามันต้องใช้เงินมากแค่ไหน?
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: ..."You should understand," "you accept it"...
+        เกรกอร์: ... "แกต้องเข้าใจ" "แกต้องยอมรับมัน"...
         ```
         ```
         Gregor: I've had crappy coercion shoved in my face too many times, I don't feel like complying anymore.
+        เกรกอร์: ฉันพอแล้วกับคำพูดเส็งเคร็งพวกนี้ ที่เอาแต่บีบคั้นให้ฉันทำอะไรที่ไม่ต้องการซ้ำแล้วซ้ำเล่า ฉันจะไม่ยอมมันอีกแล้ว
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: I do understand where it's coming from. There was research that revealed deploying K Corp's drones in simulated battles increased the odds of victory by 23.5 percent.
+        เฟาสท์: ฉันก็พอจะเข้าใจเหตุผลอยู่นะคะ ว่าทำไมถึงต้องใช้มาตรการขั้นเด็ดขาดแบบนั้น มันเคยมีงานวิจัยออกมาน่ะค่ะ ว่าการจัดวางโดรนในสนามรบเสมือนสามารถเพิ่มโอกาศชนะได้ 23.5 เปอร์เซ็นท์
         ```
         ```
         Faust: It was a pretty famous paper among scholars.
+        เฟาสท์: ถือเป็นบทความที่ค่อนข้างโด่งดังในหมู่นักวิชาการพอตัวเลยนะคะ 
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Outis: Since the old times, deserters who try to flee from battle have been pointed out as greater detractors of morale than the threat of overwhelming oppression or weakness of the leader.
+        เอาทิส: ตั้งแต่สมัยก่อนแล้ว ที่ทหารหนี้ทัพที่พยายามหลบหนีจากการต่อสู้จะถูกมองว่าเป็นตัวบั่นทอนขวัญกำลังใจเสียยิ่งกว่ากำลังของศัตรูที่เหนือกว่า หรือ ความอ่อนแอของหัวหน้า 
         ```
         ```
         Outis: Public punishments of deserters are a historically proven tactic supported by many examples.
+        เอาทิส: และการลงทัณฑ์ทหารหนี้ทัพเหล่านั้น ก็ถือเป็นกลยุทธิ์อย่างหนึ่งที่ถูกพิสูจน์หลายครั้งแล้วในประวัติศาตร์ที่ผ่านมาเป็นตัวอย่าง
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Tch. Understand it all you like, then.
+        เกรกอร์: 
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <Wait, what are you all talking about?>
+        ดันเต้: 
         ```
         ```
         Dante: <Look at Ishmael, she's... melting down...!>
+        ดันเต้: 
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: Ah, apologies for my negligence, Executive Manager.
+        เอาทิส: 
         ```
         ```
         Outis: I failed to consider the suffering you must endure when you turn the clock.
+        เอาทิส: 
         ```
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dante: <Wha, that's not what I'm...>
+        ดันเต้:
         ```
 
         ---

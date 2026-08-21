@@ -24,7 +24,7 @@
             ```
             ```
             That breath alone would suffice.
-            แค่ลมหายใจนั่นก็เพียงพอแล้ว
+            เพียงแค่หายใจก็เกินพอแล้ว
             ```
             ```
             Or perhaps…
@@ -32,7 +32,7 @@
             ```
             ```
             It was the air that was exceptionally clear that day.
-            มันก็เพราะอากาศที่ ปลอดโปร่ง/แจ่มใส เป็นพิเศษในวันนั้น
+            มันก็อาจเพราะอากาศที่ ปลอดโปร่ง/แจ่มใส เป็นพิเศษในวันนั้น
             ```
         
         ```
@@ -1141,15 +1141,15 @@
 
         ```
         Yi Sang: …I am no such individual.
-        ยี่ซัง: ...ผมไม่ได้เป็นอะไรแบบนั่นหรอกครับ
+        ยี่ซัง: ...ฉันไม่ได้เป็นคนแบบนั้น
         ```
         ```
         Yi Sang: I have long stopped fluttering my wings.
-        ยี่ซัง: ตัวผมได้หยุดที่จะกระพือปีกมานานมากแล้ว
+        ยี่ซัง: ตัวฉันได้หยุดที่จะกระพือปีกมานานมากแล้ว
         ```
         ```
         Yi Sang: Thus, it would be of no use to discuss my talent, Manager.
-        ยี่ซัง: เพราะงั้น มันไม่มีประโยชน์อะไรที่จะสนทนาเกี่ยวกับพรสวรรค์ของผมหรอกครับ คุณผู้จัดการ
+        ยี่ซัง: เพราะงั้น มันไม่มีประโยชน์อะไรที่จะสนทนาเกี่ยวกับพรสวรรค์ของฉันหรอก คุณผู้จัดการ
         ```
 
         ---
@@ -2488,7 +2488,7 @@
 
         ```
         Yi Sang: Let me take the trouble of asking in return. Manager, why did you join the company you work for?
-        ยี่ซัง: งั้นผมขอรบกวนถามกลับบ้าง คุณผู้จัดการ ทำไมคุณถึงเข้ามาทำงานในบริษัทนี้ล่ะครับ?
+        ยี่ซัง: งั้นฉันขอรบกวนถามกลับบ้าง ผู้จัดการ ทำไมคุณถึงเข้ามาทำงานในบริษัทนี้กัน?
         ```
 
         ---
@@ -2497,7 +2497,7 @@
 
         ```
         Dante: <I mean, that’s because I had no other choice.>
-        ดันเต้: <คือว่า เรื่องนั่นฉันมีทางเลือกซะทีไหนล่ะ>
+        ดันเต้: <เรื่องนั่น... ก็เพราะฉันไม่มีทางเลือกยังไงล่ะ>
         ```
 
         ---
@@ -2506,7 +2506,7 @@
 
         ```
         Yi Sang: …That should sufficiently answer your question.
-        ยี่ซัง: ...นั่นก็น่าจะเพียงพอแล้วที่จะตอบคำถามของคุณ
+        ยี่ซัง: ...นั่นก็น่าจะเพียงพอแล้วสำหรับคำถามของคุณ
         ```
 
         ---
@@ -2948,7 +2948,7 @@
 
         ```
         Yi Sang: …How severe was the damage?
-        ยี่ซัง: ...เสียหายหนักแค่ไหนล่ะครับ
+        ยี่ซัง: ...เสียหายหนักแค่ไหนล่ะ
         ```
 
         ---
@@ -4771,7 +4771,447 @@
 
     * **Episode: 10 | ตอนที่ 10<br>Location: K Corp. Laboratory | ห้องแลปศูนย์วิจัยเคคอร์ป** 
 
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
 
+        ```
+        Shrenne: Attention, everyone! Reinforcements have arrived!!
+        ชเรนน์: โปรดทราบทุกคน โปรดทราบ! กำลังเสริมมาถึงแล้ว!
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: W-Who are those people?
+        โรเดียน: ค-คนพวกนั้นเป็นใครกัน?
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: For sure, who could these be, Shrenne~? Made new friends other than me?
+        ดงรัง: แหงล่ะ จะเป็นใครไปได้อีก นอกจากชเรนน์สุดที่รักของผม~? อ้า รอบนี้มีเพื่อนใหม่นอกจากผมด้วยหรอเนี้ย?
+        ```
+
+        ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Shrenne: They're Fixers from Rosespanner Workshop, the ones we're working with for the current project. They've visited here several times already, you really should be familiar by now.
+        ชเรนน์: เพื่อนมงเพื่อนใหม่บ้านแกสิ พวกเขาคือฟิกเซอร์จากเวิร์กชอป ประแจกุหลาบ/โรสสแปนเนอร์ ที่พวกเรากำลังทำงานด้วยในโปรเจ็คตอนนี้ไง พวกเขามานี้ได้สองสามครั้งแล้วมั้ง จะตีมึนไปถึงไหน
+        ```
+
+        ---
+
+        <img src="../images/Niko.png" alt="Niko" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Niko: Pleasure to meet you. I'm Niko, representative of Rosespanner Workshop.
+        นิโกะ: เป็นเกียรติมากที่ได้พบครับ ผมนิโกะ ตัวแทนจากเวิร์กชอปประแจกุหลาบ
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            The enemies' faces clouded over at the unexpected arrival of reinforcements.
+            ทันทีที่กำลังเสริมที่ไม่ได้คาดคิดกรูเข้ามา ใบหน้าของเหล่าศัตรูก็ซีดเซียวทันตาเห็น
+            ```
+
+        ---
+
+        <img src="../images/Ran.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: Boring. Let's head back.
+        บุคคลปริศนา: หน้าเบื่อชะมัด กลับกันเถอะ
+        ```
+
+        ---
+
+        <img src="../images/Marie.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: What?
+        บุคคลปริศนา: ว่าไงนะ?
+        ```
+        ```
+        ???: Sure... We'll leave.
+        บุคคลปริศนา: ก็ได้... เราจะถอย
+        ```
+
+        ---
+
+        <img src="../images/Niko.png" alt="Niko" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Niko: Would you look at that, our "aura" has made them flee out of terror... Huhu...
+        นิโกะ: เห็นไหมล่ะครับ ว่าลำพังเพียง "ออร่า" ของพวกเราอย่างเดียว ก็เพียงพอที่จะ ทำให้พวกมันวิ่งหนีหางจุกตูด/ขับไล่พวกมัน ด้วยความกลัวแล้ว... ฮิฮะฮะฮา...
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Thanks, Shrenne. This made me seriously consider the possibility that your department might be picked as the best next year for the first time.
+        ดงรัง: ขอบคุณนะ ชเรนน์ ถ้าไม่ได้เธอมีหวังฉันแย่ไปแล้ว ทำเอาต้องคิดใหม่เลยนะเนี้ยว่าบางทีแผนกของเธออาจพอมีโอกาศถูกรับเลือกเป็นแผนกดีเด่นแห่งปี ครั้งแรกของเธอบ้างเหมือนกัน
+        ```
+
+        ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Shrenne: Shame about your precious trophies being destroyed, huh?
+        ชเรนน์: หยุดแพล่มไร้สาระสักที น้ำหน้าอย่างนายคงเอาแต่กลัวว่าถ้วยรางวัลแสนล้ำค่าของตัวเองจะถูกทำลายจะเข้าท่ามากกว่า?
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Ms. Shrenne, pardon me for suspecting, but you did not perchance wait until the trophies were broken before bringing reinforcements, did you?
+        แซมโจ: คุณเชรนน์ ขออภัยที่ผมสงสัยนะครับ แต่คุณไม่ได้ตั้งใจรอให้ถ้วยรางวัลพังก่อนที่จะนำกำลังเสริมเข้ามาใช่ไหมครับ?
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: I don't mind losing them.
+        ดงรัง: ถึงเสียไปก็ไม่เป็นไรหรอก
+        ```
+        ```
+        Dongrang: As long as the photo is fine.
+        ดงรัง: ตราบใดที่รูปถ่ายยังโอเคดี
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: The damage they left is pretty severe now that I'm seeing it firsthand...
+        เกรกอร์: จากที่ผมเห็นด้วยตาตัวเอง ความเสียที่พวกมันทำนี้ก็ดูจะไม่น้อยเลยนะครับ...
+        ```
+        ```
+        Gregor: It could've gotten all the researchers killed if things went wrong.
+        เกรกอร์: อันที่จริง มันคงจะพรากชีวิตของนักวิจัยทุกคนไปแล้วถ้าเรื่องบานปลายไปมากกว่านี้
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Indeed, which is why we must eliminate them and reclaim the facility they've occupied as soon as possible.
+        แซมโจ: ถูกเพ้งตามที่พูดเลยครับ นั้นเป็นสาเหตุว่าทำไม พวกเราถึงต้องเร่งมือในการจัดการพวกเขา และกอบกู้แลปวิจัยที่พวกเขา ช่วงชิงไป/กำลังยึดครองอยู่ กลับมาให้เร็วที่สุดเท่าที่เป็นไปได้
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: Why, then, does K Corp... not provide assistance?
+        ยี่ซัง: แล้วเหตุไฉนต้องเป็นพวกเราด้วย เคคอร์ป... ไม่ได้ให้การช่วยเหลือเลยหรือไง?
+        ```
+
+        ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Mmm... Clearly, it's because they don't want the general public to know that such a thing happened in the Nest, don't you think?
+        ดงรัง: อืมม... ก็อย่างที่รู้กันนั้นแหละครับ ว่าพวกเขาไม่อยากที่จะให้สาธารณชนรู้เรื่องที่เกิดขึ้น โดยเฉพาะอย่างยิ่งกับสถานการณ์ภายในเนสปัจจุบัน คิดว่าไงล่ะครับ? 
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: While I may concede on that matter as innocent feathers were involved, this concerns researchers and a laboratory directly affiliated with the Wing...
+        ยี่ซัง: ถึงแม้ว่าฉันจะยอมรับได้กับการกระทำที่เห็นแก่ขนนกที่บริสุทธิ์เหล่านั้น แต่ไม่ใช่ว่าเรื่องนี้เกี่ยวข้องโดยตรงกับเหล่านักวิจัย และแลปทดลองที่ขึ้นตรงกับวิงส์ไม่ใช่หรอ...
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: It's evidence that they want it to remain discrete that much, don't you think?
+        ดงรัง: ใช่ จะพูดก็พูด มันเป็นหลักฐานสำคัญเลยนะครับเนี้ย ที่ชี้ชัดว่าพวกเขาต้องการให้เรื่องนี้ซุกอยู่ใต้พรมต่อไป แค่พูดก็อดคิดไมได้เลยนะครับ? 
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: ......
+        ยี่ซัง: ......
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Anyway, I ought to bring a generous supply of regeneration ampules for you all to use. Now should be a good time to depart, right?
+        ดงรัง: ไงก็เถอะผมควรที่จะ—รีบไปเตรียมเสบียงยาฟื้นฟูแสนล้ำค่าเพื่อที่ว่าพวกคุณจะได้ใช้ในยามศึก ไหน ๆ ตอนนี้ก็เป็นเวลาอันควรแล้ว ที่ต้องลาใช่ไหมครับ?
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: We aren't going on a picnic, Dongrang... You gonna be okay?
+        เกรกอร์: พวกเราไม่ได้กำลังจะไปปิกนิกกันนะ ดงรัง... คุณไม่เป็นไรใช่ไหม?
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: No problem, seeing you in battle made me all the more reassured about accompanying you.
+        ดงรัง: แหมม~ ไม่เป็นไรครับหายห่วง พอได้เห็นพวกคุณในการต่อสู้แล้ว—ก็ทำเอาผมรู้สึกไว้วางใจมากขึ้นที่จะทำงานกับพวกคุณ
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: Just so you know... the technology our manager Dante uses is on a different level compared to K Corp's ampules; rather than regenerate, it restores.
+        เฟาสท์: 
+        ```
+        ```
+        Faust: Therefore, observing it won't provide much insight that can be applied to K Corp's Singularity or regeneration ampules.
+        เฟาสท์: 
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+
+        ```
+        Dongrang: Restoration, not healing, huh...
+        ดงรัง:
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: No way~ Is he trying to copy Dante's ability like what that shady Bodhisattva Chicken guy tried with his rival?!
+        โรเดียน: 
+        ```
+
+        ---
+
+        ```
+        Dongrang: I wouldn't do such a thing. I'm not the kind of person to cram down food that I know I can't digest.
+        ```
+
+        ---
+
+        ```
+        Outis: It has to be common practice for someone like you to send capable underlings to do the fighting for you, and yet you insist on being on the front. Are you that hungry for a medal?
+        ```
+
+        ---
+
+        ```
+        Dongrang: No, it's that I left...
+        ```
+        ```
+        Dongrang: A number of things I couldn't take with me in time.
+        ```
+        ```
+        Dongrang: Like the photo commemorating my third consecutive year of winning the excellence award, the plaque of appreciation from K Corp, the photo taken to celebrate my lab's expansion, and... what else was there, Samjo?
+        ```
+
+        ---
+
+        ```
+        Samjo: ...Classified documents concerning the research, sir...
+        ```
+
+        ---
+
+        ```
+        Outis: ...So it's more that you wanted to gain back the medals you had.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Oh right, that too.
+        ```
+
+        ---
+
+        ```
+        Gregor: You really did just barely manage to escape there, huh...
+        ```
+
+        ---
+
+        ```
+        Shrenne: I guarantee you, that nerd Dongrang has never swung a fist in his life. He's too carefree. At least bring some Fixers like me.
+        ```
+
+        ---
+
+        ```
+        Samjo: Is your department going as well, Ms. Shrenne?
+        ```
+        ```
+        Samjo: I don't see how you could benefit from the success of this operation.
+        ```
+
+        ---
+
+        ```
+        Shrenne: ...Three of my coworkers died in their last attack.
+        ```
+        ```
+        Shrenne: I've lost too much to care about interests and benefits.
+        ```
+
+        ---
+
+        ```
+        Samjo: Ms. Shrenne...
+        ```
+        ```
+        Samjo: In that case, will I be correct to assume that the payment for the Fixers will be handled by your department--
+        ```
+
+        ---
+
+        ```
+        Shrenne: Ugh... You just can't stop being such an irritating bunch...
+        ```
+
+        ---
+
+        ```
+        Samjo: The Lobotomy Corp. branch we must reclaim isn't too far from here.
+        ```
+        ```
+        Samjo: Let's head there together.
+        ```
+
+        ---
+
+        ```
+        Dongrang: I was hoping I could get a ride on your bus... What a shame.
+        ```
+
+        ---
+
+        ```
+        Samjo: I'll secure you an opportunity next time. Let's get moving for now.
+        ```
+
+        ---
+
+        ```
+        Rodion: Huh? Who do you think you are to decide that...?!
+        ```
+
+        ---
+        
+        **Location: Way to Lobotomy Corp. Branch in Nest K | ระหว่างทางไปสาขาย่อยศูนย์วิจัยโลโบโตในเนสเค**
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            This mission felt particularly tumultuous.
+            ```
+
+        ---
+
+        ```
+        Rodion: And then, you see~ I bet the chips and declared like this:
+        ```
+        ```
+        Rodion: "All~ in."
+        ```
+
+        ---
+
+        ```
+        Gregor: Haah... I wanna stop hearing it... It's giving me nausea.
+        ```
+        ---
+        
+        ```
+        Niko: There's nothing like headshake poker at J Corp's casinos. Those people who sit at the slot machines all day long, they're all morons.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: What, you mean there's something up with the machines?
+        ```
+
+        ---
+        
+        ```
+        Niko: This is something I haven't told anyone else. You see...
+        ```
+        
+        ---
+
+        ```
+        Heathcliff: Hold on, you gotta explain in more detail...
+        ```
+
+        ---
+
+        ```
+        Dante: <Things are lively this time around.>
+        ```
+
+        ---
+
+        ```
+        Ryoshu: D.L.I.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            "She says she doesn't like it," whispered Sinclair.
+            ```
+            ```
+            I whispered back to him saying "I know".
+            ```
+
+    ---
+
+    * **Episode: 11 | ตอนที่ 11<br>Location: K Corp. Laboratory | ห้องแลปศูนย์วิจัยเคคอร์ป** 
 ---
 
 ### เพิ่มเติม

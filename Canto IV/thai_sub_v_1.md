@@ -5799,7 +5799,7 @@
 
         ```
         Outis: Why do you bother asking such questions? All we need to know about them is that it's a terrorist organization with a hollow name; their values are irrelevant to us.
-        เอาทิส: แล้วอะไรดลใจให้นายถามคำถามอะไรแบบนี้ล่ะ? อย่างเดียวที่พวกเราจำเป็นต้องรู้ก็คือ พวกมันเป็นองค์กรก่อการร้ายที่มีชื่อเห่ย ๆ ไร้ราคา; และคุณค่าของพวกมันก็ไม่ใช่ธุระกงการอะไรของพวกเรา
+        เอาทิส: แล้วอะไรดลใจให้นายถามคำถามอะไรแบบนี้ล่ะ? อย่างเดียวที่พวกเราจำเป็นต้องรู้ก็คือ พวกมันเป็นองค์กรก่อการร้ายที่มีชื่อเห่ย ๆ ไร้ราคา; และคุณค่าของพวกมันก็ไม่ใช่ธุระกงการอะไรของพวกเราด้วย
         ```
 
         ---
@@ -5808,7 +5808,7 @@
 
         ```
         Hong Lu: Haha, you never know what use the information might have, Outis.
-        ฮงหลู่: ฮาฮา ก็แบบ เราไม่มีวันรู้นี้ครับว่าข้อมูลอะไรบ้างที่เราจำเป็นต้องใช้ในอนาคต
+        ฮงหลู่: ฮาฮา ก็แบบ เราไม่มีวันรู้นี้ครับว่าข้อมูลอะไรบ้างที่เราอาจจำเป็นต้องใช้ในอนาคต
         ```
 
         ---
@@ -5817,11 +5817,11 @@
 
         ```
         Samjo: I know little about them myself. I did hear that someone who used to work in a K Corp. laboratory is now one of the organization's core members. Though, I don't have the details as this took place before I joined the firm.
-        แซมโจ: 
+        แซมโจ: อันที่จริงผมก็พอรู้อยู่บ้างนะครับ ผมได้ยินข่าวลือมา ว่าหนึ่งในสมาชิกหลักคนหนึ่งขององค์กร ก็เคยเป็นคนที่ทำงานในแลปของเคคอร์ปมาก่อน ถึงอย่างนั้นผม—ก็ไม่ได้รู้รายละเอียดอะไรมากนัก เพราะมันเป็นเรื่องที่เกิดก่อนที่ผมจะเข้ามาในบริษัทนี้
         ```
         ```
         Samjo: She was an outstanding researcher who was once awarded the best employee award, much like Mr. Dongrang is now.
-        แซมโจ: 
+        แซมโจ: แต่ถ้าจำไม่ผิด เหมือนว่าเธอจะเป็นนักวิจัยที่โดดเด่น ผู้ซึ่งได้รับรางวัลพนักงานยอดเยี่ยมเหนือใคร—เหมือนกับคุณดงรัง
         ```
 
         ---
@@ -5830,49 +5830,68 @@
 
         ```
         Shrenne: What? How do you know that?
-        ชเรนน์: 
+        ชเรนน์: หะ? นี้นายรู้เรื่องนั้นได้ยังไง? 
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: I saw her name on one of the plaques in the trophy room. Wouldn't you say it's mandatory for someone of my occupation to remember all the names there?
+        แซมโจ: พอดีว่าผมบังเอิญไปเจอชื่อของเธอ ที่ถูกแกะสลักบนป้าย ในห้องเก็บรวบรวมถ้วยรางวัลมาน่ะครับ ไม่ใช่ว่าคุณเองก็เคยบอกผมหรอ ว่ามันเป็นเรื่องจำเป็น ในฐานะเลขาที่เราต้องจดจำชื่อของทุกคนให้ได้?
         ```
 
         ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Shrenne: Why do you keep peeking in there, anyway...?
+        ชเรนน์: แล้วทำไม นายถึงเข้าไปดูที่นั้นด้วยล่ะ...?
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: ...What could be the reason a highly praised employee decided to join terrorists...
+        อิชมาเอล: ...เหตุผลคืออะไร ที่ทำให้... พนักงานดีเด่นผู้เป็นหน้าเป็นตาอย่างเธอ ถึงตัดสินใจที่จะเข้าร่วมกับผู้การร้าย...
         ```
 
         ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Shrenne: ......
+        ชเรนน์: ......
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: I believe you saw her once earlier. She was enthusiastically destroying my lab.
+        ดงรัง: ผมเชื่อว่าพวกคุณเอง ก็น่าจะได้พบเธอไปแล้วก่อนหน้านี้ ในขณะที่เธอกำลังทำลายข้าวของในแลปของผม ด้วยความคลั่งไคล้/อย่างมีความสุข
         ```
         ```
         Dongrang: Right around when Shrenne and I joined the company, she was... well, rather famous within the firm.
+        ดงรัง: ประมาณช่วงที่ชเรนน์กับผมพึ่งเข้ามาในบริษัทนี้เป็นครั้งแรก ในตอนนั้นเธอ... เป็นคนที่ค่อนข้างมีชื่อเสียงมากในบริษัท
         ```
         ```
         Dongrang: I heard rumors that she had wanted to test the limits of K Corp's technologies.
+        ดงรัง: และผมก็ได้ยินข่าวลือที่ว่า เธออยากที่จะทดสอบขีดจำกัดของเทคโลยีเคคอร์ปว่าจะไปไกลได้แค่ไหน
         ```
         ```
         Dongrang: Then one day... rumors about her leaving the laboratory spread.
+        ดงรัง: ก่อนที่วันหนึ่ง... จะมีข่าวลือ เรื่องที่เธอจะออกจากแลปแพร์กระจายออกไป
         ```
         ```
         Dongrang: Saying that this is where she ended up.
+        ดงรัง: และนับเป็นจุดสิ้นสุดของเธอในสายงานอาชีพ
         ```
 
     ---

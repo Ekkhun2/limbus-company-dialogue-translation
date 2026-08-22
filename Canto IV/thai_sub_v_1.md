@@ -4831,7 +4831,7 @@
 
         ```
         ???: Boring. Let's head back.
-        บุคคลปริศนา: หน้าเบื่อชะมัด กลับกันเถอะ
+        บุคคลปริศนา: น่าเบื่อชะมัด กลับกันเถอะ
         ```
 
         ---
@@ -5091,73 +5091,104 @@
 
         ```
         Gregor: You really did just barely manage to escape there, huh...
-        เกรกอร์: 
+        เกรกอร์: แต่เมื่อกี้นายก็แทบจะเอาตัวไม่รอดเลยไม่ใช่หรอ...
         ```
 
         ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Shrenne: I guarantee you, that nerd Dongrang has never swung a fist in his life. He's too carefree. At least bring some Fixers like me.
+        ชเรนน์: ฉันการันตีได้เลยค่ะ ว่าเจ้าเนิร์ดดงรังนั้นไม่เคยออกหมัดตัวเองสักครั้งในชีวิต และก็ชอบทำตัวเป็นทองไม่รู้ร้อนอยู่เรื่อย อย่างน้อย ๆ ก็ควรที่จะพาฟิกเซอร์ติดสอยห้อยตามไปไหนมาไหนแบบฉัน
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Is your department going as well, Ms. Shrenne?
+        แซมโจ: แผนกของคุณเองก็ไปด้วยกันใช่ไหมครับ คุณชเรนน์?
         ```
         ```
         Samjo: I don't see how you could benefit from the success of this operation.
+        แซมโจ: แต่ผมมองไม่เห็นเหตุผลเลยว่าคุณจะได้อะไรจากปฎิบัติการในครั้งนี้
         ```
 
         ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Shrenne: ...Three of my coworkers died in their last attack.
+        ชเรนน์: ...เพื่อนร่วมงานฉันสามคนตายไป ในการโจมตีครั้งล่าสุดของพวกมัน
         ```
         ```
         Shrenne: I've lost too much to care about interests and benefits.
+        ชเรนน์: ฉันสูญเสียมากเกินไปแล้วที่จะสนใจกะอีแค่รายได้กับผลประโยชน์
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Ms. Shrenne...
+        แซมโจ: คุณชเรนน์...
         ```
         ```
         Samjo: In that case, will I be correct to assume that the payment for the Fixers will be handled by your department--
+        แซมโจ: ถ้าเป็นแบบนั้น เรื่องรายจ่ายค่าจ้างสำหรับฟิกเซอร์ แผนกคุณจะเป็นฝ่ายที่รับผิดชอบเองใช่ไหมครับ--
         ```
 
         ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Shrenne: Ugh... You just can't stop being such an irritating bunch...
+        ชเรนน์: เห้อ... นายหยุดทำตัวน่ารำคาญไมเป็นหรือไง...
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: The Lobotomy Corp. branch we must reclaim isn't too far from here.
+        แซมโจ: สาขาย่อยของศูนย์วิจัยโลโบโตมี่ที่เราต้องชิงกลับมาอยู่ไม่ไกลจากที่นี้ครับ
         ```
         ```
         Samjo: Let's head there together.
+        แซมโจ: เพราะงั้นเราไปด้วยกันก็น่าจะดีนะครับ
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: I was hoping I could get a ride on your bus... What a shame.
+        ดงรัง: ผมเองก็หวังว่า—จะได้นั่งรถบัสของพวกคุณบ้างเหมือนกันน้า... น่าเสียดายจัง
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: I'll secure you an opportunity next time. Let's get moving for now.
+        แซมโจ: ไว้ผมจะหาโอกาศให้ครั้งหน้าละกันนะครับ แต่ครั้งนี้เราคงต้องเดินกันไปก่อน
         ```
 
         ---
 
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Rodion: Huh? Who do you think you are to decide that...?!
+        โรเดียน: หะ? นายคิดว่านายเป็นใครกันถึงพูดเองเออเองแบบนั้น...?!
         ```
 
         ---
@@ -5170,56 +5201,83 @@
 
             ```
             This mission felt particularly tumultuous.
+            ภารกิจนี้ดูจะวุ่นวายเป็นพิเศษ
             ```
 
         ---
 
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Rodion: And then, you see~ I bet the chips and declared like this:
+        โรเดียน: และจากนั้นก็อย่างที่นายรู้~ ฉันเดิมพันชิปทั้งหมดก่อนที่จะพูดออกไปว่า:
         ```
         ```
         Rodion: "All~ in."
+        โรเดียน: "ออล~ อิน"
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Haah... I wanna stop hearing it... It's giving me nausea.
+        เกรกอร์: ฮาาา... ฉันไม่อยากฟังเรื่องนี้อีกแล้ว... แค่ได้ยินก็ทำเอารู้สึกคลื่นไส้
         ```
+
         ---
+
+        <img src="../images/Niko.png" alt="Niko" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Niko: There's nothing like headshake poker at J Corp's casinos. Those people who sit at the slot machines all day long, they're all morons.
+        นิโกะ: ไม่มีอะไรที่ดีไปกว่า โป๊กเกอร์ส่ายหัว/เฮดเชคโป๊กเกอร์ ที่คาซิโนของเจคอร์ปอีกแล้วครับ ไอเจ้าพวกคนที่เอาแต่นั่งเล่นอยู่หน้าจอสล็อตทั้งวี่ทั้งวัน ก็ไม่ต่างอะไรกับพวกขี้แพ้หรอกครับ
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: What, you mean there's something up with the machines?
+        ฮิธคลิฟฟ์: ห๊า นี้แกกำลังจะบอกว่า มีอะไรผิดปกติกับเครื่องพวกนั้นเหรอ? 
         ```
 
         ---
+
+        <img src="../images/Niko.png" alt="Niko" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Niko: This is something I haven't told anyone else. You see...
+        นิโกะ: อื้มฮืออ~ ก็เป็นเรื่องที่ ผมไม่เคยเล่าให้ใครฟังเหมือนกัน...
         ```
         
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: Hold on, you gotta explain in more detail...
+        ฮิธคลิฟฟ์: เห้ย เดี๋ยวเซ่ อยู่ ๆ ก็พูดให้อยากรู้ กลับมาอธิบายให้ละเอียดเดี๋ยวนี้เลย...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <Things are lively this time around.>
+        ดันเต้: <ดูเหมือนว่าจะงวดนี้ จะมีชีวิตชีวากันดีนะ>
         ```
 
         ---
 
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ryoshu: D.L.I.
+        เรียวชู: ม.ช.ล. (ไม่ชอบเลย)
         ```
 
         ---
@@ -5228,9 +5286,11 @@
 
             ```
             "She says she doesn't like it," whispered Sinclair.
+            "เธอบอกว่าไม่ชอบมันน่ะครับ" ซินแคร์กระซิบ
             ```
             ```
             I whispered back to him saying "I know".
+            ฉันกระซิบตอบเขากลับว่า "ฉันรู้"
             ```
 
     ---

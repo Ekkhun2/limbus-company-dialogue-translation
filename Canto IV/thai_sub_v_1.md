@@ -4195,7 +4195,7 @@
 
         ```
         ???: Shut it. We are the technology liberation alliance.
-        บุคคลปริศนา: หุบปากได้แล้ว พวกรเราคือคณะพันธมิตรผู้ปลดปล่อยเทคโนโลยี
+        บุคคลปริศนา: หุบปากได้แล้ว พวกเราคือคณะพันธมิตรปลดแอกเทคโนโลยี
         ```
 
         ---
@@ -5466,7 +5466,7 @@
         
             ```
             An ominous noise buzzed from the stopped machines.
-            ทันใดนั้นเอง ฉันก็รู้สึกขนลุกซู่ ที่จู่ ๆ ก็ได้ยินเสียงดังออกมาจากเครื่องจักรที่ไม่พังไปแล้ว
+            ทันใดนั้นเอง ฉันก็รู้สึกขนลุกซู่ ที่จู่ ๆ ก็ได้ยินเสียงดังออกมาจากเครื่องจักรที่ไม่ทำงาน
             ```
 
         ---
@@ -5636,7 +5636,248 @@
 
     ---
 
-    * **Episode: 12 | ตอนที่ 12<br>Location: LC Branch Interior | ภายในสาขาย่อยศูนย์วิจัยโลโบโตมี่** 
+    * **Episode: 13 | ตอนที่ 13<br>Location: LC Branch Interior | ภายในสาขาย่อยศูนย์วิจัยโลโบโตมี่** 
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Will this... blow up once it stops working like the last one?
+        ซินแคร์: เจ้านี้... จะระเบิดอีกรอบเหมือนเครื่องที่ไม่ทำงานก่อนหน้านี้ไหมครับ?
+        ```
+
+        --- 
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+        
+            ```
+            As we suspected, the halted machine began to play an ominous noise.
+            เป็นไปตามข้อสันนิษฐานที่เราสงสัยไม่มีผิด ที่ไม่กี่วินาทีต่อมา เครื่องจักรที่ไม่ทำงานเมื่อครู่ กลับส่งเสียงเค้าลางไม่ดีออกมา 
+            ```
+
+        ---
+
+        <img src="../images/LobotomyMachine.png" alt="MeltedMachine" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Melted Machine: Alright, so, this is the second time you killed my machines, right?
+        เครื่องจักรที่ถูกละลาย: เอาล่ะ นี้เป็นครั้งที่สองแล้วใช่ไหมที่พวกเธอ ฆ่าเครื่องจักรตัวน้อย ๆ ของฉัน? 
+        ```
+        ```
+        Melted Machine: Let's see...
+        เครื่องจักรที่ถูกละลาย: ไหนดูสิ...
+        ```
+        ```
+        Melted Machine: You're a bunch of roaches that do nothing other than just crawl on the floor.
+        เครื่องจักรที่ถูกละลาย: อ้า มีแต่พวกแมลงสาบสกปรกโสโครก ที่ทำอะไรไม่ได้นอกจากคลานอยู่บนพื้น และกินเศษอาหาร
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: It's okay, it's okay. Don't let it let you down, Greg...
+        โรเดียน: อู้ยยย แรงนะเนี้ย ไม่เป็นไรนะ ไม่เป็นไร อย่าปล่อยให้มันยั่วโมโหนายนะ เกรก...
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: ...I wasn't feeling anything.
+        เกรกอร์: ...ฉันไม่รู้สึกอะไรทั้งนั้นนั้นแหละ 
+        ```
+
+        ---
+
+        <img src="../images/LobotomyMachine.png" alt="MeltedMachine" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Melted Machine: So... go on and keep crawling like the bugs you are.
+        เครื่องจักรที่ถูกละลาย: เพราะงั้น... ก็เอาเลย คลานต่อไปเหมือนแมลงที่พวกแกเป็น
+        ```
+        ```
+        Melted Machine: Why bother looking up when you'll be spending all your lives on that flat dimension of the surface, am I right?
+        เครื่องจักรที่ถูกละลาย: ไม่ต้องมองขึ้นมา เพราะพวกแกก็ทำได้แต่ใช้ชีวิต บนมิติแบน ๆ ของพื้นผิวนี้เนอะ?
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: I understand now. Once the machines stop functioning, they play a prerecorded voice clip, then explode seconds after.
+        เมอร์โซลท์: ผมเข้าใจแล้วครับ เมื่อเครื่องจักรนั้นหยุดทำงานไป พวกมันจะเล่นคลิปเสียง ที่ถูกบันทึกไว้ก่อนหน้า ก่อนที่ระเบิดตัวเองหลังจากครบกำหนด 
+        ```
+        ```
+        Meursault: It is unclear what purpose they are meant to serve, but all the machines are equipped with the same mechanisms.
+        เมอร์โซลท์: แม้ว่าวัตถุประสงค์ของการทำแบบนี้จะยังคงเป็นปริศนาแต่—เครื่องจักรทั้งหมดก็ดูเหมือนจะถูกติดตั้งด้วยกลไกการทำงานแบบเดียวกัน
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Pre...recorded? I didn't see that one coming...
+        เกรกอร์: บันทึก... ไว้ก่อนหน้า? ฉันไม่เห็นจะรู้เรื่องนั้นเลย...
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Hah, everyone's making fun of you, eh, buggy bloke.
+        ฮิธคลิฟฟ์: ฮา คิดว่าทุกคนจงใจล้อแกอยู่หรือไง เออ พ่อแมลงขี้น้อยใจเอ้ย
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: ...It sure is baffling how the whole world is bending over backward to mock me...
+        เกรกอร์: ...หยุดเลยนะ ก็มันชวนงงนี้นา ที่จู่ ๆ ทั้งโลกก็รวมหัวกันเพื่อเยาะเย้ยฉัน...
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Pah, that's a tame reaction... Hm? O-Oi, what's wrong with you now?
+        ฮิธคลิฟฟ์: อะไรกัน ตอบสนองได้เรียบง่ายไปไหมเนี้ย... หืม? อ-โอ่ย ทีนี้เป็นอะไรไปอีกเล่า? 
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: Hrk...
+        อิชมาเอล: เฮือก...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <What's the matter, Ishmael? Are you alright?>
+        ดันเต้: <เป็นอะไรหรือเปล่าอิชมาเอล? เธอโอเคไหม?>
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: Yes... I'm just feeling a little queasy...
+        ใช่ฉันโอเค... ก็แค่รู้สึกคลื่นไส้นิดหน่อยก็เท่านั้น...
+        ```
+        ```
+        Ishmael: You don't have to mind me. I'm fine now.
+        อิชมาเอล: นายไม่ต้องเป็นห่วงฉันหรอก ฉันสบายดี/ฉันโอเคแล้ว
+        ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: There's something I've been meaning to ask, what kind of organization is this... technology liberation alliance?
+        ฮงหลู่: คือว่า มีบางอย่างที่ผมสงสัยแล้วอยากถามมาได้สักพักใหญ่แล้ว ผมอยากรู้น่ะ ว่านี้องค์กรแบบไหนกันหรอครับ... เจ้าองค์กรที่เรียกตัวเองว่า "คณะพันธมิตรปลดแอกเทคโนโลยี"
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: Why do you bother asking such questions? All we need to know about them is that it's a terrorist organization with a hollow name; their values are irrelevant to us.
+        เอาทิส: แล้วอะไรดลใจให้นายถามคำถามอะไรแบบนี้ล่ะ? อย่างเดียวที่พวกเราจำเป็นต้องรู้ก็คือ พวกมันเป็นองค์กรก่อการร้ายที่มีชื่อเห่ย ๆ ไร้ราคา; และคุณค่าของพวกมันก็ไม่ใช่ธุระกงการอะไรของพวกเรา
+        ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: Haha, you never know what use the information might have, Outis.
+        ฮงหลู่: ฮาฮา ก็แบบ เราไม่มีวันรู้นี้ครับว่าข้อมูลอะไรบ้างที่เราจำเป็นต้องใช้ในอนาคต
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: I know little about them myself. I did hear that someone who used to work in a K Corp. laboratory is now one of the organization's core members. Though, I don't have the details as this took place before I joined the firm.
+        แซมโจ: 
+        ```
+        ```
+        Samjo: She was an outstanding researcher who was once awarded the best employee award, much like Mr. Dongrang is now.
+        แซมโจ: 
+        ```
+
+        ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Shrenne: What? How do you know that?
+        ชเรนน์: 
+        ```
+
+        ---
+
+        ```
+        Samjo: I saw her name on one of the plaques in the trophy room. Wouldn't you say it's mandatory for someone of my occupation to remember all the names there?
+        ```
+
+        ---
+
+        ```
+        Shrenne: Why do you keep peeking in there, anyway...?
+        ```
+
+        ---
+
+        ```
+        Ishmael: ...What could be the reason a highly praised employee decided to join terrorists...
+        ```
+
+        ---
+
+        ```
+        Shrenne: ......
+        ```
+
+        ---
+
+        ```
+        Dongrang: I believe you saw her once earlier. She was enthusiastically destroying my lab.
+        ```
+        ```
+        Dongrang: Right around when Shrenne and I joined the company, she was... well, rather famous within the firm.
+        ```
+        ```
+        Dongrang: I heard rumors that she had wanted to test the limits of K Corp's technologies.
+        ```
+        ```
+        Dongrang: Then one day... rumors about her leaving the laboratory spread.
+        ```
+        ```
+        Dongrang: Saying that this is where she ended up.
+        ```
+
+    ---
+
+    * **Episode: 14 | ตอนที่ 14<br>Location: LC Branch Interior | ภายในสาขาย่อยศูนย์วิจัยโลโบโตมี่** 
 ---
 
 ### เพิ่มเติม

@@ -5883,20 +5883,394 @@
         ```
         ```
         Dongrang: I heard rumors that she had wanted to test the limits of K Corp's technologies.
-        ดงรัง: และผมก็ได้ยินข่าวลือที่ว่า เธออยากที่จะทดสอบขีดจำกัดของเทคโลยีเคคอร์ปว่าจะไปไกลได้แค่ไหน
+        ดงรัง: และผมก็ได้ยินข่าวลือที่ว่า เธออยากที่จะทดสอบขีดจำกัดของเทคโลยีเคคอร์ปว่าจะไปได้ไกลแค่ไหน
         ```
         ```
         Dongrang: Then one day... rumors about her leaving the laboratory spread.
-        ดงรัง: ก่อนที่วันหนึ่ง... จะมีข่าวลือ เรื่องที่เธอจะออกจากแลปแพร์กระจายออกไป
+        ดงรัง: ก่อนที่วันหนึ่ง... จะมีข่าวลือ เรื่องที่เธอจะออกจากแลปแพร์กระจายออกไปเป็นวงกว้าง
         ```
         ```
         Dongrang: Saying that this is where she ended up.
-        ดงรัง: และนับเป็นจุดสิ้นสุดของเธอในสายงานอาชีพ
+        ดงรัง: บอกว่านี้เป็นจุดจบของเธอในฐานะนักวิจัย
         ```
 
     ---
 
     * **Episode: 14 | ตอนที่ 14<br>Location: LC Branch Interior | ภายในสาขาย่อยศูนย์วิจัยโลโบโตมี่** 
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Ah, this corridor must be the last. Once we're past here, we'll reach the edge of the facility.
+        ดงรัง: อา นี้น่าจะเป็นทางเดินสุดท้ายแล้ว หลังจากที่เราผ่านหัวมุมตรงนั้นไป ก็จะถึงส่วนสุดขอบของศูนย์วิจัยที่เรากำลังตามหา
+        ```
+        ```
+        Dongrang: After I retrieve my precious items from there, I'll give you the ownership of the Golden Bough as promised.
+        ดงรัง: และหลังจากที่เราเก็บกู้ข้าวของแสนล้ำค่าของผมได้สำเร็จจากที่นั้น ผมก็จะส่งมอบสิทธิ์ในการถือครองกิ่งทองให้กับพวกคุณตามที่ได้สัญญาเอาไว้
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: Feels like this is gonna end on a rotten note, you gonna be okay with that? Those terrorists really must've run off, seeing how none of 'em showed up...
+        โรเดียน: 
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: It was part of the contract to reclaim the laboratory.
+        ดงรัง: 
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: That's why I kept telling you, Mr. Dongrang. When you draft a contract, you have to be meticulous and calculating, and write it in a way that favors us.
+        แซมโจ: 
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <...Let's get going.>
+        ดันเต้: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Fortunately, I didn't see any killing machines here.
+            ```
+            ```
+            However, a couple of unwelcome figures appeared in front of us.
+            ```
+        
+        ---
+
+        ```
+        Outis: Be on guard, Executive Manager! Someone is ahead of us.
+        ```
+
+        ---
+
+        ```
+        Dante: <Yeah, but they aren't holding any weapons...>
+        ```
+
+        ---
+
+        ```
+        Outis: They may be unarmed, but you are an incredibly weak and fragile civilian, Executive Manager!
+        ```
+
+        ---
+
+        ```
+        Dante: <...Um, thanks? Outis?>
+        ```
+
+        ---
+
+        ```
+        ???: Can't you count? You clearly outnumber us by a huge margin. Don't be a baby...
+        ```
+
+        ---
+
+        ```
+        ???: Here at last, worms?
+        ```
+
+        ---
+
+        ```
+        Sinclair: It's the same voice that played from the machines. And... it's the same face we saw earlier.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Where are your other members, Senior Researcher Ran?
+        ```
+
+        ---
+
+        ```
+        Ran: ...You managed to bring more help in that mess, I see.
+        ```
+        ```
+        Ran: And put away that "senior" crap, we haven't even known each other for long. Don't you see what's going on?
+        ```
+        ```
+        Ran: They've all evacuated. And here I am... buying time for them.
+        Dongrang: That's interesting... We thought we stormed in unexpectedly, yet you knew it in advance and escaped?
+        ```
+        ```
+        Ran: 'Cause you're worms. Look at you, getting all cocky after receiving the best employee award...
+        ```
+
+        ---
+
+        ```
+        Ran: Raiding here, dare trying to catch us.
+        ```
+
+        ---
+
+        ````
+        Heathcliff: You've got a big mouth. You think you're better than us?
+        ```
+        ```
+        Heathcliff: You're outnumbered like you said. That noggin of yours probably knows you'd better surrender, eh?
+        ```
+
+        ---
+
+        ```
+        Ran: ...Let's say I do. It's clear what you'll do with me.
+        ```
+        ```
+        Ran: You'll neutralize me and keep me barely alive...
+        ```
+        ```
+        Ran: "Curing" me with your flaunted regeneration ampules...
+        ```
+        ```
+        Ran: Rinse and repeat, until you get the answers you want.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Sounds like a problem that can be prevented by giving us the answers right away. Am I asking too much?
+        ```
+
+        ---
+
+        ```
+        Ran: 'Course you are. Unlike you...
+        ```
+        ```
+        Ran: We aren't planning to live like roaches that feed on whatever is provided from above.
+        ```
+
+        ---
+
+        ```
+        Gregor: ...This is really getting on my nerves.
+        ```
+
+        ---
+
+        ```
+        Ran: Ah, whatever~ I've had enough of toying with you.
+        ```
+
+        ---
+
+        ```
+        Samjo: What are you trying to...
+        ```
+
+        ---
+
+        ```
+        Ran: That's right, show your curiosity only to what's happening immediately before your eyes. That's how a researcher should be.
+        ```
+
+        ---
+
+        ```
+        Shrenne: Ran...
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            With an ear-piercing noise, the building was engulfed in an explosion.
+            ```
+            ```
+            All that remains is a charred stain.
+            ```
+
+        ---
+
+        ```
+        Dante: <Ngh... That hurt a lot.>
+        ```
+
+        ---
+
+        ```
+        Samjo: Are you alright, Mr. Dongrang?
+        ```
+
+        ---
+
+        ```
+        Dongrang: I'm fine... Someone in Dante's party pushed me away as soon as the blast was heard. You know, the quiet fellow with intimidating eyes.
+        ```
+
+        ---
+
+        ```
+        Samjo: I was going to do the same, but I was standing too far away.
+        ```
+
+        ---
+
+        ```
+        Niko: Whew, that was close.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            After taking the impact for others, Don Quixote and Meursault had been flung all the way to columns supporting the building, their backbones fully exposed.
+            ```
+            ```
+            ...Don Quixote in particular was impaled on a pillar.
+            Dongrang: It must be the faith that they will come back to life at any time that prompted them to jump into danger without hesitation.
+            ```
+
+        ---
+
+        ```
+        Dongrang: Not out of any sort of friendship or affinity... Isn't that right?
+        ```
+
+        ---
+
+        ```
+        Don Quixote couldn't give any answers, whether due to death or the pointed edge stabbing through her mouth.
+        ```
+
+        ---
+
+        ```
+        Meursault: ...Cough.
+        ```
+
+        ---
+
+        ```
+        Dante: <Meursault? You were alive...?>
+        ```
+
+        ---
+
+        ```
+        Meursault: ...It was my directive to protect the manager and see that the company's mission is accomplished.
+        ```
+
+        ---
+
+        ```
+        Dongrang: That... must be it, yes.
+        ```
+        ```
+        Dongrang: How convenient. You can recover your body without using regeneration ampules.
+        ```
+
+        ---
+
+        ```
+        Dante: <…….>
+        ```
+        ```
+        Dante: <I dunno, the ampule looks handier...>
+        ```
+
+        ---
+
+        ```
+        Samjo: Right, is Ms. Shrenne alright? And the other Fixers?
+        ```
+
+        ---
+
+        ```
+        Niko: We're perfectly sound.
+        ```
+
+        ---
+
+        ```
+        Shrenne: Your group blocked the blast for us, so we turned out fine.
+        ```
+        ```
+        Shrenne: That's... why you haven't been taking the ampules. That clock had special powers.
+        ```
+
+        ---
+
+        ```
+        Samjo: Indeed. After all, I recruited them after thorough screening and testing.
+        ```
+
+        ---
+
+        ```
+        Shrenne: I see... Well, darn... All the ampules I brought... are useless now.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            For some reason, Shrenne lets out a defeated laugh and drops the ampules in her bag to the floor.
+            ```
+            ```
+            It's true... For them—looking at it from a perspective that excludes me—this is certainly a convenient power.
+            ```
+            ```
+            Fatal consequences can be reversed, and the only price is me having to bear the pain.
+            ```
+            ```
+            No, wait.
+            ```
+            ```
+            Is this really fine?
+            ```
+            ```
+            And where does this all this time to rewind come from?
+            ```
+            ```
+            Heathcliff: Clock...face... Stop...dawdling about... That yellow-haired lass is dying...
+            ```
+            ```
+            Thoroughly ravaged by the blast, Heathcliff pointed at Don Quixote.
+            ```
+
+        ---
+
+        ```
+        Heathcliff: Hurry up and turn it... This... hurts an awful lot...
+        ```
+
+        ---
+
+        ```
+        Dante: <...On it.>
+        ```
+
+    ---
 ---
 
 ### เพิ่มเติม

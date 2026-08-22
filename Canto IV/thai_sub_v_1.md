@@ -5441,6 +5441,202 @@
     ---
 
     * **Episode: 12 | ตอนที่ 12<br>Location: LC Branch Interior | ภายในสาขาย่อยศูนย์วิจัยโลโบโตมี่** 
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: I don't see any terrorists.
+        ดงรัง: ผมไม่ยักกะเห็นผู้ก่อการร้ายเลยสักคน
+        ```
+
+        ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Shrenne: Relax. I've brought plenty of regeneration ampules, so those murder machines can rampage all they want.
+        ชเรนน์: ใจเย็นน่า ฉันเอายาฟื้นฟูมามากพอสมควร พอที่หุ่นยนต์สังหารพวกนั้นจะอาละวาดใส่เราได้หน้ำใจเลย
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+        
+            ```
+            An ominous noise buzzed from the stopped machines.
+            ทันใดนั้นเอง ฉันก็รู้สึกขนลุกซู่ ที่จู่ ๆ ก็ได้ยินเสียงดังออกมาจากเครื่องจักรที่ไม่พังไปแล้ว
+            ```
+
+        ---
+
+        <img src="../images/LobotomyMachine.png" alt="MeltedMachine" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Melted Machine: Alright, all... You hear me?
+        เครื่องจักรที่ถูกละลาย: เอาล่ะ ทีนี้... ฮัลโหล ฮัลโหล ได้ยินไหม? 
+        ```
+        ```
+        Melted Machine: I got pretty mad thinking you might have thought we ran off, so I'm sending you a message verbally.
+        เครื่องจักรที่ถูกละลาย: ฉันหัวเสียมากเลยนะ พอคิดว่าพวกนายจะคิดว่าพวกเรา—วิ่งหนีหัวซุกหัวซุนออกมาเพราะสู้ไม่ได้ เพราะงั้นฉันก็เลยอยากบอกพวกนายด้วยตัวของฉันเองว่า
+        ```
+        ```
+        Melted Machine: I'm about to tell you something real important, so listen up.
+        เครื่องจักรที่ถูกละลาย: ฉันมีบางสิ่งที่สำคัญมากจะบอก และพวกนายเองก็ควรที่จะตั้งใจฟัง
+        ```
+        ```
+        Melted Machine: ......
+        เครื่องจักรที่ถูกละลาย: ......
+        ```
+        ```
+        Melted Machine: A pause to rouse tension... Good.
+        เครื่องจักรที่ถูกละลาย: ไม่มีไรหรอก แค่ทิ้งช่องไฟให้เครียดเล่นน่ะ... ดี
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <......>
+        ดันเต้: <......>
+        ```
+
+        ---
+
+        <img src="../images/LobotomyMachine.png" alt="MeltedMachine" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Melted Machine: It's that you are...
+        เครื่องจักรที่ถูกละลาย: เรื่องที่ฉันจะบอกก็คือ...
+        ```
+        ```
+        Melted Machine: You are a bunch of worthless worms.
+        เครื่องจักรที่ถูกละลาย: พวกนายเป็นแค่หนอนโง่เง่าเตาตุ่นไร้ประโยชน์
+        ```
+        ```
+        Melted Machine: Yeah, that's right. You're just worms!
+        เครื่องจักรที่ถูกละลาย: ช่าย ใช่แล้ว พวกนายเป็นแค่หนอน!
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Gimme a break. I was all ears for this load of nonsense.
+        เกรกอร์: หะ อะไรวะเนี้ย ให้ฉันพังหน่อยไม่ได้หรือไง หูฉันมันรับเรื่อง ไร้สาระ/ปัญญาอ่อน มามากเกินพอแล้ว
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+        
+            ```
+            Gregor approached the speaker with a grumble, scratching the back of his head.
+            เกรกอร์เดินเข้าไปหาลำโพงพร้อมกับบ่นพึมพัม ในขณะที่มือเขากำลังเกาหัวหงิก ๆ อยู่ด้านหลัง
+            ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Wait, Gregor!>
+        ดันเต้: <เดี๋ยว เกรกอร์!>
+        ```
+
+        * เสียงในหัว
+
+            ```
+            After playing the voice, the machine suddenly starts to heat up and inflate.
+            หลังจากส่งเสียง จู่ ๆ เครื่องจักรนั้นก็เริ่มที่จะร้อนขึ้น และพองออกมา
+            ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: The machine is heating to unnatural degrees, its components expanding.
+        เฟาสท์: เครื่องจักรนั้นกำลังร้อนขึ้นอย่างผิดวิสัย จากการที่ชิ้นส่วนของมันกำลังค่อย ๆ ขยายตัวจนผิดรูป 
+        ```
+
+        ---
+
+        <img src="../images/LobotomyMachine.png" alt="MeltedMachine" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Niko: Oh my, it really is. That's a telltale sign of an imminent explosion.
+        นิโกะ: เวรล่ะ เป็นงั้นจริงด้วย เป็นสัญญาณเตือนที่บอกว่า กำลังจะเกิดการระเบิดในไม่ช้า
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Indeed, and that means...
+        ดงรัง: ใชเลยครับ และนั้นก็หมายความว่า...
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Wait a moment! Get away from that damned machine!
+        ฮิธคลิฟฟ์: รอก่อนสิวะ! ออกมาให้ห่างจากไอเครื่องเวรนั้นเดี๋ยวนี้! 
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Heathcliff kicked Gregor away from the machine.
+            ฮิธคลิฟฟ์แตะเกรกอร์ออกไปจากรัศมีของเครื่องจักร
+            ``` 
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Hmm... They must've used what little time they had to place traps like this.
+        ดงรัง: หืมม... พวกเขาคงจะใช้เวลาเตรียมการอันน้อยนิดที่มีอยู่ เพื่อวางกับดักนี้ไม่ผิดแน่
+        ```
+        ```
+        Dongrang: Their dedication is admirable. I'm raring to see the mastermind behind this.
+        ดงรัง: ถือว่าเป็นการอุทิศตัวที่น่าชื่นชมยิ่งนัก ฉันชักจะอยากรู้แล้วสิ ว่าใครเป็นผู้บงการอยู่เบื้องหลังเรื่องทั้งหมดนี้
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Are all researchers like that? This really doesn't feel like the time for admirations.>
+        ดันเต้: <คือพวกนักวิจัยเป็นแบบนี้กันหมดเลยหรอ? ไม่ใช่ว่านี้ไม่ใช่เวลามัวมาชื่นชมกับความพยายามของศัตรูหรือไง?>
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: Such is our fate.
+        เฟาสท์: เป็นโชคชะตาพวกเราน่ะค่ะ
+        ```
+
+    ---
+
+    * **Episode: 12 | ตอนที่ 12<br>Location: LC Branch Interior | ภายในสาขาย่อยศูนย์วิจัยโลโบโตมี่** 
 ---
 
 ### เพิ่มเติม

@@ -5282,6 +5282,8 @@
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         * เสียงในหัว
 
             ```
@@ -5295,7 +5297,150 @@
 
     ---
 
-    * **Episode: 11 | ตอนที่ 11<br>Location: K Corp. Laboratory | ห้องแลปศูนย์วิจัยเคคอร์ป** 
+    * **Episode: 11 | ตอนที่ 11<br>Location: LC Branch Interior | ภายในสาขาย่อยศูนย์วิจัยโลโบโตมี่** 
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            ...The group remained consistently noisy until the moment we arrived.
+            ...พวกเราเอาแต่คุยเจ๊าะแจ๊ะเสียงดังจนกระทั่งุถึงที่หมาย
+            ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ryoshu: Only in tranquility can art bloom in its full grace...
+        เรียวชู: เพียงภายใต้ความเงียบสงบเท่านั้น ที่วิชาดาบจะผลิบานความสวยของตัวมันอย่างเต็มที่...
+        ```
+        
+        ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Shrenne: There's always gonna be a snobby jerk on any team.
+        ชเรนน์: ทำไมทุกทีมต้องมีไอพวกหัวสูงแบบนี้ทุกทีเลยนะ
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: I must agree. I can't tell if they're here to handle a request or hang out... They loosen up too easily...
+        เอาทิส: ฉันคงต้องเห็นด้วย ดูไม่ออกเลยว่าเจ้าพวกนั้นมาที่นี้ เพื่อจัดการกับคำขอ หรือ แค่มาเที่ยวเล่น... หลุดโฟกัสกันง่ายชะมัด
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: If there's one fortunate thing, however, it's that we won't encounter any Abnormalities here.
+        ดงรัง: ดูเหมือนท่ามกลางเรื่องร้าย ๆ ก็ยังมีเรื่องดีอย่างหนึ่งนะครับที่—พวกเราไม่ต้องเผชิญหน้ากับสิ่งแปลกปลอมข้างล่างนี้
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Why does this person keep talking to me?> 
+        ดันเต้: <ทำไมไอหมอนี้ยังเอาแต่คุยกับฉันไม่หยุดเนี้ย?>
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: To tell you the truth, the first encounter with Abnormalities was a series of shocking revelations.
+        ดงรัง: ถ้าจะให้เล่าความจริงเลยก็คือ ครั้งแรกที่พวกเราเผชิญหน้ากับสิ่งแปลกปลอมพวกนั้นเป็นอะไรที่ เปิดเผยความจริงสุดช็อคแห่งโลกวิทยาศาสตร์ และองค์ความรู้ที่เราเรียนรู้มานับหลายศตวรรษเลยล่ะครับ
+        ```
+        ```
+        Dongrang: It was hybrid, so to speak. I wouldn't have been able to conceive such a concept as developing a new source of energy from the human subconscious.
+        ดงรัง: มันเป็นลูกผสมของบางสิ่ง ถ้าจะให้พูดก็เหมือนกับ บางอย่างที่ตัวผมไม่อาจเข้าใจถึงแนวคิดของการสร้างพลังงานชนิดใหม่ขึ้นมา—จากจิตใต้สำนึกของมนุษย์
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Hmm…> 
+        ดันเต้: <หืมม...>
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: I believe that the so widespread and standard, hm, what was it again... right, the age of humanity is coming to an end. Now is the age of the superior minds. Not too many have realized this with their hearts yet.
+        ดงรัง: ผมเชื่อนะครับ ว่าคำพูดนั้นที่แพร์หลายและโด่งดังอย่าง อืม มันพูดว่าไงนะ... อ้อใช่ ยุคสมัยของมนุษย์ชาติกำลังมาถึงจุดจบ และกลับกันตอนนี้กลับเป็นยุคสมัยของปัญญาที่เหนือกว่า โดยที่มีคนเพียงหยิบมือเดียวที่เข้าใจ—ในแก่นแท้ของมันอย่างแท้จริง
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <What's an "age of humanity"?>
+        ดันเต้: <อะไรคือ "ยุคสมัยของมนุษย์ชาติ"เหรอ?>
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: You have no idea how glad I was to have you on board.
+        ดงรัง: คุณไม่รู้หรอก ว่าผมภาคภูมิใจมากแค่ไหนที่ได้ คุณเป็นส่วนหนึ่งกับช่วงเวลาแห่งประวัติศาสตร์เช่นนี้
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <...Some one-sided conversation that was... Much worse than the ones I have with Vergilius.>
+        ดันเต้: <...พูดเองเออเอง เหมือนฉันคุยกับลมไม่มีผิด... แย่ซะยิ่งกว่าตอนที่คุยกับวอร์จิลิอุสซะอีก...>
+        ```
+
+        * เสียงในหัว
+
+            ```
+            Was it even a conversation if one of us never communicated their thoughts to the other?
+            แล้วนี้จะถือเป็นการสื่อสารหรือเปล่า ถ้าหนึ่งในพวกเราไม่ได้มีการแบ่งปันความคิดของตัวเองให้อีกฝ่าย
+            ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Shh. I hear some movement.
+        ดงรัง: ชู่ ผมได้ยินอะไรสักอย่างขยับ
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            I think you're the only one here who has to keep his mouth shut.
+            ฉันว่านายเองนั้นแหละที่เป็นที่ต้องหุบปากน่ะ
+            ```
+
+    ---
+
+    * **Episode: 12 | ตอนที่ 12<br>Location: LC Branch Interior | ภายในสาขาย่อยศูนย์วิจัยโลโบโตมี่** 
 ---
 
 ### เพิ่มเติม

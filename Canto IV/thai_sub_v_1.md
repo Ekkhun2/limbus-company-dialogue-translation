@@ -6397,10 +6397,24 @@
 
         ```
         Heathcliff: Clock...face... Stop...dawdling about... That yellow-haired lass is dying...
+        ฮิธคลิฟฟ์: ไอหน้า... นาฬิกา... หยุด...เสียเวลา... กับยัยเตี้ยหัวเหลืองนั้นที่กำลังตายสักที... 
         ```
-        ```
-        Thoroughly ravaged by the blast, Heathcliff pointed at Don Quixote.
-        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Thoroughly ravaged by the blast, Heathcliff pointed at Don Quixote.
+            ถึงแม้ว่า—จะถูกทำลายด้วยแรงระเบิดจนสภาพยับเยินมากแค่ไหน ฮิธคลิฟฟ์กลับยังมีแรง—ที่จะชี้ไปหาดอนกิโฆเต้ทีแน่นิ่ง
+            ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: Hurry up and turn it... This... hurts an awful lot...
         ฮิธคลิฟฟ์: เอ้ย...! รีบเร่งมือแล้วก็—หมุนกลับสักทีสิ... นี้มันเจ็บ... มากเลยนะเว้ย...
@@ -6416,6 +6430,8 @@
         ```
 
     ---
+
+
 ---
 
 ### เพิ่มเติม

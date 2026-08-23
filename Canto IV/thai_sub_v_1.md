@@ -5019,7 +5019,7 @@
 
         ```
         Rodion: No way~ Is he trying to copy Dante's ability like what that shady Bodhisattva Chicken guy tried with his rival?!
-        โรเดียน: ซวยแล้ว~ นี้เขากำลังพยายามที่จะก็อปปี้ความสามารถของดันเต้ เหมือนกับเจ้าของร้านไก่โพธิสัตว์จอมเจ้าเล่ห์คนนั้น ที่ลงมือกับคู่แข่งของเขาไป?!
+        โรเดียน: ไม่มีทาง~ นี้เขากำลังพยายามที่จะก็อปปี้ความสามารถของดันเต้ เหมือนกับเจ้าของร้านไก่โพธิสัตว์จอมเจ้าเล่ห์คนนั้น ที่ลงมือกับคู่แข่งของเขาไป?!
         ```
 
         ---
@@ -5915,7 +5915,7 @@
 
         ```
         Rodion: Feels like this is gonna end on a rotten note, you gonna be okay with that? Those terrorists really must've run off, seeing how none of 'em showed up...
-        โรเดียน: 
+        โรเดียน: ฉันมีลางสังหรว่าเรื่องนี้อาจจบลงเร็วกว่าที่คิดแฮะ เราอาจไปเจอโน้ตเน่า ๆ ถูกทิ้งร้าง แล้วก็ไม่เจอใครเลย ถ้าเป็นแบบนั้นจริง ๆ คุณจะโอเคใช่ม้า? บางที พวกผู้ก่อการร้ายพวกนั้นอาจจะหนีไปแล้วก็ได้ จากบรรยากาศไร้วี่แววว่าจะมีใครโผล่มา...
         ```
 
         ---
@@ -5924,7 +5924,7 @@
 
         ```
         Dongrang: It was part of the contract to reclaim the laboratory.
-        ดงรัง: 
+        ดงรัง: แน่นอนครับ ก็ในเมื่อนั้นเป็นส่วนหนึ่งในสัญญญาที่เราตกลงกันไว้แล้ว
         ```
 
         ---
@@ -5933,7 +5933,7 @@
 
         ```
         Samjo: That's why I kept telling you, Mr. Dongrang. When you draft a contract, you have to be meticulous and calculating, and write it in a way that favors us.
-        แซมโจ: 
+        แซมโจ: ผมถึงบอกไงครับคุณดงรัง ว่าเวลาจะร่างสัญญาอะไร คุณต้องคิดให้ละเอียดถี่ถ้วนอยู่เสมอ เพื่อที่มันจะได้เอื้อผลประโยชน์กับฝ่ายเราให้ได้มากที่สุด
         ```
 
         ---
@@ -5942,157 +5942,225 @@
 
         ```
         Dante: <...Let's get going.>
-        ดันเต้: 
+        ดันเต้: <...ไงเราก็ไปกันเถอะ>
         ```
-
-        ---
 
         * เสียงในหัว
 
             ```
             Fortunately, I didn't see any killing machines here.
+            นับเป็นโชค ที่ฉันไม่เห็นเครื่องจักรสังหาสักตัวที่อยู่ที่นี้เลย
             ```
             ```
             However, a couple of unwelcome figures appeared in front of us.
+            ถึงอย่างนั้นสองร่างของใครบางคนกลับ—ปรากฎอยู่ตรงหน้าพวกเราอย่างไม่คาดคิด
             ```
         
         ---
 
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Outis: Be on guard, Executive Manager! Someone is ahead of us.
+        เอาทิส: ระวังตัวด้วยค่ะ ท่านผู้จัดการสูงสุด! มีใครบางคนอยู่ข้างหน้าเรา
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <Yeah, but they aren't holding any weapons...>
+        ดันเต้: <อาา—ใช่แต่พวกเขาไม่ได้ถืออาวุธอะไรเลยนะ...>
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: They may be unarmed, but you are an incredibly weak and fragile civilian, Executive Manager!
+        เอาทิส: ถึงแม้พวกเขาจะไม่ได้ติดอาวุธ แต่ท่านก็อ่อนแอ และเปราะบางมากไม่ต่างอะไรกับประชาชนทั่วไปค่ะ ท่านผู้จัดการ!
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <...Um, thanks? Outis?>
+        ดันเต้: <...เออ ขอบใจนะ? เอาทิส?>
         ```
 
         ---
+
+        <img src="../images/Ran.png" alt="???" width="100" style="display: block; margin: 0 auto;">
 
         ```
         ???: Can't you count? You clearly outnumber us by a huge margin. Don't be a baby...
+        บุคคลปริศนา: พวกแกนับเลขไม่เป็นหรือไง? ว่าตัวเองมีจำนวนเหนือกว่าพวกเรามากขนาดไหน อย่าทำตัวเป็นเด็กหน่อยเลย...
         ```
-
-        ---
-
         ```
         ???: Here at last, worms?
+        บุคคลปริศนา: ในที่สุดก็มาถึงสักทีนะเจ้าพวกหนอนแมลง?
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: It's the same voice that played from the machines. And... it's the same face we saw earlier.
+        ซินแคร์: นี้มันเสียงเดียวกัน กับที่เราได้ยินจากเครื่องจักร แล้วก็... เป็นใบหน้าเดียวกัน กับที่เราเคยเห็นก่อนหน้านี้
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Where are your other members, Senior Researcher Ran?
+        ดงรัง: สมาชิกคนอื่นไปไหนแล้วล่ะครับ คุณ(.ซีเนียร์)นักวิจัยผู้ อาวุโส/รุ่นพี่ รัน?
         ```
 
         ---
+
+        <img src="../images/Ran.png" alt="Ran" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ran: ...You managed to bring more help in that mess, I see.
+        รัน: ...ดูเหมือนว่าเจ้าหนูอย่างแก—จะตามคนมาช่วยเช็ดขี้เช็ดเยี้ยวมากขึ้นกว่ารอบที่แล้วนะเนี้ย
         ```
         ```
         Ran: And put away that "senior" crap, we haven't even known each other for long. Don't you see what's going on?
+        รัน: แล้วก็—ช่วยหยุดพูด ไอคำว่า "ผู้อาวุโส" เฮ็งซวยอะไรนั้นสักทีเถอะ เราไม่ได้สนิทชิดเชื้อกัน และเด็กน้อยอย่างแก—ก็ยังดูไม่ออกด้วยซ้ำว่ามันกำลังเกิดอะไรขึ้น?
         ```
         ```
         Ran: They've all evacuated. And here I am... buying time for them.
-        Dongrang: That's interesting... We thought we stormed in unexpectedly, yet you knew it in advance and escaped?
+        รัน: พวกเขาทั้งหมดหนีอพยพไปกันหมดแล้ว—และฉันเองก็อยู่ที่นี้... เพื่อที่จะได้ซื้อเวลาให้พวกเขา
         ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: That's interesting... We thought we stormed in unexpectedly, yet you knew it in advance and escaped?
+        ดงรัง: นับเป็นเรื่องที่น่าสนใจมากเลยนะครับ... ทั้ง ๆ ที่พวกเราอุตสาห์เข้าโจมตีอย่างไม่เปิดโอกาศให้ตั้งตัวแล้วแท้ ๆ แต่ถึงอย่างนั้นคุณ—ก็กลับรู้ตัวก่อนหน้าและชิงหนีไปก่อนที่พวกเราจะได้ทำอะไร?
+        ```
+
+        ---
+
+        <img src="../images/Ran.png" alt="Ran" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ran: 'Cause you're worms. Look at you, getting all cocky after receiving the best employee award...
+        รัน: ก็เพราะพวกแกเป็นได้แค่หนอนแมลงไง ดูตัวเองเข้าสิ้ เด็กน้อยที่ทำตัวอวดดีหลังจากพึ่งได้รางวัลพนักงานดีเด่นเป็นครั้งแรก...
         ```
-
-        ---
-
         ```
         Ran: Raiding here, dare trying to catch us.
+        รัน: คงได้ใจมากเลยสิท่า ที่คิดจะมาบุกถึงถ้ำพวกเราแบบนี้
         ```
 
         ---
 
-        ````
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
         Heathcliff: You've got a big mouth. You think you're better than us?
+        ฮิธคลิฟฟ์: ปากแจ๋วใช่ย่อย แต่แกคิดว่าตัวเองเหนือกว่าพวกเราหรือไง?
         ```
         ```
         Heathcliff: You're outnumbered like you said. That noggin of yours probably knows you'd better surrender, eh?
+        ฮิธคลิฟฟ์: ทั้ง ๆ ที่แกก็กำลังเสียเปรียบเรื่องจำนวนอย่างที่แกพูด ถ้าแกมีมันสมอง—ก็คงรู้ตัวดี ว่าสิ่งเดียวที่ตัวเองทำได้ในตอนนี้ ก็มีแต่จำนนก็เท่านั้น?  
         ```
 
         ---
+
+        <img src="../images/Ran.png" alt="Ran" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ran: ...Let's say I do. It's clear what you'll do with me.
+        รัน: ...ก็สมมติว่าถ้าฉันทำ มันก็แน่นอนอยู่แล้วว่พวกแก
         ```
         ```
         Ran: You'll neutralize me and keep me barely alive...
+        รัน: จะปราบปรามฉัน จนปางตายแล้วก็จับกุมฉันทั้งเป็น...
         ```
         ```
         Ran: "Curing" me with your flaunted regeneration ampules...
+        รัน: "รักษา" ฉันด้วยยาสุดโม้เหม็นของแก...
         ```
         ```
         Ran: Rinse and repeat, until you get the answers you want.
+        รัน: ซ้ำแล้วซ้ำเล่า จนกว่าพวกแกจะได้คำตอบที่ตัวเองต้องการ
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Sounds like a problem that can be prevented by giving us the answers right away. Am I asking too much?
+        ดงรัง: ฟังดูเป็นปัญหาที่—สามารถแก้ได้ง่าย ๆ ด้วยการที่คุณบอกคำตอบกับพวกเรามาตรง ๆ ก็ได้ไม่ใช่หรอครับ หรือนี้ผมขอมากเกินไป?
         ```
 
         ---
+
+        <img src="../images/Ran.png" alt="Ran" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ran: 'Course you are. Unlike you...
+        รัน: ก็แหงสิ พวกเราไม่ได้เป็นเหมือนแกเลยสักนิด...
         ```
         ```
         Ran: We aren't planning to live like roaches that feed on whatever is provided from above.
+        รัน: พวกเราไม่เคยคิด—ที่จะใช้ชีวิตเหมือนแมลงสาบ—ที่ต้องประทังชีวิตด้วยการกินทุกสิ่งทุกอย่างที่ตกลงมาจาก เบื้องบน/ด้านบน
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: ...This is really getting on my nerves.
+        เกรกอร์: ...เอาล่ะ ฉันว่าฉันชักจะเริ่มฉุนแล้วนะ
         ```
 
         ---
+
+        <img src="../images/Ran.png" alt="Ran" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ran: Ah, whatever~ I've had enough of toying with you.
+        รัน: อ้า ไงก็เถอะ~ ฉันเล่นสนุกกับแกมามากพอแล้ว
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: What are you trying to...
+        แซมโจ: คุณกำลังพยายามจะทำอะไร...
         ```
 
         ---
+
+        <img src="../images/Ran.png" alt="Ran" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ran: That's right, show your curiosity only to what's happening immediately before your eyes. That's how a researcher should be.
+        รัน: ใช่แล้ว จงแสดงความสงสัยใคร่รู้ออกมา กับสิ่ง—ที่กำลังจะเกิดขึ้นต่อหน้าต่อตาไม่อีกไม่ช้า นั้นแหละ คือสิ่งที่นักวิจัยควรเป็น
         ```
 
         ---
 
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Shrenne: Ran...
+        ชเรนน์: ท่านรัน...
         ```
 
         ---
@@ -6101,132 +6169,84 @@
 
             ```
             With an ear-piercing noise, the building was engulfed in an explosion.
+            ด้วยเสียงแหลมแทงแก้วหู อาคาร—จึงถูกปิดตายพร้อมแรงระเบิด
             ```
             ```
             All that remains is a charred stain.
+            สิ่งเดียวที่เหลืออยู่ ก็มีแต่คราบไหม้เกรียม
             ```
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dante: <Ngh... That hurt a lot.>
+        ดันเต้: <เฮือก... เมื่อกี้เจ็บหูชะมัด>
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Are you alright, Mr. Dongrang?
+        แซมโจ: เป็นอะไรหรือเปล่าครับ คุณดงรัง? 
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: I'm fine... Someone in Dante's party pushed me away as soon as the blast was heard. You know, the quiet fellow with intimidating eyes.
+        ดงรัง: ไม่ ฉันไม่เป็นไร... มีใครสักคนในของกลุุ่มดันเต้ผลักฉันออกมาทันเวลา ในตอนที่เกิดการระเบิด แบบว่า เขาคนนั้นน่ะ ที่ดูเงียบ ๆ แล้วก็มีดวงตาที่น่าเกรงขาม
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: I was going to do the same, but I was standing too far away.
+        แซมโจ: ฉันเองก็ว่าจะทำแบบนั้นแต่—พอดีว่าผมยืนอยู่ไกลเกินไปน่ะครับ
         ```
 
         ---
+
+        <img src="../images/Niko.png" alt="Niko" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Niko: Whew, that was close.
+        นิโกะ: หวิ้ว เกือบไปแล้ว
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             After taking the impact for others, Don Quixote and Meursault had been flung all the way to columns supporting the building, their backbones fully exposed.
+            หลังจากที่รับแรงระเบิดแทนคนอื่น ๆ ดอนกิโฆเต้กับเมอร์โซลท์ก็ถูกเหวี่ยงไปยังเสาเข็มที่กำลังค้ำจุนอาคาร ก่อนที่จะกระแทก และทำให้กระดูกสันหลังของพวกเขาทะลุออกมา
             ```
             ```
             ...Don Quixote in particular was impaled on a pillar.
-            Dongrang: It must be the faith that they will come back to life at any time that prompted them to jump into danger without hesitation.
+            ...โดยเฉพาะดอนกิโฆเต้—ที่ถูกเสียบทะลุเสาต้นหนึ่ง
             ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: It must be the faith that they will come back to life at any time that prompted them to jump into danger without hesitation.
+        ดงรัง: มันคงเพราะโชคชะตาที่พวกเขา—จะสามารถกลับมามีชีวิตได้ดั่งเดิมได้ทุกเมื่อ ที่ทำให้พวกเขาตะโจนใส่ภัยอันตรายโดยไร้ซึ่งความลังเล
+        ```
         ```
         Dongrang: Not out of any sort of friendship or affinity... Isn't that right?
-        ```
-
-        ---
-
-        ```
-        Don Quixote couldn't give any answers, whether due to death or the pointed edge stabbing through her mouth.
-        ```
-
-        ---
-
-        ```
-        Meursault: ...Cough.
-        ```
-
-        ---
-
-        ```
-        Dante: <Meursault? You were alive...?>
-        ```
-
-        ---
-
-        ```
-        Meursault: ...It was my directive to protect the manager and see that the company's mission is accomplished.
-        ```
-
-        ---
-
-        ```
-        Dongrang: That... must be it, yes.
-        ```
-        ```
-        Dongrang: How convenient. You can recover your body without using regeneration ampules.
-        ```
-
-        ---
-
-        ```
-        Dante: <…….>
-        ```
-        ```
-        Dante: <I dunno, the ampule looks handier...>
-        ```
-
-        ---
-
-        ```
-        Samjo: Right, is Ms. Shrenne alright? And the other Fixers?
-        ```
-
-        ---
-
-        ```
-        Niko: We're perfectly sound.
-        ```
-
-        ---
-
-        ```
-        Shrenne: Your group blocked the blast for us, so we turned out fine.
-        ```
-        ```
-        Shrenne: That's... why you haven't been taking the ampules. That clock had special powers.
-        ```
-
-        ---
-
-        ```
-        Samjo: Indeed. After all, I recruited them after thorough screening and testing.
-        ```
-
-        ---
-
-        ```
-        Shrenne: I see... Well, darn... All the ampules I brought... are useless now.
+        ดงรัง: ไม่ใช่เพราะความเป็นเพื่อน หรือ ความรู้สึกผูกพันแต่อย่างใด... ใช่ไหมครับ
         ```
 
         ---
@@ -6234,40 +6254,165 @@
         * เสียงในหัว
 
             ```
+            Don Quixote couldn't give any answers, whether due to death or the pointed edge stabbing through her mouth.
+            ดอนกิโฆเต้ไม่ได้ให้คำตอบ ไม่ว่าจะเพราะเธอตายไปแล้ว หรือ แหง่งแหลมที่แทงทะลุปากของเธอ  
+            ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: ...Cough.
+        เมอร์โซลท์: ...ค๊อก
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Meursault? You were alive...?>
+        ดันเต้: <เมอร์โซลท์? นายยังไม่ตาย...?>
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: ...It was my directive to protect the manager and see that the company's mission is accomplished.
+        เมอร์โซลท์: ...มันเป็นหน้าที่ของผมที่ต้องปกป้องผู้จัดการ และทำให้แน่ใจว่า... ภารกิจของบริษัท จะบรรลุผลสำเร็จ—ได้... ตามที่ตั้งเป้าเอาไว้
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: That... must be it, yes.
+        ดงรัง: ถ้างั้น... ก็แปลว่าใช่สินะครับ
+        ```
+        ```
+        Dongrang: How convenient. You can recover your body without using regeneration ampules.
+        ดงรัง: ชั่งเป็นอะไรที่สะดวกสบายดีแบบนี้—ที่พวกคุณสามารถรักษาบาดแผลบนร่างกายได้ โดยที่ไม่ต้องใช้ยาฟื้นฟูเลยสัก หยด/โดส เดียว
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <......>
+        ดันเต้: <......>
+        ```
+        ```
+        Dante: <I dunno, the ampule looks handier...>
+        ดันเต้: <ไม่รู้สิ้ ฉันว่า มียาก็น่าจะดีกว่านะ...>
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Right, is Ms. Shrenne alright? And the other Fixers?
+        แซมโจ: ว่าแต่ คุณชเรนน์ปลอดภัยดีใช่ไหมครับ? รวมถึงฟิกเตอร์คนอื่น ๆ ด้วย?
+        ```
+
+        ---
+
+        <img src="../images/Niko.png" alt="Niko" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Niko: We're perfectly sound.
+        นิโกะ: พวกเราสบายดีครับ
+        ```
+
+        ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Shrenne: Your group blocked the blast for us, so we turned out fine.
+        ชเรนน์: ต้องขอบคุณกลุ่มของพวกคุณเลยนะคะ—ที่บังแรงระเบิดให้กับพวกเรา พวกเราถึงไม่เป็นไร
+        ```
+        ```
+        Shrenne: That's... why you haven't been taking the ampules. That clock had special powers.
+        ชเรนน์: งี้เองสินะคะ... เหตุผล—ที่พวกคุณไม่ได้เอายาติดตัวไปเลยสักขวด ก็เพราะว่านาฬิกานั้นมีพลังวิเศษ  
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Indeed. After all, I recruited them after thorough screening and testing.
+        แซมโจ: ใช่เลยครับ เพราะยังไงผมเอง—ก็เป็นแมวมองที่เจอแล้วเกณฑ์พวกเขามา ผ่านกระบวนการการคัดกรอง และทดสอบอย่างเคร่งครัด
+        ```
+
+        ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Shrenne: I see... Well, darn... All the ampules I brought... are useless now.
+        ชเรนน์: อ้อ งั้นหรอ... เยี่ยมจริง ๆ ไอบ้าเอ้ย... งั้นยาที่ฉันอุตสาห์เตรียมมา... ก็ไร้ค่าหมดเลยน่ะสิ
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
             For some reason, Shrenne lets out a defeated laugh and drops the ampules in her bag to the floor.
+            ด้วยเหตุผลบางอย่าง ชเรนน์ถอนหายใจออกมาด้วยความรู้สึกราวกับว่าพ่ายแพ้ และปล่อยยาฟื้นฟูที่อยู่ในกระเป๋าของเธอลงบนพื้น
             ```
             ```
             It's true... For them—looking at it from a perspective that excludes me—this is certainly a convenient power.
+            มันก็จริงอยู่... ที่สำหรับพวกเขาแล้ว—การที่ได้มองดูจากมุมมองที่ไม่รวมฉัน—นี้น่ะ...คงดูเป็นพลังที่ดูสะดวกสบายมากเลยสินะ
             ```
             ```
             Fatal consequences can be reversed, and the only price is me having to bear the pain.
+            ความผิดพลาดร้ายแรงสามารถที่จะได้รับการแก้ไข้ และราคาเพียงอย่างเดียวที่ต้องจ่าย ก็มีแต่ฉัน—ที่ต้องทนทุกข์ทรมาณแสนสาหัสจนกว่าจะผ่านไป
             ```
             ```
             No, wait.
+            ไม่สิ เดี๋ยวก่อน
             ```
             ```
             Is this really fine?
+            นี้มันโอเคแล้วจริง ๆ หรอ?/มันจะมีแค่นั้นจริง ๆ หรอ? 
             ```
             ```
             And where does this all this time to rewind come from?
-            ```
-            ```
-            Heathcliff: Clock...face... Stop...dawdling about... That yellow-haired lass is dying...
-            ```
-            ```
-            Thoroughly ravaged by the blast, Heathcliff pointed at Don Quixote.
+            แล้วไอพลังพวกนี้ ที่สามารถกลับเวลาได้นี้มาจากไหน?
             ```
 
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Clock...face... Stop...dawdling about... That yellow-haired lass is dying...
+        ```
+        ```
+        Thoroughly ravaged by the blast, Heathcliff pointed at Don Quixote.
+        ```
         ```
         Heathcliff: Hurry up and turn it... This... hurts an awful lot...
+        ฮิธคลิฟฟ์: เอ้ย...! รีบเร่งมือแล้วก็—หมุนกลับสักทีสิ... นี้มันเจ็บ... มากเลยนะเว้ย...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <...On it.>
+        ดันเต้: <...ไปเดี๋ยวนี้ล่ะ>
         ```
 
     ---

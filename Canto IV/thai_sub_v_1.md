@@ -6242,11 +6242,11 @@
 
         ```
         Dongrang: It must be the faith that they will come back to life at any time that prompted them to jump into danger without hesitation.
-        ดงรัง: มันคงเพราะโชคชะตาที่พวกเขา—จะสามารถกลับมามีชีวิตได้ดั่งเดิมได้ทุกเมื่อ ที่ทำให้พวกเขาตะโจนใส่ภัยอันตรายโดยไร้ซึ่งความลังเล
+        ดงรัง: มันอาจเป็นเพราะโชคชะตาของพวกเขาที่—จะกลับมามีชีวิตตอนไหนก็ได้ ที่เป็นเชื้อไฟ—ให้พวกเขาตะโจนใส่ภัยอันตรายทั้งปวงโดยไม่ลังเล
         ```
         ```
         Dongrang: Not out of any sort of friendship or affinity... Isn't that right?
-        ดงรัง: ไม่ใช่เพราะความเป็นเพื่อน หรือ ความรู้สึกผูกพันแต่อย่างใด... ใช่ไหมครับ
+        ดงรัง: ผมอยากรู้จัง ว่าทั้งหมดนี้ คงไม่ใช่เพราะความเป็นเพื่อน หรือ ความรู้สึกผูกพันต่อกัน... ใช่ไหมครับ?
         ```
 
         ---
@@ -6431,7 +6431,229 @@
 
     ---
 
+    * **Episode: 15 | ตอนที่ 15<br>Location: LC Branch Interior | ภายในสาขาย่อยศูนย์วิจัยโลโบโตมี่** 
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+
+        ```
+        Dongrang: Shrenne, you've got shrapnel wounds, are you sure you don't want to use an ampule?
+        ดงรัง: ชเรนน์ เธอบาดเจ็บจากสะเก็ดระเบิดนี้ แน่ใจแล้วหรอว่าเธอไม่ต้องการยานี้?
+        ```
+
+        ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Shrenne: I'm fine...
+        ชเรนน์: ฉันไม่เป็นไร...
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: That Shrenne fella... She's looking kinda blank-faced, is she okay?
+        เกรกอร์: สหายชเรนน์คนนั้น... เธอกำลังหน้ามืดตามัว
+        ```
+        ```
+        Gregor: Blank-faced... Hah, of course not. She couldn't be so carefree.
+        เกรกอร์: 
+        ```
+        
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: ......
+        เอาทิส: ......
+        ```
+        ```
+        Outis: This makes it evident.
+        เอาทิส: 
+        ```
+        ```
+        Outis: The terrorists long since made their leave. All that's left were bloodthirsty murderers hellbent on killing us.
+        เอาทิส: 
+        ```
+        ```
+        Outis: I've made my judgement. Hey, what do you think?
+        เอาทิส: 
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Outis nudged her head at Meursault.
+            ```
+
+        ---
+
+        ```
+        Meursault: I agree with it.
+        ```
+
+        ---
+
+        ```
+        Sinclair: Wha, what are you two talking about?
+        ```
+
+        ---
+
+        ```
+        Meursault: There's a traitor in our ranks. No doubt remains in the matter.
+        ```
+        ```
+        Meursault: It's thanks to this spy that our course and plans were leaked from the moment we departed.
+        ```
+        ```
+        Meursault: To prevent further damage, it is right to dispose of them here and now.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Traitor.
+            ```
+            ```
+            I blankly watched as he brought up a concept foreign to me.
+            ```
+
+        ---
+        
+        ```
+        Outis: As it's unlikely to be one of us, the rational course of action is to suspect your institute's lackeys.
+        ```
+        ```
+        Outis: This mission must be abandoned, Executive Manager. To allow ourselves to be involved in this nonsense is...
+        ```
+
+        ---
+
+        ```
+        Samjo: I am repulsed by your accusation. Are you seriously suspecting us? I can assure you that we trust each other better than you people who haven't even been in the same firm for a year...
+        ```
+        
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Samjo argued, flashes of light furiously bouncing off his glasses.
+            ```
+
+        ---
+
+        ```
+        Dongrang: No, Samjo. Their hypothesis sounds plausible. I would've said the same.
+        ```
+
+        ---
+
+        ```
+        Samjo: ......
+        ```
+
+        ---
+
+        ```
+        Dongrang: You have something to say, don't you?
+        ```
+
+        ---
+
+        ```
+        Samjo: Mr. Dongrang...
+        ```
+
+        ---
+
+        ```
+        Outis: That group of Fixers haven't used regeneration ampules a single time since they came in here.
+        ```
+        ```
+        Outis: Any sane combatant would kill to have those.
+        ```
+
+        ---
+
+        ```
+        Meursault: There is one more thing.
+        ```
+        ```
+        Meursault: When we encountered Ran...
+        ```
+        ```
+        Meursault: They were distancing themselves from her in advance. The only explanation is that they knew there would be an explosion.
+        ```
+
+        ---
+
+        ```
+        Niko: Oh, bother... Why not consider the possibility that my intuition is just that keen?
+        ```
+        ```
+        Niko: What if we weren't using the ampules because these buddies and I are built healthy?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Hm... I've brought a truth tablet just in case. I'll believe you if you testify the same after taking it.
+        ```
+
+        ---
+
+        ```
+        Niko: Truth tablet? That red thing? How can I take that suspicious-looking drug...?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Sorry, did you have a choice here? How strange, if I were you, I would take the tablet... or make more desperate excuses.
+        ```
+        ```
+        Dongrang: You're so gladly squandering your chances to clear yourselves of suspicion, it's almost like you're asking to be killed.
+        ```
+        ```
+        Dongrang: ...Or did you decide to kill us all and get away with it?
+        ```
+
+        ---
+
+        ```
+        Niko: I thought a researcher's job was writing papers... and you're out here writing fiction, you deranged maniac.
+        ```
+        
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Niko raised his weapon and pointed it at us.
+            ```
+
+        ---
+
+        ```
+        Heathcliff: Showing your true selves now that you're cornered, eh?
+        ```
+
+        ---
+
+        ```
+        Niko: I even taught you my secret to winning at the slot machines, and this is how you return the favor?
+        ```
+    ---
 ---
 
 ### เพิ่มเติม

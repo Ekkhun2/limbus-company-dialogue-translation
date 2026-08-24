@@ -6551,11 +6551,11 @@
         
         ```
         Outis: As it's unlikely to be one of us, the rational course of action is to suspect your institute's lackeys.
-        เอาทิส: ทั้งที่มันเป็นไปได้ยากที่จะเป็นคนของพวกเรา เพราะงั้นการกระทำที่สมเหตุผล ภายใต้สถานการณ์ปัจจุบันในตอนนี้ก็คือ การที่เราต้องเริ่มตั้งข้อสังสัยเกี่ยวกับลูกน้องของพวกคุณ เหล่านักวิจัยเป็นอันดับแรก
+        เอาทิส: รวมถึงที่ว่ามันเป็นไปได้ยากที่จะเป็นคนของพวกเรา เพราะงั้นการกระทำที่สมเหตุผล ภายใต้สถานการณ์ปัจจุบันในตอนนี้ก็คือ การที่เราต้องเริ่มตั้งคำถามเกี่ยวกับความโปร่งใสที่ตัวลูกน้องของพวกคุณมี เหล่านักวิจัยเป็นอันดับแรก
         ```
         ```
         Outis: This mission must be abandoned, Executive Manager. To allow ourselves to be involved in this nonsense is...
-        เอาทิส: และภารกิจนี้ควรถูกยกเลิกทันทีค่ะ ท่านผู้จัดการสูงสุด มันไม่คุ้มเสียเอาซะเลย ที่เราต้องมาพัวผัน—กับเรื่องไร้สาระพันธ์นี้...
+        เอาทิส: และภารกิจนี้ควรถูกยกเลิกในทันทีค่ะ ท่านผู้จัดการสูงสุด มันไม่คุ้มเสียเอาซะเลย ที่เราต้องมาพัวผัน—กับเรื่องไร้สาระอะไรพันธ์นี้...
         ```
 
         ---
@@ -6564,7 +6564,7 @@
 
         ```
         Samjo: I am repulsed by your accusation. Are you seriously suspecting us? I can assure you that we trust each other better than you people who haven't even been in the same firm for a year...
-        แซมโจ: 
+        แซมโจ: ผมขอปฎิเธอข้อกล่าวหาของคุณครับ นี้คุณแน่ใจแล้วใช่ไหมครับ ถึงได้มาสงสัยพวกเราแบบนี้? ผมมั่นใจเลยว่า พวกเรา—เชื่อใจกันและกันได้มากกว่าพวกคุณเป็นไหน ๆ กับคน—ที่ไม่ได้อยู่ร่วมกันครบปีนะครับ
         ```
         
         ---
@@ -6575,110 +6575,159 @@
 
             ```
             Samjo argued, flashes of light furiously bouncing off his glasses.
+            แซมโจเถียง เสียงแข็ง/ออกมา ในขณะที่ประกายแสงสะท้อนส่องไปมาอย่างเกรี้ยวกราดกระทบแว่นของเขา
             ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: No, Samjo. Their hypothesis sounds plausible. I would've said the same.
+        ดงรัง: ไม่หรอก แซมโจ สมมติฐานนั้นของพวกเขาฟังขึ้น เป็นฉันเองก็คงพูดแบบเดียวกัน
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: ......
+        แซมโจ: ......
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: You have something to say, don't you?
+        ดงรัง: คุณยังมีอะไรจะพูดต่อใช่ไหมครับ?
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Mr. Dongrang...
+        แซมโจ: แต่คุณดงรังครับ...
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: That group of Fixers haven't used regeneration ampules a single time since they came in here.
+        เอาทิส: อ้า ขอบคุณค่ะ กลุ่มฟิกเซอร์ที่อยู่ตรงนั้น ไม่ได้ใช่ยาฟื้นฟูเลยแม้แต่ขวดเดียวตั้งแต่ที่พวกเขาย่างกรายเข้ามาที่นี้
         ```
         ```
         Outis: Any sane combatant would kill to have those.
+        เอาทิส: ทหารสติดีที่ไหนกันที่—จะเมินเฉยต่อมันได้
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: There is one more thing.
+        เมอร์โซลท์: แล้วก็อีกอย่างหนึ่ง
         ```
         ```
         Meursault: When we encountered Ran...
+        เมอร์โซลท์: ในตอน—ที่เราเผชิญหน้ากับคุณรันอดีตนักวิจัย...
         ```
         ```
         Meursault: They were distancing themselves from her in advance. The only explanation is that they knew there would be an explosion.
+        เมอร์โซลท์: พวกเขากลับทิ้งระยะห่างจากตัวเธอไว้ก่อนแล้วซึ่ง—สิ่งเดียวที่อธิบายพฤติกรรมแบบนั้นได้ ก็มีแต่การที่พวกเขาต้องรู้อยู่แก่ใจอยู่ก่อนแล้วว่าจะเกิดการระเบิดขึ้น
         ```
 
         ---
+
+        <img src="../images/Niko.png" alt="Niko" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Niko: Oh, bother... Why not consider the possibility that my intuition is just that keen?
+        นิโกะ: โอ้ แหม... แล้วทำไมคุณถึงคิดบ้างล่ะครับว่าบางทีผมก็อาจจะฉลาดมากถึงขนาดที่... คาดเดาได้ ว่าจะเกิดการระเบิดขึ้น?
         ```
         ```
         Niko: What if we weren't using the ampules because these buddies and I are built healthy?
+        นิโกะ: แล้วถ้าเกิด ว่าพวกเราแค่ไม่ใช่ยาฟืนฟูเพราะ—ว่าผมและสหายพวกนี้แข็ง แกร่ง/แรง อยู่แล้วล่ะ?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Hm... I've brought a truth tablet just in case. I'll believe you if you testify the same after taking it.
+        ดงรัง: หืม... ไหน ๆ ผมก็เอายาคลายความจริงเผื่อมาด้วยทั้งที ผมเชื่อนะครับ ว่าคุณจะพูดเหมือนเดิมหลังจากที่กินมันไป ก็ในเมื่อคุณไม่ใช่คนทรยศ 
         ```
 
         ---
+
+        <img src="../images/Niko.png" alt="Niko" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Niko: Truth tablet? That red thing? How can I take that suspicious-looking drug...?
+        โนโกะ: ยาคลายความจริง? เจ้าเม็ดแดง ๆ นั้นหรอครับ? ผมจะไปกิน—ไอ ยาเสพติด/ของ ที่ดูน่าสงสัยอะไรแบบนั้นได้ไงล่ะครับ...? 
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Sorry, did you have a choice here? How strange, if I were you, I would take the tablet... or make more desperate excuses.
+        ดงรัง: ประทานโทษนะครับ แต่คุณมีทางเลือกตั้งแต่แรกด้วยหรอ? น่าแปลก ถ้าผมเป็นคุณ ผมคงจะกินยานี้เหมือนเด็กดี... หรือไม่ก็อ้างนู่นนี้ให้น่าสมเพชกว่าเดิม
         ```
         ```
         Dongrang: You're so gladly squandering your chances to clear yourselves of suspicion, it's almost like you're asking to be killed.
+        ดงรัง: คุณนี้ ใช้โอกาศได้ฟุ่มเฟื่อยจังเลยนะครับกับอีแค่การพิสูจน์ว่าตัวเอง บริสุทธิ์ มันชั่งน่าแปลก เหมือนกับว่าคุณอยากตายยังไงอย่างงั้น
         ```
         ```
         Dongrang: ...Or did you decide to kill us all and get away with it?
+        ดงรัง: ...หรือไม่ คุณก็ตั้งใจที่จะฆ่าพวกเราทั้งหมด แล้วก็หนีไป?
         ```
 
         ---
+
+        <img src="../images/Niko.png" alt="Niko" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Niko: I thought a researcher's job was writing papers... and you're out here writing fiction, you deranged maniac.
+        นิโกะ: ผมก็นึกว่างานของนักวิจัย คือการเขียน กระดาษ/บทความ ซะอีก... แต่สิ่งที่คุณทำอยู่ตอนนี้ กลับเป็นการเขียนเรื่องโกหก *ขำ* ฮาา... ไอคนบ้าสติเพื้อนเอ้ย
         ```
         
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Niko raised his weapon and pointed it at us.
+            นิโกะยกอาวุธของเขา และชี้มันมาที่เรา
             ```
 
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: Showing your true selves now that you're cornered, eh?
+        ฮิธคลิฟฟ์: ในที่สุดก็แสดงธาตุแท้ของแกออกมาสักทีสินะ ไอกบฏ?
         ```
 
         ---
 
+        <img src="../images/Niko.png" alt="Niko" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Niko: I even taught you my secret to winning at the slot machines, and this is how you return the favor?
+        นิโกะ: ทั้ง ๆ ที่ผมก็เป็นคนสอนเทคนิคที่จะชนะเครื่องสล็อตแท้ ๆ แล้วนี้เป็นสิ่งที่คุณตอบแทนผมหรอครับ?
         ```
     ---
 ---

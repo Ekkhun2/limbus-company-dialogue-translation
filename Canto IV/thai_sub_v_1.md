@@ -6519,15 +6519,15 @@
 
         ```
         Meursault: There's a traitor in our ranks. No doubt remains in the matter.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: มีคนทรยศ—ในหมู่พวกเราอย่างไม่ต้องสงสัย
         ```
         ```
         Meursault: It's thanks to this spy that our course and plans were leaked from the moment we departed.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: และเพราะสปายคนนั้นเอง แผนการที่ถูกวางหมากมาตั้งแต่แรกก็เลยรั่วไหล ตั้งแต่วินาทีที่เราออกมา
         ```
         ```
         Meursault: To prevent further damage, it is right to dispose of them here and now.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: เพราะงั้นเอง เพื่อที่เป็นการหลีกเลี่ยงความเสียหายที่เกิดไม่ให้บานปลายไปมากกว่านี้ จึงนับเป็นการดี—ที่เรา จะหาตัวมัน และตัดไฟตั้งต้นลม
         ```
 
         ---
@@ -6538,27 +6538,38 @@
 
             ```
             Traitor.
+            คนทรยศ
             ```
             ```
             I blankly watched as he brought up a concept foreign to me.
+            ฉันมองเขา ด้วยแววตาที่ว่างเปล่าให้กับแนวคิดที่ฟังดูหลุดโลกสำหรับฉัน
             ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Outis: As it's unlikely to be one of us, the rational course of action is to suspect your institute's lackeys.
+        เอาทิส: และด้วยความเป็นไปได้ยากที่มันจะเป็นพวกเรา เพราะงั้นการกระทำที่สมเหตุผล ภายใต้สถานการณ์ปัจจุบันก็คือ การที่เราต้องสังสัยลูกน้องของพวกคุณเหล่านักวิจัย
         ```
         ```
         Outis: This mission must be abandoned, Executive Manager. To allow ourselves to be involved in this nonsense is...
+        เอาทิส: ภารกิจนี้ควรถูกยกเลิกค่ะ ท่านผู้จัดการสูงสุด มันไม่คุ้มเสียเอาซะเลย ที่เราต้องมาพัวผัน—กับเรื่องสาระอะไรแบบนี้...
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: I am repulsed by your accusation. Are you seriously suspecting us? I can assure you that we trust each other better than you people who haven't even been in the same firm for a year...
+        แซมโจ: 
         ```
         
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 

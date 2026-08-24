@@ -6456,11 +6456,11 @@
 
         ```
         Gregor: That Shrenne fella... She's looking kinda blank-faced, is she okay?
-        เกรกอร์: สหายชเรนน์คนนั้น... เธอกำลังหน้ามืดตามัว
+        เกรกอร์: ยัยเกลอชเรนน์คนนั้น... สีหน้าไม่สู้ดีเลย นี้เธอโอเคจริง ๆ หรือเปล่า?
         ```
         ```
         Gregor: Blank-faced... Hah, of course not. She couldn't be so carefree.
-        เกรกอร์: 
+        เกรกอร์: สีหน้าไม่สู้ดี... ฮา แน่นอนว่ายังไงก็ไม่ คนอย่างเธอคงไม่ได้ใจเย็นถึงขนาดนั้น
         ```
         
         ---
@@ -6473,50 +6473,66 @@
         ```
         ```
         Outis: This makes it evident.
-        เอาทิส: 
+        เอาทิส: เท่านี้ก็ชัดแล้ว
         ```
         ```
         Outis: The terrorists long since made their leave. All that's left were bloodthirsty murderers hellbent on killing us.
-        เอาทิส: 
+        เอาทิส: ว่าพวกผู้ก่อการร้ายพวกนั้นได้ออกไปจากที่นี้ก่อนเราได้พักใหญ่ และปล่อยให้พวกเราต้องเผชิญหน้า กับไอพวกหุ่นยนต์คลั่งสังหารโหดพวกนี้ที่อยากจะฆ่าเราใจจะขาด
         ```
         ```
         Outis: I've made my judgement. Hey, what do you think?
-        เอาทิส: 
+        เอาทิส: ฉันคิดแบบนี้ แล้วนายล่ะคิดว่าไง? 
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Outis nudged her head at Meursault.
+            เอาทิสเงยหน้ามองไปยังเมอร์โซลท์
             ```
 
         ---
 
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Meursault: I agree with it.
+        เมอร์โซลท์: ผมเห็นด้วยครับ
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Wha, what are you two talking about?
+        ซินแคร์: อา...? ที่ทั้งสองพูดว่าพักใหญ่นี้ หมายความว่าไงหรอครับ? 
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: There's a traitor in our ranks. No doubt remains in the matter.
+        เมอร์โซลท์: 
         ```
         ```
         Meursault: It's thanks to this spy that our course and plans were leaked from the moment we departed.
+        เมอร์โซลท์: 
         ```
         ```
         Meursault: To prevent further damage, it is right to dispose of them here and now.
+        เมอร์โซลท์: 
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 

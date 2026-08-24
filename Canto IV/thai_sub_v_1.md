@@ -6339,7 +6339,7 @@
         ```
         ```
         Shrenne: That's... why you haven't been taking the ampules. That clock had special powers.
-        ชเรนน์: งี้เองสินะคะ... เหตุผล—ที่พวกคุณไม่ได้เอายาติดตัวไปเลยสักขวด ก็เพราะว่านาฬิกานั้นมีพลังวิเศษ  
+        ชเรนน์: งี้เองสินะคะ... เหตุผล—ที่พวกคุณไม่ได้เอายาติดตัวไปเลยสักหลอด ก็เพราะว่านาฬิกานั้นมีพลังวิเศษ  
         ```
 
         ---
@@ -6620,7 +6620,7 @@
 
         ```
         Outis: That group of Fixers haven't used regeneration ampules a single time since they came in here.
-        เอาทิส: อ้า ขอบคุณค่ะ กลุ่มฟิกเซอร์ที่อยู่ตรงนั้น ไม่ได้ใช่ยาฟื้นฟูเลยแม้แต่ขวดเดียวตั้งแต่ที่พวกเขาย่างกรายเข้ามาที่นี้
+        เอาทิส: อ้า ขอบคุณค่ะ กลุ่มฟิกเซอร์ที่อยู่ตรงนั้น ไม่ได้ใช่ยาฟื้นฟูเลยแม้แต่หลอดเดียวตั้งแต่ที่พวกเขาย่างกรายเข้ามาที่นี้
         ```
         ```
         Outis: Any sane combatant would kill to have those.
@@ -6730,6 +6730,261 @@
         นิโกะ: ทั้ง ๆ ที่ผมก็เป็นคนสอนเทคนิคที่จะชนะเครื่องสล็อตแท้ ๆ แล้วนี้เป็นสิ่งที่คุณตอบแทนผมหรอครับ?
         ```
     ---
+
+    * **Episode: 16 | ตอนที่ 16<br>Location: LC Branch Interior | ภายในสาขาย่อยศูนย์วิจัยโลโบโตมี่** 
+
+        <img src="../images/Niko.png" alt="Niko" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Niko: Ah... Give me a second. I think we need to call a timeout.
+        นิโกะ: อา... รอเดี๋ยวเซ่ ผมเกรงว่าเราต้องขอเวลานอก
+        ```
+        ```
+        Niko: Might be the sardine I ate this morning... My stomach is aching.
+        นิโกะ: น่าจะเป็นเพราะ ซาดีนที่กินไปเมื่อเช้าทำพิษ... *ร้องอวดครวญ* ปวดท้องชะมัด
+        ```
+
+        ---
+
+        <img src="../images/Rose2.png" alt="AssistantFixer" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Assistant Fixer: Boss!
+        ฟิกเซอร์ลิ่วล้อ: บอสครับ!/หัวหน้าครับ!
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ryoshu: No such thing. SYNC is up next.
+        เรียวชู: ไม่มีเวลานงเวลานอกอะไรทั้งนั้น เดี๋ยวแม่ก็ฟันไม่เลี้ยงหรอก
+        ```
+
+        ---
+
+        <img src="../images/Rose2.png" alt="AssistantFixer" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Assistant Fixer: Shrenne...!
+        ฟิกเซอร์ลิ่วล้อ: ชเรนน์...!
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ryoshu: She what?
+        เรียวชู: เธอทำไม?
+        ```
+
+        ---
+
+        <img src="../images/Rose2.png" alt="AssistantFixer" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Assistant Fixer: Shrenne told us something. While we're in here... don't ever use regeneration ampules no matter what...
+        ฟิกเซอร์ลิ่วล้อ: ชเรนน์เป็นคนบอกบางอย่างกับพวกเรา ในตอนที่เรามาถึง... บอกว่าอย่าใช้ยาฟื้นฟู ไม่ใช่ยังไงก็ตาม... 
+        ```
+
+        ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Shrenne: ......
+        ชเรนน์: ......
+        ```
+
+        ---
+
+        <img src="../images/Niko.png" alt="Niko" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Niko: Haah... Saying that out loud... is breaching the contract, you dolt...
+        นิโกะ: ฮาาา... จะพูดหาพระแสงหรือไง... แกรู้ตัวบ้างไหม ว่าตัวเองกำลัง ทำลาย/ละเมิด สัญญาของเราอยู่นะ เจ้าโง่...
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Rodion: That so... Shrenne told you that? Why?
+        โรเดียน: งั้นสินะ... ชเรนน์เป็นคนบอกนายด้วยตัวเองหรอ? แล้วทำไมจะต้องบอกเรื่องนั้นด้วย?
+        ```
+
+        ---
+
+        <img src="../images/Rose2.png" alt="AssistantFixer" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Assistant Fixer: I don't know... She said we'll see in due time...
+        ฟิกเซอร์ลิ่วล้อ: ผมไม่รู้... เธอแค่พูดว่า เดี๋ยวเราก็รู้กัน...
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Well, we have the simplest way to find out, don't we?
+        ดงรัง: แหมไม่บอกซะด้วย แต่ก็ชั่งประไร ยังไงซะผมก็พอมีวิธีง่าย ๆ ที่เราจะรู้ได้อยู่นะครับ?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            After fiddling with a regeneration ampule in his hand, Dongrang made a sudden move...
+            หลังจากแตะ ๆ ยาฟื้นที่อยู่ในมือของเขาไปได้สักพัก ดงรังก็ทำอะไรบางอย่างโดยที่ไม่ได้คาดคิด...
+            ```
+            ```
+            He quickly jabbed the ampule into the unguarded Fixer's body like a dagger.
+            เขากำยาฟื้นฟูหลอดนั้นแน่น ก่อนที่แทงลงไปบนร่างกายที่ไม่ได้ถูกป้องกันเหมือนกับมีดสั้น
+            ```
+
+        ---
+
+        <img src="../images/Rose2.png" alt="AssistantFixer" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Assistant Fixer: Ah...
+        ฟิกเซอร์ลิ่วล้อ: อา...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            The Fixer tried to remove the ampule, but its content had already entered the system...
+            ฟิกเซอร์คนนั้นพยายามที่จะสะบัดยาออกไป แต่ของเหลวที่อยู่ภายใน กลับเข้าไปในร่างกายของเขาไปแล้ว...
+            ```
+
+        ---
+
+        <img src="../images/Niko.png" alt="Niko" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Niko: ...!
+        นิโกะ: ...!
+        ```
+
+        ---
+
+        <img src="../images/Rose2.png" alt="AsisstantFixer" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Assistant Fixer: ...Why do you look so surprised, boss? What happens if the ampule is injected...?
+        ฟิกเซอร์ลิ่วล้อ: ...ทำไม ถึงทำหน้าแบบนั้นล่ะครับ หัวหน้า? มันจะเกิดอะไรขึ้นถ้ายานั้นเข้าไปในตัวผม...?
+        ```
+        ```
+        Assistant Fixer: ...Huh, this is weird...
+        ฟิกเซอร์ลิ่วล้อ: ...หะ นี้มันรู้สึกแปลกชะมัด...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            The Fixer's limbs began to twist in strange angles...
+            ขาของฟิกเซอร์คนนั้น ค่อย ๆ ที่จะบิดเบี้ยวไปจนผิดรูป...
+            ```
+
+        ---
+
+        <img src="../images/Rose2.png" alt="AssistantFixer" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Assistant Fixer: Uwaah. Uagh.
+        ฟิกเซอร์ลิ่วล้อ: อ้าาาก... อึก...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Then some things started protruding through the flesh.
+            ก่อนที่จะมีบางอย่างยื่นออกมาทะลุเนื้อ
+            ```
+            ```
+            Collapsed on the floor, the Fixer tried to yell something, but failed to make any sound.
+            นอนกองลงบนพื้น ในขณะที่ฟิกเซอร์คนนั้นพยายามจะบอกบางอย่าง แต่กลับไม่มีเสียงอะไรเลยเล็ดลอดออกมา
+            ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: ...Is it just me, or is this awfully familiar?
+        เกรกอร์: ...นี้ฉันคิดไปเองคนเดียวหรือเปล่า หรือว่านี้——มัน ดูคุ้นตาแปลก ๆ นะ?
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: Please. You don't really think you're the only one who remembers that bug den, do you, Greg babe?
+        โรเดียน: ขอเถอะนะ นี้นายไม่ได้คิดว่าตัวเองเป็นคนเดียวที่จำรังแมลงยั่วเยี้ยได้หรอกใช่ไหม เกรกที่รัก/ไอต้าวเกรก?
+        ```
+
+        ---
+
+        <img src="../images/.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+        
+        * เสียงในหัว
+
+            ```
+            Resembling larvas or snails...
+            มันรูปร่างเหมือนกับตัวอ่อน หรือไม่ก็หอยทาก...
+            ```
+
+        ---
+
+        <img src="../images/Niko.png" alt="Niko" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Niko: ...Oh dear.
+        นิโกะ: ...โอ้ ชั่งน่าเวทนา
+        ```
+
+        ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Shrenne: Let's stop here. I dragged too many people into this.
+        ชเรนน์: พอแค่นั้นเถอะค่ะ ฉันลากคนบริสุทธิ์ มาเอี่ยวด้วยมากเกินไปแล้ว
+        ```
+
+        ---
+
+        <img src="../images/Niko.png" alt="Niko" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Niko: Well... It was my decision to take the deal for the money.
+        นิโกะ: ก็... มันการตัดสินใจของผมเอง ที่จะรับข้อเสนอเพื่อเงินนั้น
+        ```
+        ```
+        Niko: Dearie me... Should've gone on a bigger spree yesterday if I knew it would come to this.
+        นิโกะ: ตายจริง... น่าจะสนุกให้มากกว่านี้ ถ้าจะรู้ว่านี้จะเป็นวันสุดท้ายที่มันต้องลงเอยแบบนี้
+        ```
 ---
 
 ### เพิ่มเติม

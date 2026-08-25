@@ -37,7 +37,7 @@
         
         ```
         Yi Sang: It is time… to turn the clock.
-        ยี่ซัง: มันได้เวลาแล้ว... ที่จะหมุนนาฬิกากลับ
+        ยี่ซัง: มันได้เวลาแล้ว... ที่นาฬิกาจะต้องหวนกลับ
         ```
 
         ---
@@ -89,6 +89,8 @@
         ```
         
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -6786,7 +6788,7 @@
 
         ```
         Assistant Fixer: Shrenne told us something. While we're in here... don't ever use regeneration ampules no matter what...
-        ฟิกเซอร์ลิ่วล้อ: ชเรนน์เป็นคนบอกบางอย่างกับพวกเรา ในตอนที่เรามาถึง... บอกว่าอย่าใช้ยาฟื้นฟู ไม่ใช่ยังไงก็ตาม... 
+        ฟิกเซอร์ลิ่วล้อ: ชเรนน์เป็นคนบอกบางอย่างกับพวกเรา ในตอนที่เรามาถึง... บอกว่าอย่าใช้ยาฟื้นฟู ไม่ว่ายังไงก็ตาม... 
         ```
 
         ---
@@ -6813,7 +6815,7 @@
         
         ```
         Rodion: That so... Shrenne told you that? Why?
-        โรเดียน: งั้นสินะ... ชเรนน์เป็นคนบอกนายด้วยตัวเองหรอ? แล้วทำไมจะต้องบอกเรื่องนั้นด้วย?
+        โรเดียน: งั้นสินะ... ชเรนน์เป็นคนบอกนายด้วยตัวเองหรอ? แล้วทำไมถึงต้องบอกเรื่องนั้นด้วย?
         ```
 
         ---
@@ -6846,7 +6848,7 @@
             ```
             ```
             He quickly jabbed the ampule into the unguarded Fixer's body like a dagger.
-            เขากำยาฟื้นฟูหลอดนั้นแน่น ก่อนที่แทงลงไปบนร่างกายที่ไม่ได้ถูกป้องกันเหมือนกับมีดสั้น
+            เขากำยาฟื้นฟูหลอดนั้นแน่น ก่อนที่แทงลงไปบนร่างกายส่วนที่ไม่ได้ถูกป้องกันเหมือนกับมีดสั้น
             ```
 
         ---
@@ -6946,7 +6948,7 @@
 
         ---
 
-        <img src="../images/.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
         
         * เสียงในหัว
 
@@ -6970,7 +6972,7 @@
 
         ```
         Shrenne: Let's stop here. I dragged too many people into this.
-        ชเรนน์: พอแค่นั้นเถอะค่ะ ฉันผู้คนบริสุทธิ์มาเอี่ยวเรื่องนี้ด้วย มากเกินไปแล้ว
+        ชเรนน์: พอแค่นั้นเถอะค่ะ ฉันเอาคนอื่นมาเอี่ยวด้วย มากเกินไปแล้ว
         ```
 
         ---
@@ -6985,6 +6987,287 @@
         Niko: Dearie me... Should've gone on a bigger spree yesterday if I knew it would come to this.
         นิโกะ: ตายจริง... น่าจะสนุกให้มากกว่านี้ ถ้าจะรู้ว่านี้จะเป็นวันสุดท้ายที่มันต้องลงเอยแบบนี้
         ```
+
+    ---
+
+    * **Episode: 17 | ตอนที่ 17<br>Location: LC Branch Interior | ภายในสาขาย่อยศูนย์วิจัยโลโบโตมี่** 
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Alright, then... Care to give us an explanation, Shrenne?
+        ดงรัง: เอาล่ะ ถ้างั้น... ช่วยอธิบายให้พวกเราฟังหน่อยได้ไหมครับ คุณชเรนน?
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ``` 
+            Shrenne blankly looks at Dongrang, her face wooden as if she's forgotten how to make expressions.
+            เชรนน์มองหน้าของดงรังด้วยแววตาที่ว่างเปล่า กับใบหน้าของเธอที่แข็งทื่อราวกับ—ว่าตัวเธอได้หลงลืมไปแล้วว่าต้องแสดงสีหน้ายังไง
+            ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Since when did you join their side?
+        ดงรัง: ตั้งแต่เมื่อไหร่กันหรอครับ ทีคุณร่วมมือกับพวกเขา?
+        ```
+
+        ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Shrenne: ...You really are something. You don't even act surprised.
+        ชเรนน์: ...นายนี้มันไม่ธรรมดาเลยจริง ๆ ไม่แม้กระทั่งจะตกใจ <.ยังไม่เสร็จ>
+        ```
+        ```
+        Shrenne: Hah, employees that can be brought back to life without the ampules, huh... This wasn't in the plans... It's not fair.
+        ชเรนน์: ฮะ
+        ```
+
+        ---
+
+        ```
+        Dongrang: When I asked why you volunteered to follow me at the laboratory, you told me this:
+        ```
+        ```
+        Dongrang: "Three of my coworkers died."
+        ```
+        ```
+        Dongrang: Five of us died in that attack. Three is the number of casualties the technology liberation alliance suffered.
+        ```
+        ```
+        Dongrang: Oh, and I checked your network history, too.
+        ```
+
+        ---
+
+        ```
+        Shrenne: You did what... You're allowed to do that?
+        ```
+
+        ---
+
+        ```
+        Dongrang: So they keep telling you, it takes a full day and the night after to name all the benefits of the best employee.
+        ```
+
+        ---
+
+        ```
+        Shrenne: That stupid "best" tripe again...
+        ```
+
+        ---
+
+        ```
+        Dongrang: I saw that you exchanged tons of mail with Ran even after she left. What was it about? You wouldn't reply to a single one I sent asking to go grab coffee together.
+        ```
+        ```
+        Dongrang: I do suppose... you've respected Ran a lot ever since you joined. Even your password was set as "missyouran", how about that?
+        ```
+
+        ---
+
+        ```
+        Samjo: Wait, is this... all true?
+        ```
+        ```
+        Samjo: I don't understand. K Corp's research institutes are the best workplace you could ask for as a scientist; it's a stable job, cares about employee well-being, and has the limelight of the academy.
+        ```
+        ```
+        Samjo: But, why would you turn your back on it and collude with those terrorists...
+        ```
+        ```
+        Samjo: I saw you as a researcher with a promising future... You had a long way to go compared to Mr. Dongrang, but still...
+        ```
+
+        ---
+
+        ```
+        Dongrang: Yeah, Shrenne. Why don't you say it yourself?
+        ```
+        ```
+        Dongrang: Why did you decide to collude with them?
+        ```
+
+        ---
+
+        ```
+        Shrenne: ……
+        ```
+        ```
+        Shrenne: The tears wouldn't stop.
+        ```
+
+        ---
+
+        ```
+        Dongrang: You...
+        ```
+
+        ---
+
+        ```
+        Shrenne: You know what that means, right? I...
+        ```
+
+        ---
+
+        ```
+        Dongrang: …!
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            We couldn't hear the rest of what Shrenne tried to say.
+            ```
+            ```
+            At first, it looked like a thin red line was drawn on her body...
+            ```
+            ```
+            Then we realized that it wasn't just a line.
+            ```
+
+        ---
+
+        ```
+        Gregor: Hey... Shrenne...
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Cut clean in half, fluid splashed from the severed hemispheres of her brain as if to convey that regeneration ampules won't heal this.
+            ```
+
+        ---
+
+        ```
+        Ryoshu: Hah, haha... Shut your mouths and keep still. Don't even breathe.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            The people who slew Shrenne along with the wall behind her without letting even their footsteps be heard were...
+            ```
+
+        ---
+
+        ```
+        Ishmael: ...!
+        อิชมาเอล: ...!
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Fixers inanely treading shadows... I'll give you the honor of being called F.I.T.S. Heh.
+        ```
+
+        ---
+
+        ```
+        Ishmael: Fixers who work like that... would belong to... Shi Association.
+        ```
+        ```
+        Ishmael: An Association of Fixers that exclusively take assassination requests.
+        ```
+        ```
+        Ishmael: They most likely aren't ones we could easily fight and defeat. It depends on how much they were paid and what Section are they from, but in this case...
+        ```
+        ```
+        Ishmael: Seeing that only Ryōshū was able to pick up hints of their presence... They most certainly won't be amateurs from Sections 5 or 6.
+        ```
+
+        ---
+
+        ```
+        Assassin: ......
+        มือสังหาร: ......
+        ```
+
+        ---
+
+        ```
+        Samjo: Ms. Shrenne... Why...
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Tsk, gone already.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Ryōshū clicked her tongue and complained about the assassins' retreat, even though I couldn't hear or see them at all.
+            ```
+
+        ---
+
+        ```
+        Heathcliff: How ridiculous. Torn by inner conflict.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Senior Researcher Ran was Shrenne's mentor when she first joined the firm. It looks like their bond lasted much longer than I thought.
+        ```
+        ```
+        Dongrang: You see, Dante? We were peers working for the same firm, and there's still collusion and fraternity.
+        ```
+        ```
+        Dongrang: Betrayal, division, connivance. It happens in any group of people... I guess it's an inescapable cycle.
+        ```
+
+        ---
+
+        ```
+        Dante: <Not sure there's any point in telling me this...>
+        ```
+
+        ---
+
+        ```
+        Dongrang: Say... How much do you trust your Sinners?
+        ```
+
+        ---
+
+        ```
+        Dante: <I’m… sorry, what?>
+        ```
+
+        ---
+
+        ```
+        Dongrang: You know virtually nothing about them, do you? Much like how I couldn't know everything about Shrenne. Am I wrong?
+        ```
+        ```
+        Dongrang: You... don't even know which is the one that has a history with me.
+        ```
+
+    ---
 ---
 
 ### เพิ่มเติม

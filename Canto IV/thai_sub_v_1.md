@@ -7025,47 +7025,64 @@
 
         ```
         Shrenne: ...You really are something. You don't even act surprised.
-        ชเรนน์: ...นายนี้มันไม่ธรรมดาเลยจริง ๆ ไม่แม้กระทั่งจะตกใจ <.ยังไม่เสร็จ>
+        ชเรนน์: ...นายนี้มันไม่ธรรมดาเลยจริง ๆ นะ กะอีแค่ทำให้นายตกใจได้เนี้ย ฉันก็ยังไม่มีปัญญาทำได้เลย
         ```
         ```
         Shrenne: Hah, employees that can be brought back to life without the ampules, huh... This wasn't in the plans... It's not fair.
-        ชเรนน์: ฮะ
+        ชเรนน์: ฮะ พนักงานที่ถูกดึงให้กลับมามีชีวิตได้โดยไม่พึ่งยาฟืนฟูงั้นหรอ... ฮา... เรื่องนี้ไม่ได้อยู่ในแผนที่คาดเดาเอาไว้เลยด้วยซ้ำ... ไม่แฟร์เอาซะเลยนะ
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: When I asked why you volunteered to follow me at the laboratory, you told me this:
+        ดงรัง: ในตอนที่ผมถามคุณ ว่าทำไม คุณถึงอาสาที่จะตามผมไปแลปด้วยกัน แล้วคุณก็บอกกับผมว่า: <*ไม่แน่ใจ>
         ```
         ```
         Dongrang: "Three of my coworkers died."
+        ดงรัง: "เพื่อนร่วมงานของคุณตายไปแล้วสามคน" <*ไม่แน่ใจ>
         ```
         ```
         Dongrang: Five of us died in that attack. Three is the number of casualties the technology liberation alliance suffered.
+        ดงรัง: แต่ในการโจมตีครั้งนั้น พวกเราตายไปห้าคนต่างหาก ส่วนสาม เป็นจำนวนของผู้เสียชีวิตฝั่งพันธมิตรปลดแอกฯที่ตายไป <*ไม่แน่ใจ>
         ```
         ```
         Dongrang: Oh, and I checked your network history, too.
+        ดงรัง: โอ้แล้วผม ก็เช็คประวัติอินเตอร์เน็ตของคุณด้วย <*ไม่แน่ใจ>
         ```
 
         ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Shrenne: You did what... You're allowed to do that?
+        ชเรนน์: นายทำอะไร... นายทำแบบนั้นได้ด้วยหรือไง? <*ไม่แน่ใจ>
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: So they keep telling you, it takes a full day and the night after to name all the benefits of the best employee.
+        ดงรัง: เพราะงั้นพวกเขาถึงบอกไงครับ ว่ามัน <*ยังไม่เสร็จ>
         ```
 
         ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Shrenne: That stupid "best" tripe again...
+        ชเรนน์: 
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: I saw that you exchanged tons of mail with Ran even after she left. What was it about? You wouldn't reply to a single one I sent asking to go grab coffee together.

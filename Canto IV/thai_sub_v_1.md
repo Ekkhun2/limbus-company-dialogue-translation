@@ -7029,7 +7029,7 @@
         ```
         ```
         Shrenne: Hah, employees that can be brought back to life without the ampules, huh... This wasn't in the plans... It's not fair.
-        ชเรนน์: ฮะ พนักงานที่ถูกดึงให้กลับมามีชีวิตได้โดยไม่พึ่งยาฟืนฟูงั้นหรอ... ฮา... เรื่องนี้ไม่ได้อยู่ในแผนที่คาดเดาเอาไว้เลยด้วยซ้ำ... ไม่แฟร์เอาซะเลยนะ
+        ชเรนน์: ฮะ พนักงานที่ถูกดึงให้กลับมามีชีวิตได้โดยไม่ต้องพึ่งยาฟื้นฟูงั้นหรอ... ฮา... เกินคาดกว่าที่ฉันคิดเอาไว้ซะอีก... ไม่แฟร์เอาซะเลยนะ
         ```
 
         ---
@@ -7038,19 +7038,19 @@
 
         ```
         Dongrang: When I asked why you volunteered to follow me at the laboratory, you told me this:
-        ดงรัง: ในตอนที่ผมถามคุณ ว่าทำไม คุณถึงอาสาที่จะตามผมไปแลปด้วยกัน แล้วคุณก็บอกกับผมว่า: <*ไม่แน่ใจ>
+        ดงรัง: ในตอนที่ผมถามคุณ ว่าทำไม คุณถึงอาสาจะตามไปที่แลปกับผมด้วย แล้วคุณก็ตอบผมว่า: 
         ```
         ```
         Dongrang: "Three of my coworkers died."
-        ดงรัง: "เพื่อนร่วมงานของคุณตายไปแล้วสามคน" <*ไม่แน่ใจ>
+        ดงรัง: "เพื่อนร่วมงานของคุณตายไปแล้วสามคน"
         ```
         ```
         Dongrang: Five of us died in that attack. Three is the number of casualties the technology liberation alliance suffered.
-        ดงรัง: แต่ในการโจมตีครั้งนั้น พวกเราตายไปห้าคนต่างหาก ส่วนสาม เป็นจำนวนของผู้เสียชีวิตฝั่งพันธมิตรปลดแอกฯที่ตายไป <*ไม่แน่ใจ>
+        ดงรัง: แต่ในการโจมตีครั้งนั้น พวกเราตายไปห้าคน ในขณะที่สาม เป็นจำนวนของผู้เสียชีวิตฝั่งพันธมิตรปลดแอกฯต่างหากที่ตายไป
         ```
         ```
         Dongrang: Oh, and I checked your network history, too.
-        ดงรัง: โอ้แล้วผม ก็เช็คประวัติอินเตอร์เน็ตของคุณด้วย <*ไม่แน่ใจ>
+        ดงรัง: โอ้แล้วผม ก็เช็คประวัติอินการใช้เตอร์เน็ตของคุณด้วย
         ```
 
         ---
@@ -7059,7 +7059,7 @@
 
         ```
         Shrenne: You did what... You're allowed to do that?
-        ชเรนน์: นายทำอะไร... นายทำแบบนั้นได้ด้วยหรือไง? <*ไม่แน่ใจ>
+        ชเรนน์: นายทำอะไร... นายทำแบบนั้นได้ด้วยหรือไง?
         ```
 
         ---
@@ -7068,7 +7068,7 @@
 
         ```
         Dongrang: So they keep telling you, it takes a full day and the night after to name all the benefits of the best employee.
-        ดงรัง: เพราะงั้นพวกเขาถึงบอกไงครับ ว่ามัน <*ยังไม่เสร็จ>
+        ดงรัง: เพราะงั้นพวกเขาก็เลยชอบพูดกันไงครับ ว่ามัน—คงต้องใช้เวลาทั้งวันทั้งคืน เพื่อที่จะไล่เรียงผละประโยชน์ที่พนักงานดีเด่นอย่างผมทำจะได้
         ```
 
         ---
@@ -7077,7 +7077,7 @@
 
         ```
         Shrenne: That stupid "best" tripe again...
-        ชเรนน์: 
+        ชเรนน์: ไอคำว่า "ดีที่สุด" โง่เง่าอะไรนั้นอีกแล้ว...
         ```
 
         ---
@@ -7086,105 +7086,149 @@
 
         ```
         Dongrang: I saw that you exchanged tons of mail with Ran even after she left. What was it about? You wouldn't reply to a single one I sent asking to go grab coffee together.
+        ดงรัง: ผมเห็นว่าคุณ—แลกเปลี่ยนอีเมลล์เป็นพัน ๆ ฉบับกับคุณรัน หลังที่เธอก็ออกไปแล้ว มันเรื่องจำเป็นอะไรกันหรอครับ? ที่พวกคุณต้องคุยกันมากถึงขนาดนั้น ทั้ง ๆ ที่ตลอดหลายปีที่ผ่านมาที่คุณอยู่กับผม ก็ไม่ยักกะเคยตอบเมลล์ที่ผมชวนคุณไปดื่มกาแฟเลยสักครั้ง 
         ```
         ```
         Dongrang: I do suppose... you've respected Ran a lot ever since you joined. Even your password was set as "missyouran", how about that?
+        ดงรัง: ผมเดาว่าคุณ... คงจะนับถือคุณรันมากเลยสิท่า ตั้งแต่ที่คุณเข้ามา ก็แหม แม้แต่รหัสผ่านของคุณเองก็ยังตั้งเป็น "คิดถึงคุณรัน" เลยนี้เนอะ?
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Wait, is this... all true?
+        แซมโจ: เดี๋ยว ทั้งหมดนี้... เรื่องจริงหรอครับ? 
         ```
         ```
         Samjo: I don't understand. K Corp's research institutes are the best workplace you could ask for as a scientist; it's a stable job, cares about employee well-being, and has the limelight of the academy.
+        แซมโจ: ผมไม่เห็นจะเข้าใจเลยว่าทำไม สถาบันวิจัยเคคอร์ป; สถานที่ทำงานดีเด่น ที่เหล่านักวิทย์ทั่วทั้งเนสล้วนโหยหาอยากทำงานด้วย เป็นองค์กรที่ทั้งมั่นคง ใส่ใจพนักงาน แถมยังเป็นสถานศึกษาอันดับหนึ่งที่ถูกจับจ้องอนาคตไกลแบบนี้
         ```
         ```
         Samjo: But, why would you turn your back on it and collude with those terrorists...
+        แซมโจ: แล้วทำไม—คุณถึงหันหลังให้มัน และสมรู้ร่วมคิดกับพวกผู้ก่อการร้ายพวกนั้นล่ะครับ...
         ```
         ```
         Samjo: I saw you as a researcher with a promising future... You had a long way to go compared to Mr. Dongrang, but still...
+        แซมโจ: ผมเห็นคุณในฐานะนักวิจัยที่มีอนาคตรุ่งโรจน์... คุณยังโตได้อีกมากในสายงานนี้—ถึงแม้จะไม่เท่าคุณดงรังก็เถอะแต่ก็...  
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Yeah, Shrenne. Why don't you say it yourself?
+        ดงรัง: ใช่แล้ว คุณชเรนน์ ทำไมคุณถึงไม่บอกมันออกมาด้วยตัวเองล่ะครับ? 
         ```
         ```
         Dongrang: Why did you decide to collude with them?
+        ดงรัง: ว่าทำไมคุณถึงตัดสิตใจที่เข้าร่วมกับพวกเขา?
         ```
 
         ---
 
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Shrenne: ……
+        Shrenne: ......
+        ชเรนน์: ......
         ```
         ```
         Shrenne: The tears wouldn't stop.
+        ชเรนน์: น้ำตามันไหลไม่หยุดเลย
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: You...
+        ดงรัง: คุณ/เธอ...
         ```
 
         ---
+
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Shrenne: You know what that means, right? I...
+        เชเรนน์: นายก็รู้ใช่ไหม? ว่ามันหมายความว่ายังไง? ฉัน...
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dongrang: …!
+        Dongrang: ...!
+        ดงรัง: ...!
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             We couldn't hear the rest of what Shrenne tried to say.
+            พวกเราไม่ทันได้ยินคำพูดที่เหลือที่ชเรนน์พยายามพูดออกมา
             ```
             ```
             At first, it looked like a thin red line was drawn on her body...
+            ในตอนแรกมันดูเหมือนกับเส้นสีแดงที่ถูกวาดลงบนตัวเธอ...
             ```
             ```
             Then we realized that it wasn't just a line.
+            ก่อนที่เราจะรู้ตัวว่า—นั้นไม่ใช่แค่เส้นธรรมดา
             ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: Hey... Shrenne...
+        เกรกอร์: นี้... ชเรนน์...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Cut clean in half, fluid splashed from the severed hemispheres of her brain as if to convey that regeneration ampules won't heal this.
+            เธอถูกตัดเป็นสองท่อนอย่างปราณีต ก่อนที่ของเหลวจะกระจายออกมาจากสมองครึ่งซีกที่ถูกผ่า ราวกับเพื่อที่จะได้เป็นการย้ำเตือนว่า—ยาฟืันฟูไม่อาจสามารถที่จะรักษาเธอ ใหักลับมาได้อีกต่อไปแล้ว
             ```
 
         ---
 
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ryoshu: Hah, haha... Shut your mouths and keep still. Don't even breathe.
+        เรียวชู: ฮะฮาฮา... หุบปากของเน่า ๆ แกไป และอยู่นิ่ง ๆ ซะ อย่าได้หายใจอีกเลย 
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             The people who slew Shrenne along with the wall behind her without letting even their footsteps be heard were...
+            คนที่สังหารชเรนน์ไปพร้อมกับพังกำแพงที่อยู่ด้านหลังเธอโดยที่พวกเราไม่ได้ยินแม้แต่ฝีเท้า... <*ถึงนี้>
             ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: ...!

@@ -7103,7 +7103,7 @@
         ```
         ```
         Samjo: I don't understand. K Corp's research institutes are the best workplace you could ask for as a scientist; it's a stable job, cares about employee well-being, and has the limelight of the academy.
-        แซมโจ: ผมไม่เห็นจะเข้าใจเลยว่าทำไม สถาบันวิจัยเคคอร์ป; สถานที่ทำงานดีเด่น ที่เหล่านักวิทย์ทั่วทั้งเนสล้วนโหยหาอยากทำงานด้วย เป็นองค์กรที่ทั้งมั่นคง ใส่ใจพนักงาน แถมยังเป็นสถานศึกษาอันดับหนึ่งที่ถูกจับจ้องอนาคตไกลแบบนี้
+        แซมโจ: ผมไม่เห็นจะเข้าใจเลยว่าทำไม สถาบันวิจัยเคคอร์ป; สถานที่ทำงานดีเด่น ที่เหล่านักวิทย์ทั่วทั้งเนสล้วนโหยหาอยากทำงานด้วย เป็นองค์กรที่ทั้งมั่นคง ใส่ใจพนักงาน แถมยังเป็นสถานศึกษาอันดับหนึ่งที่ถูกจับจ้องโดยทั่วกันอีกแบบนี้
         ```
         ```
         Samjo: But, why would you turn your back on it and collude with those terrorists...
@@ -7111,7 +7111,7 @@
         ```
         ```
         Samjo: I saw you as a researcher with a promising future... You had a long way to go compared to Mr. Dongrang, but still...
-        แซมโจ: ผมเห็นคุณในฐานะนักวิจัยที่มีอนาคตรุ่งโรจน์... คุณยังโตได้อีกมากในสายงานนี้—ถึงแม้จะไม่เท่าคุณดงรังก็เถอะแต่ก็...  
+        แซมโจ: ผมเห็นคุณในฐานะนักวิจัยที่มีอนาคตไกล.. คุณยังโตได้อีกมากในสายงานนี้—ถึงแม้จะไม่เท่าคุณดงรังก็เถอะแต่ก็...  
         ```
 
         ---
@@ -7146,7 +7146,7 @@
 
         ```
         Dongrang: You...
-        ดงรัง: คุณ/เธอ...
+        ดงรัง: นี้ คุณ/เธอ...
         ```
 
         ---
@@ -7203,7 +7203,7 @@
 
             ```
             Cut clean in half, fluid splashed from the severed hemispheres of her brain as if to convey that regeneration ampules won't heal this.
-            เธอถูกตัดเป็นสองท่อนอย่างปราณีต ก่อนที่ของเหลวจะกระจายออกมาจากสมองครึ่งซีกที่ถูกผ่า ราวกับเพื่อที่จะได้เป็นการย้ำเตือนว่า—ยาฟืันฟูไม่อาจสามารถที่จะรักษาเธอ ใหักลับมาได้อีกต่อไปแล้ว
+            เธอถูกตัดเป็นสองท่อนอย่างปราณีต ก่อนที่ของเหลวจะกระจายออกมาจากสมองครึ่งซีกที่ถูกผ่า ราวกับเพื่อที่จะเป็นการย้ำเตือนว่า—ยาฟืันฟูไม่สามารถที่จะรักษาเธอ ใหักลับมาได้อีกต่อไปแล้ว
             ```
 
         ---
@@ -7223,7 +7223,7 @@
 
             ```
             The people who slew Shrenne along with the wall behind her without letting even their footsteps be heard were...
-            คนที่สังหารชเรนน์ไปพร้อมกับพังกำแพงที่อยู่ด้านหลังเธอโดยที่พวกเราไม่ได้ยินแม้แต่ฝีเท้า... <*ถึงนี้>
+            คนที่สังหารชเรนน์ไป พร้อมกับพังกำแพงที่อยู่ด้านหลังเธอ โดยที่พวกเราไม่ได้ยินแม้แต่ฝีเท้า...
             ```
 
         ---
@@ -7237,26 +7237,37 @@
 
         ---
 
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ryoshu: Fixers inanely treading shadows... I'll give you the honor of being called F.I.T.S. Heh.
+        เรียวชู: ไอพวกฟิกเซอร์ไร้น้ำยาที่เอาแต่หลบอยู่ตามเงา... ถือว่าฉันจะให้เกียรติ ด้วยการเรียกพวกแก ว่าเจ้าพวก งอ.โอ.โง่/โง่ ก็แล้วกัน
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Fixers who work like that... would belong to... Shi Association.
+        อิชมาเอล: ฟิกเซอร์ที่ทำงานแบบนี้... ก็มีอยู่แต่คนที่มาจาก... สมาคมชิ/ชิแอสโซซิเอชัน
         ```
         ```
         Ishmael: An Association of Fixers that exclusively take assassination requests.
+        อิชมาเอล: สมาคมของเหล่าฟิกเซอร์ที่รับทำงานลอบสังหารโดยเฉพาะ
         ```
         ```
         Ishmael: They most likely aren't ones we could easily fight and defeat. It depends on how much they were paid and what Section are they from, but in this case...
+        อิชมาเอล: พวกเขาไม่ใช่ศัตรูประเภทที่เราจะสู้ และเอาชนะได้ง่าย ๆ มันขึ้นอยู่กับว่าพวกเขาถูกจ้างมาเท่าไหร่ แล้วก็ถูกส่งมาจากหน่วยไหน แต่อะไรแบบนี้มัน... <*ถึงนี้>
         ```
         ```
         Ishmael: Seeing that only Ryōshū was able to pick up hints of their presence... They most certainly won't be amateurs from Sections 5 or 6.
+        อิชมาเอล: 
         ```
 
         ---
+
+        <img src="../images/Assasin.png" alt="Assasin" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Assassin: ......

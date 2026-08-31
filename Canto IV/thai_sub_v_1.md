@@ -7495,32 +7495,47 @@
         
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: What are you thinking right now?
+        ดงรัง: คุณคิดอะไรอยู่หรอครับ?
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: Nothing.
+        ยี่ซัง: เปล่านี้
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: When did you first recognize me?
+        ดงรัง: คุณจำผมได้ตั้งแต่ตอนไหนกัน?
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: Since you showed us the chickens in captivity.
+        ยี่ซัง: ตั้งแต่ทีนายพาเราไปดูไก่ที่ถูกขัง
         ```
         ```
         Yi Sang: It would have sufficed to give your visitors a cursory tour, yet you insisted on showing your personal laboratory...
+        ยี่ซัง: ปกติมันคงพอแล้ว ที่จะพาแขก <*ถึงนี้,ยังไม่เสร็จ>
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: You're right. I don't know about the others, but I wanted you to see the demonstrable proof of my success.

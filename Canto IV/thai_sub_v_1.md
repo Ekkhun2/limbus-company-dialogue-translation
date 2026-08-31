@@ -7370,6 +7370,356 @@
         ```
 
     ---
+
+    * **Episode: 18 | ตอนที่ 18<br>Location: LC Branch Interior | ภายในสาขาย่อยศูนย์วิจัยโลโบโตมี่** 
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Looks like we're almost there.>
+        ดันเต้: <ดูเหมือนว่าเราจะใกล้ถึงแล้วนะ>
+        ```
+        ```
+        Dante: <I can sense the Golden Bough resonating nearby.>
+        ดันเต้: <ฉันรู้สึกได้ว่ากิ่งทอง—กำลังสอดประสานอยู่ใกล้ ๆ นี้>
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: ...It appears we're nearing the target location.
+        เฟาสท์: ...ดูเหมือนว่าเราจะเข้าใกล้สถานที่เป้าหมายแล้วนะคะ
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: That's good. The photos and awards I left should be still there.
+        ดงรัง: นั่นดีมากครับ รูปภาพกับถ้วยรางวัลที่ผมทิ้งเอาไว้น่าจะอยู่ที่นั่น
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Classified research documents as well, Mr. Dongrang.
+        แซมโจ: เอ่อแล้วก็เอกสารวิจัยลับด้วยครับ คุณดงรัง
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: ......
+        ยี่ซัง: ......
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Yi Sang picks up an ampule Shrenne dropped from the floor and carefully examines it.
+            ยี่ซังหยิบยาฟื้นฟูที่ชเรนน์ทิ้งไว้บนพื้น ก่อนที่จะตรวจสอบมัน
+            ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: How kind of you. You didn't have to pick it up.
+        ดงรัง: โห ใจดีอะไรแบบนี้ คุณไม่ต้องเก็บมันขึ้นมาก็ได้นะครับ
+        ```
+        
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: ...It's the same.
+        ยี่ซัง: ...มันเหมือนกัน
+        ```
+        ```
+        Yi Sang: This regeneration ampule...
+        ยี่ซัง: ยาฟื้นฟูนี้...
+        ```
+        ```
+        Yi Sang: Its number abides by the same rule as the 'decay ampules' that was forcibly administered to Miss Ishmael in the earlier scuffle between K Corp's brawlers and invading machines.
+        ยี่ซัง: เลขที่อยู่บนตัวหลอด เป็นเลขตัวเดียวกัน—กับที่อยู่บน 'หลอดยาเสื่อมสลาย' ที่ถูกบังคับฉีดให้คุณอิชมาเอลในการทะเลาะวิวาทระหว่างนักสู้ของเคคอร์ปกับเครื่องจักรที่บุกรุกเข้ามา
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: That's what's called a serial code. It's a unique string of numbers to categorize ampules. Ones that start with an "O" are original- Wait, why am I explaining this, again?
+        แซมโจ: ไอนั่นเรียกว่าซีเรียลโค้ดน่ะครับ มันเป็นสาย รหัส/อักขระ ของตัวเลข ที่ใช้—เพื่อจำแนกยาหลอดต่าง ๆ โดยอันที่ขึ้นต้นด้วย "โอ" จะหมายถึงออริจินอล- เดี๋ยว แล้วทำไมผมถึงฮธิบายเรื่องนี้กันนะ?
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: Original... Identical to the 'decay ampule' injected to Miss Ishmael... So it suggests that its essence was no different from that of the regeneration ampule.
+        ยี่ซัง: งั้นต้นตำหรับ/ออริจินอล... ก็มีลักษณะคล้ายคลึงกันกับ 'ยาเสื่อมสลาย' ที่ถูกฉีดให้คุณอิชมาเอล... เป็นขี้ชัดว่า แก่นแท้ของมันไม่ได้มีอะไรแตกต่างกับยาฟื้นฟูเลย 
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: This series of regeneration ampule is, well, how do I say it... It's an undiluted solution. It's not exactly like the commercially available ones.
+        ดงรัง: ยาฟื้นฟูรุ่นนี้ก็ แหม ผมจะพูดยังไงดีนะ... พอดีมันเป็นสูตรไม่เจือจางน่ะครับ ไม่เหมือนกับตัวที่พวกเราวางขาย
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: ......
+        ยี่ซัง: ......
+        ```
+        
+        ---
+
+        ```
+        Dongrang: What are you thinking right now?
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Nothing.
+        ```
+
+        ---
+
+        ```
+        Dongrang: When did you first recognize me?
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Since you showed us the chickens in captivity.
+        ```
+        ```
+        Yi Sang: It would have sufficed to give your visitors a cursory tour, yet you insisted on showing your personal laboratory...
+        ```
+
+        ---
+
+        ```
+        Dongrang: You're right. I don't know about the others, but I wanted you to see the demonstrable proof of my success.
+        ```
+        ```
+        Dongrang: I'm still sad, though. You probably had plenty of time to express your joy of reuniting with this old friend of yours.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: It is my thought that I no longer have companions by my side.
+        ```
+
+        ---
+
+        ```
+        Dongrang: You haven't changed.
+        ```
+        ```
+        Dongrang: You've always enjoyed keeping precious things in bottles and watching them.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: And you were intent on releasing and showing them.
+        ```
+
+        ---
+
+        ```
+        Don Quixote: Didst thou say "companions"? I must say, Yi Sang, many reunions with thy companions do await thee in this journey!
+        ```
+        ```
+        Don Quixote: In an expedition past, the, err...one wearing a tinted eyewear did confront thee!
+        ```
+
+        ---
+
+        ```
+        Dongrang: ……
+        ```
+        ```
+        Dongrang: Aha. So you already had a reunion to celebrate. No wonder you're being so detached with me.
+        ```
+        ```
+        Dongrang: How troubling for you, though.
+        ```
+        ```
+        Dongrang: Looks like there'll be another you have to face.
+        ```
+
+        ---
+
+        ```
+        Dante: <What do you mean?>
+        ```
+
+        ---
+
+        ```
+        Dongrang: I thought everyone had made their escape thanks to Shrenne's snitching...
+        ```
+        ```
+        Dongrang: But I suppose that wasn't the case.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Someone walks in, exuding a suffocatingly thick scent of flowers.
+            ```
+            ```
+            Holding a bright golden branch in her hand, an object now familiar to me.
+            ```
+            ```
+            She had a worn monochrome photograph in her other hand.
+            ```
+
+        ---
+
+        ```
+        ???: It's a fine photograph. Only one of this shot remains in this world now.
+        ```
+
+        ---
+
+        ```
+        Dongrang: So many old friends, and not one to greet me with delight.
+        ```
+        ```
+        Dongrang: Won't you give that picture back to me? It may not look like it, but it's a cherished treasure of mine.
+        ```
+
+        ---
+
+        ```
+        Samjo: Mr. Dongrang, you shouldn't get close to her! It's dangerous!
+        ```
+
+        ---
+
+        ```
+        Outis: All troops, do not carelessly approach her! The Golden Bough may be destroyed...
+        ```
+
+        ---
+
+        ```
+        Meursault: I agree with it.
+        ```
+
+        ---
+
+        ```
+        Faust: Faust will come up with a way to retrieve it in no time.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Tch, why do we keep running into problems that a good pummeling can't solve! This is right infuriating...
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Everyone yells and shouts with their own goal in mind.
+            ```
+            ```
+            Regardless of the noise, the person with the Golden Bough steadily walks this way.
+            ```
+            ```
+            However, instead of going for Dongrang...
+            ```
+
+        ---
+
+        ```
+        ???: That piquant and fragrant smell made me feel as though the ground was sinking.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: …!
+        ```
+
+        ---
+
+        ```
+        She plunged the Golden Bough in her hand into Yi Sang's chest...
+        ```
+        ```
+        And Yi Sang collapses on the ground.
+        ```
+
+        ---
+
+        ```
+        ???: I...didn't think you would end up choosing him before my eyes.
+        ```
+
+        ---
+        
+        ```
+        Dante: <Yi Sang!>
+        ```
+
+        ---
+
+        ```
+        ???: You can have this back.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: A photograph is nothing more than a taxidermied moment.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Even while drenched in blood, the Golden Bough still glows.
+            ```
+            ```
+            Contrasting the golden dazzle...
+            ```
+            ```
+            The faded monochrome photograph slowly falls to the floor.
+            ```
 ---
 
 ### เพิ่มเติม

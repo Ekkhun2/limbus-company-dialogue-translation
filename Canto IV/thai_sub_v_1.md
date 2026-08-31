@@ -6035,7 +6035,7 @@
         ```
         ```
         Ran: And put away that "senior" crap, we haven't even known each other for long. Don't you see what's going on?
-        รัน: แล้วก็—ช่วยหยุดพูด ไอคำว่า "ผู้อาวุโส" เฮ็งซวยอะไรนั้นสักทีเถอะ เราไม่ได้สนิทชิดเชื้อกัน และเด็กน้อยอย่างแก—ก็ยังดูไม่ออกด้วยซ้ำว่ามันกำลังเกิดอะไรขึ้น?
+        รัน: แล้วก็—ช่วยหยุดพูด ไอคำว่า "ผู้อาวุโส/รุ่นพี่" เฮ็งซวยอะไรนั้นสักทีเถอะ เราไม่ได้สนิทชิดเชื้อกัน และเด็กน้อยอย่างแก—ก็ยังดูไม่ออกด้วยซ้ำว่ามันกำลังเกิดอะไรขึ้น?
         ```
         ```
         Ran: They've all evacuated. And here I am... buying time for them.
@@ -7250,7 +7250,7 @@
 
         ```
         Ishmael: Fixers who work like that... would belong to... Shi Association.
-        อิชมาเอล: ฟิกเซอร์ที่ทำงานแบบนี้... ก็มีอยู่แต่คนที่มาจาก... สมาคมชิ/ชิแอสโซซิเอชัน
+        อิชมาเอล: ฟิกเซอร์ที่ทำงานแบบนั้น... ก็มีอยู่แต่คน... ที่มาจากสมาคมชิ/ชิแอสโซซิเอชัน
         ```
         ```
         Ishmael: An Association of Fixers that exclusively take assassination requests.
@@ -7258,11 +7258,11 @@
         ```
         ```
         Ishmael: They most likely aren't ones we could easily fight and defeat. It depends on how much they were paid and what Section are they from, but in this case...
-        อิชมาเอล: พวกเขาไม่ใช่ศัตรูประเภทที่เราจะสู้ และเอาชนะได้ง่าย ๆ มันขึ้นอยู่กับว่าพวกเขาถูกจ้างมาเท่าไหร่ แล้วก็ถูกส่งมาจากหน่วยไหน แต่อะไรแบบนี้มัน... <*ถึงนี้>
+        อิชมาเอล: พวกเขาไม่ใช่ศัตรูประเภทที่เราจะสู้ และเอาชนะได้ง่าย ๆ มันขึ้นอยู่กับว่าพวกเขาถูกจ้างมาเท่าไหร่ แล้วก็ถูกส่งมาจากหน่วยไหน แต่ไม่ว่ายังไง...
         ```
         ```
         Ishmael: Seeing that only Ryōshū was able to pick up hints of their presence... They most certainly won't be amateurs from Sections 5 or 6.
-        อิชมาเอล: 
+        อิชมาเอล: การที่เรียวชูสามารถรับรู้ถึงการมีอยู่ของพวกเขาได้แบบนี้... ยังไงพวกเขาก็ไม่น่าเป็นมือสมัครเล่นจากหน่วย 5 หรือ 6 แน่
         ```
 
         ---
@@ -7276,67 +7276,97 @@
 
         ---
 
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Samjo: Ms. Shrenne... Why...
+        แซมโจ: คุณชเรนน์... ทำไม...
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: Tsk, gone already.
+        เรียวชู: ชิ หนีไปจนได้
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Ryōshū clicked her tongue and complained about the assassins' retreat, even though I couldn't hear or see them at all.
+            เรียวชูเดาะลิ้นของเธอและบ่นออกมา—เกียวกับการล่าถอยของมือสังหาร ถึงแม้ว่าฉันจะไม่ได้ยินหรือเห็นอะไรเลยก็เถอะ
             ```
 
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: How ridiculous. Torn by inner conflict.
+        ฮิธคลิฟฟ์: เหอะ ชั่งน่าขันอะไรแบบนี้ ที่ต้องมาขาดครึ่งเพราะปัญหาภายใน
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Senior Researcher Ran was Shrenne's mentor when she first joined the firm. It looks like their bond lasted much longer than I thought.
+        ดงรัง:  นักวิจัยรุ่นพี่รัน เป็นอาจารย์ของชเรนน์ในตอนที่เธอเข้ามา และมันก็ดูเหมือน—ว่าสายสัมพันธ์ของทั้งคู่จะอยู่นานกว่าที่ผมคิดเอาไว้
         ```
         ```
         Dongrang: You see, Dante? We were peers working for the same firm, and there's still collusion and fraternity.
+        ดงรัง: เห็นไหมคุณดันเต้? ว่าขนาดพวกเราที่เป็นเพื่อนร่วมงานในองค์กรเดียวกัน ถึงอย่างนั้นมัน—ก็ยังคงมีการสมรู้ร่วมคิด และความเป็นพี่น้อง
         ```
         ```
         Dongrang: Betrayal, division, connivance. It happens in any group of people... I guess it's an inescapable cycle.
+        ดงรัง: หักหลัง, แบ่งแยก, ทำเป็นไม่รู้ไม่ชี้/หลับตาข้างเดียว เอาแต่เกิดขึ้นซ้ำแล้วซ้ำเล่ากับทุกที่ที่มีผู้คน *ถอนหายใจ* เห้อ ผมเดาว่ามันคงเป็นวัฏจักรไม่มีทางเลี่ยงได้
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <Not sure there's any point in telling me this...>
+        ดันเต้: <ฉันชักจะไม่แน่ใจแล้วนะ ว่ามันมีประโยชน์อะไรที่ต้องฉันด้วย...>
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Say... How much do you trust your Sinners?
+        ดงรัง: ว่าก็ว่าเถอะครับ... คุณเชื่อ—ในตัวคนบาปของคุณหรือเปล่า?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <I’m… sorry, what?>
+        ดันเต้: <ผม... โทษที แต่ไงนะ?>
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: You know virtually nothing about them, do you? Much like how I couldn't know everything about Shrenne. Am I wrong?
+        ดงรัง: คุณแทบไม่รู้จักพวกเขาเลยใช่ไหมครับ? เหมือนกับการที่ผม ไม่รู้ทุกอย่างเกี่ยวกับชเรนน์ ใช่ไหมครับ?
         ```
         ```
         Dongrang: You... don't even know which is the one that has a history with me.
+        ดงรัง: คุณ... ไม่รู้ด้วยซ้ำ ว่าอะไรที่เป็นของจริง ในช่วงเวลาที่เรามีร่วมกันกับพวกเขา
         ```
 
     ---

@@ -3359,7 +3359,7 @@
 
         ```
         Dongrang: This is where regenerative ampules are made.
-        ดงรัง: นี้เป็นที่ที่หลอดแก้วบรรจุยาฟื้นฟูถูกสร้างขึ้นมาน่ะครับ
+        ดงรัง: นี้เป็นที่ที่ขวดแก้วบรรจุยาฟื้นฟูถูกสร้างขึ้นมาน่ะครับ
         ```
         ```
         Dongrang: They’re publicly called “HP bullets”… but the underlying principle is a nanobot-based medical treatment.
@@ -3367,7 +3367,7 @@
         ```
         ```
         Dongrang: There have been struggles here and there, but at the moment, the ampule I sliiightly modified recently is the most commonly used version.
-        ดงรัง: ถึงแม้ว่ามันจะยังมีจุดบงพร่องอยู่บ้าง แต่ ณ วินาทีนี้ หลอดแก้วบรรจุยาที่ผมปรับแต่งเล็กน้อยนี้ ท้ายที่สุด พวกมันก็กลายเป็นเวอร์ชั่นที่ใช้กันอย่างแพร์หลายในหมู่รัฐบาลเคคอร์ป
+        ดงรัง: ถึงแม้ว่ามันจะยังมีจุดบงพร่องอยู่บ้าง แต่ ณ วินาทีนี้ ขวดแก้วบรรจุยาที่ผมปรับแต่งเล็กน้อยนี้ ท้ายที่สุด พวกมันก็กลายเป็นเวอร์ชั่นที่ใช้กันอย่างแพร์หลายในหมู่รัฐบาลเคคอร์ป
         ```
 
         ---
@@ -3679,7 +3679,7 @@
 
         ```
         Dongrang: It'll be fine, Samjo. They're skilled enough that they got out of a scuffle with K Corp. security staff armed with our regenerative ampules without a scratch.
-        ดงรัง: สบายบรื๋อสะดือโบ๋น่ะแซมโจ ยังไงพวกเขาก็เก่งพอที่จะเอาตัวรอดมาได้จากเงื้อมของมือเจ้าหน้าที่เคคอร์ปเลยน่ะ กับพวกรักษาความปลอดภัยพวกนั่นที่ติดอาวุธกับหลอดบรรจุยาฟื้นฟูเต็มออฟชั่นแล้ว กลับรอดมาได้โดยไม่มีแม้แต่รอยขีดข่วนสักริ้วเดียว ฉันว่ายังไงเราก็ไว้ใจพวกเขาได้
+        ดงรัง: สบายบรื๋อสะดือโบ๋น่ะแซมโจ ยังไงพวกเขาก็เก่งพอที่จะเอาตัวรอดมาได้จากเงื้อมของมือเจ้าหน้าที่เคคอร์ปเลยน่ะ กับพวกรักษาความปลอดภัยพวกนั่นที่ติดอาวุธกับขวดบรรจุยาฟื้นฟูเต็มออฟชั่นแล้ว กลับรอดมาได้โดยไม่มีแม้แต่รอยขีดข่วนสักริ้วเดียว ฉันว่ายังไงเราก็ไว้ใจพวกเขาได้
         ```
 
     ---
@@ -3717,7 +3717,7 @@
 
         ```
         Announcement: A second explosion has been detected. Please activate the regeneration ampule in your possession, and...
-        เสียงประกาศตามสาย: ตรวจพบการระเบิดครั้งที่สอง กรุณาเปิดใช้งานหลอดบรรจุยาฟื้นฟูที่ท่านมีอยู่ และ...
+        เสียงประกาศตามสาย: ตรวจพบการระเบิดครั้งที่สอง กรุณาเปิดใช้งานขวดบรรจุยาฟื้นฟูที่ท่านมีอยู่ และ...
         ```
         ```
         Announcement: Please wait for K Corp's security staff that will arrive within 18 seconds of, of, of...
@@ -3970,7 +3970,7 @@
 
         ```
         ???: Hemorrhage within five seconds. Spinal damage of at least 12 centimeters in length. Direct impact on coronary artery. Destruction of the cranium.
-        บุคคลปริศนา: ตกเลือดภายในห้าวินาที กระดูกสันหลังเสียหายอย่างน้อยยาว 12 เซนติเมตร เข้าปะทะโดยตรงกับหลอดเลือดแดงหัวใจ กระโหลกถูกทำลายสิ้น
+        บุคคลปริศนา: ตกเลือดภายในห้าวินาที กระดูกสันหลังเสียหายอย่างน้อยยาว 12 เซนติเมตร เข้าปะทะโดยตรงกับขวดเลือดแดงหัวใจ กระโหลกถูกทำลายสิ้น
         ```
         ```
         ???: These steps will ensure that the enemy meets immediate death without unnecessary suffering.
@@ -6341,7 +6341,7 @@
         ```
         ```
         Shrenne: That's... why you haven't been taking the ampules. That clock had special powers.
-        ชเรนน์: งี้เองสินะคะ... เหตุผล—ที่พวกคุณไม่ได้เอายาติดตัวไปเลยสักหลอด ก็เพราะว่านาฬิกานั้นมีพลังวิเศษ  
+        ชเรนน์: งี้เองสินะคะ... เหตุผล—ที่พวกคุณไม่ได้เอายาติดตัวไปเลยสักขวด ก็เพราะว่านาฬิกานั้นมีพลังวิเศษ  
         ```
 
         ---
@@ -6622,7 +6622,7 @@
 
         ```
         Outis: That group of Fixers haven't used regeneration ampules a single time since they came in here.
-        เอาทิส: อ้า ขอบคุณค่ะ กลุ่มฟิกเซอร์ที่อยู่ตรงนั้น ไม่ได้ใช่ยาฟื้นฟูเลยแม้แต่หลอดเดียวตั้งแต่ที่พวกเขาย่างกรายเข้ามาที่นี้
+        เอาทิส: อ้า ขอบคุณค่ะ กลุ่มฟิกเซอร์ที่อยู่ตรงนั้น ไม่ได้ใช่ยาฟื้นฟูเลยแม้แต่ขวดเดียวตั้งแต่ที่พวกเขาย่างกรายเข้ามาที่นี้
         ```
         ```
         Outis: Any sane combatant would kill to have those.
@@ -6848,7 +6848,7 @@
             ```
             ```
             He quickly jabbed the ampule into the unguarded Fixer's body like a dagger.
-            เขากำยาฟื้นฟูหลอดนั้นแน่น ก่อนที่แทงลงไปบนร่างกายส่วนที่ไม่ได้ถูกป้องกันเหมือนกับมีดสั้น
+            เขากำยาฟื้นฟูขวดนั้นแน่น ก่อนที่แทงลงไปบนร่างกายส่วนที่ไม่ได้ถูกป้องกันเหมือนกับมีดสั้น
             ```
 
         ---
@@ -7454,7 +7454,7 @@
         ```
         ```
         Yi Sang: Its number abides by the same rule as the 'decay ampules' that was forcibly administered to Miss Ishmael in the earlier scuffle between K Corp's brawlers and invading machines.
-        ยี่ซัง: เลขที่อยู่บนตัวหลอด เป็นเลขตัวเดียวกัน—กับที่อยู่บน 'หลอดยาเสื่อมสลาย' ที่ถูกบังคับฉีดให้คุณอิชมาเอลในการทะเลาะวิวาทระหว่างนักสู้ของเคคอร์ปกับเครื่องจักรที่บุกรุกเข้ามา
+        ยี่ซัง: เลขที่อยู่บนตัวขวด เป็นเลขตัวเดียวกัน—กับที่อยู่บน 'ขวดยาเสื่อมสลาย' ที่ถูกบังคับฉีดให้คุณอิชมาเอลในการทะเลาะวิวาทระหว่างนักสู้ของเคคอร์ปกับเครื่องจักรที่บุกรุกเข้ามา
         ```
 
         ---
@@ -7463,7 +7463,7 @@
 
         ```
         Samjo: That's what's called a serial code. It's a unique string of numbers to categorize ampules. Ones that start with an "O" are original- Wait, why am I explaining this, again?
-        แซมโจ: ไอนั่นเรียกว่าซีเรียลโค้ดน่ะครับ มันเป็นสาย รหัส/อักขระ ของตัวเลข ที่ใช้—เพื่อจำแนกยาหลอดต่าง ๆ โดยอันที่ขึ้นต้นด้วย "โอ" จะหมายถึงออริจินอล- เดี๋ยว แล้วทำไมผมถึงฮธิบายเรื่องนี้กันนะ?
+        แซมโจ: ไอนั่นเรียกว่าซีเรียลโค้ดน่ะครับ มันเป็นสาย รหัส/อักขระ ของตัวเลข ที่ใช้—เพื่อจำแนกยาขวดต่าง ๆ โดยอันที่ขึ้นต้นด้วย "โอ" จะหมายถึงออริจินอล- เดี๋ยว แล้วทำไมผมถึงฮธิบายเรื่องนี้กันนะ?
         ```
 
         ---
@@ -7517,7 +7517,7 @@
 
         ```
         Dongrang: When did you first recognize me?
-        ดงรัง: คุณจำผมได้ตั้งแต่ตอนไหนกัน?
+        ดงรัง: ตั้งแต่ตอนไหนกันที่คุณเริ่มจำผมได้?
         ```
 
         ---
@@ -7526,11 +7526,11 @@
 
         ```
         Yi Sang: Since you showed us the chickens in captivity.
-        ยี่ซัง: ตั้งแต่ทีนายพาเราไปดูไก่ที่ถูกขัง
+        ยี่ซัง: ก็ตั้งแต่ที่แกพาเราไปดูไก่ที่ขังเอาไว้
         ```
         ```
         Yi Sang: It would have sufficed to give your visitors a cursory tour, yet you insisted on showing your personal laboratory...
-        ยี่ซัง: ปกติมันคงพอแล้ว ที่จะพาแขก <*ถึงนี้,ยังไม่เสร็จ>
+        ยี่ซัง: คนปกติชน แค่พาแขกไปเดินดูนู่นนี้นิดหน่อยก็พอแล้ว แต่แก—กลับยังคงยืนกรานไม่หยุดหย่อน ที่จะพาพวกเราไปดูแลปของแก...
         ```
 
         ---
@@ -7539,54 +7539,76 @@
 
         ```
         Dongrang: You're right. I don't know about the others, but I wanted you to see the demonstrable proof of my success.
+        ดงรัง: ใช่แล้วล่ะครับ ผมไม่สนใจหรอกว่าคนอื่นจะคิดยังไง แต่ผมอยากที่จะให้คุณได้เห็น หลักฐานแห่งความสำเร็จของผม
         ```
         ```
         Dongrang: I'm still sad, though. You probably had plenty of time to express your joy of reuniting with this old friend of yours.
+        ดงรัง: แค่นึกคิดผมก็รู้สึก เสียใจ/เศร้า อยู่เลยนะครับ ทั้ง ๆ ที่คุณก็น่าจะมีเวลาเหลือเฟือพอ ให้แสดงความดีใจกับการกลับมาพบพาน—กับเพื่อนเก่าเพื่อนแก่คนนี้ของคุณบ้างนะ
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: It is my thought that I no longer have companions by my side.
+        ยี่ซัง: ผมตัดสินแล้ว ว่าผม จะไม่มีเพื่อนร่วมทางคนไหนอยู่ข้างกายทั้งนั้น
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: You haven't changed.
+        ดงรัง: คุณไม่เปลี่ยนไปเลยนะเนี้ย
         ```
         ```
         Dongrang: You've always enjoyed keeping precious things in bottles and watching them.
+        ดงรัง: คุณยังเอาแต่เพลิดเพลินกับการเก็บของล้ำค่าไว้ในขวด แล้วจ้องมองมันอยู่ตลอด
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: And you were intent on releasing and showing them.
+        ยี่ซัง: และแกก็เป็นคนที่ตั้งใจจะเอามันออกมาและชูให้โลกเห็น
         ```
 
         ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Don Quixote: Didst thou say "companions"? I must say, Yi Sang, many reunions with thy companions do await thee in this journey!
+        ดอน กิโฆเต้: เมื่อครู่ท่านกล่าวว่า "เพื่อนร่วมทาง" หรือขอรับ? <*ถึงนี้,ยังไม่เสร็จ>
         ```
         ```
         Don Quixote: In an expedition past, the, err...one wearing a tinted eyewear did confront thee!
+        ดอน กิโฆเต้: 
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dongrang: ……
+        Dongrang: ......
+        ดงรัง: ......
         ```
         ```
         Dongrang: Aha. So you already had a reunion to celebrate. No wonder you're being so detached with me.
+        ดงรัง: 
         ```
         ```
         Dongrang: How troubling for you, though.
+        ดงรัง: 
         ```
         ```
         Dongrang: Looks like there'll be another you have to face.
+        ดงรัง: 
         ```
 
         ---
@@ -7691,12 +7713,14 @@
 
         ---
 
-        ```
-        She plunged the Golden Bough in her hand into Yi Sang's chest...
-        ```
-        ```
-        And Yi Sang collapses on the ground.
-        ```
+        * เสียงในหัว
+
+            ```
+            She plunged the Golden Bough in her hand into Yi Sang's chest...
+            ```
+            ```
+            And Yi Sang collapses on the ground.
+            ```
 
         ---
 

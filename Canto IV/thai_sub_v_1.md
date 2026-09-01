@@ -7267,7 +7267,7 @@
 
         ---
 
-        <img src="../images/Assasin.png" alt="Assasin" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/None_Extra.png" alt="Assasin" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Assassin: ......

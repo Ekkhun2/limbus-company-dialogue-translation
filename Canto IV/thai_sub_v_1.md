@@ -7552,7 +7552,7 @@
 
         ```
         Yi Sang: It is my thought that I no longer have companions by my side.
-        ยี่ซัง: ผมตัดสินแล้ว ว่าผม จะไม่มีเพื่อนร่วมทางคนไหนอยู่ข้างกายทั้งนั้น
+        ยี่ซัง: ผมตัดสินใจแล้ว ว่าผม จะไม่มีเพื่อนร่วมทางคนไหนอยู่ข้างกายทั้งนั้น
         ```
 
         ---
@@ -7565,7 +7565,7 @@
         ```
         ```
         Dongrang: You've always enjoyed keeping precious things in bottles and watching them.
-        ดงรัง: คุณยังเอาแต่เพลิดเพลินกับการเก็บของล้ำค่าไว้ในขวด แล้วจ้องมองมันอยู่ตลอด
+        ดงรัง: คุณยังเอาแต่เพลิดเพลิน กับการเก็บของล้ำค่าไว้ในขวด แล้วจ้องมองมัน
         ```
 
         ---
@@ -7574,7 +7574,7 @@
 
         ```
         Yi Sang: And you were intent on releasing and showing them.
-        ยี่ซัง: และแกก็เป็นคนที่ตั้งใจจะเอามันออกมาและชูให้โลกเห็น
+        ยี่ซัง: และแกก็ตั้งใจเอามันออกมาและชูให้โลกได้เห็น
         ```
 
         ---
@@ -7583,11 +7583,11 @@
 
         ```
         Don Quixote: Didst thou say "companions"? I must say, Yi Sang, many reunions with thy companions do await thee in this journey!
-        ดอน กิโฆเต้: เมื่อครู่ท่านกล่าวว่า "เพื่อนร่วมทาง" หรือขอรับ? <*ถึงนี้,ยังไม่เสร็จ>
+        ดอน กิโฆเต้: เมื่อกี้ท่านเอ่ยคำว่า "สหาย/เพื่อนร่วมทาง" เช่นนั้นหรือ? ข้าต้องบอกเลยนะ ท่านยี่ซัง ว่าการได้กลับมาพบพานกับเหล่าสหายของท่านนั้นรอคอยท่านอยู่อีกมากมายในการเดินทางครั้งนี้!
         ```
         ```
         Don Quixote: In an expedition past, the, err...one wearing a tinted eyewear did confront thee!
-        ดอน กิโฆเต้: 
+        ดอน กิโฆเต้: เหมือนเช่นการเดินทางในอดีตที่ท่านไปเจอกับ เออ... ท่านผู้นั้นที่ใส่แว่นสีสวย!
         ```
 
         ---
@@ -7600,38 +7600,48 @@
         ```
         ```
         Dongrang: Aha. So you already had a reunion to celebrate. No wonder you're being so detached with me.
-        ดงรัง: 
+        ดงรัง: อาฮา งี้เอง เพราะคุณมีการเพื่อนให้กลับไปฉลองอยู่ก่อนแล้ว ไม่น่าล่ะว่าทำไม คุณถึงทำตัวห่างเหินกับผมถึงขนาดนี้ 
         ```
         ```
         Dongrang: How troubling for you, though.
-        ดงรัง: 
+        ดงรัง: แต่ก็น่าหนักใจแทนคุณเหมือนกันนะครับที่
         ```
         ```
         Dongrang: Looks like there'll be another you have to face.
-        ดงรัง: 
+        ดงรัง: ดูเหมือน ว่าจะมีอีกคนที่ต้องเผชิญหน้า
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <What do you mean?>
+        ดันเต้: <คุณหมายความว่าไง?>
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: I thought everyone had made their escape thanks to Shrenne's snitching...
+        ดงรัง: ผมก็นึกว่าทุกคนจะหนีไปกันหมดแล้วจากเหตุการณ์ที่ชเรนน์ปากโป้ง...
         ```
         ```
         Dongrang: But I suppose that wasn't the case.
+        ดงรัง: แต่มันคงไม่ได้เป็นแบบนั้นสินะครับ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Someone walks in, exuding a suffocatingly thick scent of flowers.
+            ใครบางคนเดินเข้ามา พร้อมกับกลิ่นหอมแตะจมูกของดอกไม้ <*ถึงนี้>
             ```
             ```
             Holding a bright golden branch in her hand, an object now familiar to me.

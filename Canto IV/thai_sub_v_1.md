@@ -7641,16 +7641,20 @@
 
             ```
             Someone walks in, exuding a suffocatingly thick scent of flowers.
-            ใครบางคนเดินเข้ามา พร้อมกับกลิ่นหอมแตะจมูกของดอกไม้ <*ถึงนี้>
+            ใครบางคนเดินเข้ามา พร้อมกับกลิ่นหอมคละคลุ้งแตะจมูกของดอกไม้
             ```
             ```
             Holding a bright golden branch in her hand, an object now familiar to me.
+            ในขณะที่กำลังถือกิ่งไม้สีทอง ที่ส่องประกายสว่างอยู่ในมือเธอ สิ่งของ—ที่ผมคุ้นเคย 
             ```
             ```
             She had a worn monochrome photograph in her other hand.
+            เธอมีรูปภาพขาวดำที่ยับยู้ยี่บนมืออีกข้างหนึ่งของเธอ <*ถึงนี้,ไม่แน่ใจ> 
             ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="???" width="100" style="display: block; margin: 0 auto;">
 
         ```
         ???: It's a fine photograph. Only one of this shot remains in this world now.

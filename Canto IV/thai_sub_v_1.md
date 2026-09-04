@@ -7822,6 +7822,360 @@
             ```
 
     ---
+
+    * **Episode: 19 | ตอนที่ 19** 
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Yi Sang: Thinking back to those days, I felt as though I had been afloat all the time then.
+            ยี่ซัง: พอหวนรำลึกกลับไปในวันนั้น ฉันก็รู้สึก เหมือนกับ ว่าตัวเองกำลังล่องลอยอยู่ในช่วงในตอนนั้น
+            ```
+            ```
+            Yi Sang: Yes, I was enduring life with the feeling of flying in the sky.
+            ยี่ซัง: ใช่ ฉันกำลังกล้ำกลืนฝืนตัวเอง ไปกับชีวิต—ที่ต้องบินอยู่กลางท้องฟ้า
+            ```
+            ```
+            Yi Sang: Thus, I had been living without knowing for certain if I truly had wings or if I was a mere half-wit.
+            ยี่ซัง: และเพราะอย่างนั้นเอง ฉัน จึงต้องใช้ชีวิตตลอดมา โดยที่ไม่รู้ด้วยซ้ำว่าตัวเองมีปีก จริง ๆ/อย่างแท้จริง หรือเป็นแค่คนโง่เขลาคนหนึ่งที่ไม่เต็มเต็ง 
+            ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Yi Sang, did you stay up all night working on your research again? I keep telling you, skipping sleep will get you killed.
+        ดงรัง: 
+        ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: He's something else. Remember how he'd forget to eat or sleep when he got into something?
+        ดงแบ็ก: 
+        ```
+
+        ---
+
+        ```
+        Dongrang: He can't be helped, Dongbaek. So... what do you plan to show us at this illuminators' conference?
+        ```
+        ```
+        Dongrang: I can't help but look forward to something you've been working on tirelessly in your room.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: This time... I have made something I call the 'mirror'.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Thus, it has always remained unclear.
+            ```
+            ```
+            Unsure if I regret that day, or reminisce it fondly.
+            ```
+
+        ---
+
+        ```
+        Location:Nest K - LC Branch Manager's Office
+        ```
+
+
+        ---
+
+        ```
+        Dante: <...Sang... Yi Sang! You alright?>
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ……
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Yi Sang's eyes slowly opened.
+            ```
+            ```
+            Their lives are so easily light, so easily recoverable.
+            ```
+
+        ---
+
+        ```
+        Yi Sang: I see... You have reversed my death as you always do.
+        ```
+
+        ---
+
+        ```
+        Dante: <……>
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            A flash of light burst out of the Golden Bough right as it pierced his chest, blinding everyone for a moment...
+            ```
+            ```
+            And Dongbaek had disappeared in the meantime.
+            ```
+            ```
+            The smiles the people in the photograph made at each other were nowhere to be seen now.
+            ```
+            ```
+            And Dongrang cast his eyes into emptiness, reviewing the situation we got into.
+            ```
+
+        ---
+
+        ```
+        Dongrang: ...I'm sure Dongbaek's plan was to stab me.
+        ```
+        ```
+        Dongrang: Shrenne and Ran probably told her that I brought help from the outside...
+        ```
+        ```
+        Dongrang: But she couldn't have known that Yi Sang would be one of them.
+        ```
+
+        ---
+
+        ```
+        HongLu: Ah~ So you've brought Yi Sang here on purpose?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Mm... Are you asking if I invited him as a meat shield knowing that I'd be ambushed? As excellent as my ability to predict courses of events is, I am no prophet.
+        ```
+
+        ---
+
+        ```
+        Samjo: Either way, things went in our favor. The assault was clearly made with intent to kill.
+        ```
+
+        ---
+
+        ```
+        Gregor: What did you just...? You can't be serious... A colleague of ours got stabbed to death for your boss, and you're talking like everything went well...
+        ```
+
+        ---
+
+        ```
+        Samjo: It's not our responsibility to compensate for any injuries, is it? If this has left psychological scars, you are free to demand compensation, but please know that the procedures will be rather complex...
+        ```
+
+        ---
+
+        ```
+        Gregor: No, my problem is with how you're describing this whole--
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Leave the matter there.
+        ```
+        ```
+        Yi Sang: I do not feel an ounce of pain. So you have no need to pursue this matter further.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            When I turn the clock, every consequence is reversed.
+            ```
+            ```
+            Torn clothing, bloodied stains, even the smallest scars are undone.
+            ```
+            ```
+            But that doesn't make the cause of those damages something that never happened.
+            ```
+            ```
+            Which is why I have to ask.
+            ```
+
+        ---
+
+        ```
+        Dante: <Are you sure you're okay, Yi Sang?>
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Yi Sang shut down my last attempt to inquire with a simple "Yes", so I couldn't try again until now...
+            ```
+            ```
+            But that man named Gubo had no problem raising his weapon against Yi Sang while claiming to be his compatriot.
+            ```
+
+        ---
+
+        ```
+        Yi Sang: I see, you must have been rather curious.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            This time, he didn't seem to have any intent to dodge my question.
+            ```
+
+        ---
+
+        ```
+        Yi Sang: I was once part of an organization named the League of Nine. Gubo, Dongrang, and Dongbaek, the one who stabbed my chest. Those faces you have seen were members of it as well, manager.
+        ```
+        ```
+        Yi Sang: However, it disbanded and scattered one day. Each of us was flown away into our own path.
+        ```
+        ```
+        Yi Sang: That was all there was to it.
+        ```
+
+        ---
+
+        ```
+        Rodion: Aw, what~ Feels like your story's missing a ton of details, y'know?
+        ```
+        ```
+        Rodion: You broke up 'cause things happened and now you're pointing knives at each other~ Like, is that it?
+        ```
+
+        ---
+
+        ```
+        Sinclair: Or maybe they were never friends after all.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: It was no more than a moment. I believe my testimony to be apt for a time as transient as that.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            He started talking a lot. He hasn't turned into a chatterbox just yet, but I had the feeling that he'd soon become more talkative.
+            ```
+            ```
+            I was reminded of Faust mentioning once that he was never really the quiet sort.
+            ```
+
+        ---
+
+        ```
+        Dante: <Are you really sure you're okay, Yi Sang?>
+        ```
+
+        ---
+
+        ```
+        Yi Sang: I have always been okay.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            If that was his true nature, then this might not be a bad thing.
+            ```
+            ```
+            Still, my feelings say that I should care for his well-being.
+            ```
+
+        ---
+
+        ```
+        Dante: <From your recent memory, umm... Have you had any particularly happy or painful moments or something like that?>
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ...You are devoting an unusual degree of attention to me today. While it does not please me... I will give you an answer since your demeanor is quite unlike the usual.
+        ```
+        ```
+        Yi Sang: If I were to choose one, the happiest occasion in recent memory would be... when we held an illuminators' conference.
+        ```
+        ```
+        Yi Sang: And the most hopeless one would be...
+        ```
+        ```
+        Yi Sang: At the forest where I first met you.
+        ```
+        ```
+        Yi Sang: The very moment my life resumed when I was certain that it had ended there.
+        ```
+        ```
+        Yi Sang: Another such moment is now. I am once again realizing that this regeneration is ever so flawless, unchanging.
+        ```
+        ```
+        Yi Sang: I hope that sates your curiosity.
+        ```
+
+        ---
+
+        ```
+        Dante: <……>
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Now, should we not be on our way? I see a long road ahead of us.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            As he walked ahead...
+            ```
+            ```
+            I could almost see it.
+            ```
+            ```
+            Although the wound was perfectly erased, there was still...
+            ```
+            ```
+            A hole in his chest, wide open with no signs of mending.
+            ```
+
 ---
 
 ### เพิ่มเติม

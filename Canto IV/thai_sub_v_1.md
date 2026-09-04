@@ -7810,7 +7810,7 @@
 
             ```
             Even while drenched in blood, the Golden Bough still glows.
-            ถึงแม้ว่าเขา—กำลังเปียกโชกไปด้วยเลือด กิ่งทองกลับยังส่องสว่าง
+            ถึงแม้ว่าเขา—จะกำลังเปียกโชกไปด้วยเลือด กิ่งทองกลับยังคงส่องสว่าง
             ```
             ```
             Contrasting the golden dazzle...
@@ -7831,7 +7831,7 @@
 
             ```
             Yi Sang: Thinking back to those days, I felt as though I had been afloat all the time then.
-            ยี่ซัง: พอหวนรำลึกกลับไปในวันนั้น ฉันก็รู้สึก เหมือนกับ ว่าตัวเองกำลังล่องลอยอยู่ในช่วงในตอนนั้น
+            ยี่ซัง: พอหวนรำลึกกลับไปในวันนั้น ฉันก็รู้สึก เหมือนกับ ว่าตัวเองกำลังล่องลอยอยู่ในช่วงเวลาในตอนนั้น
             ```
             ```
             Yi Sang: Yes, I was enduring life with the feeling of flying in the sky.
@@ -7848,7 +7848,7 @@
 
         ```
         Dongrang: Yi Sang, did you stay up all night working on your research again? I keep telling you, skipping sleep will get you killed.
-        ดงรัง: 
+        ดงรัง: ยี่ซัง นี้คุณไม่หลับไม่นอนโต้รุ้งทำงานวิจัยทั้งคืนอีกแล้วหรอครับ? ผมว่าผมก็บอกไปแล้วนะ ว่าการอดหลับอดนอนจะทำให้คุณตายเอา <*ถึงนี้>
         ```
 
         ---

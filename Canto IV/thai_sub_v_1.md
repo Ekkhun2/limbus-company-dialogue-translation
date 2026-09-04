@@ -7649,7 +7649,7 @@
             ```
             ```
             She had a worn monochrome photograph in her other hand.
-            เธอมีรูปภาพขาวดำที่ยับยู้ยี่บนมืออีกข้างหนึ่งของเธอ <*ถึงนี้,ไม่แน่ใจ> 
+            กับรูปภาพขาวดำที่ยับยู้ยี่ในมืออีกข้างหนึ่งของเธอ 
             ```
 
         ---
@@ -7658,121 +7658,170 @@
 
         ```
         ???: It's a fine photograph. Only one of this shot remains in this world now.
+        บุคคลปริศนา: เป็นรูปถ่ายที่ดี หลงเหลือแค่รูปเดียวบนโลกใบนี้แล้ว
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: So many old friends, and not one to greet me with delight.
+        ดงรัง: อา เพื่อนเก่ามากันเยอะแยะเลย แต่ไม่เห็นมีใครสักคนที่—ต้อนรับผมด้วยความปลื้มปิติ
         ```
         ```
         Dongrang: Won't you give that picture back to me? It may not look like it, but it's a cherished treasure of mine.
+        ดงรัง: ว่าแต่—คุณจะช่วยส่งรูปภาพนั้นคืนให้กับผมได้ไหมครับ? ถึงแม้—ว่ามันจะดูไม่ได้เป็นของล้ำค่าอะไร แต่เห็นอย่างนี้มัน ก็เป็นสมบัติที่ผมหวงมากเลยนะครับ
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Mr. Dongrang, you shouldn't get close to her! It's dangerous!
+        แซมโจ: คุณดงรัง คุณไม่ควรที่จะเข้าใกล้เธอแบบนั้นนะครับ! มันอันตราย!
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: All troops, do not carelessly approach her! The Golden Bough may be destroyed...
+        เอาทิส: ทุกพล อย่าเข้าใกล้เธออย่างไม่ระมัดระวังโดยเด็ดขาด! ไม่งั้นกิ่งทองอาจได้รับความเสียหายได้...
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: I agree with it.
+        เมอร์โซลท์: ผมเห็นด้วยครับ
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: Faust will come up with a way to retrieve it in no time.
+        เฟาสท์: เฟาสท์จะหาวิธีชิงมันออกมาให้เร็วที่สุดค่ะ
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Tch, why do we keep running into problems that a good pummeling can't solve! This is right infuriating...
+        ฮิธคลิฟฟ์: ชิ ทำไมเราต้องมาเจอปัญญาที่แก้ด้วยกำลังไม่ได้อยู่เรื่อยเลยนะ! แม่งยั่วโมโหกันชัด ๆ...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Everyone yells and shouts with their own goal in mind.
+            ทุกคนเอาแต่ตะคอกและตะโกนสิ่งที่ตัวเองอยากจะทำออกมา
             ```
             ```
             Regardless of the noise, the person with the Golden Bough steadily walks this way.
+            แต่ไม่ว่าจะมีเสียงรบกวนมากแค่ไหน คน ๆ นั้นที่มีกิ่งกอง กลับค่อย ๆ เดินเข้ามาทางพวกเราอย่างช้า ๆ
             ```
             ```
             However, instead of going for Dongrang...
+            แต่แทนที่จะเป็นดงรัง...
             ```
 
         ---
 
+        <img src="../images/Dongback.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+
         ```
         ???: That piquant and fragrant smell made me feel as though the ground was sinking.
+        บุคคลปริศนา: กลิ่นฉุนกับหอมพวกนั้นทำให้ฉันรู้สึกเหมือนกับว่าพื้นดินกำลังจมอยู่เลย
         ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Yi Sang: …!
+        Yi Sang: ...!
+        ยี่ซํง: ...!
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             She plunged the Golden Bough in her hand into Yi Sang's chest...
+            เธอแทงกิ่งทองในมือของเธอไปกลางหน้าอกของยี่ซัง...
             ```
             ```
             And Yi Sang collapses on the ground.
+            ก่อนที่เขา(ยี่ซัง)จะล้มลงกองกับพื้น
             ```
 
         ---
 
+        <img src="../images/Dongback.png" alt="???" width="100" style="display: block; margin: 0 auto;">
+
         ```
         ???: I...didn't think you would end up choosing him before my eyes.
+        บุคคลปริศนา: ฉันไม่...คิดเลยนะ ว่าสุดท้าย นายจะเลือกมันต่อหน้าต่อตาฉัน
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Dante: <Yi Sang!>
+        ดันเต้: <ยี่ซัง!>
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="???" width="100" style="display: block; margin: 0 auto;">
 
         ```
         ???: You can have this back.
+        บุคคลปริศนา: แกเอากลับไปก็ได้
         ```
-
-        ---
-
         ```
         Dongbaek: A photograph is nothing more than a taxidermied moment.
+        ดงแบ็ก: รูปถ่าย—ก็ไม่ต่างอะไรกับช่วงเวลาที่ถูกสตาฟเอาไว้ 
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Even while drenched in blood, the Golden Bough still glows.
+            ถึงแม้ว่าเขา—กำลังเปียกโชกไปด้วยเลือด กิ่งทองกลับยังส่องสว่าง
             ```
             ```
             Contrasting the golden dazzle...
+            ตัดกันกับแสงสีทองที่ทำให้ตาพร่า...
             ```
             ```
             The faded monochrome photograph slowly falls to the floor.
+            รูปถ่ายขาวดำที่เลือนลางกลับกำลังร่วงหล่นไปบนพื้นอย่างช้า ๆ
             ```
+
+    ---
 ---
 
 ### เพิ่มเติม

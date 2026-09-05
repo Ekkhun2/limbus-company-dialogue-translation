@@ -8318,7 +8318,7 @@
 
             ```
             His phone was intensely vibrating as though the calls set it on fire.
-            มือถือของเขาสั่นไหวอย่างบ้าคลั่ง ราวกับว่าเสียงเรียกเข้าของมันกำลังทำมันติดไฟ
+            มือถือของเขาสั่นไหวอย่างบ้าคลั่ง ราวกับว่าเสียงเรียกเข้าของมันกำลังทำตัวเองไฟลุก
             ```
 
         ---
@@ -8327,70 +8327,100 @@
 
         ```
         Samjo: Yes, I understand. I'll return right away.
+        แซมโจ: อ้าครับ ผมเข้าใจแล้ว จะกลับไปเดี๋ยวนี้แหละครับ
         ```
         ```
         Samjo: It seems the laboratory has been raided again.
+        แซมโจ: คือ—ดูเหมือนว่าแลปจะถูกบุกรุกซ้ำอีกรอบน่ะครับ
         ```
         ```
         Samjo: There are apparently more terrorists this time, on a fiercer offense than before.
+        แซมโจ: แถมงวดนี้ยังมีผู้ก่อการร้ายมากกว่าเดิม และเป็นการเข้าโจมตีที่ดุร้ายกว่าครั้งก่อน
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: So the commotion earlier was a distraction to keep us here.
+        เอาทิส: งั้นก็แปลว่าความปั่นป่วนที่เกิดขึ้นเมื่อกี้นี้ เป็นเพียงการหลอกล้อความสนใจ เพื่อรั้งพวกเราไว้ที่นี้
         ```
         ```
         Outis: Kgh... This could have easily been prevented if it weren't for your collusion.
+        เอาทิส: คิก... เรื่องนี้ควรที่จะกันไม่ให้เกิดขึ้นได้ง่าย ๆ ถ้าไม่ใช่เพราะสมรู้ร่วมคิดของพวกคุณ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Outis lashed out in frustration.
+            เอาทิสตวาดออกมาด้วยความหงุดหงิด
             ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: It does feel rather strange... I think this is the first time we're going through a Lobotomy Corp. branch without facing a single Abnormality.
+        ซินแคร์: มันแปลกดีนะครับ... ผมคิดว่านี้ น่าจะเป็นครั้งแรกเลย ที่พวกเราเข้ามาในศูนย์วิจัยโลโบโตมี่ได้ โดยที่ไม่ต้องเผชิญหน้ากับสิ่งแปลกปลอมเลยสักกะตัวเดียว 
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: That's true indeed. Those we did see were resting still in their eggs.
+        ฮงหลู่: ก็จริงนะครับ เจ้าพวกที่เราเคยเห็นก่อนหน้านี้ ก็มีแต่พวกที่กำลังพักผ่อนอยู่ในไข่ของมัน
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: The bounders from tech liberation whatever must have got some way to put Abnormalities in their eggs without lifting a hand, eh?
+        ฮิธคลิฟฟ์: ไอพวกเฮงซวยจากพันธมิตรปลดแอกเทคโนโลยีอะไรนั้น ก็คงหาทางทำอะไรสักอย่างเพื่อจัดการไอเจ้าสิ่งแปลกปลอมพวกนี้ให้กลับไปในไข่ โดยที่ไม่ต้อง ยกมือ/ออกแรง ได้ล่ะมั้ง?
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: Though we will have to see the details with our own eyes... If they really do have the technology to revert Abnormalities into their inactive forms...
+        เฟาสท์: งั้นพวกเราก็ควรที่จะได้รู้รายละเอียดพวกนั้นด้วยตาของเราเอง... ถ้าเกิดว่าพวกเขา—มีเทคโนโลยีอะไรนั้นจริง ที่สามารถย้อนสภาพสิ่งแปลกปลอม ให้กลับไปอยู่ในระยะ ตั้งต้น/ไข่ ได้...
         ```
         ```
         Faust: It's certain that they possess the technologies to achieve more.
+        เฟาสท์: ถ้าเป็นแบบนั้น มันก็มีความเป็นไปได้ที่ว่า พวกเขาอาจกำลังครอบครองเทคโนโลยีอะไรก็ตามที่ทำได้มากกว่านั้นอยู่อีก
         ```
 
         ---
+
+        <img src="../images/Gergor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Well well, sounds like you've gotta look out, Dongrang, bud... Ms. Faust isn't one to say ominous stuff for nothing, you know.
+        เกรกอร์: แหม แหม ฟังดูเหมือนว่าคุณคงต้องระวังตัวให้มากขึ้นแล้วล่ะ สหายดงรัง... คุณเฟาสท์ไม่ใช่ประเภทคนที่—จะพูดอะไรเป็นลางร้ายพร่ำเพรือโดยไม่มีสาเหตุ
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: It'll work out somehow. In our group is K Corp's most successful researcher... and better yet, two of the greatest geniuses in the City.
+        ดงรัง: ขอบคุณที่บอกนะครับ ผมว่า—มันก็น่าจะออกมาดีได้อยู่ ไม่ทางใดก็ทางหนึ่ง กับในกลุ่มของเรา—ที่มีนักวิจัยดาวรุ่งที่ประสบความสำเร็จมากที่สุดเป็นประวัติการณ์... และที่ดียิ่งกว่า สองอัจฉริยะที่ยอดเยี่ยมที่สุดในเดอะซิตี้
         ```
-
+        
+    ---
 ---
 
 ### เพิ่มเติม

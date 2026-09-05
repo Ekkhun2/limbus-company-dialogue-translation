@@ -8295,7 +8295,7 @@
 
     ---
 
-    * **Episode: 20 | ตอนที่ 20<b>Location: Nest K - LC Branch Manager's Office | เนสเค - ออฟฟิศผู้จัดการสาขาย่อยศูนย์วิจัยโลโบโตมี่** 
+    * **Episode: 20 | ตอนที่ 20<br>Location: Nest K - LC Branch Manager's Office | เนสเค - ออฟฟิศผู้จัดการสาขาย่อยศูนย์วิจัยโลโบโตมี่** 
 
         <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 

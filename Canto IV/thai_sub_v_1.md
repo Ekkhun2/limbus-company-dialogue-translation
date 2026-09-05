@@ -8422,7 +8422,7 @@
         
     ---
 
-    * **Episode: 21 | ตอนที่ 21<b>Location: K Corp. Laboratory Lobby | ล็อบบี้ศูนย์วิจัยคคอร์ป**
+    * **Episode: 21 | ตอนที่ 21<br>Location: K Corp. Laboratory Lobby | ล็อบบี้ศูนย์วิจัยคคอร์ป**
 
         <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"> 
 

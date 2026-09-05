@@ -7848,7 +7848,7 @@
 
         ```
         Dongrang: Yi Sang, did you stay up all night working on your research again? I keep telling you, skipping sleep will get you killed.
-        ดงรัง: ยี่ซัง นี้คุณไม่หลับไม่นอนโต้รุ้งทำงานวิจัยทั้งคืนอีกแล้วหรอครับ? ผมว่าผมก็บอกไปแล้วนะ ว่าการอดหลับอดนอนจะทำให้คุณตายเอา <*ถึงนี้>
+        ดงรัง: ยี่ซัง นี้คุณไม่หลับไม่นอนโต้รุ้งทำงานวิจัยทั้งคืนอีกแล้วหรอครับ? ผมว่าผมก็บอกไปแล้วนะ ว่าการอดหลับอดนอนจะทำให้คุณตายเอา
         ```
 
         ---
@@ -7857,92 +7857,122 @@
 
         ```
         Dongbaek: He's something else. Remember how he'd forget to eat or sleep when he got into something?
-        ดงแบ็ก: 
+        ดงแบ็ก: ไอหมอนี้มันไม่ธรรมดาไง จำได้ไหมตอนที่เขาลืมกินข้าวหรือนอนหลับ ในตอนที่เขากำลัง สนใจ/หมกมุ่น กับอะไรบางอย่าง?  
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: He can't be helped, Dongbaek. So... what do you plan to show us at this illuminators' conference?
+        ดงรัง: ก็ช่วยไม่ได้นะดงแบ็ก แล้ว... คุณตั้งใจจะ แสดง/โชว์ อะไรให้พวกเราได้เห็นในงานงานประชุมไฟส่องสว่างครั้งนี้หรอครับ?
         ```
         ```
         Dongrang: I can't help but look forward to something you've been working on tirelessly in your room.
+        ดงรัง: ผมห้ามใจไม่ได้ที่อดดู—อะไรบางอย่างที่คุณกำลังทำอยู่อย่างไม่เหน็ดเหนื่อยในห้องของคุณจัง 
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: This time... I have made something I call the 'mirror'.
+        ยี่ซัง: รอบนี้... ผมสร้างอะไรบางอย่างที่ผมเรียกว่า 'กระจก'  
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Thus, it has always remained unclear.
+            เพราะงั้นมัน—ถึงยังคงอึมครึมอยู่เสมอ
             ```
             ```
             Unsure if I regret that day, or reminisce it fondly.
+            ไม่รู้เลยว่าตัวผม รู้สึกเสียใจกับวันนั้น หรือ แค่หวนระลึกถึงอดีตด้วยความคิดถึง
             ```
 
         ---
 
-        ```
-        Location:Nest K - LC Branch Manager's Office
-        ```
-
+        **Location: Nest K - LC Branch Manager's Office | เนสเค - ออฟฟิศผู้จัดการสาขาย่อยศูนย์วิจัยโลโบโตมี่**
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <...Sang... Yi Sang! You alright?>
+        ดันเต้: <...ซัง... ยี่ซัง! นายเป็นอะไรไหม?>
         ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Yi Sang: ……
+        Yi Sang: .....
+        ยี่ซัง: ..... 
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Yi Sang's eyes slowly opened.
+            ตาของยี่ซังค่อย ๆ ลืมขึ้นอย่างช้า ๆ 
             ```
             ```
             Their lives are so easily light, so easily recoverable.
+            ชีวิต/สัญญาณชีพ ของเขาเบาบางมาก ก็เลยดึงกลับมาง่ายด้วยเหมือนกัน
             ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Yi Sang: I see... You have reversed my death as you always do.
+        ยี่ซัง: ผมเห็นแล้ว... ว่าคุณ หวนคืนความตายผมกลับมา เหมือนที่คุณทำมาตลอด
         ```
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dante: <……>
+        Dante: <......>
+        ดันเต้: <......>
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             A flash of light burst out of the Golden Bough right as it pierced his chest, blinding everyone for a moment...
+            แสงจ้าสว่างออกมาจากกิ่งทองที่ถูกแทงทะลุกลางหน้าอกเขา ก่อนที่ทำให้ทุกคนตาบอดไปชั่วขณะหนึ่ง... <*ไม่แน่ใจ>
             ```
             ```
             And Dongbaek had disappeared in the meantime.
+            และดงแบ็กก็หายตัวไปในพริบตาเดียว <*ไม่แน่ใจ>
             ```
             ```
             The smiles the people in the photograph made at each other were nowhere to be seen now.
+            รอยยิ้ม ผู้คน ที่มีต่อกันในรูปถ่าย กลับหายไปอย่างไม่มีทางหวนคืนได้อีก <*ไม่แน่ใจ>
             ```
             ```
             And Dongrang cast his eyes into emptiness, reviewing the situation we got into.
+            กับดงรัง ที่สาดส่องสายตาของเขาไปในความว่างเปล่า พลางคิดกับตัวเองเกี่ยวกับสถานการณ์ที่เกิดขึ้น <*ถึงนี้,ไม่แน่ใจ>
             ```
 
         ---

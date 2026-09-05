@@ -7960,250 +7960,337 @@
 
             ```
             A flash of light burst out of the Golden Bough right as it pierced his chest, blinding everyone for a moment...
-            แสงจ้าสว่างออกมาจากกิ่งทองที่ถูกแทงทะลุกลางหน้าอกเขา ก่อนที่ทำให้ทุกคนตาบอดไปชั่วขณะหนึ่ง... <*ไม่แน่ใจ>
+            แสงจ้าสว่างออกมาจากกิ่งทองที่ถูกแทงทะลุกลางหน้าอกเขา ก่อนที่มันจะทำให้ทุกคนตาบอดไปชั่วขณะหนึ่ง... 
             ```
             ```
             And Dongbaek had disappeared in the meantime.
-            และดงแบ็กก็หายตัวไปในพริบตาเดียว <*ไม่แน่ใจ>
+            กับดงแบ็กที่หายตัวไปในพริบตาเดียว
             ```
             ```
             The smiles the people in the photograph made at each other were nowhere to be seen now.
-            รอยยิ้ม ผู้คน ที่มีต่อกันในรูปถ่าย กลับหายไปอย่างไม่มีทางหวนคืนได้อีก <*ไม่แน่ใจ>
+            รอยยิ้ม ผู้คน ที่มีต่อกันในรูปถ่าย กลับสูญหายไปอย่างไม่มีทางหวนคืนได้อีก
             ```
             ```
             And Dongrang cast his eyes into emptiness, reviewing the situation we got into.
-            กับดงรัง ที่สาดส่องสายตาของเขาไปในความว่างเปล่า พลางคิดกับตัวเองเกี่ยวกับสถานการณ์ที่เกิดขึ้น <*ถึงนี้,ไม่แน่ใจ>
+            และดงรัง ที่สาดส่องสายตาของเขาไปในความว่างเปล่า พลางคิดอยู่ในอก—เกี่ยวกับเหตุการณ์ที่เกิดขึ้น
             ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: ...I'm sure Dongbaek's plan was to stab me.
+        ดงรัง: ...ผมมั่นใจเลยว่าดงแบ็กตั้งใจที่จะแทงผม
         ```
         ```
         Dongrang: Shrenne and Ran probably told her that I brought help from the outside...
+        ดงรัง: ชเรนน์กับรันคงจะบอกเธอ เกี่ยวกับเรื่องที่ผม จะนำกำลังการช่วยเหลือจากข้างนอกเข้ามา
         ```
         ```
         Dongrang: But she couldn't have known that Yi Sang would be one of them.
+        ดงรัง: แต่เธอคงนึกไม่ถึงว่า—หนึ่งในนั้นจะเป็นอดีตคนรู้จักอย่างยี่ซังซะเอง
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         HongLu: Ah~ So you've brought Yi Sang here on purpose?
+        ฮงหลู่: อา~ งั้นก็แปลว่า ที่คุณมาพายี่ซังมาที่นี้ ก็เพราะตั้งใจอยู่ก่อนแล้วสินะครับ?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Mm... Are you asking if I invited him as a meat shield knowing that I'd be ambushed? As excellent as my ability to predict courses of events is, I am no prophet.
+        ดงรัง: หืม... คุณกำลังจะถามว่าผม ตั้งใจที่จะพาเขามาที่นี้—ก็เพื่อให้เขาเป็นโล่มนุษย์ โดยที่รู้อยู่ก่อนแล้วว่าจะถูกซุ่มโจมตี? แหม แม้ว่าความสามารถในการคาดคะเนเหตุการณ์ที่เกิดขึ้นของผมจะดีมากแค่ไหน แต่คงแย่หน่อย ที่ผมก็ไม่ได้เป็นผู้หยั่งรู้
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Either way, things went in our favor. The assault was clearly made with intent to kill.
+        แซมโจ: ไม่ว่าจะแบบไหน ทุกอย่าง—ก็เข้าทางเราแล้วครับ การจู่โจมในครั้งนี้ ดูยังไง ก็เป็นกระทำที่มีเจตนาฆ่าอย่างชัดเจน
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: What did you just...? You can't be serious... A colleague of ours got stabbed to death for your boss, and you're talking like everything went well...
+        เกรกอร์: เมื่อกี้นายพูด...? นี้นายล้อฉันเล่นหรือเปล่า... เพื่อนฉันถูกแทงจนตาย—แทนบอสนาย แล้วไหงนาย ถึงเอาแต่พูดเหมือนว่าทุกอย่าง เป็นไปได้ด้วยดี/ราบลื่น ล่ะ
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: It's not our responsibility to compensate for any injuries, is it? If this has left psychological scars, you are free to demand compensation, but please know that the procedures will be rather complex...
+        แซมโจ: อ๊าา—ก็ มันไม่ใช่ธุระกงการอะไรของเราที่ต้องรับผิดชอบอาการบาดเจ็บนี้ครับ? แต่ถ้าเรื่องนี้เป็นสาเหตุที่สร้างบาดแผลเป็นในใจล่ะก็—คุณก็สามารถร้องขอการชดเชยกับพวกเราได้นะครับ แต่ต้องขอบอกไว้ก่อนเลย ว่ามันค่อนข้างที่จะยุ้งยาก...
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: No, my problem is with how you're describing this whole--
+        เกรกอร์: ไม่ ที่ฉันติดใจ ก็คือวิธีพูดของนายที่อธิบายเรื่องเรื่องพวก(นี้)--
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: Leave the matter there.
+        ยี่ซัง: พอแค่นั้นแหละครับ
         ```
         ```
         Yi Sang: I do not feel an ounce of pain. So you have no need to pursue this matter further.
+        ยี่ซัง: ผมไม่รู้สึกเจ็บอะไรเลยสักนิด เพราะงั้นคุณ ก็ไม่จำเป็น ที่จะต้อง สนใจเรื่องนี้ต่อไปหรอกนะครับ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             When I turn the clock, every consequence is reversed.
+            ทุกครั้งที่ฉันหมุนนาฬิกากลับ ผลที่ตามมาทุกอย่าง—ก็จะกลับกลายเป็นก่อนหน้า
             ```
             ```
             Torn clothing, bloodied stains, even the smallest scars are undone.
+            ทั้งเสื้อผ้าที่ฉีกขาด, คาบเลือด, หรือแม้แต่รอยแผลเป็นที่เล็กมากแค่ไหน—ก็จะ กลับมาเป็นดังเดิม/หายเป็นปลิดทิ้ง
             ```
             ```
             But that doesn't make the cause of those damages something that never happened.
+            แต่นั้นไม่ได้หมายถึงการทำให้สาเหตุของความเสียหายที่เกิดขึ้นพวกนั้นหายไป
             ```
             ```
             Which is why I have to ask.
+            ซึ่งเป็นเหตุผลว่าทำไม—ฉันต้องถาม
             ```
-
-        ---
 
         ```
         Dante: <Are you sure you're okay, Yi Sang?>
+        ดันเต้: <เออ นายแน่ใจว่าตัวเองโอเคจริง ๆ ใช่ไหม ยี่ซัง?> 
         ```
-
-        ---
 
         * เสียงในหัว
 
             ```
             Yi Sang shut down my last attempt to inquire with a simple "Yes", so I couldn't try again until now...
+            ครั้งล่าสุด ยี่ซังปิดประตูบานสุดท้ายของฉัน—ที่พยายามจะซักถามเขา ด้วยคำว่า "ใช่" อย่างง่ายดาย และเป็นสาเหตุว่าทำไมฉันไม่กล้า—ที่จะถามอะไรเขาอีกจนถึงตอนนี้...
             ```
             ```
             But that man named Gubo had no problem raising his weapon against Yi Sang while claiming to be his compatriot.
+            แต่ทำไมชายคนนั้นที่ชื่อว่า "กูโบะ" ถึงไม่เป็นไร ขนาดที่ถึงแม้ตัวเองจะยกอาวุธใส่หน้ายี่ซัง—แล้วประกาศตัวว่าเป็นศัตรูมากแค่ไหน แต่หมอนั้น—กลับยอมรับชายคนนั้นได้หน้าตาเฉย—ว่าเขาเป็นเพื่อนร่วมชาติสุดที่รักของตัวเอง
             ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Yi Sang: I see, you must have been rather curious.
+        ยี่ซัง: ผมรู้ ว่าคุณมีอะไรที่อยากถามอยู่เต็มอก
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             This time, he didn't seem to have any intent to dodge my question.
+            ห๊ะ รอบนี้ ดูเหมือนว่าเขาจะไม่ได้จงใจหลบคำถามฉันแล้วแฮะ
             ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Yi Sang: I was once part of an organization named the League of Nine. Gubo, Dongrang, and Dongbaek, the one who stabbed my chest. Those faces you have seen were members of it as well, manager.
+        ยี่ซัง: ผมเคยเป็นส่วนหนึ่งในองค์กร ที่ชื่อว่า กลุ่มพันธมิตรทั้งเก้า/ลีกออฟไนน์ กูโบ, ดงรัง, ดงแบ็ก, เป็นคนที่หักหลังผม ใบหน้าที่คุณเห็นพวกนั้น ก็ล้วนแล้วแต่เป็น—สมาชิกร่วมกันกับองค์กรด้วยเหมือนกัน ผู้จัดการ
         ```
         ```
         Yi Sang: However, it disbanded and scattered one day. Each of us was flown away into our own path.
+        ยี่ซัง: แต่ถึงอย่างนั้นวันหนึ่ง กลุ่มก็ถูกยุบ และฉีกกระชากไม่มีชิ้นดี และพวกเราต่างแยกย้ายไปตามแนวทางของตัวเอง
         ```
         ```
         Yi Sang: That was all there was to it.
+        ยี่ซัง: นั้นแหละคือทั้งหมดของเรื่องนี้
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Aw, what~ Feels like your story's missing a ton of details, y'know?
+        โรเดียน: เอ้า อะไรกัน~ รู้สึกเหมือนว่าเรื่องราวของเธอยังขาดรายละเอียดอีกเยอะเลยนะ แบบว่า? <*ไม่แน่ใจ,อารมณ์>
         ```
         ```
         Rodion: You broke up 'cause things happened and now you're pointing knives at each other~ Like, is that it?
+        โรเดียน: เธอวงแตกเพราะเกิดเรื่องบางอย่างขึ้น แล้วตอนนี้ เธอก็กำลังชี้มีดใส่กัน อยากฆ่ากันจะเป็นจะตาย~ คือ มันแค่นั้นหรอ? <*ไม่แน่ใจ,อารมณ์>
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Or maybe they were never friends after all.
+        ซินแคร์: หรือบางทีพวกเขา อาจไม่ได้เป็นเพื่อนกันตั้งแต่แรกแล้วก็ได้นะครับ
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: It was no more than a moment. I believe my testimony to be apt for a time as transient as that.
+        ยี่ซัง: มันไม่ได้มีอะไรมากไปกว่าช่วงเวลาหนึ่ง ผมเชื่อว่าคำให้การของผมนั้นเพียงพอแล้ว สำหรับช่วงเวลาเพียงอึดใจเดียวกับอะไรแบบนั้น
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             He started talking a lot. He hasn't turned into a chatterbox just yet, but I had the feeling that he'd soon become more talkative.
+            เขาเริ่มพูดมากขึ้น ถึงแม้ว่าจะยังไม่ถึงขนาดที่เป็นคนช่างพูดขนาดนั้น แต่ก็ ฉันมีความรู้สึกว่า อีกเดี๋ยวเขา ก็จะพูดมากกว่านี้
             ```
             ```
             I was reminded of Faust mentioning once that he was never really the quiet sort.
+            ทำเอาฉันนึกถึงคำพูดที่เฟาสท์เคยบอกก่อนหน้านี้ ที่ว่าจริง ๆ แล้วเขาไม่ได้เป็นคนเงียบ ๆ  
             ```
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dante: <Are you really sure you're okay, Yi Sang?>
+        ดันเต้: <ฉันจะถามอีกครั้งนะ ว่านายมั่นใจแล้วจริง ๆ ใช่ไหม ว่าตัวเองไม่เป็นอะไรน่ะ ยี่ซัง?>
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: I have always been okay.
+        ยี่ซัง: ผมโอเคตลอดนั้นแหละ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             If that was his true nature, then this might not be a bad thing.
+            ถ้านั้นเป็นนิสัยจริง ๆ ของเขาแล้วล่ะก็ งั้นนี้ก็อาจจะไม่ใช่เรื่องแย่อะไร
             ```
             ```
             Still, my feelings say that I should care for his well-being.
+            ยังไงซะ ความรู้สึกของฉันมันยังฟ้องอยู่ ว่าฉันควรที่จะใส่ใจเขาให้ได้มากกว่านี้
             ```
-
-        ---
 
         ```
         Dante: <From your recent memory, umm... Have you had any particularly happy or painful moments or something like that?>
+        ดันเต้: <ขอโทษนะที่ต้องถามอะไรละลาบละล้วงแบบนี้ แต่... นายเคยรู้สึกถึงช่วงเวลาที่มีความสุข หรือความเจ็บปวด อะไรแบบนั้นบ้างหรือเปล่า?>
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: ...You are devoting an unusual degree of attention to me today. While it does not please me... I will give you an answer since your demeanor is quite unlike the usual.
+        ยี่ซัง: ...วันนี้คุณ—กำลังให้ความสนใจกับผม ในระดับที่แปลกประหลาดกว่าทุกที ถึงแม้ ว่ามันจะไม่ได้ทำให้ผมรู้สึกดี... แต่เอาเป็นว่าผม—จะตอบคำถามของคุณเป็นการตอบแทน เนื่องในโอกาศที่กิริยาท่าทางคุณดูผิดแปลกไป
         ```
         ```
         Yi Sang: If I were to choose one, the happiest occasion in recent memory would be... when we held an illuminators' conference.
+        ยี่ซัง: ถ้าผมต้องเลือกอย่างใดอย่างหนึ่ง ช่วงเวลาที่ผมเคยมีความสุขครั้งล่าสุดก็คงเป็น... ในตอนที่พวกเราเข้าร่วมประชุมไฟส่องสว่าง
         ```
         ```
         Yi Sang: And the most hopeless one would be...
+        ยี่ซัง: และอันที่รู้สึกสิ้นหวังที่สุดก็คงเป็น... 
         ```
         ```
         Yi Sang: At the forest where I first met you.
+        ยี่ซัง: ตอนที่อยู่ในป่า ที่ ๆ ผมเจอกับคุณเป็นครั้งแรก
         ```
         ```
         Yi Sang: The very moment my life resumed when I was certain that it had ended there.
+        ยี่ซัง: เป็นช่วงเวลาสำคัญที่สุดในชีวิตผมที่กลับมา ในขณะที่คิดอยู่กับตัวเองอยู่เสมอว่ามันคงจบสิ้นแล้ว
         ```
         ```
         Yi Sang: Another such moment is now. I am once again realizing that this regeneration is ever so flawless, unchanging.
+        ยี่ซัง: และช่วงเวลาหนึ่งก็คือตอนนี้ ที่ผมได้รู้สึกตัวอีกครั้งหนึ่ง ว่าพลังฟื้นฟูนี้ มันไร้ที่ติ—อย่างที่ไม่เคยแปรเปลี่ยนไปเลย
         ```
         ```
         Yi Sang: I hope that sates your curiosity.
+        ยี่ซัง: ผมหวังว่าเท่านี้ก็น่าจะเพียงพอกับความสงสัยของคุณนะครับ
         ```
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dante: <……>
+        Dante: <......>
+        ดันเต้: <......>
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: Now, should we not be on our way? I see a long road ahead of us.
+        ยี่ซัง: ทีนี้เรา—ก็มุ่งหน้าต่อกันได้แล้วใช่ไหมครับ? ผมเห็นว่าทางข้างหน้ามันไกลพอตัวเลย
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             As he walked ahead...
+            ทันทีที่เขาเดินไปข้างหน้า...
             ```
             ```
             I could almost see it.
+            ฉันก็สังเกตเห็น
             ```
             ```
             Although the wound was perfectly erased, there was still...
+            ว่าถึงแม้แผลของเขาจะหายไปหมดแล้ว แต่มันกลับ...
             ```
             ```
             A hole in his chest, wide open with no signs of mending.
+            ยังคงมีรูบนหน้าอกของเขา—เปิดกว้าง โดยที่ไม่มีวี่แววของการสมานตัว
             ```
 
 ---

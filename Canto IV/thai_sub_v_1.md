@@ -8293,6 +8293,104 @@
             ยังคงมีรูบนหน้าอกของเขา—เปิดกว้าง โดยที่ไม่มีวี่แววของการสมานตัว
             ```
 
+    ---
+
+    * **Episode: 20 | ตอนที่ 20<b>Location: Nest K - LC Branch Manager's Office | เนสเค - ออฟฟิศผู้จัดการสาขาย่อยศูนย์วิจัยโลโบโตมี่** 
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ---
+
+        ```
+        Samjo: Oh dear...
+        แซมโจ: โห นี้มันอะไรกัน...
+        ```
+        ```
+        Samjo: It seems a radio communication device was installed in this branch.
+        แซมโจ: ดูเหมือนว่าอุปกรณ์สื่อสารวิทยุ จะถูกติดตั้งข้างในสาขานี้นะครับ
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            His phone was intensely vibrating as though the calls set it on fire.
+            มือถือของเขาสั่นไหวอย่างบ้าคลั่ง ราวกับว่าเสียงเรียกเข้าของมันกำลังทำมันติดไฟ
+            ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Yes, I understand. I'll return right away.
+        ```
+        ```
+        Samjo: It seems the laboratory has been raided again.
+        ```
+        ```
+        Samjo: There are apparently more terrorists this time, on a fiercer offense than before.
+        ```
+
+        ---
+
+        ```
+        Outis: So the commotion earlier was a distraction to keep us here.
+        ```
+        ```
+        Outis: Kgh... This could have easily been prevented if it weren't for your collusion.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Outis lashed out in frustration.
+            ```
+
+        ---
+
+        ```
+        Sinclair: It does feel rather strange... I think this is the first time we're going through a Lobotomy Corp. branch without facing a single Abnormality.
+        ```
+
+        ---
+
+        ```
+        Hong Lu: That's true indeed. Those we did see were resting still in their eggs.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: The bounders from tech liberation whatever must have got some way to put Abnormalities in their eggs without lifting a hand, eh?
+        ```
+
+        ---
+
+        ```
+        Faust: Though we will have to see the details with our own eyes... If they really do have the technology to revert Abnormalities into their inactive forms...
+        ```
+        ```
+        Faust: It's certain that they possess the technologies to achieve more.
+        ```
+
+        ---
+
+        ```
+        Gregor: Well well, sounds like you've gotta look out, Dongrang, bud... Ms. Faust isn't one to say ominous stuff for nothing, you know.
+        ```
+
+        ---
+
+        ```
+        Dongrang: It'll work out somehow. In our group is K Corp's most successful researcher... and better yet, two of the greatest geniuses in the City.
+        ```
+
 ---
 
 ### เพิ่มเติม

@@ -8421,6 +8421,535 @@
         ```
         
     ---
+
+    * **Episode: 21 | ตอนที่ 21<b>Location: K Corp. Laboratory Lobby | ล็อบบี้ศูนย์วิจัยคคอร์ป**
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;"> 
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            As soon as we got back to the lobby, we could see panic-struck employees run before Dongrang and Samjo.
+            ทันทีที่เรากลับมายังล็อบบี้ พวกเราก็มองเห็นเหล่าพนักงานที่พากันวิ่งแจ้นออกมาด้วยความตื่นตระหนก ตรงหน้าดงรัง และแซมโจ  
+            ```
+
+        ---
+
+        <img src="../images/K_Researcher.png" alt="HurryingResearcher" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hurrying Researcher: Mr. Dongrang... A moment, please...!
+        นักวิจัยผู้ร้อนรน: คุณดงรังครับ... ขอเวลาเดี๋ยวเดียวได้ไหมครับ...!
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Haha, you've all turned pale. Ah, pardon me for a moment.
+        ดงรัง: ฮาฮา คุณตัวซีดหมดแล้วนะครับ อา ช่วยรอผมสักแปปนะครับ
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <The situation looks pretty tense. It's kinda awkward to stand still like this...>
+        ดันเต้: <สถานการณ์ในตอนนี้มันค่อนข้างจะตึงเครียดเป็นพิเศษเลยนะ ถ้าจะเอาแต่ยืนนิ่งอยู่—ก็มีแต่จะทำให้ทุกอย่างมันอึดอัดกว่าเดิมนะ ฉันว่า...>
+        ```
+
+        * เสียงในหัว
+
+            ```
+            As I meandered in the lobby murmuring meaningless things to myself, Don Quixote scuttled to a shelf.
+            ในขณะที่ผมเดินเตร็ดเตร่ในล๊อบบี้อย่างไร้จุดหมาย พลางพูดพรึมพรัมนู่นนี้กับตัวเอง จู่ ๆ ดอนกิโฆเต้ ก็เร่งฝีเท้าไปยังขั้นวางของแห่งหนึ่ง
+            ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Oho, what manner of books are these? The pictures glitter brightly!
+        ดอน กิโฆเต้: โอโห หนังสือพวกนี้คือกระไรหรือขอรับ? รูปภาพเหล่านี้มันระยิบระยับสว่างจังเลยขอรับ!
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Sounding a merry hum, she picked up a storybook.
+            เธอหยิบหนังสือนิทานขึ้นมา พลางฮัมเพลงอย่างอารมณ์ดี
+            ```
+            ```
+            I peeked at the book she opened.
+            ฉันแอบส่อง—ไปในหนังสือที่เธอเปิด
+            ```
+            ```
+            Yi Sang also turned his gaze toward the book, possibly bothered by something about it...
+            ในขณะที่ยี่ซังเองก็หันหน้ามามองหนังสือ—ด้วยความรู้สึก ที่น่าจะมีบางอย่างกวนใจเขา...
+            ```
+            ```
+            Soon, a golden haze unfolded.
+            ก่อนที่หมอกควันสีทองจะคละคลุ้งออกมา
+            ```
+            ```
+            Once upon a time, when everyone had their heads down and eyes fixed on the ground, there was a person who looked up into the sky.
+            กาลครั้งหนึ่งนานมาแล้ว เมื่อยามใดที่ทุกผู้ก้มหัวลง และตาสบที่พื้นดิน จักมีผู้หนึ่งเสมอที่เงยขึ้นไปยังท้องฟ้า <*ไม่แน่ใจ,การใช้คำ>
+            ```
+            ```
+            In their eyes were twinkling stars.
+            ในดวงตาคู่นั้นของพวกเขา ต่างเต็มไปด้วยดวงดาวระยิบระยับนับหมื่น <*ถึงนี้,ไม่แน่ใจ>
+            ```
+            ```
+            Connecting the nameless stars no one else would look at,
+            ```
+            ```
+            The person gave them names, and made up stories for them as they liked.
+            ```
+            ```
+            Stories are like skeins of thread without an end;
+            ```
+            ```
+            They're drawn and woven together in an effort to find meaning from meaninglessness.
+            ```
+            ```
+            All kinds of stories in the world, happy and sad, circled in the night sky.
+            ```
+            ```
+            Then one day, the person's family fell deeply sick, their life nearing its end.
+            ```
+            ```
+            Like any other day, the person spoke into the sky about the grief they felt.
+            ```
+            ```
+            And then...
+            ```
+            ```
+            A droplet of water fell onto the person's head.
+            ```
+            ```
+            Looking up, the person found the constellation talking to them.
+            ```
+            ```
+            'Dear person who named me and gave me a story, thanks to you, I was cast onto the land and pushed by the flow of time, feeling the world in full.'
+            ```
+            ```
+            'Did you know that stars can grant wishes?'
+            ```
+            ```
+            'The tears I shed will clear you of your pain.'
+            ```
+            ```
+            Afterwards, a rain fell onto the world for a day and a half.
+            ```
+            ```
+            Everyone caught in the rain was all healed up.
+            ```
+            ```
+            The person's ill family recovered to health, too.
+            ```
+            ```
+            Since then, the person and their family, as well as all the residents of the city, have looked up at the sky and talked about happiness every night.
+            ```
+
+        ---
+
+        ```
+        Ishmael: That explains it. I read that Nest K has a custom of walking outside without an umbrella to stand in the rain on the night of a certain month every year...
+        ```
+        ```
+        Ishmael: ...Don't tell me, am I alone in this again? Have none of you checked out the pamphlet guide to K Corp's Nest and Backstreets until now? No one?
+        ```
+
+        ---
+
+        ```
+        Rodion: Oh, that thing... I used mine to whack some bugs... So I gotta get a... new one...
+        ```
+
+        ---
+
+        ```
+        Ishmael: Does this look like the time to be joking around, Rodya?!
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Rodya didn't look like she was joking at all, but Ishmael seemed unaware of it.
+            ```
+
+        ---
+
+        ```
+        Sinclair: By the way, that story... It feels similar to what the regeneration ampule does, doesn't it?
+        ```
+        ```
+        Sinclair: That rain that restores you to health...
+        ```
+
+        ---
+
+        ```
+        Gregor: Yeah, so... You trying to say it was made from rains dropped by stars?
+        ```
+
+        ---
+
+        ```
+        Rodion: Wait, wasn't it nanobots and not watery stuff in the first place?
+        ```
+
+        ---
+
+        ```
+        Dante: <What do you think, Faust?>
+        ```
+
+        ---
+
+        ```
+        Faust: I am a woman of science. I prefer judgement based on facts over metaphors.
+        ```
+        ```
+        Faust: This... so-called analysis and interpretation of stars and clouds might be an area Yi Sang is more familiar with.
+        ```
+        ```
+        Faust: He's a researcher like me, but we're not quite the same.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ……
+        ```
+
+        ---
+
+        ```
+        Dongrang: We'd better hurry. The situation seems pretty serious.
+        ```
+        ```
+        Dongrang: I hear they managed to storm all the way into rooms where experiments are conducted this time.
+        ```
+
+        ---
+
+        ```
+        Don Quixote: Hmm? Does this place not seem too peaceful for such a dire predicament? I see nary a man running away!
+        ```
+
+        ---
+
+        ```
+        Samjo: It does appear that there's been an evacuation order. However, as you witnessed last time, this is not the first emergency that occurred this week. They might be worried that evacuating again could disrupt the 70-hour workweek policy.
+        ```
+
+        ---
+
+        ```
+        Dante: <Working in this kind of place is not easy, huh...>
+        ```
+
+        ---
+
+        ```
+        Outis: I don't get it. How was this attack possible? It didn't seem like a structure that allowed intruders to sneak into the room undetected.
+        ```
+
+        ---
+
+        ```
+        Dongrang: We're running short of time, so I'll explain as we go up.
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Object.
+        ```
+        ```
+        Ryoshu: Give one reason we should go with you.
+        ```
+
+        ---
+
+        ```
+        Meursault: Indeed. The contract has been fulfilled.
+        ```
+
+        ---
+
+        ```
+        Dongrang: That's true. But, as much as I want to give the Bough to you, it's been taken before our eyes.
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Hmgh... TRASHES...
+        ```
+
+        ---
+
+        ```
+        Rodion: Is this... really right? Hey... What does the contract exactly say?
+        ```
+
+        ---
+
+        ```
+        Samjo: Hm... I couldn't say, I'm not all too knowledgeable when it comes to legal matters...
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Instead of arguing back as usual, Samjo suddenly got busy wiping his glasses.
+            ```
+
+        ---
+
+        ```
+        Ryoshu: S.A.
+        ```
+
+        ---
+
+        ```
+        Sinclair: Mister Samjo... She wants answers...
+        ```
+
+        ---
+
+        ```
+        Samjo: Mm?
+        ```
+
+        ---
+
+        ```
+        Ryoshu: S.A...!
+        ```
+
+        ---
+
+        ```
+        Sinclair: S-Samjo... She says she'll assail you this time...!
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Wrong. I said I'll assail him right now.
+        ```
+
+        ---
+
+        ```
+        Samjo: T-This is an emergency, an emergency!!! You should go upstairs, quickly!
+        ```
+
+        ---
+
+        ```
+        Dante: <L-Let's hurry along for now, Ryōshū...>
+        ```
+
+        ---
+
+        ```
+        Ryoshu: I'll show SANGRIA... I swear it.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Samjo urgently sent us upstairs.
+            ```
+
+        ---
+
+        ```
+        Location:Ruined K Corp. Laboratory Hallway
+        ```
+
+
+        ---
+
+            ```
+            The hallway that was clean and calm hours ago...
+            ```
+            ```
+            Has now turned into complete mayhem, filled with screams and fleeing people.
+            ```
+            ```
+            A researcher was crying and clinging to someone who appeared to be a liberation alliance member.
+            ```
+
+        ---
+
+        ```
+        Dying Researcher: Help me... Mr. Dongrang... Please, save me...
+        ```
+
+        ---
+
+        ```
+        Dongrang: My staff member... is begging for help, wouldn't you consider letting them go?
+        ```
+        ```
+        Dongrang: If it's intelligence you want, I'll give it to you. We were planning to go out for a staff dinner tomorrow, and the restaurant we booked serves such delicious meat.
+        ```
+        ```
+        Dongrang: It'd be rather unfortunate if the smell awaiting us tomorrow came from incense sticks at a funeral instead of meat on a grill. Wouldn't you agree?
+        ```
+
+        ---
+
+        ```
+        Alliance Member: Intelligence? We have no need for it.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Huh, you're walking in unarmed now? What happened to your robots that did the fighting for you wimps?
+        ```
+
+        ---
+
+        ```
+        Alliance Member: We have no need to bring our robots, either.
+        ```
+        ```
+        Alliance Member: I see plenty of useful-looking ones here.
+        ```
+
+        ---
+
+        ```
+        Outis: ...Are you trying to...?
+        ```
+
+        ---
+
+        ```
+        Class 2 Excision Staff: We were ordered to excise terrorists. Target: all parts.
+        ```
+
+        ---
+
+        ```
+        Ishmael: Huff. We outnumber them by a wide margin. It might be a little unfair, but... it seems like we won't have any trouble beating them.
+        ```
+
+        ---
+
+        ```
+        Alliance Member: Ms. Ran's expertise was hijacking machines.
+        ```
+        ```
+        Alliance Member: She was more experienced in hacking than fighting.
+        ```
+
+        ---
+
+        ```
+        Ampule Helper: Welcome. Here at K Corp, we value your safety above all else.
+        ```
+
+        ---
+
+        ```
+        Class 2 Excision Staff: Huh, wait... What's...
+        ```
+
+        ---
+
+        ```
+        Ampule Helper: For everyone's safety, deserters attempting to flee from battle will be injected with a decay ampule according to regulatory rules. The ampule will be launched if you leave the 120-meter radius of the combat area; you are 49 meters away from the perimeter.
+        ```
+
+        ---
+
+        ```
+        Class 2 Excision Staff: ...Shoot...
+        ```
+
+        ---
+
+        ```
+        Ampule Helper: If you do not attack the enemy within the next 5 seconds, the decay ampule will be administered according to regulatory rules. You have 4 seconds remaining.
+        ```
+
+        ---
+
+        ```
+        Dante: <Wait, are we... the "enemy" now?>
+        ```
+
+        ---
+
+        ```
+        Class 2 Excision Staff: Damn it... I've got no choice...
+        ```
+
+        ---
+
+        ```
+        Meursault: …!
+        ```
+
+        ---
+
+        ```
+        Don Quixote: Why...!
+        ```
+
+        ---
+
+        ```
+        Class 2 Excision Staff: I... don't wanna get hit by the decay ampule. I want to live...
+        ```
+
+        ---
+
+        ```
+        Ampule Helper: Current status: no deserters detected, all status green. Please stand in line for regeneration ampules.
+        ```
+
+        ---
+
+        ```
+        Meursault: …I see.
+        ```
+
+        ---
+
+        ```
+        Outis: They're weighing their lives with ours, not unlike what we do. Please permit us to engage.
+        ```
+
+        ---
+
+        ```
+        Dante: <...Got it.>
+        ```
 ---
 
 ### เพิ่มเติม

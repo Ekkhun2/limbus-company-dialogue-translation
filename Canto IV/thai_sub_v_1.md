@@ -8605,7 +8605,7 @@
 
         ```
         Ishmael: Does this look like the time to be joking around, Rodya?!
-        อิชมาเอล: นี้ดูเหมือนว่าพวกเรามีเวลามาพูดเล่นกันมากมั้งโรดย่า?! <*ถึงนี้>
+        อิชมาเอล: นี้ดูเหมือนว่าพวกเรามีเวลามาพูดเล่นกันมากหรือไงโรดย่า?!
         ```
 
         ---
@@ -8616,45 +8616,64 @@
 
             ```
             Rodya didn't look like she was joking at all, but Ishmael seemed unaware of it.
+            โรดย่าดูจะไม่ได้พูดเล่นเลยสักนิดนะ แต่เหมือนอิชมาเอลจะไม่รู้ตัว
             ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: By the way, that story... It feels similar to what the regeneration ampule does, doesn't it?
+        ซินแคร์: ยังไงก็เถอะครับ นิทานนั้น... มันฟังดูเหมือนกับ เรื่องยาฟื้นฟูเลยนะครับ
         ```
         ```
         Sinclair: That rain that restores you to health...
+        ซินแคร์: กับฝนนั้น—ที่สามารถรักษาสุขภาพร่างกายของคนได้...
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Yeah, so... You trying to say it was made from rains dropped by stars?
+        เกรกอร์: ช่าย งั้น... เธอกำลังจะบอกว่า มันถูกสร้างขึ้นมาจากน้ำตาของดวงดาวพวกนั้นที่รีดออกมางั้นหรอ?
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Wait, wasn't it nanobots and not watery stuff in the first place?
+        โรเดียน: เดี๋ยวก่อนน้า ไม่ใช่ว่ามันเป็นนาโนบอท กับของเหลว ๆ ที่พวกเราเจอก่อนหน้านี้หรอ?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <What do you think, Faust?>
+        เฟาสท์: <เธอคิดว่าไงล่ะ เฟาสท์?> <*ถึงนี้>
         ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: I am a woman of science. I prefer judgement based on facts over metaphors.
+        เฟาสท์: 
         ```
         ```
         Faust: This... so-called analysis and interpretation of stars and clouds might be an area Yi Sang is more familiar with.
+        เฟาสท์: 
         ```
         ```
         Faust: He's a researcher like me, but we're not quite the same.
+        เฟาสท์: 
         ```
 
         ---

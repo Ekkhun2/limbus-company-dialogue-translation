@@ -8929,7 +8929,7 @@
 
         ---
 
-        <img src="../images/K_Reseaarcher2.png" alt="DyingResearcher" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/K_Researcher2.png" alt="DyingResearcher" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dying Researcher: Help me... Mr. Dongrang... Please, save me...
@@ -9044,7 +9044,7 @@
 
         ---
 
-        <img src="../images/.png" alt="AllianceMember" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/K_Machine1.png" alt="AmpuleHelper" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ampule Helper: For everyone's safety, deserters attempting to flee from battle will be injected with a decay ampule according to regulatory rules. The ampule will be launched if you leave the 120-meter radius of the combat area; you are 49 meters away from the perimeter.

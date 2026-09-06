@@ -8441,7 +8441,7 @@
 
         ```
         Hurrying Researcher: Mr. Dongrang... A moment, please...!
-        นักวิจัยผู้ร้อนรน: คุณดงรังครับ... ขอเวลาเดี๋ยวเดียวได้ไหมครับ...!
+        นักวิจัยผู้ร้อนรน: คุณดงรัง... ขอเวลาเดี๋ยวเดียวได้ไหมครับ...!
         ```
 
         ---
@@ -8494,7 +8494,7 @@
             ```
             ```
             Yi Sang also turned his gaze toward the book, possibly bothered by something about it...
-            ในขณะที่ยี่ซังเองก็หันหน้ามามองหนังสือ—ด้วยความรู้สึก ที่น่าจะมีบางอย่างกวนใจเขา...
+            ในขณะที่ยี่ซังเองก็หันมามองหน้าหนังสือ—ด้วยท่าทีที่เหมือนกับว่ามีบางอย่างกวนใจเขา...
             ```
             ```
             Soon, a golden haze unfolded.
@@ -8502,86 +8502,115 @@
             ```
             ```
             Once upon a time, when everyone had their heads down and eyes fixed on the ground, there was a person who looked up into the sky.
-            กาลครั้งหนึ่งนานมาแล้ว เมื่อยามใดที่ทุกผู้ก้มหัวลง และตาสบที่พื้นดิน จักมีผู้หนึ่งเสมอที่เงยขึ้นไปยังท้องฟ้า <*ไม่แน่ใจ,การใช้คำ>
+            กาลครั้งหนึ่งนานมาแล้ว เมื่อยามใดที่ทุกผู้ก้มหัวลง และตาสบที่พื้นดิน จักมีผู้หนึ่งเสมอที่เงยหน้าขึ้นแหงนมองไปยังท้องฟ้า
             ```
             ```
             In their eyes were twinkling stars.
-            ในดวงตาคู่นั้นของพวกเขา ต่างเต็มไปด้วยดวงดาวระยิบระยับนับหมื่น <*ถึงนี้,ไม่แน่ใจ>
+            ในดวงตาคู่นั้นของเขา ต่างเต็มไปด้วยดวงดาวระยิบระยับนับหมื่นดวง
             ```
             ```
             Connecting the nameless stars no one else would look at,
+            ที่เชื่อมหมู่ดาวไร้ชื่อ—ผู้จ้องมองเข้าหากัน
             ```
             ```
             The person gave them names, and made up stories for them as they liked.
+            คนผู้นั้นจะมอบชื่อให้กับพวกเขา และแต่งเรื่องราวขึ้นมาอย่างที่พวกเขาชอบ 
             ```
             ```
             Stories are like skeins of thread without an end;
+            โดยที่เรื่องราวพวกนั้น—ก็เหมือนกับ เส้นด้ายที่พันกันไม่จบไม่สิ้น;
             ```
             ```
             They're drawn and woven together in an effort to find meaning from meaninglessness.
+            พวกมันถูกดึงขึ้นมาและทอปมเข้าด้วยกัน ทั้งหมดก็เพื่อตามหาความหมายให้ได้จากเรื่องราวที่ไร้แก่นสารพวกนี้
             ```
             ```
             All kinds of stories in the world, happy and sad, circled in the night sky.
+            ทุกเรื่องราวบนโลกใบนี้ ทั้งที่สุขและเศร้า ต่างหมุนวนเป็นวงกลมไม่รู้จบที่บนนั้น บนท้องฟ้ายามค่ำคืน
             ```
             ```
             Then one day, the person's family fell deeply sick, their life nearing its end.
+            ก่อนที่วันหนึ่ง ครอบครัวของคนผู้นั้นจะล้มป่วยอย่างหนัก และใกล้ตายเต็มที
             ```
             ```
             Like any other day, the person spoke into the sky about the grief they felt.
+            ก็เหมือนกับทุกวัน คนผู้นั้นก็ยังคงพูดคุยกับท้องฟ้า เกี่ยวกับความรู้สึกเศร้าโศกเสียใจที่เขารู้สึก 
             ```
             ```
             And then...
+            และทันใดนั้นเอง...
             ```
             ```
             A droplet of water fell onto the person's head.
+            หยาดน้ำหยดหนึ่ง ก็ไหลลงมาบนหัวของคนผู้นั้น
             ```
             ```
             Looking up, the person found the constellation talking to them.
+            พอมองขึ้นไป คนผู้นั้นก็พบว่า กลุ่มดาวเหล่านั้นกำลังพูดบางอย่างกับเขาอยู่
             ```
             ```
             'Dear person who named me and gave me a story, thanks to you, I was cast onto the land and pushed by the flow of time, feeling the world in full.'
+            'ท่านผู้ซึ่งประทานชื่อให้กับเรา และเรื่องราวเอ้ย เราต้องขอบคุณท่านมาก เพราะท่านเลยที่ทำให้เราได้ลงไปยังพื้นดิน และเดินทางผ่านกระแสเวลาที่ไหลผ่านนับร้อยพัน ได้รู้สึกถึงโลกใบนี้อย่างเต็มเปี่ยม'
             ```
             ```
             'Did you know that stars can grant wishes?'
+            'ท่านรู้หรือไม่ ว่าดวงดาวสามารถมอบพรให้กับท่านได้?'
             ```
             ```
             'The tears I shed will clear you of your pain.'
+            'น้ำตาที่เราไหลริน จักขจัดความเจ็บปวดของท่านจนหมดสิ้น'
             ```
             ```
             Afterwards, a rain fell onto the world for a day and a half.
+            หลังจากนั้น ฝนก็ตกลงมายังโลกใบนี้เป็นเวลาวันและอีกครึ่ง
             ```
             ```
             Everyone caught in the rain was all healed up.
+            ทุกผู้ที่สัมผัสกับหยาดฝนต่างฟื้นฟูกลับมาสดใส
             ```
             ```
             The person's ill family recovered to health, too.
+            รวมถึงครอบครัวของคนผู้นั้นก็กลับมามีสภาพดีดังเดิม
             ```
             ```
             Since then, the person and their family, as well as all the residents of the city, have looked up at the sky and talked about happiness every night.
+            ตั้งแต่นั้นเป็นต้นมา คนผู้นั้นและครอบครัวรวมถึงผู้อยู่อาศัยในเดอะซิตี้ ก็มักจะเงยมองขึ้นไปยังท้องฟ้า และพูดคุยเกี่ยวกับความสุขที่พวกเขามีในทุกคืน
             ```
 
         ---
 
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ishmael: That explains it. I read that Nest K has a custom of walking outside without an umbrella to stand in the rain on the night of a certain month every year...
+        อิชมาเอล: งี้เองสินะ ฉันเคยอ่านมา ว่าเนสเคน่ะ มีขนบธรรมเนียมประเพณีปฎิบัติ—กับการเดินออกนอกบ้านโดยที่ไม่พกร่ม เพื่อที่จะยืนอยู่กลางสายฝนยามค่ำคืนที่เกิดขึ้นในทุก ๆ ปี...
         ```
         ```
         Ishmael: ...Don't tell me, am I alone in this again? Have none of you checked out the pamphlet guide to K Corp's Nest and Backstreets until now? No one?
+        อิชมาเอล: ...อย่าบอกฉันนะว่า—นี้ฉันเป็นคนเดียวอีกแล้วหรอ? คือ—ไม่มีพวกนายคนไหนเลยสักคนที่อ่านแผ่นพับนำเที่ยวของเนสเคคอร์ป กับเบลคสตรีทบ้างเลยหรือไงเนี้ย? สักคนน่ะ?
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Oh, that thing... I used mine to whack some bugs... So I gotta get a... new one...
+        โรเดียน: โอ้ ไอเจ้านั้นน่ะหรอ... พอดีว่าฉันใช้ของตัวเองซัดแมลงไปแล้วน่ะ... เพราะงั้นา... ฉันคงต้องหาใบใหม่...
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Does this look like the time to be joking around, Rodya?!
+        อิชมาเอล: นี้ดูเหมือนว่าพวกเรามีเวลามาพูดเล่นกันมากมั้งโรดย่า?! <*ถึงนี้>
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 

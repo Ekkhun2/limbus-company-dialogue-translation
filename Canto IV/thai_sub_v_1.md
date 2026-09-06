@@ -4050,7 +4050,7 @@
 
         ---
 
-        <img src="../images/K_employee.png" alt="KCorpSecurity" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/K_Employee.png" alt="KCorpSecurity" width="100" style="display: block; margin: 0 auto;">
 
         ```
         K Corp. Security: ...Kgh.
@@ -4068,7 +4068,7 @@
 
         ---
 
-        <img src="../images/K_employee.png" alt="KCorpSecurity" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/K_Employee.png" alt="KCorpSecurity" width="100" style="display: block; margin: 0 auto;">
 
         ```
         K Corp. Security: ...Kurgh!
@@ -8404,7 +8404,7 @@
 
         ---
 
-        <img src="../images/Gergor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Well well, sounds like you've gotta look out, Dongrang, bud... Ms. Faust isn't one to say ominous stuff for nothing, you know.
@@ -8995,7 +8995,7 @@
 
         ---
 
-        <img src="../images/K_employee.png" alt="Class2ExcisionStaff" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/K_Employee.png" alt="Class2ExcisionStaff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Class 2 Excision Staff: We were ordered to excise terrorists. Target: all parts.
@@ -9035,7 +9035,7 @@
 
         ---
 
-        <img src="../images/K_employee.png" alt="Class2ExcisionStaff" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/K_Employee.png" alt="Class2ExcisionStaff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Class 2 Excision Staff: Huh, wait... What's...
@@ -9053,7 +9053,7 @@
 
         ---
 
-        <img src="../images/K_employee.png" alt="Class2ExcisionStaff" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/K_Employee.png" alt="Class2ExcisionStaff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Class 2 Excision Staff: ...Shoot...
@@ -9080,7 +9080,7 @@
 
         ---
 
-        <img src="../images/K_employee.png" alt="Class2ExcisionStaff" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/K_Employee.png" alt="Class2ExcisionStaff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Class 2 Excision Staff: Damn it... I've got no choice...
@@ -9107,7 +9107,7 @@
 
         ---
 
-        <img src="../images/K_employee.png" alt="Class2ExcisionStaff" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/K_Employee.png" alt="Class2ExcisionStaff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Class 2 Excision Staff: I... don't wanna get hit by the decay ampule. I want to live...
@@ -9192,6 +9192,120 @@
         สมาชิกคณะปลดแอก: เพราะงั้นแหละว่าทำไม พวกเราถึงพาบางสิ่งที่แปลกใหม่—จากศูนย์วิจัยโลโบโตมี่ ติดไม้ติดมือมาด้วย
 
     ---
+
+    * **Episode: 23 | ตอนที่ 23<br>Location: Ruined K Corp. Laboratory Hallway | โถงทางเดินศูนย์วิจัยเคคอร์ปที่พังลง**
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Hey, isn't something off about this?
+        เกรกอร์: 
+        ```
+        ```
+        Gregor: Was E.G.O something you could keep on all the time and use whenever like that? 'Cause I didn't know you could do that.
+        เกรกอร์: 
+        ```
+        ```
+        Gregor: We all know E.G.O isn't some kind of magic tool. It's a lot of work... just keeping my sanity from tumbling over.
+        เกรกอร์: 
+        ```
+
+        ---
+
+        ```
+        Rodion: Besides, didn't someone say that those people all... used to be lab workers...! How is it possible for them to use E.G.O better than we do?
+        ```
+
+        ---
+
+        ```
+        Outis: This is not a matter of proficiency in battle.
+        ```
+        ```
+        Outis: They must have employed some other trick.
+        ```
+
+        ---
+
+        ```
+        Faust: There is one possibility in mind.
+        ```
+        ```
+        Faust: If they reduced Abnormalities to an ovate form and figured out a way to materialize their E.G.O the way Lobotomy Corporation did...
+        ```
+        ```
+        Faust: In other words, repeatedly researched the conditions of corrosion and trained themselves to repress it utilizing the Qliphoth Deterrence emitted by the Golden Bough...
+        ```
+        ```
+        Faust: It could be possible to use E.G.O well without being affected by corrosion even after a short period.
+        ```
+        ```
+        Faust: What they're using are tools, compressed and repressed into general utility.
+        ```
+
+        ---
+
+        ```
+        Gregor: Does that mean... Lobotomy Corporation did the same...
+        ```
+
+        ---
+
+        ```
+        Faust: Yes, rather than Fixers, regular employees were given the E.G.O to work with.
+        ```
+        ```
+        Faust: Of course, what we have right now isn't as refined as what the Wing used to have.
+        ```
+
+        ---
+
+        ```
+        Ishmael: Wait, hold on. If you're saying they can do that with the help of the Golden Bough's deterrence power, that means it's nearby...
+        ```
+
+        ---
+
+        ```
+        Gregor: ...Must be. Along with Dongbaek, who has it in her hands...
+        ```
+
+        ---
+
+        ```
+        Outis: I cannot help but question the security of this facility. The leader of the terrorists is freely roaming in your building, and not once has her presence been reported.
+        ```
+
+        ---
+
+        ```
+        Samjo: As much as I'd like to object... I don't have much I can say. I didn't expect them to break in so easily...
+        ```
+
+        ---
+
+        ```
+        Dongrang: The technology liberation alliance is formed by former researchers of renowned firms, after all.
+        ```
+
+        ---
+
+        ```
+        Don Quixote: I see... So they were villains of bright minds. But I must wonder, can individuals of bright minds turn to villainy? Hmm... What a bewildering conundrum...
+        ```
+
+        ---
+
+        ```
+        Samjo: Don't let them fascinate you. If they were so wise, they wouldn't have quit their enviable jobs at large firms for a terrorist organization in the first place.
+        ```
+
+        ---
+
+        ```
+        Ishmael: Maybe it wasn't the life they wanted.
+        ```
+
 ---
 
 ### เพิ่มเติม

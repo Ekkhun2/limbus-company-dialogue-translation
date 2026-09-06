@@ -9030,7 +9030,7 @@
 
         ```
         Ampule Helper: Welcome. Here at K Corp, we value your safety above all else.
-        หุ่นจ่ายยา: 
+        หุ่นจ่ายยา: เคคอร์ปยินดีต้อนรับ ที่นี้พวกเรา ให้ความสำคัญกับความปลอดภัยของท่านเหนือทุกสิ่ง
         ```
 
         ---
@@ -9138,7 +9138,7 @@
 
         ```
         Outis: They're weighing their lives with ours, not unlike what we do. Please permit us to engage.
-        เอาทิส: พวกเขากำลังเห็นค่าชีวิตตัวเองมากกว่าพวกเรา ไม่เหมือนกับที่เราทำ โปรดมอบหมายคำสั่ง ให้พวกเรา—เข้าโจมตีด้วยค่ะ
+        เอาทิส: พวกเขากำลังเห็นค่าชีวิตตัวเองมากกว่าพวกเรา ไม่เหมือนที่เราทำ โปรดมอบหมายคำสั่ง ให้พวกเรา—เข้าโจมตีด้วยค่ะ
         ```
 
         ---
@@ -9149,6 +9149,49 @@
         Dante: <...Got it.>
         ดันเต้: <...เข้าใจแล้ว>
         ```
+    
+    ---
+
+    * **Episode: 22 | ตอนที่ 22<br>Location: Ruined K Corp. Laboratory Hallway | โถงทางเดินศูนย์วิจัยเคคอร์ปที่พังลง**
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: I take back what I said about you being spineless wimps. I'm surprised you didn't run away while we were scrapping.
+        ฮิธคลิฟฟ์: ฉันขอกลับคำที่เคยพูดไว้ ว่าแกเป็นได้แค่พวกหน้าเบื่อจอมใจเสาะ ฉันตกใจเลยนะเนี้ย ที่เห็นว่าแกไม่วิ่งหนีออกไป ในขณะที่พวกเรากำลังอัดเจ้าพวกนี้ซะอยู่หมัด
+        ```
+
+        ---
+
+        <img src="../images/Liberation1.png" alt="AllianceMember" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Alliance Member: ......
+        สมาชิกคณะปลดแอก: ......
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: You're so dead now. Bunch of book-smart sods who think using things others made is a talent...
+        ฮิธคลิฟฟ์: แกไม่รอดแล้ว ไอพวกหนอนหนังสือที่เอาแต่คิดว่า การใช้สิ่งอื่นแทนตัวเองจะเป็นพรสวรรค์ได้...
+        ```
+
+        ---
+
+        <img src="../images/Liberation1.png" alt="AllianceMember" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Alliance Member: Fair point.
+        สมาชิกคณะปลดแอก: ก็แฟร์ดี 
+        ```
+        ```
+        Alliance Member: Which is why we brought something new from the Lobotomy Corp. branch.
+        สมาชิกคณะปลดแอก: เพราะงั้นแหละว่าทำไม พวกเราถึงพาบางสิ่งที่แปลกใหม่—จากศูนย์วิจัยโลโบโตมี่ ติดไม้ติดมือมาด้วย
+
+    ---
 ---
 
 ### เพิ่มเติม

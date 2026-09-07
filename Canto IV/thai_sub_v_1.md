@@ -9352,6 +9352,234 @@
         ```
 
     ---
+
+    * **Episode: 24 | ตอนที่ 24<br>Location: Ruined K Corp. Laboratory Hallway | โถงทางเดินศูนย์วิจัยเคคอร์ปที่พังลง**
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: This is troubling. I don't mind other locations, but if that place were to be attacked, it'll cause a major setback...
+        ดงรัง: นี้มันชักจะน่ากังวลกันไปใหญ่แล้ว ผมจะไม่ว่าอะไรเลยถ้ามันเป็นที่อื่น แต่—ถ้าเกิดว่าที่นั่นโดนโจมตีขึ้นมาล่ะก็ คงจะสร้างปัญหาใหญ่ให้กับเราได้ไม่น้อยเลย...
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Mr. Dongrang, you have an urgent call from Director Alfonso.
+        แซมโจ: คุณดงรัง มีสายเรียกเข้าด่วนจี๋มาจากท่านประธานอัลฟอนโซครับ
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Oh boy... She's about to give me a talking-to. Can't you take the call for me, Samjo?
+        ดงรัง: โอ้เวรละไง... เธอกำลังจะ ดุ(ด่า)/ตำหนิ ฉันไม่ผิดแน่ นายคุยกับเธอแทนฉันไม่ได้หรอแซมโจ? 
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: I already have been, but her patience is nearing its limit.
+        แซมโจ: ผมคุยไปแล้วครับ แต่เหมือนว่าความอดทนของเธอจะใกล้ถึงขีดกำจัดแล้ว
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Oh well... I'm not getting away from this. Pardon me for a second.
+        ดงรัง: โอ้ช่วยไม่ได้นะ... ดูท่าฉันจะบ่ายเบี่ยงต่อไปไม่ได้อีกแล้ว ขออภัยทุกคนด้วย ขอผมคุยโทรศัพท์สักครู่นะครับ 
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            While Dongrang was away, we spotted an employee who hadn't evacuated across the hallway, nervously wandering.
+            ในระหว่างที่ดงรังกำลังยุ่งอยู่ ทันใดนั้นเอง พวกเราก็มองเห็นพนักงานที่ไมได้อพยพอยู่อีกฝั่งหนึ่งของโถงทางเดินที่ทอดยาว ในขณะเดินไปมาด้วยท่าทีที่เป็นร้อนรน
+            ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: Watch closely, Executive Manager. If you see a lackey snooping around like that in the middle of danger...
+        เอาทิส: ดูให้ดีนะคะท่านผู้จัดการสูงสุด ถ้าเกิดว่าท่านเห็นใครก็ตามที่เตร็ดเตร่อยู่แบบนั้น ท่ามกลางอันตรายแล้วล่ะก็...
+        ```
+        ```
+        Outis: It most likely means you've found someone with useful information. It would be wise to make good use of them.
+        เอาทิส: มันมีความเป็นไปสูงที่ว่า—ท่านกำลังจะได้เจอคนที่รู้ข้อมูลบางอย่างที่เป็นประโยชน์แล้ว เพราะงั้นมันจะเป็นการฉลาดกว่าถ้าพวกเรา—จะใช้ประโยชน์จากเขาให้เต็มที่
+        ```
+        ```
+        Outis: Hey, we're agents from a subcontracting firm here to deal with this commotion. What's going on?
+        เอาทิส: เฮ้ พวกเราเป็นตัวแทนจากบริษัทรับเหมาช่วงที่นี้—เพื่อยับยั้งความโกลาหลที่เกิดขึ้น ทีนี้คุณช่วยบอกเราหน่อยได้ไหม ว่าทุกอย่างมันเป็นไปเป็นมายังไง?
+        ```
+
+        ---
+
+        <img src="../images/K_Researcher.png" alt="NervousEmployee" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Nervous Employee: I-I've been looking for Ms. Shrenne, but I can't find her anywhere. I need to tell her to evacuate...
+        พนักงานผู้เป็นกังวล: ผ-ผมกำลังตามหาคุณชเรนน์อยู่น่ะครับ แต่หาเท่าไหร่ก็ไม่เจอเลย ผมต้องบอกเธอให้ได้—ว่าเราต้องอพยพ
+        ```
+        ```
+        Nervous Employee: She's left her computer on... Where could she be...
+        พนักงานผู้เป็นกังวล: ทั้ง ๆ ที่เธอก็เปิดคอมทิ้งเอาไว้แท้ ๆ... แล้วเธอจะไปไหนได้ล่ะ...
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Ah... Actually, she-
+        ซินแคร์: อา... อันที่แล้ว เธอ-
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: Alright, we'll find her. You evacuate first.
+        เอาทิส: เข้าใจแล้ว พวกเราจะเป็นคนตามหาเธอให้เอง คุณอพยพไปก่อนได้เลย
+        ```
+
+        ---
+
+        <img src="../images/K_Employee.png" alt="NervousEmployee" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Nervous Employee: Thank you.
+        พนักงานผู้เป็นกังวล: ขอบคุณมากนะครับ
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: Now, while the terrorists' informant has been removed, the staff is still in a muddle, and her computer is left on.
+        เอาทิส: ทีนี้ ถึงแม้ว่าสายข่าวของพวกผู้ก่อการร้ายถูกกำจัดเป็นที่เรียบร้อยแล้ว แต่สถานการณ์ในหมู่เจ้าหน้าที่—กลับยังคงวุ่นวายและสับสน กับคอมของเธอที่เปิดทิ้งไว้ 
+        ```
+        ```
+        Outis: We're in a complete tactical advantage. It didn't even cost us any strength.
+        เอาทิส: พวกเรากำลังอยู่ในความได้เปรียบทางด้านกลยุทธอย่างสมบูรณ์ มันทำให้พวกเราเสียเหงื่อ—สักหยดยังไม่ได้ด้วยซ้ำไป
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Probably thanks to the pride in this achievement, Outis sounded much more excited than usual... But no one else seemed to care.
+            คงต้องขอบคุณความภาคภูมิใจในความสำเร็จนั้นของเธอ ที่ทำให้เอาทิสดูตื่นเต้นมากกว่าปกติ... ถึงจะดูเหมือนว่าไม่มีใครสนใจก็เถอะ
+            ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: The computer Shrenne used... Its password was "missyouran", right...
+        อิชมาเอล: คอมพิวเตอร์ที่ชเรนน์ใช้... มีรหัสผ่านว่า “คุณถึงคุณรัน” ใช่ไหมนะ...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <We were told she was in close relations with Ran, exchanging lots of messages...>
+        ดันเต้: <อา—ใช่ เท่าที่เรารู้มา เธอเหมือนจะมีความสัมพันธ์ที่ใกล้ชิดกับอดีตนักวิจัยรัน ด้วยการแลกเปลี่ยนข้อความเป็นจำนวนมาก...>
+        ```
+        ```
+        Dante: <If we're lucky, we might find a pending email or some other clue on her computer.>
+        ดันเต้: <ถ้าพวกเราโชคดีพอ บางที เราอาจได้เบาะแสอะไรบางอย่าง ผ่านอีเมลล์ที่ยังไม่ได้ตอบ—ภายในคอมเครื่องนั่นก็ได้>
+        ```
+        ```
+        Dante: <It should hopefully give us some insight into the technology liberation alliance, too.>
+        ดันเต้: <มันน่าจะพอบอกอะไรได้บ้าง เกี่ยวกับข้อมูลภายในเทคโลโยีที่คณะปลดแอกกำลังใช้อยู่>
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: You're quick to understand. That was unexpe- I mean... very much expected of my executive manager.
+        เอาทิส: ท่านเข้าใจได้เร็วดีนะคะ ดิฉันไม่คิดไม่ฝันเลยว่าท่านจะทำด(ได้)- หมายถึง... คิดอยู่แล้วค่ะ ว่าท่านต้องทำได้
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Alright, good. The problem is how we're gonna sneak into the office... Who on our team is gonna walk in there bold-faced and get it done without rousing suspicion...
+        เกรกอร์: โอเค เจ๋ง แต่ปัญหาก็คือ พวกเราจะแอบย่องเข้าไปใน ออฟฟิศ/ห้องทำงาน ได้ยังไง... ใครในหมู่เรากัน—ที่สามารถ ที่จะเดินเข้าไปตรง ๆ ได้ และทำมันจนเร็จ โดยที่ไม่มีใครเอะใจ...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <If I had to choose a Sinner who can keep a still face and avoid suspicion...>
+        ดันเต้: <ถ้าฉันจำเป็นต้องเลือกว่า คนบาปคนไหน ที่สามารถเก็บหน้านิ่งได้โดยที่ถูกสงสัย...>
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Give this humble knight one more chance, and I shall succeed...!
+        ดอน กิโฆเต้: ข้าไง! โปรดมอบโอกาศให้กับอัศวินผู้ ต่ำต้อย/ถ่อมตัว เยี่ยงข้าด้วยเถิด แล้วเข้า—จะทำมันให้สำเร็จ...!
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Meursault! Think you can handle it?>
+        ดันเต้: <เมอร์โซลท์! คิดว่านายทำได้ไหม?>
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: ...As long as you command.
+        เมอร์โซลท์: ...ตามที่ท่านบัญชาครับ/ตราบใดที่ท่านสั่งมา
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Yeah, I'm counting on you.>
+        ดันเต้: <อา ฉันฝากนายด้วยนะ>
+        ```
+    
+    ---
 ---
 
 ### เพิ่มเติม

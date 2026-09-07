@@ -9120,7 +9120,7 @@
 
         ```
         Ampule Helper: Current status: no deserters detected, all status green. Please stand in line for regeneration ampules.
-        หุ่นจ่ายยา: สถานะปัจจุบัน: ไม่ตรวจพบ สัญญะ/วี่แวว ของการหนีหน้าที่ ทุกสถานะเขียว โปรดยืนเป็นแถวเพื่อรับยาฟื้นฟู
+        หุ่นจ่ายยา: สถานะปัจจุบัน: ไม่ตรวจพบ สัญญะ/วี่แวว ของการละทิ้งหน้าที่ ทุกสถานะเขียว โปรดยืนเป็นแถวเพื่อรับยาฟื้นฟู
         ```
 
         ---
@@ -9185,11 +9185,11 @@
 
         ```
         Alliance Member: Fair point.
-        สมาชิกคณะปลดแอก: ก็แฟร์ดี 
+        สมาชิกคณะปลดแอก: ไม่เถียง
         ```
         ```
         Alliance Member: Which is why we brought something new from the Lobotomy Corp. branch.
-        สมาชิกคณะปลดแอก: เพราะงั้นแหละว่าทำไม พวกเราถึงพาบางสิ่งที่แปลกใหม่—จากศูนย์วิจัยโลโบโตมี่ ติดไม้ติดมือมาด้วย
+        สมาชิกคณะปลดแอก: เพราะงั้นแหละว่าทำไม พวกเราถึงเอาของใหม่จากศูนย์วิจัยโลโบโตมี่ ติดไม้ติดมือมาด้วย
 
     ---
 
@@ -9199,113 +9199,159 @@
 
         ```
         Gregor: Hey, isn't something off about this?
-        เกรกอร์: 
+        เกรกอร์: เฮ้ นี้มันชักจะแปลกกันไปใหญ่แล้วนะ?
         ```
         ```
         Gregor: Was E.G.O something you could keep on all the time and use whenever like that? 'Cause I didn't know you could do that.
-        เกรกอร์: 
+        เกรกอร์: เดี๋ยวนี้ อีโก้/อี.จี.โอ เขาพัฒนาไปถึงขั้นที่—เราสามารถพกติดตัวแล้วก็ใช้ตอนไหนก็ได้แล้วหรอ? เพราะฉันไม่เห็นจะรู้เลย ว่ามันทำแบบนั้นได้
         ```
         ```
         Gregor: We all know E.G.O isn't some kind of magic tool. It's a lot of work... just keeping my sanity from tumbling over.
-        เกรกอร์: 
+        เกรกอร์: แบบพวกเราก็รู้กันอยู่ใช่ไหม ว่าอีโก้ ไม่ใช่เครื่องมือวิเศษวิโสอะไรทั้งนั้น มันต้องใช้ความพยายามมาก... เพื่อที่จะ—ควบคุมสติของผู้ใช้ไม่ให้หลุดลอยไป
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Besides, didn't someone say that those people all... used to be lab workers...! How is it possible for them to use E.G.O better than we do?
+        โรเดียน: อันที่จริงไม่ใช่ว่ามีใครเคยบอกหรอ—ว่าคนพวกนั้นเอง... ก็เคยทำงานในแลปมาก่อนน่ะ...! มันเป็นไปได้ไหม—ที่พวกเขาจะใช้อีโก้ได้ดีกว่าพวกเราน่ะ?
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: This is not a matter of proficiency in battle.
+        เอาทิส: เรื่องนี้ไม่ได้เกี่ยวข้องอะไรกับความชำนาญในการต่อสู้เลยสักนิด 
         ```
         ```
         Outis: They must have employed some other trick.
+        เอาทิส: ยังไงพวกมัน—ก็ต้องมีเลห์กลที่แอบซ่อนอยู่ใต้แขนเสื้ออีกแน่
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: There is one possibility in mind.
+        เฟาสท์: มีความเป็นไปได้หนึ่งที่ฉันนึกออกค่ะ
         ```
         ```
         Faust: If they reduced Abnormalities to an ovate form and figured out a way to materialize their E.G.O the way Lobotomy Corporation did...
+        เฟาสท์: ถ้าพวกเขา—สามารถลดรูประยะตั้งไข่ของพวกมันได้ และหาทางที่จะใช้ประโยชน์จากการแปรรูปอีโก้ของพวกมัน ในลักษณะเดียวกับที่โลโบโตมี่เคยทำแล้วล่ะก็...
         ```
         ```
         Faust: In other words, repeatedly researched the conditions of corrosion and trained themselves to repress it utilizing the Qliphoth Deterrence emitted by the Golden Bough...
+        เฟาสท์: มันก็อาจจะพูดได้ว่า พวกเขามีแนวโน้มที่จะทำการวิจัยซ้ำ ๆ เพื่อศึกษาเกี่ยวกับเงื่อนไขของการกัดกร่อนอย่างถี่ถ้วน และฝึกฝนพวกมันให้อดกลั้น กับสนามพลังคลิฟอธที่ถูกแพร์กระจายออกมาจากกิ่งทอง...
         ```
         ```
         Faust: It could be possible to use E.G.O well without being affected by corrosion even after a short period.
+        เฟาสท์: ถ้าแบบนั้นจริง มันก็จะมีความเป็นไปได้ที่ว่าเราจะสามารถใช้อีโก้ได้ โดยที่ไม่ต้องรับผลกระทบที่เกิดขึ้นจากกัดกร่อน แม้เวลาจะล่วงเลยผ่านไปสักพักแล้วก็ตาม
         ```
         ```
         Faust: What they're using are tools, compressed and repressed into general utility.
+        เฟาสท์: ดังนั้น/โดยสรุป สิ่งที่พวกเขาใช้ก็คืออุปกรณ์ที่ถูกบีบอัด และควบคุม จนเป็นของใช้ทั่ว ๆ ไปนั้นเองค่ะ
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Does that mean... Lobotomy Corporation did the same...
+        เกรกอร์: งั้นนั้นก็แปลว่า... ศูนย์วิจัยโลโบโตมี่เองก็ทำเหมือนกันหรอ...
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: Yes, rather than Fixers, regular employees were given the E.G.O to work with.
+        เฟาสท์: ใช่ ตามนั้นเลยค่ะ แทนที่่มันจะถูกมอบหมายให้กับพวกฟิกเซอร์ เหล่าพนักงานทั่ว ๆ กลับได้รับอีโก้ประจำกายในระหว่างปฎบัติงาน
         ```
         ```
         Faust: Of course, what we have right now isn't as refined as what the Wing used to have.
+        เฟาสท์: ซึ่งในความจริงก็แน่นอนอยู่แล้วค่ะ ว่าสิ่งที่เรามีในตอนนี้ ไม่อาจที่จะขัดเกลาได้—เทียบเคียงกับสิ่งที่วิงส์เคยทำไว้ก่อนหน้าเลยสักนิด
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Wait, hold on. If you're saying they can do that with the help of the Golden Bough's deterrence power, that means it's nearby...
+        อิชมาเอล: เดี๋ยวก่อนนะ ถ้าเธอกำลังจะบอกว่า—ที่พวกเขาสามารถทำแบบนั้นได้ก็เพราะผลจากการยับยั้งของกิ่งทองแล้วล่ะก็ มันก็ต้องอยู่ใกล้ ๆ นี้เอง...
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: ...Must be. Along with Dongbaek, who has it in her hands...
+        เกรกอร์: ...ต้องอยู่แน่ กับคนที่ชื่อว่าดงแบ็ก—เจ้าหล่อนที่ถือมันครั้งล่าสุด...
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: I cannot help but question the security of this facility. The leader of the terrorists is freely roaming in your building, and not once has her presence been reported.
+        เอาทิส: ช่วยไม่ได้นะคะ แต่ดิฉันคงต้องขอสอบถามสักหน่อย เกี่ยวกับเรื่องมาตรการรักษาความปลอดภัยของสถานที่แห่งนี้ ว่าเหตุใดกัน—หัวหน้าผู้ก่อการร้ายฝั่งศัตรู ถึงสามารถที่จะเดินลอยหน้าลอยตา—ไปไหนมาไหนได้อย่างอิสระ—ภายใต้อาคารของคุณอยู่แบบนี้ ในขณะที่เหตุการณ์ที่เกิดขึ้นในตอนนี้เอง—ก็เหมือนจะไม่ใช่ครั้งแรกของพวกคูณเหมือนกันที่ได้รับแจ้ง
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: As much as I'd like to object... I don't have much I can say. I didn't expect them to break in so easily...
+        แซมโจ: ถึงผมจะอยากคัดค้านมากแค่ไหนก็ตาม... แต่ผมคงพูดอะไรไม่ได้มาก ผมไม่คิดไม่ฝันเลยว่าพวกมันจะบุกเข้ามาได้ง่ายขนาดนี้...
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: The technology liberation alliance is formed by former researchers of renowned firms, after all.
+        ดงรัง: แหมเรื่องนั้น—ผมว่าก็ปกติออกนะครับ ในเมื่อเทคโนโลยีของฝั่งพันธมิตรปลดแอกเอง ก็เป็นถึงของที่—ถูกพัฒนาขึ้นโดยนักวิจัยจากองค์กรที่แสนเลื่องชื่อเลยนี้เนอะ
         ```
 
         ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Don Quixote: I see... So they were villains of bright minds. But I must wonder, can individuals of bright minds turn to villainy? Hmm... What a bewildering conundrum...
+        ดอน กิโฆเต้: งี้เอง... เพราะเหตุฉนี้คนเหล่านั้นถึงได้เป็นวายร้ายจอมปราดเปรื่อง แต่ข้าก็อดสงสัยไม่ได้น่ะขอรับ ว่าเหตุใดกัน—ที่ทำให้นักปราญเหล่านี้กลับกลายเป็นวายร้ายขึ้นมา? หืมม... ชั่งเป็นปริศนาที่น่าพิศวงอะไรเช่นนี้นะ...
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Don't let them fascinate you. If they were so wise, they wouldn't have quit their enviable jobs at large firms for a terrorist organization in the first place.
+        แซมโจ: อย่าหลงไหลในตัวพวกเขาเลยนะครับ เพราะถ้าพวกเขาฉลาดจริง ๆ แล้วล่ะก็ พวกเขาก็คงไม่ออกจากงานน่าอิจฉาที่บริษัทแสนยิ่งใหญ่แห่งนี้ เพื่อไปเข้าร่วม—กับองค์กรก่อการร้ายตั้งแต่แรกหรอกครับ
         ```
 
         ---
 
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ishmael: Maybe it wasn't the life they wanted.
+        อิชมาเอล: บางทีมันอาจไม่ใช่ชีวิตที่พวกเขาต้องการก็ได้นะ
         ```
 
+    ---
 ---
 
 ### เพิ่มเติม

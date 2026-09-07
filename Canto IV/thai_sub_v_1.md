@@ -9580,6 +9580,144 @@
         ```
     
     ---
+
+    * **Episode: 25 | ตอนที่ 25<br>Location: Ruined K Corp. Laboratory Hallway | โถงทางเดินศูนย์วิจัยเคคอร์ปที่พังลง**
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: I've returned.
+        เมอร์โซลท์: ผมกลับมาแล้วครับ
+        ```
+        ```
+        Meursault: There was one message in Shrenne's mailbox that was deemed worth reading.
+        เมอร์โซลท์: มันมีอยู่หนึ่งข้อความในเมลล์ของชเรนน์ ที่ผมเห็นว่าคุ้มค่าต่อการอ่าน
+        ```
+        ```
+        Meursault: The environment did not permit me to print it out, so I memorized the mail's content.
+        เมอร์โซลท์: แต่ด้วยสภาพแวดล้อมโดยรอบ ไม่อาจทำให้ผม—สามารถที่ปริ้นมันออกมาในรูปแบบเอกสารได้ เพราะงั้น ผมก็เลยเลือกที่จะจดจำเนื้อหาภายในเมลล์แทนน่ะครับ
+        ```
+        ```
+        Meursault: 'I hope you're doing well, Miss Ran. Open parenthesis, star, tear, tear, swung dash, caret, caret... closed parenthesis.'
+        เมอร์โซลท์: 'ฉันหวังว่าคุณจะยังคงสบายดีนะคะ คุณรัน วงเล็บเปิด อิโมจิรูปดาว น้ำตา ลูกคลื่น/ทิลดา ลูกศรขึ้น ลูกศรขึ้น... วงเล็บปิด' <*ถึงนี้,ไม่แน่ใจ>
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Y-You can skip those parts...>
+        ดันเต้: 
+        ```
+
+        ---
+
+        ```
+        Meursault: Understood. I will then dispense with punctuation marks that do not appear important.
+        ```
+        ```
+        Meursault: 'I've been trying to figure out if what you said was really true, but that sucker is making it hard.'
+        ```
+
+        ---
+
+        ```
+        Shrenne: 'I've been promoted to team manager too, but I wasn't let in... just because I didn't win that silly "best" award.'
+        ```
+        ```
+        Shrenne: 'And he's now recruited collaborators from the outside, probably to help with whatever he's plotting.'
+        ```
+        ```
+        Shrenne: 'I heard they're from a newly-found company, and I haven't checked what kind of people they are yet. I bet they're all haughty and arrogant just like their client.'
+        ```
+        ```
+        Shrenne: 'Still... Still, the plan will proceed as intended.'
+        ```
+        ```
+        Shrenne: 'We'll succeed... and return to a glorious past.'
+        ```
+        ```
+        Shrenne: 'To tell you the truth, my most dazzling memory was when I first met you after joining the company.'
+        ```
+        ```
+        Shrenne: 'But our goal is more ambitious than that.'
+        ```
+        ```
+        Shrenne: 'So, let's promise to meet again there.'
+        ```
+        ```
+        Shrenne: 'In a past where no technologies existed, allowing everything that existed to shine brighter.'
+        ```
+        ```
+        Shrenne: 'There, chickens will freely fly over the meadows, their wings uncut.'
+        ```
+        ```
+        Shrenne: 'When a person loses their arm, we'll comfort them...'
+        ```
+        ```
+        Shrenne: 'And learn how to live together even if an arm is missing.'
+        ```
+        ```
+        Shrenne: 'We may not be able to enjoy sumptuous feasts or conveniences of modern civilization, and we won't have nearly as many resources at our disposal...'
+        ```
+        ```
+        Shrenne: 'In that vastness... We'll be free to walk all day.'
+        ```
+        ```
+        Shrenne: 'Oh, I'm planning to bring Fixers from the outside for the plan. My juniors have gotten too used to the ampules.'
+        ```
+        ```
+        Shrenne: 'If rapid development can only be achieved by means that cause pain and suffering to people...'
+        ```
+
+        ---
+
+        ```
+        Meursault: 'Then I'm willing to give up on all the prosperity it brings'.
+        ```
+        ```
+        Meursault: 'That's all I have to say for now. Yours in haste...'
+        ```
+        ```
+        Meursault: Star, star, heart heart heart.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: You don't have to read all that!
+        ```
+
+        ---
+
+        ```
+        Meursault: There's a possibility that it may have been a sequence or cipher, so I deemed it reasonable to read it out and let the manager determine its significance rather than mull over whether I should dispense with it and discount the possibility that it may be necessary information.
+        ```
+
+        ---
+
+        ```
+        Dante: <Good work...>
+        ```
+
+        ---
+
+        ```
+        Ishmael: How ironic.
+        ```
+        ```
+        Ishmael: I guess it's fortunate for her that she didn't get to see liberation alliance members murdering researchers without mercy...
+        ```
+
+        ---
+
+        ```
+        Rodion: She probably believed she was working for a noble cause to end violence until the end of her life...
+        ```
+        ```
+        Rodion: But I agree, it was probably best for her that she died holding onto that belief.
+        ```
 ---
 
 ### เพิ่มเติม

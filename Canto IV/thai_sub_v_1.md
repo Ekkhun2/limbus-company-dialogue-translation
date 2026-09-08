@@ -9591,11 +9591,11 @@
         ```
         ```
         Meursault: There was one message in Shrenne's mailbox that was deemed worth reading.
-        เมอร์โซลท์: มันมีอยู่หนึ่งข้อความในเมลล์ของชเรนน์ ที่ผมเห็นว่าคุ้มค่าต่อการอ่าน
+        เมอร์โซลท์: มันมีอยู่หนึ่งข้อความในกล่องเมลล์ของชเรนน์ ที่ผมเห็นว่าน่าจะคุ้มค่าต่อการอ่าน
         ```
         ```
         Meursault: The environment did not permit me to print it out, so I memorized the mail's content.
-        เมอร์โซลท์: แต่ด้วยสภาพแวดล้อมโดยรอบ ไม่อาจทำให้ผม—สามารถที่ปริ้นมันออกมาในรูปแบบเอกสารได้ เพราะงั้น ผมก็เลยเลือกที่จะจดจำเนื้อหาภายในเมลล์แทนน่ะครับ
+        เมอร์โซลท์: แต่ด้วยสภาพแวดล้อมโดยรอบ ทำให้ผม—ไม่อาจที่ปริ้นมันออกมาในรูปแบบเอกสารได้ เพราะงั้น ผมก็เลยเลือกที่จะจดจำเนื้อหาภายในเมลล์มาแทนน่ะครับ
         ```
         ```
         Meursault: 'I hope you're doing well, Miss Ran. Open parenthesis, star, tear, tear, swung dash, caret, caret... closed parenthesis.'

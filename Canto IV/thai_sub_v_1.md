@@ -9591,15 +9591,15 @@
         ```
         ```
         Meursault: There was one message in Shrenne's mailbox that was deemed worth reading.
-        เมอร์โซลท์: มันมีอยู่หนึ่งข้อความในกล่องเมลล์ของชเรนน์ ที่ผมเห็นว่าน่าจะคุ้มค่าต่อการอ่าน
+        เมอร์โซลท์: มันมีอยู่หนึ่งข้อความในกล่องเมลล์ของชเรนน์ที่—ผมมองว่าน่าจะคุ้มค่าต่อการอ่าน
         ```
         ```
         Meursault: The environment did not permit me to print it out, so I memorized the mail's content.
-        เมอร์โซลท์: แต่ด้วยสภาพแวดล้อมโดยรอบ ทำให้ผม—ไม่อาจที่ปริ้นมันออกมาในรูปแบบเอกสารได้ เพราะงั้น ผมก็เลยเลือกที่จะจดจำเนื้อหาภายในเมลล์มาแทนน่ะครับ
+        เมอร์โซลท์: แต่ด้วยสภาพแวดล้อมโดยรอบ ทำให้ผม—ไม่อาจที่ปริ้นมันออกมาในรูปแบบเอกสารได้ เพราะงั้น ผมก็เลยเลือกที่จะจดจำเนื้อหาภายในเมลล์มาแทนครับ
         ```
         ```
         Meursault: 'I hope you're doing well, Miss Ran. Open parenthesis, star, tear, tear, swung dash, caret, caret... closed parenthesis.'
-        เมอร์โซลท์: 'ฉันหวังว่าคุณจะยังคงสบายดีนะคะ คุณรัน วงเล็บเปิด อิโมจิรูปดาว น้ำตา ลูกคลื่น/ทิลดา ลูกศรขึ้น ลูกศรขึ้น... วงเล็บปิด' <*ถึงนี้,ไม่แน่ใจ>
+        เมอร์โซลท์: 'หนูหวังว่าอาจารย์จะยังสบายดีนะคะ คุณรัน วงเล็บเปิด อิโมจิรูปดาว น้ำตา ลูกคลื่น/ทิลดา ลูกศรขึ้น ลูกศรขึ้น... วงเล็บปิด'
         ```
 
         ---
@@ -9608,46 +9608,61 @@
 
         ```
         Dante: <Y-You can skip those parts...>
-        ดันเต้: 
+        ดันเต้: <น-นายข้ามส่วนนั่นไปเลยก็ได้นะ...>
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: Understood. I will then dispense with punctuation marks that do not appear important.
+        เมอร์โซลท์: รับทราบ/เข้าใจแล้ว ครับ ถ้างั้นผมจะไม่อ่านเครื่องหมายวรรคตอนที่ไม่ไดัสลักสำคัญก็แล้วกัน
         ```
         ```
         Meursault: 'I've been trying to figure out if what you said was really true, but that sucker is making it hard.'
+        เมอร์โซลท์: 'หนูกำลังพยายามที่จะหาทางพิสูจน์—ว่าสิ่งที่อาจารย์พูดเป็นความจริง แต่เจ้าโง่นั่นกลับยังคงทำให้มันเป็นเรื่องยากไม่หยุดหย่อน'
         ```
 
         ---
 
+        <img src="../images/Surenne.png" alt="Shrenne" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Shrenne: 'I've been promoted to team manager too, but I wasn't let in... just because I didn't win that silly "best" award.'
+        ชเรนน์: 'ทั้ง ๆ ที่หนูก็ได้เลื่อนขั้นเป็นผู้จัดการทีมแล้วแท้ ๆ แต่ก็ยังไม่ได้รับอนุญาติให้เข้าไปสักที... เพียงเพราะคำพูดโง่เง่าทีว่าหนู—ยังไม่เคยได้รับรางวัล “ที่ดีที่สุด” อะไรนั่น <*ไม่แน่ใจ>
         ```
         ```
         Shrenne: 'And he's now recruited collaborators from the outside, probably to help with whatever he's plotting.'
+        ชเรนน์: 'และตอนนี้เขาก็เริ่มเกณฑ์คนจากข้านอกเข้ามา คงเพื่อทำอะไรบางอย่างที่เขาวางแผนเอาไว้' <*ไม่แน่ใจ>
         ```
         ```
         Shrenne: 'I heard they're from a newly-found company, and I haven't checked what kind of people they are yet. I bet they're all haughty and arrogant just like their client.'
+        ชเรนน์: 'หนูได้ยินมาว่าพวกเขา—มาจากบริษัที่พึงก่อตั้งใหม่ และถึงหนูจะยังไม่ได้เห็นกับตาว่าพวกเขาเป็นยังไง แต่หนูพนันได้เลยว่าพวกเขาก็คงเป็นพวกที่ถือตัว และหยิ่งยโส เหมือนกับลูกค้าที่จ้างพวกเขานั้นแหละ' <*ไม่แน่ใจ>
         ```
         ```
         Shrenne: 'Still... Still, the plan will proceed as intended.'
+        ชเรนน์: 'แต่... ไม่ว่ายังไง แผนการจะดำเนินต่อตามที่วางเอาไว้' <*ไม่แน่ใจ>
         ```
         ```
         Shrenne: 'We'll succeed... and return to a glorious past.'
+        ชเรนน์: 'พวกเราจะทำสำเร็จ... และทงคืนอดีตที่รุ่นโรจน์กลับมา' <*ถึงนี้,ไม่แน่ใจ>
         ```
         ```
         Shrenne: 'To tell you the truth, my most dazzling memory was when I first met you after joining the company.'
+        ชเรนน์: '
         ```
         ```
         Shrenne: 'But our goal is more ambitious than that.'
+        ชเรนน์: 
         ```
         ```
         Shrenne: 'So, let's promise to meet again there.'
+        ชเรนน์: 
         ```
         ```
         Shrenne: 'In a past where no technologies existed, allowing everything that existed to shine brighter.'
+        ชเรนน์: 
         ```
         ```
         Shrenne: 'There, chickens will freely fly over the meadows, their wings uncut.'

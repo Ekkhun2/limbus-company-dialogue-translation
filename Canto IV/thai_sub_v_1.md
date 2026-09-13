@@ -9621,7 +9621,7 @@
         ```
         ```
         Meursault: 'I've been trying to figure out if what you said was really true, but that sucker is making it hard.'
-        เมอร์โซลท์: 'หนูกำลังพยายามที่จะหาทางพิสูจน์—ว่าสิ่งที่อาจารย์พูดเป็นความจริง แต่เจ้าโง่นั้นกลับยังคงทำให้มันเป็นเรื่องยากไม่หยุดหย่อน'
+        เมอร์โซลท์: 'หนูกำลังพยายามที่จะหาทางพิสูจน์—ว่าสิ่งที่อาจารย์พูดเป็นความจริง แต่เจ้าโง่นั้นยังเอาแต่ทำให้มันเป็นเรื่องยากไม่หยุดหย่อน'
         ```
 
         ---
@@ -9630,109 +9630,140 @@
 
         ```
         Shrenne: 'I've been promoted to team manager too, but I wasn't let in... just because I didn't win that silly "best" award.'
-        ชเรนน์: 'ทั้ง ๆ ที่หนูก็ได้เลื่อนขั้นเป็นผู้จัดการทีมแล้วแท้ ๆ แต่ก็ยังกีดกันไม่่ให้เข้าไปสักที... เพียงเพราะคำพูดโง่เง่าแค่ประโยคเดียว ที่ว่าหนู—ยังไม่เคยได้รางวัล “นักจัยผู้ยอดเยี่ยมที่สุด” อะไรนั้น
+        ชเรนน์: 'ทั้ง ๆ ที่หนูก็ได้เลื่อนขั้นเป็นผู้จัดการทีมแล้วแท้ ๆ แต่เจ้าพวกนั่นก็ยังคงกีดกันหนู... ด้วยคำพูดโง่เง่าที่ว่า—คนที่ยังไม่เคยได้รางวัล “นักวิจัยแห่งปี” อย่างเธอน่ะ คิดหรอ ว่าตัวเองจะมีสิทธิ์ได้เข้าไป'
         ```
         ```
         Shrenne: 'And he's now recruited collaborators from the outside, probably to help with whatever he's plotting.'
-        ชเรนน์: 'และดูเหมือนช่วงนี้หมอนั้นเองก็เริ่มที่จะเกณฑ์คนจากข้านอกเข้ามา คงเพื่อหวังทำอะไรบางอย่างที่มันวางแผนเอาไว้'
+        ชเรนน์: 'และดูเหมือนช่วงนี้หมอนั้นเองก็เริ่มที่จะจัดหาคนจากข้างนอกเข้ามามากขึ้น คงเพราะหวังให้พวกเขาช่วยมันทำอะไรบางอย่างที่วางแผนเอาไว้' <*ยังไม่เสร็จ,ประโยคที่สองขาดความลื่นไหล>
         ```
         ```
         Shrenne: 'I heard they're from a newly-found company, and I haven't checked what kind of people they are yet. I bet they're all haughty and arrogant just like their client.'
-        ชเรนน์: 'หนูได้ยินมาว่าพวกเขา—มาจากบริษัที่พึงก่อตั้งใหม่ และถึงหนูจะยังไม่ได้เห็นกับตาว่าพวกเขาเป็นยังไง แต่หนูพนันได้เลยว่าพวกเขาก็คงเป็นพวกที่ถือตัว และหยิ่งยโสโอหัง ไม่ต่างอะไรกับลูกค้าที่เป็นคนจ้างพวกเขานั้นแหละ'
+        ชเรนน์: 'หนูได้ยินมาว่าพวกเขา—มาจากบริษัที่พึงก่อตั้งใหม่ และ—ถึงหนูจะยังไม่ได้เห็นกับตาว่าพวกเขาเป็นคนยังไง แต่พนันได้เลยว่ายังไงซะพวกเขาก็คงเป็นพวกที่ถือตัว และหยิ่งยโสโอหัง ไม่ต่างอะไรกับลูกค้าที่จ้างพวกเขานั้นแหละ'
         ```
         ```
         Shrenne: 'Still... Still, the plan will proceed as intended.'
-        ชเรนน์: 'แต่... ไม่ว่ายังไง แผนการ—ก็จะเดินต่อไปตามที่วางเอาไว้'
+        ชเรนน์: 'แต่... ไม่ว่ายังไง แผนการ—ก็จะดำเนินต่อไปตามที่วางเอาไว้'
         ```
         ```
         Shrenne: 'We'll succeed... and return to a glorious past.'
-        ชเรนน์: 'พวกเราจะทำมันให้สำเร็จ... และทวงคืนอดีตที่เคยรุ่นโรจน์กลับมาอีกครั้ง'
+        ชเรนน์: 'พวกเราจะทำมันให้สำเร็จ... และทวงคืนอดีตที่เคยรุ่งโรจน์กลับมาอีกครั้ง'
         ```
         ```
         Shrenne: 'To tell you the truth, my most dazzling memory was when I first met you after joining the company.'
-        ชเรนน์: 'ถ้าให้พูดตรง ๆ ก็คือ หนูน่ะ—มีความทรงจำที่ยอดเยียมมากเลยนะ ในตอนที่หนูได้เข้าบริษัทนี้เป็นครั้งแรก'
+        ชเรนน์: 'พูดตรง ๆ หนูน่ะ—มีความทรงจำที่ยอดเยียมมากเลยนะ ในตอนที่หนูได้เข้าบริษัทนี้เป็นครั้งแรก'
         ```
         ```
         Shrenne: 'But our goal is more ambitious than that.'
-        ชเรนน์: 'แต่ก็ไม่เป็นไรหรอก ในเมื่อเป้าหมายของเรานั้นเป็นอะไรที่สำคัญซะยิ่งอะไรพวกนั้นทั้งหมด'
+        ชเรนน์: 'แต่ก็ช่างประไร ในเมื่อเป้าหมายของเรานั่น—เป็นอะไรที่ทะเยอทะยานมากกว่ากะอีแค่เรื่องพันธ์นี้อยู่แล้วค่ะ'
         ```
         ```
         Shrenne: 'So, let's promise to meet again there.'
-        ชเรนน์: 'เพราะงั้น มาสัญญากันนะคะ ว่าเราจะต้องได้กันอีกที่นั่น'
+        ชเรนน์: 'เพราะงั้น มาสัญญากันนะคะ ว่าพวกเราจะได้เจอกันอีกที่นั่น'
         ```
         ```
         Shrenne: 'In a past where no technologies existed, allowing everything that existed to shine brighter.'
-        ชเรนน์: 'ในอดีต ทีเทคโนโลยีมีอยู่ เพื่อให้ทุกอย่างรอบข้างส่องสว่าง' <*ถึงนี้,ยังไม่เสร็จ>
+        ชเรนน์: 'ในอดีต ทีเทคโนโลยีมีอยู่ เพื่อให้ทุกสิ่งรอบข้างได้ส่องประกายอย่างระยิบระยับมากกว่าที่เคยเป็น'
         ```
         ```
         Shrenne: 'There, chickens will freely fly over the meadows, their wings uncut.'
+        ชเรนน์: 'แล้วพอถึงตอนนั้น พวกไก่ก็จะได้โผล่บินอย่างอิสระในทุ่งหญ้า โดยที่พวกมันไม่ต้องปีกขาด'
         ```
         ```
         Shrenne: 'When a person loses their arm, we'll comfort them...'
+        ชเรนน์: 'ถ้ามีใครเสียแขนไป พวกเราก็จะปลอบประโลมเขา...'
         ```
         ```
         Shrenne: 'And learn how to live together even if an arm is missing.'
+        ชเรนน์: 'และเรียนรู้ที่จะใช้ชีวิตอยู่ร่วมกัน แม้จะ ไร้/ไม่มี แขนก็ตามที'
         ```
         ```
         Shrenne: 'We may not be able to enjoy sumptuous feasts or conveniences of modern civilization, and we won't have nearly as many resources at our disposal...'
+        ชเรนน์: 'พวกเราอาจไม่ได้ลิ้มรสอาหารมื้อหรู หรือ เพลิดเพลินกับความความสะดวกสบายของอารยธรรมสมัยใหม่ และเราจะไม่มีทรัพยากรคงสภาพคล่องมากพอให้ใช้ได้พร่ําเพรื่อเหมือนเมื่อก่อน...'
         ```
         ```
         Shrenne: 'In that vastness... We'll be free to walk all day.'
+        ชเรนน์: 'แต่ในความกว้างใหญ่นั่นเอง... พวกเราจะเดินไปไหนต่อไหน และคุยกันได้ตลอด'
         ```
         ```
         Shrenne: 'Oh, I'm planning to bring Fixers from the outside for the plan. My juniors have gotten too used to the ampules.'
+        ชเรนน์: 'โอ้ เกือบลืมบอกไปซะสนิทเลย ว่าหนูกำลังตั้งใจที่จะเอาฟิกเซอร์จากข้างนอกเข้ามาจัดการเรื่องนี้แทนนะคะ เพราะถ้าเป็นพวกรุ่นน้องที่ติดยาฟื้นฟูแล้วล่ะก็–มีหวังได้ไปหวันก่อนแน่ ๆ เลย'
         ```
         ```
         Shrenne: 'If rapid development can only be achieved by means that cause pain and suffering to people...'
+        ชเรนน์: 'ถ้าการพัฒนาอย่างก้าวกระโดดสามารถถูกสร้างได้จากการความเจ็บปวด และการทรมาณผู้คน...'
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: 'Then I'm willing to give up on all the prosperity it brings'.
+        เมอร์โซลท์: 'หนูก็พร้อมที่จะสละความเจริญรุ่งเรืองทุกประการที่มันนำพามา'
         ```
         ```
         Meursault: 'That's all I have to say for now. Yours in haste...'
+        เมอร์โซลท์: 'ที่หนูอยากบอกก็มีแค่นี้แหละค่ะ ด้วยรักและเครพ *เขียนอย่างเร่งรีบ*...'
         ```
         ```
         Meursault: Star, star, heart heart heart.
+        เมอร์โซลท์: ดวงดาว ดวงดาว หัวใจ หัวใจ หัวใจ
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: You don't have to read all that!
+        ฮิธคลิฟฟ์: ไม่ต้องอ่านหมดก็ได้เว้ย!
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: There's a possibility that it may have been a sequence or cipher, so I deemed it reasonable to read it out and let the manager determine its significance rather than mull over whether I should dispense with it and discount the possibility that it may be necessary information.
+        ฮิธคลิฟฟ์: ขออภัยครับ แต่มันมีความเป็นไปได้ที่ว่า นี้อาจเป็นสายรหัสข้อความที่ถูกส่งอย่างลับ ๆ เพื่อปกปิดเนื้อความที่แท้จริง เพราะงั้นผมก็เลยคิดว่า สารนี้มีเหตุผลมากพอที่จะอ่านออกมา แล้วค่อยให้ท่านผู้จัดการเป็นคนตัดสินใจลำดับความสำคัญของมัน แทนที่จะคิดแทนท่าน และ <*ยังไม่เสร็จ>
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <Good work...>
+        ดันเต้: <ทำได้ดีมาก...>
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: How ironic.
+        อิชมาเอล: 
         ```
         ```
         Ishmael: I guess it's fortunate for her that she didn't get to see liberation alliance members murdering researchers without mercy...
+        อิชมาเอล: 
         ```
 
         ---
 
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Rodion: She probably believed she was working for a noble cause to end violence until the end of her life...
+        โรเดียน: 
         ```
         ```
         Rodion: But I agree, it was probably best for her that she died holding onto that belief.
+        โรเดียน: 
         ```
+
+    ---
 ---
 
 ### เพิ่มเติม

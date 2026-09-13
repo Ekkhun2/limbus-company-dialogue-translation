@@ -9764,6 +9764,183 @@
         ```
 
     ---
+
+    * **Episode:  26 | ตอนที่ <br>Location: Ruined K Corp. Laboratory Hallway | โถงทางเดินศูนย์วิจัยเคคอร์ปที่พังลง**
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            I did my best to ignore the fierce glare at my clock from below.
+            ฉันพยายามอย่างสุดความสามารถ ที่จะหลบเลี่ยงสายตาแสนดุร้าย ที่กำลังจ้องมองมาที่นาฬิกาของฉันจากด้านล่าง
+            ```
+            ```
+            I noticed a group of staff walking this way, carrying an imposing aura, unlike any other K Corp. employee we've met.
+            ในขณะที่สังเกตุเห็นเจ้าหน้าที่กลุ่มหนึ่งที่เดินมาทางนี้ พร้อมกับกลิ่นอายที่แผ่ออกมา ให้ความรู้สึกไม่เหมือนกับพนักงานเคคอร์ปที่เราเคยเจอมาก่อน 
+            ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Ah, you must be K Corp. staff. Hey! I saw some researchers that haven't evacuated over there...
+        เกรกอร์: อ้า นายคงจะเป็นคนของเคคอร์ป เฮ้ย! ทางนี้! ฉันเห็นนักวิจัยบางคนยังไม่ได้อพยพอยู่ตรงนั่น... 
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Class 3 Excision Staff: ......
+        เจ้าหน้าที่สะกัดกำลังระดับ 3: ......
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            They ignored our–or Gregor's, rather–words and proceeded upstairs.
+            พวกเขาเมินคำพูดของเกรกอร์ของพวกเรา ไม่พูดไม่จาอะไร ก่อนที่จะเดินขึ้นบันไดไป
+            ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: They aren't here to rescue anyone. Their role is eliminating intruders and keeping classified technologies secure.
+        ดงรัง: พวกเขาไม่ได้มาที่นี้เพื่อช่วยเหลือใครหรอกนะครับ หน้าที่ของพวกเขาเพียงอย่างเดียว คือการกำจัดผู้บุกรุก และปกป้องเทคโนโลยีที่ปิดเป็นความลับของทางการให้ปลอดภัย
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Dongrang interjected like he's always been here. I suppose he's got done with the call.
+            ดงรังพูดแทรกเข้ามา อย่างกับว่าเขายืนอยู่กับพวกเรามาตลอด ฉันเดาว่าเขาจะคุยโทรศัพท์เสร็จแล้ว
+            ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Rescuing is left to Class 1 staff.
+        ดงรัง: ส่วนการช่วยเหลือเป็นหน้าที่ของเจ้าหน้าที่ระดับ 1 น่ะครับ
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Gasp! Is Class 1 not the highest level an employee can reach, precisely like Grade 1 is for Fixers?! Verily, 'tis no wonder that they are the noblest...!
+        ดอน กิโฆเต้: หู้ว! ระดับ 1 นี้ มิใช่ว่าเป็นระดับสูงสุด เหมือนกับฟิกเซอร์ระดับ 1 อะไรแบบนั้นหรือขอรับ?! มิน่าล่ะว่าทำไม พวกเขาถึงสูงส่งที่สุด...!
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Sorry? In this Nest, Class 1 is the lowest level, and higher numbers indicate better ranks...
+        แซมโจ: 
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Wha, wuh, wah, wha, wai... Whaat?!!!
+        ```
+        ```
+        Don Quixote: ...Even still, none can be too lordly or lowly to save lives, so how can the roles be divided?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Haha, bigger is better for numbers and riches alike, isn't that right?
+        ```
+        ```
+        Dongrang: Ah, the conversation dragged on for a bit... But there's nothing to worry about, I've acquired the permission.
+        ```
+
+        ---
+
+        ```
+        Dante: <…?>
+        ```
+
+        ---
+
+        ```
+        Heathcliff: What? Permission? For what?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Normally, it seems to require a bunch of paperwork as well, but since we're in an emergency, let's skip the procedures that we can. Should be fine, right, Samjo?
+        ```
+
+        ---
+
+        ```
+        Samjo: Well... I believe it could be managed with three days and a half of working on the report overtime.
+        ```
+        ```
+        Samjo: And strictly speaking, the problem already began when you brought them to your lab without any report.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Just tell us what that permission is about first!
+        ```
+
+        ---
+
+        ```
+        Dongrang: It would seem that Dongbaek has headed that way.
+        ```
+        ```
+        Dongrang: The screening room.
+        ```
+        ```
+        Dongrang: The security procedures for entering that place can be... extremely convoluted.
+        ```
+
+        ---
+
+        ```
+        Rodion: Screening room? The name doesn't give a very clear idea of what it's about~
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Wonder why the security is so tight about it~
+        ```
+
+        ---
+
+        ```
+        Dongrang: It's at the very top of the building.
+        ```
+        ```
+        Dongrang: There are two ways to make something inaccessible: put it underground, or at the highest point.
+        ```
 ---
 
 ### เพิ่มเติม

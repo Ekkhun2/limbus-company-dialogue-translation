@@ -9634,7 +9634,7 @@
         ```
         ```
         Shrenne: 'And he's now recruited collaborators from the outside, probably to help with whatever he's plotting.'
-        ชเรนน์: 'และดูเหมือนช่วงนี้หมอนั้นเองก็เริ่มที่จะจัดหาคนจากข้างนอกเข้ามามากขึ้น คงเพราะหวังให้พวกเขาช่วยมันทำอะไรบางอย่างที่วางแผนเอาไว้' <*ยังไม่เสร็จ,ประโยคที่สองขาดความลื่นไหล>
+        ชเรนน์: 'และดูเหมือนช่วงนี้หมอนั้นเองก็เริ่มที่จะจัดหาคนจากข้างนอกเข้ามามากขึ้น คงเพราะหวังพึ่งให้พวกเขาช่วยมันทำอะไรบางอย่างที่วางแผนเอาไว้'
         ```
         ```
         Shrenne: 'I heard they're from a newly-found company, and I haven't checked what kind of people they are yet. I bet they're all haughty and arrogant just like their client.'
@@ -9703,11 +9703,11 @@
         ```
         ```
         Meursault: 'That's all I have to say for now. Yours in haste...'
-        เมอร์โซลท์: 'ที่หนูอยากบอกก็มีแค่นี้แหละค่ะ ด้วยรักและเครพ *เขียนอย่างเร่งรีบ*...'
+        เมอร์โซลท์: 'ที่หนูอยากบอกก็มีแค่นี้แหละค่ะ เห็นว่าอาจารย์กำลังรีบ...'
         ```
         ```
         Meursault: Star, star, heart heart heart.
-        เมอร์โซลท์: ดวงดาว ดวงดาว หัวใจ หัวใจ หัวใจ
+        เมอร์โซลท์: ดาว ดาว หัวใจ หัวใจ หัวใจ
         ```
 
         ---
@@ -9716,7 +9716,7 @@
 
         ```
         Heathcliff: You don't have to read all that!
-        ฮิธคลิฟฟ์: ไม่ต้องอ่านหมดก็ได้เว้ย!
+        ฮิธคลิฟฟ์: ก็บอกแล้วไม่ใช่หรือไงว่าไม่ต้องอ่านให้หมด!
         ```
 
         ---
@@ -9725,7 +9725,7 @@
 
         ```
         Meursault: There's a possibility that it may have been a sequence or cipher, so I deemed it reasonable to read it out and let the manager determine its significance rather than mull over whether I should dispense with it and discount the possibility that it may be necessary information.
-        ฮิธคลิฟฟ์: ขออภัยครับ แต่มันมีความเป็นไปได้ที่ว่า นี้อาจเป็นสายรหัสข้อความที่ถูกส่งอย่างลับ ๆ เพื่อปกปิดเนื้อความที่แท้จริง เพราะงั้นผมก็เลยคิดว่า สารนี้มีเหตุผลมากพอที่จะอ่านออกมา แล้วค่อยให้ท่านผู้จัดการเป็นคนตัดสินใจลำดับความสำคัญของมัน แทนที่จะคิดแทนท่าน และ <*ยังไม่เสร็จ>
+        ฮิธคลิฟฟ์: ขออภัยครับ แต่มันมีความเป็นไปได้ที่ว่า นี้อาจเป็นสายรหัสข้อความที่ถูกส่งอย่างลับ ๆ เพื่อปกปิดเนื้อความที่แท้จริง เพราะงั้นผมก็เลยคิดว่า สารนี้มีเหตุผลมากพอที่จะอ่านออกมา แล้วค่อยให้ท่านผู้จัดการเป็นคนตัดสินใจลำดับความสำคัญของมัน แทนที่จะผมจะเป็นคนคิดแทนท่านว่าควรทิ้งมันไป และลดทอนความเป็นไปได้ที่มันจะเป็นข้อมูลชิ้นสำคัญ
         ```
 
         ---
@@ -9743,11 +9743,11 @@
 
         ```
         Ishmael: How ironic.
-        อิชมาเอล: 
+        อิชมาเอล: ย้อนแย้งอะไรแบบนี้
         ```
         ```
         Ishmael: I guess it's fortunate for her that she didn't get to see liberation alliance members murdering researchers without mercy...
-        อิชมาเอล: 
+        อิชมาเอล: ฉันว่ามันนับเป็นเรื่องดีสำหรับเธอแล้วที่ไม่ต้องทนเห็นพวกคณะปลดแอกสังหารนักวิจัยอย่าง ไร้เมตตา/ทารุณ ต่อหน้าต่อตาตัวเอง...
         ```
 
         ---
@@ -9756,11 +9756,11 @@
 
         ```
         Rodion: She probably believed she was working for a noble cause to end violence until the end of her life...
-        โรเดียน: 
+        โรเดียน: เธอคงเชื่ออยู่เต็มอกว่าสิ่งที่เธอทำทั้งหมดไปก็เพื่อเป้าหมายอันสูงส่ง อย่างการยุติความรุนแรง ตราบช่วงลมหายใจสุดท้ายของชีวิตเธอเลยล่ะ...
         ```
         ```
         Rodion: But I agree, it was probably best for her that she died holding onto that belief.
-        โรเดียน: 
+        โรเดียน: และฉันก็เห็นด้วย ว่านี้น่าจะเป็นการดีที่สุดแล้วที่เธอตายไป ในขณะที่ได้เชื่อในสิ่งที่ตัวเองอยากเชื่อ
         ```
 
     ---

@@ -9190,6 +9190,7 @@
         ```
         Alliance Member: Which is why we brought something new from the Lobotomy Corp. branch.
         สมาชิกคณะปลดแอก: เพราะงั้นแหละว่าทำไม พวกเราถึงเอาของใหม่จากศูนย์วิจัยโลโบโตมี่ ติดไม้ติดมือมาด้วย
+        ```
 
     ---
 
@@ -9977,6 +9978,206 @@
         ```
         Dongrang: There are two ways to make something inaccessible: put it underground, or at the highest point.
         ดงรัง: ก็แหม ถ้าเราไม่อยากที่จะให้ใครเข้าถึงอะไรบางอย่างที่ถูกปิดเอาไว้ ก็มีอยู่สองทางที่ทำได้: ไม่กลบมันเอาไว้อยู่ใต้ดิน ก็เอามันไปอยู่ที่จุดยอด
+        ```
+
+    ---
+
+    * **Episode: 27 | ตอนที่ 27** 	
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: As you might have seen earlier... that's Marile. In fact, I met him once at a job interview for B Corp. once.
+        แซมโจ: เมื่อกี้คุณน่าจะเห็นไปแล้วใชไหมครับ... เขาชื่อมาริล อันที่จริงผมเคยเจอเขาครั้งหนึ่ง ตอนที่ไปสัมภาษณ์งานกับบีคอร์ปน่ะครับ
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Really? Samjo... You applied for B Corp, too?
+        ดงรัง: จริงเหรอ? แซมโจ... นายเคยสมัครงานที่บีคอร์ปด้วยหรอเนี้ย?
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: ...Of course, K Corp. was my primary choice... A man of mediocrity like me has to send an application to every Wing in hopes that one will accept it.
+        แซมโจ: ...มันแน่อยู่แล้วครับ ว่าเคคอร์ปต้องเป็นทางเลือกหลักของผม... <*ถึงนี้>
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            There were corpses around Marile... "Appalling" couldn't begin to describe their state.
+            ```
+
+        ---
+
+        ```
+        Samjo: ……
+        ```
+        ```
+        Samjo: Oh dear, pardon me, I need to use the restroom...
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Samjo turned pale and ran, covering his mouth with a hand.
+            ```
+
+        ---
+
+        ```
+        Dongrang: Our researchers... couldn't have been able to fight back at all.
+        ```
+
+        ---
+
+        ```
+        Marile: K Corp's employees didn't seem to have a problem with bludgeoning my colleagues who didn't so much as swing a fist, either.
+        ```
+
+        ---
+
+        ```
+        Outis: We're looking for your boss. Where is she?
+        ```
+
+        ---
+
+        ```
+        Marile: What I want to know is how you're still alive.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Oh, you mean those galling murder machines? They weren't anything we couldn't deal with. The bomb... did hurt a bit, though.
+        ```
+
+        ---
+
+        ```
+        Marile: No. That bomb wasn't meant for annihilation. It was a means.
+        ```
+        ```
+        Marile: There's been an unexpected variable to Ran and Shrenne's plan. What are you?
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Faust broke her silence.
+            ```
+
+        ---
+
+        ```
+        Faust: Even if you were to return to an age without technology, you won't find the peace you seek.
+        ```
+        ```
+        Faust: Once accustomed to the luxury brought by technology, people won't be able to withstand life in the past. Think of the time when trips to the Backstreets were trending among the rich.
+        ```
+        ```
+        Faust: They only use the experience to take another look at their own lives and be thankful for everything they have. Hardly any would live in a less opulent era given the opportunity.
+        ```
+
+        ---
+
+        ```
+        Marile: ...And? I don't like talkative people. Not fond of explaining things to you, either.
+        ```
+
+        ---
+
+        ```
+        Faust: I'm not the talkative sort. And I don't require explanations in any field. I was simply curious to know the difference in perspectives.
+        ```
+
+        ---
+
+        ```
+        Marile: ...None of us take WARP trains.
+        ```
+        ```
+        Marile: We don't eat the meat the City has to offer, either.
+        ```
+        ```
+        Marile: When you know the truth, you wouldn't even consider something as shallow as Backstreets trips.
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Hm... The elders in my family, who must know even greater things than I do, didn't have any problem using them though?
+        ```
+
+        ---
+
+        ```
+        Marile: The masses are ignorant. They won't believe it even if you show it before their eyes.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: And this is your conclusion?
+        ```
+        ```
+        Heathcliff: Get rid of everything and make 'em live in that empty world?
+        ```
+
+        ---
+
+        ```
+        Marile: You wouldn't get—
+        ```
+
+        ---
+
+        ```
+        Heathcliff: No, I think I get it just fine.
+        ```
+        ```
+        Heathcliff: There are plenty of blighters out there who just don't get it if you talk nicely.
+        ```
+        ```
+        Heathcliff: They'd only start empathizing with the likes of me after they get a couple bruises and scars on their faces.
+        ```
+        ```
+        Heathcliff: It gives me the urge to just wreck it all.
+        ```
+
+        ---
+
+        ```
+        Marile: ……
+        ```
+        ```
+        Marile: If we ever recruit new members...
+        ```
+        ```
+        Marile: I'll try excluding the educational background from the requisites.
+        ```
+
+        ---
+
+        ```
+        Ishmael: Although Heathcliff has never told us about what schools he went to... I can see where it's coming from.
+        ```
+        ```
+        Ishmael: Still, you're going way over the line.
         ```
 ---
 

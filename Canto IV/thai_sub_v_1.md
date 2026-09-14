@@ -9844,7 +9844,7 @@
 
         ```
         Don Quixote: Gasp! Is Class 1 not the highest level an employee can reach, precisely like Grade 1 is for Fixers?! Verily, 'tis no wonder that they are the noblest...!
-        ดอน กิโฆเต้: หู้ว! ระดับ 1 นี้ มิใช่ว่าเป็นระดับสูงสุดที่พนักงานจะไปถึงได้หรือขอรับ เหมือนกับฟิกเซอร์ระดับ 1 อะไรแบบนั้นน่ะ?! มิน่าล่ะว่าทำไม พวกเขาถึงต้องเป็นกลุ่มที่สูงส่งที่สุดอย่างหาที่เปรียบไม่ได้...! <*ถึงนี้>
+        ดอน กิโฆเต้: หู้ว! ระดับ 1 นี้ มิใช่ว่าเป็นระดับสูงสุดที่พนักงานจะไปถึงได้หรือขอรับ เหมือนกับฟิกเซอร์ระดับ 1 อะไรแบบนั้นน่ะ?! มิน่าล่ะว่าทำไม พวกเขาถึงเป็นกลุ่มที่สูงส่งที่สุดอย่างหาที่เปรียบไม่ได้...
         ```
 
         ---
@@ -9853,7 +9853,7 @@
 
         ```
         Samjo: Sorry? In this Nest, Class 1 is the lowest level, and higher numbers indicate better ranks...
-        แซมโจ: 
+        แซมโจ: ขอโทษด้วยนะครับ? แต่ในเนสแห่งนี้ คลาส 1 ถือว่าเป็นระดับที่ต่ำที่สุด ในขณะที่เลขที่สูงกว่าบ่งบอกว่าอยู่แรงก์ที่ ดี/เหนือ กว่าน่ะครับ... 
         ```
 
         ---
@@ -9862,84 +9862,121 @@
 
         ```
         Don Quixote: Wha, wuh, wah, wha, wai... Whaat?!!!
+        ดอน กิโฆเต้: วา ว้ะ วา วา ว่า... ไงนะ?!!!
         ```
         ```
         Don Quixote: ...Even still, none can be too lordly or lowly to save lives, so how can the roles be divided?
+        ดอน กิโฆเต้: ...แต่ยังไงก็เถอะ ไม่ว่าจะเป็นผู้ศักดิ์หรือผู้ต่ำต้อยก็ล้วนสามารถช่วยชีวิตของผู้คนได้ไม่ต่างกัน หากเป็นเช่นนั้นแล้ว หน้าที่เหล่านั้นถูกแบ่งจากอะไรหรือขอรับ?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Haha, bigger is better for numbers and riches alike, isn't that right?
+        ดงรัง: ฮาฮา ใหญ่กว่าก็คือดีกว่าในเชิงตัวเลข ไม่ต่างอะไรกับความร่ำรวยนั้นแหละครับ?
         ```
         ```
         Dongrang: Ah, the conversation dragged on for a bit... But there's nothing to worry about, I've acquired the permission.
+        ดงรัง: อา ดูเหมือนเราคุยออกทะเลกันมากไปหน่อยนะครับ... แต่ก็ไม่มีอะไรที่ต้องกังวลไป ผมได้รับการอนุญาติมาแล้ว
         ```
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dante: <…?>
+        Dante: <...?>
+        ดันเต้: <...?>
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: What? Permission? For what?
+        ฮิธคลิฟฟ์: หะ? การอนุญาติ? เพื่อ'ไร? 
         ```
 
         ---
+        
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Normally, it seems to require a bunch of paperwork as well, but since we're in an emergency, let's skip the procedures that we can. Should be fine, right, Samjo?
+        ดงรัง: ปกติแล้ว มันต้องใช้เอกสารประมาณสองสามฉบับด้วย แต่ในเมื่อเรากำลังอยู่ภายในสถานการณ์ฉุกเฉินอยู่แบบนี้ ถ้าเราจะข้ามขั้นตอนพวกนั้นไปบ้าง คงไม่เป็นไรใช่ไหม แซมโจ?
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Well... I believe it could be managed with three days and a half of working on the report overtime.
+        แซมโจ: อา... ผมว่ามันก็ทำได้นะครับ ถึงแม้ว่ามันอาจต้องใช้เวลาถึงสามวันกับครึ่งหนึ่งกว่าจะทำรายงานล่วงเวลาเสร็จ
         ```
         ```
         Samjo: And strictly speaking, the problem already began when you brought them to your lab without any report.
+        แซมโจ: และถ้าจะให้พูดตรง ๆ ปัญหามันก็เริ่มตั้งแต่ที่คุณพาพวกเขาเข้ามาในแลป โดยที่ไม่ได้รายงานไว้ก่อนแล้วล่ะครับ
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Just tell us what that permission is about first!
+        ฮิธคลิฟฟ์: แค่บอกเรามาได้แล้วว่าการอนุญาติทีว่านั้นมันคืออะไร!
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: It would seem that Dongbaek has headed that way.
+        ดงรัง: ดูเหมือนว่าดงแบ็กจะมุ่งหน้าไปทางนั่น
         ```
         ```
         Dongrang: The screening room.
+        ดงรัง: ยังห้องคัดกรอง
         ```
         ```
         Dongrang: The security procedures for entering that place can be... extremely convoluted.
+        ดงรัง: และในการที่เข้าไปที่นั่นได้ ก็มีมาตรการรักษาความปลอดภัยที่... ซับซ้อนและหินสุด ๆ 
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Screening room? The name doesn't give a very clear idea of what it's about~
+        โรเดียน: ห้องคัดกรอง? ชื่อมันดูจะไม่ได้บอกอะไรเลยนะคะ ว่าเป็นสถานที่แบบไหนกัน~
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Wonder why the security is so tight about it~
+        ฮงหลู่: สงสัยจังเลยครับ ว่าทำไมระบบรักษาความปลอดภัยที่นั่น ถึงต้องเข้มงวดขนาดนั้นด้วย~
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: It's at the very top of the building.
+        ดงรัง: มันอยู่บนชั้นบนสุดของตึกนี้น่ะครับ
         ```
         ```
         Dongrang: There are two ways to make something inaccessible: put it underground, or at the highest point.
+        ดงรัง: ก็แหม ถ้าเราไม่อยากที่จะให้ใครเข้าถึงอะไรบางอย่างที่ถูกปิดเอาไว้ ก็มีอยู่สองทางที่ทำได้: ไม่กลบมันเอาไว้อยู่ใต้ดิน ก็เอามันไปอยู่ที่จุดยอด
         ```
 ---
 

@@ -10006,100 +10006,142 @@
 
         ```
         Samjo: ...Of course, K Corp. was my primary choice... A man of mediocrity like me has to send an application to every Wing in hopes that one will accept it.
-        แซมโจ: ...มันแน่อยู่แล้วครับ ว่าเคคอร์ปต้องเป็นทางเลือกหลักของผม... <*ถึงนี้>
+        แซมโจ: ...มันแน่อยู่แล้วครับ ว่าเคคอร์ปต้องเป็นที่ที่ผมอยากเข้าทำงานมากที่สุด... แต่ชายธรรมดาผู้ไม่มีอะไรพิเศษพิโสแบบผมน่ะ ก็ทำใจไว้อยู่แล้วล่ะครับว่ามันเป็นเรื่องยาก ก็เลยเลือกที่จะส่งใบสมัครงานกับทุกวิงส์ แล้วหวังเล็ก ๆ ว่าจะมีใครรับผมไป
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             There were corpses around Marile... "Appalling" couldn't begin to describe their state.
+            มีศพอยู่เกลื่อนกลาดมารีลเต็มไปหมด... คำว่า "เลวร้าย" คงจะน้อยไปด้วยซ้ำที่จะอธิบายสภาพของพวกเขาในตอนนี้
             ```
 
         ---
 
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Samjo: ……
+        Samjo: ......
+        แซมโจ: ......
         ```
         ```
         Samjo: Oh dear, pardon me, I need to use the restroom...
+        แซมโจ: โอ้ เวรเอ้ย ขอโทษด้วยนะครับ แต่ผมต้องเข้าห้องน้ำ...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Samjo turned pale and ran, covering his mouth with a hand.
+            แซมโจซีดเซียวและวิ่งหนีออกไป ในขณะที่กำลังปิดปากของเขาด้วยมือข้างหนึ่ง
             ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: Our researchers... couldn't have been able to fight back at all.
+        ดงรัง: นักวิจัยของเรา... ไม่มีโอกาสที่จะได้สู้กลับเลยด้วยซ้ำ
         ```
 
         ---
+
+        <img src="../images/Marie.png" alt="Marile" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Marile: K Corp's employees didn't seem to have a problem with bludgeoning my colleagues who didn't so much as swing a fist, either.
+        มาริล: เหอะ พนักงานของเคคอร์ปเองก็ดูจะไม่ได้ทุกข์ร้อนใจอะไร กับการทุบตีเพื่อนร่วมงานฉันที่ไร้ทางสู้ด้วยเหมือนกันนี้
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: We're looking for your boss. Where is she?
+        เอาทิส: เรากำลังตามหาบอสของแกอยู่ เธออยู่ไหน?
         ```
 
         ---
+
+        <img src="../images/Marie.png" alt="Marile" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Marile: What I want to know is how you're still alive.
+        มาริล: สิ่งที่ฉันอยากรู้ก็คือ พวกแกยังมีชีวิตรอดได้ยังไง
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Oh, you mean those galling murder machines? They weren't anything we couldn't deal with. The bomb... did hurt a bit, though.
+        ฮิธคลิฟฟ์: โอ้ แกหมายถึงไอพวกเครื่องจักรสังหารน่ารำคาญพวกนั้นน่ะหรอ? มันไม่ใช่อะไรที่พวกเรารับมือไม่ได้สักหน่อย ส่วนระเบิดนั้น... ก็ทำเอาเจ็บได้นิดหน่อยนะ
         ```
 
         ---
+
+        <img src="../images/Marie.png" alt="Marile" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Marile: No. That bomb wasn't meant for annihilation. It was a means.
+        มาริล: ไม่ ระเบิดลูกนั้นไม่ได้มีไว้เพื่อทำลายล้างให้สิ้นซาก แต่เป็นวิธีการหนึ่งก็เท่านั้น
         ```
         ```
         Marile: There's been an unexpected variable to Ran and Shrenne's plan. What are you?
+        มาริล: แล้วมันก็ดันมีตัวแปรไม่ทราบชื่อโผล่หัวเข้ามาในสมการของรันกับชเรนน์อย่างพวกแก ไม่ทราบว่า พวกแกเป็นตัวอะไรกันแน่?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Faust broke her silence.
+            เฟาสท์ทะลายความเงี่ยบของเธอออกมา ก่อนที่จะพูดว่า
             ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: Even if you were to return to an age without technology, you won't find the peace you seek.
+        เฟาสท์: ถึงแม้ว่าคุณจะย้อนกลับไปในยุคสมัยที่ไม่มีเทคโนโลยีก่อนหน้านี้ แต่ไม่ว่ายังไง พวกคุณก็ไม่มีทางพบความสงบสุขอย่างที่ตัวเองตามหาได้หรอกค่ะ
         ```
         ```
         Faust: Once accustomed to the luxury brought by technology, people won't be able to withstand life in the past. Think of the time when trips to the Backstreets were trending among the rich.
+        เฟาสท์: ครั้นเมื่อคุ้นเคยกับชีวิตหรูหราที่ได้จากเทคโนโลยีแล้ว ผู้คน—ก็ไม่มีใครหรอกค่ะที่จะทนได้ กับการต้องกลับไปใช้ชีวิตแสนลำเค็ญ ที่เต็มไปด้วยความน้ำตาและหยาดเหงื่อ อย่างเช่น ในตอนที่พวกคนรวยเคยนิยมเที่ยวในเบคลสตรีท <*ไม่แน่ใจ>
         ```
         ```
         Faust: They only use the experience to take another look at their own lives and be thankful for everything they have. Hardly any would live in a less opulent era given the opportunity.
+        เฟาสท์: พวกเขาแก็แค่ต้องการประสบการณ์ที่จะย้อนมองยังตัวเอง และรู้สึกปราบปลื้มกับทุกสิ่งทุกอย่างที่พวกเขามีในวันนี้ ถ้ามีโอกาส ก็คงจะไม่มีใครเลยที่อยากกลับไปใช้ชีวิตในยุคสมัยที่เจ็บปวดแบบนั้น <*ถึงนี้,ไม่แน่ใจ>
         ```
 
         ---
+
+        <img src="../images/Marie.png" alt="Marile" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Marile: ...And? I don't like talkative people. Not fond of explaining things to you, either.
+        มาริล: 
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: I'm not the talkative sort. And I don't require explanations in any field. I was simply curious to know the difference in perspectives.
@@ -10113,7 +10155,7 @@
         ```
         Marile: We don't eat the meat the City has to offer, either.
         ```
-        ```
+        ``` 
         Marile: When you know the truth, you wouldn't even consider something as shallow as Backstreets trips.
         ```
 

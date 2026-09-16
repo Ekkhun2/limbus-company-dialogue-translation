@@ -9836,7 +9836,7 @@
 
         ```
         Dongrang: Rescuing is left to Class 1 staff.
-        ดงรัง: ส่วนการช่วยเหลือเป็นหน้าที่ของเจ้าหน้าที่ระดับ 1 น่ะครับ
+        ดงรัง: ส่วนการช่วยเหลือเป็นหน้าที่ของเจ้าหน้าคลาส 1 น่ะครับ
         ```
 
         ---
@@ -9845,7 +9845,7 @@
 
         ```
         Don Quixote: Gasp! Is Class 1 not the highest level an employee can reach, precisely like Grade 1 is for Fixers?! Verily, 'tis no wonder that they are the noblest...!
-        ดอน กิโฆเต้: หู้ว! ระดับ 1 นี้ มิใช่ว่าเป็นระดับสูงสุดที่พนักงานจะไปถึงได้หรือขอรับ เหมือนกับฟิกเซอร์ระดับ 1 อะไรแบบนั้นน่ะ?! มิน่าล่ะว่าทำไม พวกเขาถึงเป็นกลุ่มที่สูงส่งที่สุดอย่างหาที่เปรียบไม่ได้...
+        ดอน กิโฆเต้: หู้ว! คลาส 1 นี้ มิใช่ว่าเป็นระดับสูงสุดที่พนักงานจะไปถึงได้หรือขอรับ เหมือนกับฟิกเซอร์ระดับ 1 อะไรแบบนั้นน่ะ?! มิน่าล่ะว่าทำไม พวกเขาถึงเป็นกลุ่มที่สูงส่งที่สุดอย่างหาที่เปรียบไม่ได้...
         ```
 
         ---
@@ -10119,15 +10119,15 @@
 
         ```
         Faust: Even if you were to return to an age without technology, you won't find the peace you seek.
-        เฟาสท์: ถึงแม้ว่าคุณจะย้อนกลับไปในยุคสมัยที่ไม่มีเทคโนโลยีก่อนหน้านี้ แต่ไม่ว่ายังไง พวกคุณก็ไม่มีทางพบความสงบสุขอย่างที่ตัวเองตามหาได้หรอกค่ะ
+        เฟาสท์: ถึงแม้ว่าคุณจะย้อนกลับไปในยุคสมัยที่ไม่มีเทคโนโลยีแล้วก็ตาม พวกคุณก็ไม่มีทางค้นพบความสงบสุขในแบบที่่ตัวเองตามหาได้หรอกค่ะ
         ```
         ```
         Faust: Once accustomed to the luxury brought by technology, people won't be able to withstand life in the past. Think of the time when trips to the Backstreets were trending among the rich.
-        เฟาสท์: ครั้นเมื่อคุ้นเคยกับชีวิตหรูหราที่ได้จากเทคโนโลยีแล้ว ผู้คน—ก็ไม่มีใครหรอกค่ะที่จะทนได้ กับการต้องกลับไปใช้ชีวิตแสนลำเค็ญ ที่เต็มไปด้วยความน้ำตาและหยาดเหงื่อ อย่างเช่น ในตอนที่พวกคนรวยเคยนิยมเที่ยวในเบคลสตรีท <*ไม่แน่ใจ>
+        เฟาสท์: ครั้นเมื่อคุ้นชินกับชีวิตหรูหราที่ได้จากเทคโนโลยีแล้ว ผู้คน—ก็ไม่มีใครหรอกที่จะทนได้ กับการต้องกลับไปใช้ชีวิตแสนลำเค็ญ ที่เต็มไปด้วยหยาดเหงื่อและคราบน้ำตา อย่างเช่น ในตอนที่การท่องเที่ยวในเบลคสตรีทเคยเป็นกิจกรรมสุดฮิตในหมู่คนรวย
         ```
         ```
         Faust: They only use the experience to take another look at their own lives and be thankful for everything they have. Hardly any would live in a less opulent era given the opportunity.
-        เฟาสท์: พวกเขาแก็แค่ต้องการประสบการณ์ที่จะย้อนมองยังตัวเอง และรู้สึกปราบปลื้มกับทุกสิ่งทุกอย่างที่พวกเขามีในวันนี้ ถ้ามีโอกาส ก็คงจะไม่มีใครเลยที่อยากกลับไปใช้ชีวิตในยุคสมัยที่เจ็บปวดแบบนั้น <*ถึงนี้,ไม่แน่ใจ>
+        เฟาสท์: พวกเขาแก็แค่ต้องการประสบการณ์ที่ได้ย้อนมองตัวเอง และรู้สึกปราบปลื้มกับทุกสิ่งทุกอย่างที่พวกเขามีในวันนี้ และถ้ามีโอกาส ก็คงจะไม่มีใครเลยที่อยากกลับไปใช้ชีวิตในอดีตที่ขื่นขมแบบนั้น
         ```
 
         ---
@@ -10136,7 +10136,7 @@
 
         ```
         Marile: ...And? I don't like talkative people. Not fond of explaining things to you, either.
-        มาริล: 
+        มาริล: ...แล้วไง? ฉันน่ะไม่ชอบคนพูดมาก และไม่สนใจที่จะอธิบายอะไรทั้งนั้นให้กับคนแบบเธอด้วย
         ```
 
         ---
@@ -10145,82 +10145,118 @@
 
         ```
         Faust: I'm not the talkative sort. And I don't require explanations in any field. I was simply curious to know the difference in perspectives.
+        เฟาสท์: ฉันไม่ใช่คนพูดมากสักหน่อยนะคะ และฉันก็ไม่ต้องการคำอธิบายอะไรด้วย เพียงแต่ฉันแค่สงสัย ว่าทำไมคุณถึงมีแนวคิดแบบนั้นได้ก็เท่านั้นเองค่ะ
         ```
 
         ---
+
+        <img src="../images/Marie.png" alt="Marile" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Marile: ...None of us take WARP trains.
+        มาริล: ...พวกเราไม่เคยขึ้นรถไฟเคลื่อนย้ายความเร็วสูง
         ```
         ```
         Marile: We don't eat the meat the City has to offer, either.
+        มาริล: หรือกัดกินชิ้นเนื้อที่เดอะซิตี้มอบให้
         ```
         ``` 
         Marile: When you know the truth, you wouldn't even consider something as shallow as Backstreets trips.
+        มาริล: เมื่อเธอรู้ความจริงแล้ว เธอคงปากพล่อยพูดอะไรออกมาที่ตื้นเขินอย่างการเที่ยวเล่นในเบลคสตรีทแน่
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Hm... The elders in my family, who must know even greater things than I do, didn't have any problem using them though?
+        ฮงหลู่: หืม... พวกเฒ่าแก่ในบ้านผม ที่น่าจะรู้อะไรมากกว่าที่ผมรู้ กูดูจะไม่มีปัญหาอะไรกับการใช้พวกมันเลยนะครับ?
         ```
 
         ---
+
+        <img src="../images/Marie.png" alt="Marile" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Marile: The masses are ignorant. They won't believe it even if you show it before their eyes.
+        มาริล: ก็คนพวกนั้นมันเอาแต่เมินเฉยไง ไม่ว่าเธอจะพูดออกไปสักกี่ครั้ง หรือกางความจริงให้เห็นกันต่อหน้าต่อตายังไง พวกมันก็ไม่มีใครเชื่อเธอหรอก
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: And this is your conclusion?
+        ฮิธคลิฟฟ์: พล่ามจบแล้วใช่ไหม?
         ```
         ```
         Heathcliff: Get rid of everything and make 'em live in that empty world?
+        ฮิธคลิฟฟ์: สรุปก็คือแกจะทำลายทุกอย่างให้สิ้นซาก แล้วบังคับพวกเขาให้มีชีวิตต่อไปในโลกที่ว่างเปล่า?
         ```
 
         ---
+
+        <img src="../images/Marie.png" alt="Marile" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Marile: You wouldn't get—
+        มาริล: แกไม่มีวันเข้า(ใจ)—
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: No, I think I get it just fine.
+        ฮิธคลิฟฟ์: ไม่ ฉันคิดว่าฉันเข้าใจแล้ว
         ```
         ```
         Heathcliff: There are plenty of blighters out there who just don't get it if you talk nicely.
+        ฮิธคลิฟฟ์: ว่ามันมีไอพวกโง่บางจำพวกที่ไม่วันทำความเข้าใจอะไรได้ถ้าเอาแต่พูดดีด้วย
         ```
         ```
         Heathcliff: They'd only start empathizing with the likes of me after they get a couple bruises and scars on their faces.
+        ฮิธคลิฟฟ์: แล้วพวกมันก็จะเริ่มเห็นอกเห็นอกใจคนอย่างฉัน ในตอนที่พวกมันได้รอยฟกช้ำสักสองสามรอย แล้วก็แผลเป็นติดหน้ามัน
         ```
         ```
         Heathcliff: It gives me the urge to just wreck it all.
+        ฮิธคลิฟฟ์: ทำเอาฉันเสี้ยนขึ้นมาแล้วสิ
         ```
 
         ---
 
+        <img src="../images/Marie.png" alt="Marile" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Marile: ……
+        Marile: ......
+        มาริล: ......
         ```
         ```
         Marile: If we ever recruit new members...
+        มาริล: ครั้งหน้าถ้าเรารับสมาชิกใหม่เข้ามา...
         ```
         ```
         Marile: I'll try excluding the educational background from the requisites.
+        มาริล: เอาไว้จะลบประวัติการศึกษาจากข้อกำหนดก็แล้วกัน
         ```
 
         ---
 
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ishmael: Although Heathcliff has never told us about what schools he went to... I can see where it's coming from.
+        อิชมาเอล: ถึงฮิธคลิฟฟ์จะไม่เคยบอกเราว่าเขาเคยเรียนที่ไหนมา... แต่ฉันว่าฉันพอจะเอาได้แฮะ
         ```
         ```
         Ishmael: Still, you're going way over the line.
+        อิชมาเอล: ไงก็ นายกำลังล้ำเส้นอยู่นะรู้ไหม
         ```
+
+    ---
 ---
 
 ### เพิ่มเติม

@@ -10223,7 +10223,7 @@
         ```
         ```
         Heathcliff: It gives me the urge to just wreck it all.
-        ฮิธคลิฟฟ์: ทำเอาฉันเสี้ยนขึ้นมาแล้วสิ
+        ฮิธคลิฟฟ์: ทำเอาฉันเสี้ยนขึ้นมา แล้วสิ/เลยล่ะ
         ```
 
         ---
@@ -10257,6 +10257,295 @@
         ```
 
     ---
+
+    * **Episode: 28 | ตอนที่ 28**
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ryoshu: E. Y.
+        เรียวชู: พ. ย.
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Yi Sang: ...Did you call?
+        ยี่ซัง: ...เมื่อกี้เรียกหรอ?
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ryoshu: That man who keeps clinging to us claiming to be your friend. What's the relationship?
+        เรียวชู: ชายคนนั้นที่เอาแต่ตามติดเราบอกว่าตัวเองเป็นเพื่อนของนาย ความสัมพันธ์เป็นยังไงกันแน่? <*ถึงนี้,ไม่แน่ใจ>
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: As can be seen, the tie has long been severed.
+        ยี่ซัง: 
+        ```
+
+        ---
+
+        ```
+        Ryoshu: I don't like butting in, and I hate speaking for long even more...
+        ```
+        ```
+        Ryoshu: But I'm telling you this since the smile of that ignorance-feigning scoundrel Dongrang is detestable.
+        ```
+        ```
+        Ryoshu: That one desk, one that was even more disgusting than the others because it was clean and empty.
+        ```
+        ```
+        Ryoshu: The nametag below it had your name.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ……
+        ```
+
+        ---
+
+        ```
+        Dante: <He was planning to give Yi Sang that position all along?>
+        ```
+
+        ---
+
+        ```
+        Ishmael: Do you think he's trying to headhunt him? That's supposedly a violation of moral principles between firms or something like that, isn't it?
+        ```
+
+        ---
+
+        ```
+        Ryoshu: BAFFLED.
+        ```
+
+        ---
+
+        ```
+        Ishmael: ...What's that supposed to be an acronym for?
+        ```
+
+        ---
+
+        ```
+        Ryoshu: It's not. I'm just baffled.
+        ```
+        ```
+        Ryoshu: Orange hair, you say you used to work on a ship for a long while? As a Fixer?
+        ```
+        ```
+        Ryoshu: You have serious delusions about Wings and firms. Did you dump your common sense into the great lake as chum?
+        ```
+        ```
+        Ryoshu: Bringing up morality in the world we live in... Pretty amusing for a joke.
+        ```
+
+        ---
+
+        ```
+        Meursault: Headhunting and changing jobs between firms are done based on interests and efficiency.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Heh, so you're a hillbilly in your own language, eh. Or should I say boatbilly?
+        ```
+
+        ---
+
+        ```
+        Ishmael: Erggh...
+        ```
+
+        ---
+
+        ```
+        Dante: <Even if that was the case... This really is strange.>
+        ```
+        ```
+        Dante: <He's not taking Yi Sang's thoughts into account at all...>
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Pay it no heed. Thoughts are rather meager things.
+        ```
+        ```
+        Yi Sang: I am quite used to the life of being taxidermied.
+        ```
+
+        ---
+
+        ```
+        Sinclair: Are you sure you don't mind? Yi Sang, when you joined the company...
+        ```
+        ```
+        Sinclair: No, actually... Didn't all of us receive the same offer?
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            The job offer.
+            ```
+            ```
+            In my case, I was promised I'd get my aspect carved.
+            ```
+            ```
+            I could barely remember a thing, but as soon as I heard that word, I nodded as if I was possessed.
+            ```
+            ```
+            They acted like they knew my only choice would be to accept it...
+            ```
+
+        ---
+
+        ```
+        Sinclair: If I joined this company...
+        ```
+
+        ---
+
+        ```
+        Yi Sang: When I do...
+        ```
+        ```
+        Yi Sang: The thing I wished for dearly...
+        ```
+
+        ---
+
+        ```
+        Ishmael: The thing I recited to myself every night...
+        ```
+
+        ---
+
+        ```
+        Outis: Yes, the thing I thought would be impossible...
+        ```
+
+        ---
+
+        ```
+        Faust: They promised to make it a possibility. Most certainly.
+        ```
+
+        ---
+
+        ```
+        Don Quixote: ……
+        ```
+
+        ---
+
+        ```
+        Gregor: How thoroughly did they look into our backgrounds?
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Hah... Guess we had our version of wish-granting tales just like that storybook we read earlier.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: In truth, even that wish was no more than a futile dream.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: What, you weren't that desperate for it? Why did you join, then?
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Simply...
+        ```
+        ```
+        Yi Sang: I walked for so long that my feet hurt. A shower of rain was pouring down as well.
+        ```
+        ```
+        Yi Sang: The bus I saw then appeared rather inviting.
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Hah. That can't be it, can it?
+        ```
+        ```
+        Ryoshu: We all...
+        ```
+
+        ---
+
+        ```
+        Faust: That's enough of it.
+        ```
+        ```
+        Faust: Our company rules forbid disclosing the contents of the job contract in detail.
+        ```
+
+        ---
+
+        ```
+        Ryoshu: Acting all high and mighty when you're in the same boat with the rest. Foul.
+        ```
+
+        ---
+
+        ```
+        Faust: ……
+        ```
+        ```
+        Faust: Let's proceed.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            That's when a thought struck me.
+            ```
+            ```
+            Unlike most other Sinners, Yi Sang wouldn't vocalize his pain.
+            ```
+            ```
+            Because of that, I would often discover his injuries late.
+            ```
+            ```
+            Where has he been holding all that pain?
+            ```
+            ```
+            I was reminded of the void in his chest I caught a glimpse of.
+            ```
+            ```
+            Was he keeping it in... or was it spilling out?
+            ```
 ---
 
 ### เพิ่มเติม

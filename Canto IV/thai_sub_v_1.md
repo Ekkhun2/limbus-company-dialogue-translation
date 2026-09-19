@@ -10721,7 +10721,7 @@
 
         ---
 
-        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         ???: I see now... That's what Ran told me about.
@@ -10730,7 +10730,7 @@
 
         ---
 
-        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -10757,7 +10757,7 @@
 
         ```
         Dongrang: Ahh~ I've been wondering how, and now I know the answer.
-        ดงรัง: อ้าา~ ผมก็สงสัยมาสักพักแล้วว่าทำไม และผมก็ได้คำตอบแล้ว
+        ดงรัง: อ้าา~ ผมก็สงสัยมาได้สักพักแล้วว่าทำไม และดูเหมือนจะได้คำตอบแล้ว
         ```
         ```
         Dongrang: How our security was so easily breached, how we kept losing track of you, and how you kept vanishing...

@@ -10304,15 +10304,15 @@
         ```
         ```
         Ryoshu: But I'm telling you this since the smile of that ignorance-feigning scoundrel Dongrang is detestable.
-        เรียวชู: แต่ฉันไว้เลย ว่า <*ถึงนี้,ยังไม่เสร็จ>
+        เรียวชู: แต่ที่ฉันบอกนายเนี้ย เพราะว่ารอยยิ้มจอมแสแสร้งของไอชาติชั่วนั้น มันน่ารังเกียจฉิบหายเลย
         ```
         ```
         Ryoshu: That one desk, one that was even more disgusting than the others because it was clean and empty.
-        เรียวชู: 
+        เรียวชู: แล้วก็โต๊ะตัวนั้น มันน่ารังเกียจรังเกียจที่สุดเลย เพราะมันทั้งสะอาดและว่างเปล่า
         ```
         ```
         Ryoshu: The nametag below it had your name.
-        เรียวชู: 
+        เรียวชู: พร้อมกับชื่อของนายที่ติดอยู่ใต้มัน
         ```
 
         ---
@@ -10330,234 +10330,336 @@
 
         ```
         Dante: <He was planning to give Yi Sang that position all along?>
-        ดันเต้:
+        ดันเต้: <นี้หรือว่าเขาตั้งใจจะให้ตำแหน่งนั้นกับยี่ซังมาตั้งแต่แรกแล้ว?>
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Do you think he's trying to headhunt him? That's supposedly a violation of moral principles between firms or something like that, isn't it?
+        อิชมาเอล: เธอคิดว่าดงรังกำลังตามล่าเขาอยู่หรือเปล่า? ถ้าทำแบบจริง ฉันว่ามันน่าจะผิดหลักศีลธรรมระหว่างองค์กรนะ?
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: BAFFLED.
+        เรียวชู: งงว่ะ
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: ...What's that supposed to be an acronym for?
+        อิชมาเอล: ...แล้วนั่นมันย่อมาจากอะไร?
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: It's not. I'm just baffled.
+        เรียวชู: ไม่ได้ย่อ ฉันแค่งง
         ```
         ```
         Ryoshu: Orange hair, you say you used to work on a ship for a long while? As a Fixer?
+        เรียวชู: ยัยผมส้ม เธอบอกว่าตัวเองเคยทำงานอยู่บนเรือมานานโข? ในฐานะฟิกเซอร์?
         ```
         ```
         Ryoshu: You have serious delusions about Wings and firms. Did you dump your common sense into the great lake as chum?
+        เรียวชู: แต่เธอดูจะไม่ได้เข้าใจอะไรเกี่ยวกับวิงส์หรือองค์กรเลยสักนิด นี้เธอโยนสามัญสำนึกตัวเองทิ้งลงทะเลสาปเป็นเหยื่อล่อปลาแล้วหรือไง?
         ```
         ```
         Ryoshu: Bringing up morality in the world we live in... Pretty amusing for a joke.
+        เรียวชู: ถึงเสร่อพูดถึงศิลธรรมในโลกที่เน่าเฟะแบบนี้ที่เราใช้ชีวิตอยู่... เป็นมุขที่ตลกใช่ได้ 
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: Headhunting and changing jobs between firms are done based on interests and efficiency.
+        เมอร์โซลท์: การตามล่า และเปลี่ยนถ่ายอาชีพระหว่างองค์กรถูกทำไปก็ล้วนแล้วแต่เพราะผลประโยชน์ และประสิทธิภาพ
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Heh, so you're a hillbilly in your own language, eh. Or should I say boatbilly?
+        ฮิธคลิฟฟ์: เหอะ หรือถ้าจะให้พูดภาษาเธอก็คือบ้านนอก เออ หรือะเรียกว่าเรือนอกดีล่ะ?
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Erggh...
+        อิชมาเอล: อึก...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <Even if that was the case... This really is strange.>
+        ดันเต้: <ถึงมันจะเป็นแบบนั้นจริง... แต่นี้ก็แปลกเกินไป>
         ```
         ```
         Dante: <He's not taking Yi Sang's thoughts into account at all...>
+        ดันเต้: <เขาไม่ได้รับฟังความคิดเห็นของยี่ซังเลยด้วยซ้ำ...>
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: Pay it no heed. Thoughts are rather meager things.
+        ยี่ซัง: ไม่ต้องไปใส่ใจหรอกครับ ความคิดเห็นก็เป็นแค่ของไม่จำเป็น
         ```
         ```
         Yi Sang: I am quite used to the life of being taxidermied.
+        ยี่ซัง: ผมชินแล้วล่ะ กับการใช้ชีวิต ที่ต้องถูกสตาฟ
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Are you sure you don't mind? Yi Sang, when you joined the company...
+        ซินแคร์: ทำไมถึงพูดว่าตัวเองไม่เป็นไรล่ะครับ? คณยี่ซัง ในตอนที่คุณเข้าบริษัทมา...
         ```
         ```
         Sinclair: No, actually... Didn't all of us receive the same offer?
+        ซินแคร์: ไม่สิ จริง ๆ แล้ว... ไม่ใช่ว่าพวกเราทุกคนได้ข้อเสนอแบบเดียวกันหรอ?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             The job offer.
+            ข้อเสนอของงาน
             ```
             ```
             In my case, I was promised I'd get my aspect carved.
+            ในกรณีฉัน ฉันถูกสัญญา ว่าจะทวงคืนสิ่งที่เคยเป็นฉันให้กลับมา
             ```
             ```
             I could barely remember a thing, but as soon as I heard that word, I nodded as if I was possessed.
+            ถึงในตอนนั้นฉันจะยังจำอะไรไม่ได้เลยก็เถอะ แต่พอได้ยินคำพูดนั่นผ่านหูเท่านั้นแหละ ฉันก็ตอบตกลงไป อย่างกับว่าร่างกายตัวเองถูกควบคุม
             ```
             ```
             They acted like they knew my only choice would be to accept it...
+            ในขณะที่พวกเขาทำเหมือนกับว่ารู้ดีอยู่แล้ว ว่านี้เป็นทางเลือกเดียว ที่ผมสามารถทำได้...
             ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: If I joined this company...
+        ซินแคร์: ถ้าผมเข้าบริษัทนี้...
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: When I do...
+        ยี่ซัง: ในตอนที่ฉันเข้ามา...
         ```
         ```
         Yi Sang: The thing I wished for dearly...
+        ยี่ซัง: สิ่งที่ฉันหวังอย่างสุดซึ้ง...
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: The thing I recited to myself every night...
+        อิชมาเอล: สิ่งที่ฉันย้ำกับตัวเองในทุกคืน...
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: Yes, the thing I thought would be impossible...
+        เอาทิส: ใช่ สิ่งที่ฉันคิดว่าคงจะเป็นไปไม่ได้...
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: They promised to make it a possibility. Most certainly.
+        เอาทิส: พวกเขาสัญญาว่าจะทำให้มันเป็นไปได้ อย่างแน่นอนที่สุด
         ```
 
         ---
 
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Don Quixote: ……
+        Don Quixote: ......
+        ดอน กิโฆเต้: ......
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: How thoroughly did they look into our backgrounds?
+        เกรกอร์: พวกเขาดูประวัติพวกเราละเอียดแค่ไหนกันเนี้ย?
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Hah... Guess we had our version of wish-granting tales just like that storybook we read earlier.
+        ฮิธคลิฟฟ์: ฮา... เดาว่าพวกเราทุกคน ก็ต่างมีพรที่ตัวเองอย่างขอ เหมือนกับหนังสือนิทานนั่น ที่เราอ่านไปก่อนหน้านี้ 
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: In truth, even that wish was no more than a futile dream.
+        ยี่ซัง: ถึงแม้ในความเป็นจริงแล้ว พรนั่น ก็ไม่ต่างอะไร กับฝันที่เปล่าประโยชน์ 
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: What, you weren't that desperate for it? Why did you join, then?
+        ฮิธคลิฟฟ์: หะ แกไม่ได้โหยหามันหรือไง? ถ้าไม่ใช่ แล้วแกจะเข้ามาเพื่อ?
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: Simply...
+        ยี่ซัง: ง่าย ๆ ก็...
         ```
         ```
         Yi Sang: I walked for so long that my feet hurt. A shower of rain was pouring down as well.
+        ยี่ซัง: ฉันเดินมานานมากจนเท้าเจ็บ แล้วฝนก็โปรยลงมา
         ```
         ```
         Yi Sang: The bus I saw then appeared rather inviting.
+        ยี่ซัง: ก็เลยขึ้นรถบัสไปเพราะมันน่าขึ้น
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: Hah. That can't be it, can it?
+        เรียวชู: ฮะ มันจะเป็นแบบนั้นไปได้ไง?
         ```
         ```
         Ryoshu: We all...
+        เรียวชู: พวกเราทุกคน...
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: That's enough of it.
+        เฟาสท์: พอแค่นั้นแหละค่ะ
         ```
         ```
         Faust: Our company rules forbid disclosing the contents of the job contract in detail.
+        เฟาสท์: กฎของบริษัทเรา ห้าม เปิดเผย/ไม่ให้บอก เนื้อหาในสัญญาโดยละเอียด
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: Acting all high and mighty when you're in the same boat with the rest. Foul.
+        เรียวชู: ทำเป็นสูงส่ง และมีพลังอยู่ได้ ทั้ง ๆ ที่เธอเอง ก็ไม่ได้ต่างอะไรกับพวกเราเลยแท้ ๆ
         ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Faust: ……
+        Faust: ......
+        เฟาสท์: ......
         ```
         ```
         Faust: Let's proceed.
+        เฟาสท์: เราไปกันต่อเถอะค่ะ
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             That's when a thought struck me.
+            นั่นเป็นตอนที่ความคิดบางอย่างผุดเข้ามาในหัวฉัน
             ```
             ```
             Unlike most other Sinners, Yi Sang wouldn't vocalize his pain.
+            ไม่เหมือนกับคนบาปคนอื่น ยี่ซังไม่ได้ส่งเสียงแสดงความเจ็บปวดที่เขามี
             ```
             ```
             Because of that, I would often discover his injuries late.
+            เพราะงั้น กว่าฉันจะรู้ว่าเขาบาดเจ็บ ก็ปาเข้าไป/เวลาก็ผ่านไป นานโขแล้ว
             ```
             ```
             Where has he been holding all that pain?
+            เขาทนความเจ็บปวดนั้นได้ยังไง?
             ```
             ```
             I was reminded of the void in his chest I caught a glimpse of.
+            แล้วฉัน—ก็นึกถึงรูโหว่ตรงหน้าอกเขาที่เหลือบเห็นก่อนหน้านี้
             ```
             ```
             Was he keeping it in... or was it spilling out?
+            เขาเก็บมันไว้ด้านใน... หรือมันกำลังเอ่อล้นออกมากันแน่?
             ```
+    ---
 ---
 
 ### เพิ่มเติม

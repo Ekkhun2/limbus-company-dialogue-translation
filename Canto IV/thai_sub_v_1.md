@@ -10660,6 +10660,517 @@
             เขาเก็บมันไว้ด้านใน... หรือมันกำลังเอ่อล้นออกมากันแน่?
             ```
     ---
+
+    * **Episode: 29 | ตอนที่ 29<br>Location: Screening Room | ห้องคัดกรอง**
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: It's too dark to see... What is that?
+        ซินแคร์: มันมืดเกินไปที่จะมองเห็น... นั่นอะไรน่ะ?
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: It's been stopped for a moment because of the commotion, right?
+        ดงรัง: มันหยุดไปได้พักหนึ่งเพราะความโกลาหลที่เกิดขึ้นใช่ไหม?
+        ```
+
+        ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Samjo: Yes, as intruders might come up... so Director Alfonso has ordered to halt the operation for the moment...
+        แซมโจ: ใช่ครับ ด้วยความที่ผู้บุกอาจเข้ามาตอนไหนก็ได้... เพราะงั้น ท่านประธานอัลฟอนโซ เลยออกคำสั่งให้ยุติปฎบัติการไปก่อนน่ะครับ...
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: No, no, that just won't do. The losses caused in that brief moment will be tremendous, Samjo.
+        ดงรัง: ไม่ได้ ไม่ได้ จะปล่อยให้เป็นแบบนั้นไม่ได้หรอก ความสูญเสียที่เกิดขึ้นในช่วงจังหวะแบบนั้นจะใหญ่หลวงมาก แซมโจ
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: Scratch that... What IS that thing?!
+        โรเดียน: ช่างมันก่อนเถอะน้า... ไอเจ้านั่นมันอะไรอ่ะ?!
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Ah, you see... This thing cries in our stead.
+        ดงรัง: อา ก็อย่างที่เห็นครับ... เจ้านี้กำลังร้องให้แทนพวกเราอยู่น่ะครับ
+        ```
+        ```
+        Dongrang: So I always look at it with gratitude and pity.
+        ดงรัง: เพราะงั้น ผมก็เลยมองมัน ด้วยความรู้สึกปราบปลื้ม และน่าสงสาร
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: I see now... That's what Ran told me about.
+        ใครบางคน: เข้าใจแล้ว... นั่นคือสิ่งที่รันบอกกับฉัน 
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            The voice of a person we've been desperately looking for was heard.
+            เสียงของใครบางคนที่เรากำลังตามหาถูกได้ยิน
+            ```
+            ```
+            Its source was right in front of us.
+            ต้นตอของมันก็อยู่ข้างหน้าเราแล้ว
+            ```
+            ```
+            Some kind of translucent veil seemed to drop as she rose...
+            ในขณะที่ผ้าคลุมที่ดูเหมือนจะโปร่งแสงหล่นลงมา พร้อมกันกับตัวเธอที่ลุกขึ้น...
+            ```
+            ```
+            And Dongbaek was looking at us.
+            ก็พบกับดงแบ็กก็กำลังจ้องมองมาที่เรา
+            ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Ahh~ I've been wondering how, and now I know the answer.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: How our security was so easily breached, how we kept losing track of you, and how you kept vanishing...
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: You had the 'veil'. Ah, it was so simple, why couldn't I think of it sooner?
+        ดงรัง: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: 'Veil'? What's that supposed to be... Gah, you buggers started talking about things only you know again, eh?
+        ```
+
+        ---
+
+        ```
+        Ishmael: You might be able to live in the City alright, but you clearly aren't cut out to be a Fixer.
+        ```
+
+        ---
+
+        ```
+        Faust: Most people will struggle to figure out or understand the source of each technology in their lives, so they give up the endeavor and simply nod along.
+        ```
+        ```
+        Faust: Pretending to know. It's an essential skill for making your life in the City bearable.
+        ```
+
+        ---
+
+        ```
+        Ishmael: …Ahem.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: ……
+        ```
+
+        ---
+
+        ```
+        Dongrang: It's an expensive Singularity-based item only famous Fixers, Wing executives, or the richest classes could afford... Even if I asked how you got it, you won't answer me, will you?
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Is what I'm seeing the truth behind regeneration ampules?
+        ```
+
+        ---
+
+        ```
+        Dongrang: ...Yes, that's right. The source of the ampules you're hellbent on destroying.
+        ```
+
+        ---
+
+        ```
+        Samjo: What do you... Destroy?
+        ```
+        ```
+        Samjo: Let me ask you a question: Don't you know how many lives these ampules can save?
+        ```
+
+        ---
+
+        ```
+        Dongbaek: These regeneration ampules don't simply regenerate the body.
+        ```
+        ```
+        Dongbaek: These tears can kill as easily as they can save.
+        ```
+
+        ---
+
+        ```
+        Samjo: Hah... Are you trying to suggest that these tears kill people?
+        ```
+
+        ---
+
+        ```
+        Dongbaek: I have nothing more to say to you if you won't believe me even after seeing it happen several times already.
+        ```
+
+        ---
+
+        ```
+        Samjo: Fine then, will you concede if I prove their safety by walking into this pool?
+        ```
+
+        ---
+
+        ```
+        Dongbaek: What?
+        ```
+
+        ---
+
+        ```
+        Samjo: Don't slander Mr. Dongrang with your baseless claims. Countless people have recovered from life-threatening conditions thanks to this technology.
+        ```
+        ```
+        Samjo: I've been injected with it once myself.
+        ```
+        ```
+        Samjo: My neck broke while diving, but the regeneration ampule helped me recover from the brink of death. It was one of the reasons I applied for K Corp. as soon as I became an adult, but that's not the point here.
+        ```
+
+        ---
+
+        ```
+        Rodion: W-What are you doing, Mr. Samjo?
+        ```
+
+        ---
+
+        ```
+        Samjo: My childhood dream was to be a competitive swimmer in the Nest. I can dive from this height no problem.
+        ```
+
+        ---
+
+        ```
+        Rodion: I thought it was being a baseball star...
+        ```
+
+        ---
+
+        ```
+        Dongrang: Haha, you're overdoing it again, Samjo. You don't have to go through the trouble. It's okay, so just stay here.
+        ```
+
+        ---
+
+        ```
+        Samjo: It's no trouble at all. You worked on the ampule yourself.
+        ```
+        ```
+        Samjo: Mr. Dongrang, Director Alfonso... and countless other researchers worked for years to perfect K Corp's regeneration ampules.
+        ```
+        ```
+        Samjo: I could only be here because I trust this technology. I'm proud of it.
+        ```
+        ```
+        Samjo: I'll be back in a minute.
+        ```
+
+        ---
+
+        ```
+        Dongrang: ...Wait, Samjo?
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Samjo took his glasses off and jumped into the vat containing the tears.
+            ```
+            ```
+            Small bubbles rose from where he dove, but a few seconds later, no sound could be heard from the vat.
+            ```
+
+        ---
+
+        ```
+        Dongrang: Ah...
+        ```
+        ```
+        Dongrang: Oh dear, what a bother. Samjo never knew about the unrefined tears.
+        ```
+        ```
+        Dongrang: We won't be able to salvage his body. Still... It's fortunate that he remained proud of us until the end.
+        ```
+
+        ---
+
+        ```
+        Sinclair: ...What did you just say?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Mr. Samjo's was a case of success from a humble upbringing. I like that sort of person.
+        ```
+        ```
+        Dongrang: Fellows who are hired by Wings even though their qualifications are far below the Wings' requirements tend to be loyal to their employers.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: What? Wasn't he a Nest-born...
+        ```
+
+        ---
+
+        ```
+        Dongrang: Right, you do know that being from the Nest doesn't grant you a free pass to the Wings, right?
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ……
+        ```
+
+        ---
+
+        ```
+        Sinclair: What's happening? Why isn't Mr. Samjo coming back?
+        ```
+
+        ---
+
+        ```
+        Yi Sang: What does the unprocessed liquid do, Dongrang?
+        ```
+
+        ---
+
+        ```
+        Dongrang: The tears' function is to revert things to how they were originally.
+        ```
+        ```
+        Dongrang: The regeneration ampules available now are a product of numerous refining processes.
+        ```
+        ```
+        Dongrang: When a person who has lost an arm takes the ampule, they'll remember having the arm as its original state.
+        ```
+        ```
+        Dongrang: When someone with a dent in the head takes the ampule, their head will be restored to the shape they remember to be how it originally was.
+        ```
+
+        ---
+
+        ```
+        Gregor: What about those people in the Lobotomy branch... who died like bugs...
+        ```
+
+        ---
+
+        ```
+        Yi Sang: They were all under a trance, so to speak.
+        ```
+        ```
+        Yi Sang: By repeatedly playing the voice that says 'you are a bug' in a sealed, otherwise silent room... the image of bugs will be instilled in the subconscious.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Indeed. It becomes more effective with the step of refining and diluting it with ideas of human concepts.
+        ```
+        ```
+        Dongrang: But, when a drop of tear that lacks any kind of interpretation touches someone...
+        ```
+        ```
+        Dongrang: They'd be reverted all the way back... to the original form of humanity.
+        ```
+
+        ---
+
+        ```
+        Gregor: The... original form?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Or should I say it helps you go back to that state?
+        ```
+        ```
+        Dongrang: Although it tries... it doesn't seem to be capable of making a person fully reach that state.
+        ```
+        ```
+        Dongrang: It consequently removes pain, but, well...
+        ```
+        ```
+        Dongrang: So, are you satisfied, Dongbaek? You were right, and Samjo probably turned into the original form of humanity or something like that in the vat of tears. Congratulations. Now, what do you really want?
+        ```
+
+        ---
+
+        ```
+        Dongbaek: ……
+        ```
+        ```
+        Dongbaek: The Singularity. Permanently destroying it and everything related by using the concept incinerator.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Concept incinerator, huh. You'll use it again?
+        ```
+        ```
+        Dongrang: So, Dongbaek... Let's say that you do successfully return to an age of nothingness... What comes next?
+        ```
+        ```
+        Dongrang: Chop trees, build huts, make clothes out of leather... Is that the kind of life you want?
+        ```
+        ```
+        Dongrang: Mourning the lost lives of trees and animals you've killed?
+        ```
+        ```
+        Dongrang: Look, Dongbaek... With an attitude like that... you'll be nothing more than a primitive amateur. Are you really sure that's what you want?
+        ```
+
+        ---
+
+        ```
+        Dongbaek: You... always ask stupid questions, then and now.
+        ```
+        ```
+        Dongbaek: We decided to use vile technology as tools to get rid of their vile creators.
+        ```
+        ```
+        Dongbaek: Thus, no one can remain in the future we envision.
+        ```
+        ```
+        Dongbaek: That's why we could be free. From the obsession with survival.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Haha, what are you talking about? So you weren't envisioning a future; you just can't let go of the past.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Both of you... Stop this.
+        ```
+        ```
+        Yi Sang: I don't want old feuds repeating before my eyes.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Yi Sang, you look fine.
+        ```
+
+        ---
+
+        ```
+        Gregor: You say it like you're relieved. Didn't you want him...
+        ```
+
+        ---
+
+        ```
+        Dongbaek: You're right. I wanted him to die.
+        ```
+        ```
+        Dongbaek: But I'm sure he wished for the same.
+        ```
+        ```
+        Dongbaek: He wouldn't resist while it dug into his heart.
+        ```
+        ```
+        Dongbaek: It was unpleasant. It felt like I was granting your wish.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ……
+        ```
+
+        ---
+
+        ```
+        Gregor: Seems to me both of you got a few screws loose. You think pushing someone off a cliff can be justified because that person was hesitating?
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Hesi— Haah, why don't we hear it from the person himself, then?
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ...I have no words to say.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: This conversation is over, then.
+        ```
+        ```
+        Dongbaek: I'm frankly glad it is.
+        ```
+        ```
+        Dongbaek: I'll take this opportunity to kill two of my old companions with my own hands.
+        ```
+        ```
+        Dongbaek: Then I'll seize and burn the Singularity.
+        ```
 ---
 
 ### เพิ่มเติม

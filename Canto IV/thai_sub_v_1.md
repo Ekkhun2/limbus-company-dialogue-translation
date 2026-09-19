@@ -10740,7 +10740,7 @@
             ```
             ```
             Its source was right in front of us.
-            และต้นตอของมันก็อยู่ข้างหน้าเราแล้ว
+            และต้นตอของมันก็อยู่ตรงหน้าเราแล้ว
             ```
             ```
             Some kind of translucent veil seemed to drop as she rose...
@@ -10757,36 +10757,46 @@
 
         ```
         Dongrang: Ahh~ I've been wondering how, and now I know the answer.
-        ดงรัง: 
+        ดงรัง: อ้าา~ ผมก็สงสัยมาสักพักแล้วว่าทำไม และผมก็ได้คำตอบแล้ว
         ```
         ```
         Dongrang: How our security was so easily breached, how we kept losing track of you, and how you kept vanishing...
-        ดงรัง: 
+        ดงรัง: ที่ระบบรักษาความปลอดภัยของเราถูกเจาะง่ายขนาดนี้ สาเหตุที่เราไม่เคยตามตัวเธอได้ และหายไปทุกครั้งอย่างไม่มีปี่ไม่มีขลุ่ย...
         ```
         ```
         Dongrang: You had the 'veil'. Ah, it was so simple, why couldn't I think of it sooner?
-        ดงรัง: 
+        ดงรัง: ก็เพราะเธอมี 'ผ้าคลุม' นั่น อ้า มันง่ายชะมัดเลย ทำไมฉันถึงไม่คิดได้ให้เร็วกว่านี้นะ? 
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: 'Veil'? What's that supposed to be... Gah, you buggers started talking about things only you know again, eh?
+        ฮิธคลิฟฟ์: 'ผ้าคลุม'? <*ถึงนี้,ยังไม่เสร็จ>
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: You might be able to live in the City alright, but you clearly aren't cut out to be a Fixer.
+        อิชมาเอล: 
         ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: Most people will struggle to figure out or understand the source of each technology in their lives, so they give up the endeavor and simply nod along.
+        เฟาสท์: 
         ```
         ```
         Faust: Pretending to know. It's an essential skill for making your life in the City bearable.
+        เฟาสท์: 
         ```
 
         ---

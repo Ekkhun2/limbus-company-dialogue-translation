@@ -7068,7 +7068,7 @@
 
         ```
         Dongrang: So they keep telling you, it takes a full day and the night after to name all the benefits of the best employee.
-        ดงรัง: เพราะงั้นพวกเขาก็เลยชอบพูดกันไงครับ ว่ามัน—คงต้องใช้เวลาทั้งวันทั้งคืน เพื่อที่จะไล่เรียงผละประโยชน์ที่พนักงานดีเด่นอย่างผมทำจะได้
+        ดงรัง: เพราะงั้นพวกเขาก็เลยชอบพูดกันไงครับ ว่ามัน—คงต้องใช้เวลาทั้งวันทั้งคืน เพื่อที่จะไล่เรียงผละประโยชน์ที่พนักงานดีเด่นอย่างผมทำได้
         ```
 
         ---
@@ -10249,11 +10249,11 @@
 
         ```
         Ishmael: Although Heathcliff has never told us about what schools he went to... I can see where it's coming from.
-        อิชมาเอล: ถึงฮิธคลิฟฟ์จะไม่เคยบอกเราว่าเขาเคยเรียนที่ไหนมา... แต่ฉันว่าฉันพอจะเอาได้แฮะ
+        อิชมาเอล: ถึงฮิธคลิฟฟ์จะไม่เคยบอกเราว่าเขาเรียนที่ไหนมา... แต่ฉันว่าฉันน่าจะพอรู้อยู่
         ```
         ```
         Ishmael: Still, you're going way over the line.
-        อิชมาเอล: ไงก็ นายกำลังล้ำเส้นอยู่นะรู้ไหม
+        อิชมาเอล: แล้วก็ นายชักจะล้ำเส้นเกินไปแล้ว
         ```
 
     ---
@@ -10281,8 +10281,8 @@
         <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Ryoshu: That man who keeps clinging to us claiming to be your friend. What's the relationship?
-        เรียวชู: ชายคนนั้นที่เอาแต่ตามติดเราบอกว่าตัวเองเป็นเพื่อนของนาย ความสัมพันธ์เป็นยังไงกันแน่? <*ถึงนี้,ไม่แน่ใจ>
+        Ryoshu: That man whlo keeps clinging to us claiming to be your friend. What's the relationship?
+        เรียวชู: ชายคนนั้นที่เอาแต่ตามติดเราบอกว่าตัวเองเป็นเพื่อนของนาย ความสัมพันธ์มันยังไงกันแน่?
         ```
 
         ---
@@ -10291,34 +10291,46 @@
 
         ```
         Yi Sang: As can be seen, the tie has long been severed.
-        ยี่ซัง: 
+        ยี่ซัง: ก็อย่างที่เห็น สายสัมพันธ์ถูกตัดขาดมานานมากแล้ว
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: I don't like butting in, and I hate speaking for long even more...
+        เรียวชู: ฉันไม่ชอบยุ่งเรื่องคนอื่น และเกลียดการที่ต้องพูดยืดยาวซะยิ่งกว่าอะไร...
         ```
         ```
         Ryoshu: But I'm telling you this since the smile of that ignorance-feigning scoundrel Dongrang is detestable.
+        เรียวชู: แต่ฉันไว้เลย ว่า <*ถึงนี้,ยังไม่เสร็จ>
         ```
         ```
         Ryoshu: That one desk, one that was even more disgusting than the others because it was clean and empty.
+        เรียวชู: 
         ```
         ```
         Ryoshu: The nametag below it had your name.
+        เรียวชู: 
         ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Yi Sang: ……
+        Yi Sang: ......
+        ยี่ซัง: ......
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dante: <He was planning to give Yi Sang that position all along?>
+        ดันเต้:
         ```
 
         ---

@@ -11018,7 +11018,7 @@
         ```
         ```
         Dongrang: We won't be able to salvage his body. Still... It's fortunate that he remained proud of us until the end.
-        ดงรัง: เราจะไม่มีทางหาร่างเขาเจอแน่ แต่ไม่ว่ายังไง... คิดในแง่ดี อย่างน้อย ๆ เขาก็จะภูมิใจในตัวเราจนถึงวาระสุดท้าย
+        ดงรัง: เราจะไม่มีทางหาร่างเขาเจอแน่ แต่ไม่ว่ายังไง... คิดในแง่ดี อย่างน้อย ๆ เขาก็ได้ภูมิใจในตัวเราจนถึงวาระสุดท้าย
         ```
 
         ---
@@ -11036,11 +11036,11 @@
 
         ```
         Dongrang: Mr. Samjo's was a case of success from a humble upbringing. I like that sort of person.
-        ดงรัง: 
+        ดงรัง: คุณแซมโจเป็นหนึ่งในความสำเร็จที่เกิดขึ้น จากการเลี้ยงดูอย่างทะนุถนอม ผมชอบคนแบบนั้นนะ
         ```
         ```
         Dongrang: Fellows who are hired by Wings even though their qualifications are far below the Wings' requirements tend to be loyal to their employers.
-        ดงรัง: 
+        ดงรัง: มิตรสหายที่ถูกจ้างวานจากหลายวิงส์ ถึงแม้ว่าคุณสมบัติของเขาจะต่ำเตี้ยกว่าความต้องการ แต่ก็เป็นคนเป็นที่ซื่อสัตว์กับผู้เป็นนายเป็นอย่างมาก 
         ```
 
         ---
@@ -11049,121 +11049,171 @@
 
         ```
         Heathcliff: What? Wasn't he a Nest-born...
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: หะ? ไม่ใช่ว่าเขาเป็นชาวเนสหรอ...
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Right, you do know that being from the Nest doesn't grant you a free pass to the Wings, right?
+        ดงรัง: ใช่ คุณรู้ใช่ไหมครับ ว่าการที่เรามาจากเนส ไม่ได้เป็นเครื่องหมายยืนยันว่า เราจะได้เข้าทำงานกับวิงส์?
         ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Yi Sang: ……
+        Yi Sang: ......
+        ยี่ซัง: ......
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: What's happening? Why isn't Mr. Samjo coming back?
+        ซินแคร์: เกิดอะไรขึ้นน่ะครับ? ทำไมคุณแซมโจถึงยังไม่กลับมาสักทีล่ะ?
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: What does the unprocessed liquid do, Dongrang?
+        ยี่ซัง: ของเหลวที่ไม่ได้แปรรูปพวกนี้มันทำอะไรได้ ดงรัง?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: The tears' function is to revert things to how they were originally.
+        ดงรัง: ความสามารถของน้ำตา ก็คือการย้อนสิ่งต่าง ๆ กลับไปในสิ่งที่พวกมันเคยเป็น
         ```
         ```
         Dongrang: The regeneration ampules available now are a product of numerous refining processes.
+        ดงรัง: ยาฟื้นฟูที่มีอยู่ในตอนนี้ ก็เป็นเพียงผลลัพธ์ ของการกระบวนสกัดนับไม่ถ้วน
         ```
         ```
         Dongrang: When a person who has lost an arm takes the ampule, they'll remember having the arm as its original state.
+        ดงรัง: เมื่อคนที่เสียแขนรับยานี้ พวกเขาก็จะจดจำตัวเองที่เคยมีแขนเป็นสภาพตั้งต้น
         ```
         ```
         Dongrang: When someone with a dent in the head takes the ampule, their head will be restored to the shape they remember to be how it originally was.
+        ดงรัง: และเมื่อมีใครบางคนที่หัว บุ๋ม/บุบ รับยานี้ไป หัวของพวกเขาก็คืนสภาพกลับมา เป็นรูปร่าง ที่พวกเขาจำได้ว่ามันเคยเป็น  
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: What about those people in the Lobotomy branch... who died like bugs...
+        เกรกอร์: แล้วพวกคนที่อยู่ในศูนย์วิจัยโลโบโตมี่... ที่ตายเหมือนแมลงพวกนั้น...
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: They were all under a trance, so to speak.
+        ยี่ซัง: พวกเขากำลังตกอยู่ในภวังค์ จะว่าอย่างงั้นได้ ก็คงไม่ผิด
         ```
         ```
         Yi Sang: By repeatedly playing the voice that says 'you are a bug' in a sealed, otherwise silent room... the image of bugs will be instilled in the subconscious.
+        ยี่ซัง: ด้วยการเล่นเสียงพูดที่ว่า 'แกมันก็แค่แมลงตัวหนึ่ง' ซ้ำ ๆ ในพื้นที่ปิด หรือไม่ก็ห้องเงียบ... ภาพจำของแมลงก็จะถูกฝังเข้าไปในจิตใต้สำนึก
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Indeed. It becomes more effective with the step of refining and diluting it with ideas of human concepts.
+        ดงรัง: ใช่เลย มันจะมีประสิทธิภาพมากขึ้น เมื่อผ่านขั้นตอนของการสกัด และเจือจางมัน ด้วยแนวคิดของมนุษย์
         ```
         ```
         Dongrang: But, when a drop of tear that lacks any kind of interpretation touches someone...
+        ดงรัง: แต่ เมื่อหยดน้ำตาที่ปราศจากการตีความโดนใครบางคนเข้าแล้ว...
         ```
         ```
         Dongrang: They'd be reverted all the way back... to the original form of humanity.
+        ดงรัง: พวกเขาก็จะถูกย้อนกลับไป... สู่ร่างแรกเริ่มของมนุษย์
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: The... original form?
+        เกรกอร์: อะ... ร่างแรกเริ่ม?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Or should I say it helps you go back to that state?
+        ดงรัง: หรือผมควรพูดดีล่ะ ว่ามัน ช่วยให้คุณกลับไปยังสภาพนั่นได้?
         ```
         ```
         Dongrang: Although it tries... it doesn't seem to be capable of making a person fully reach that state.
+        ดงรัง: ถึงแม้ว่ามันจะพยายามทำแบบนั้น... แต่ดูเหมือนว่ามัน จะไม่สามารถที่จะทำให้ คน ๆ หนึ่งกลับไปสู่สภาพนั่นได้โดยสมบูรณ์
         ```
         ```
         Dongrang: It consequently removes pain, but, well...
+        ดงรัง: มันลบความเจ็บปวดไปเรื่อย ๆ แต่ก็ไม่ได้...
         ```
         ```
         Dongrang: So, are you satisfied, Dongbaek? You were right, and Samjo probably turned into the original form of humanity or something like that in the vat of tears. Congratulations. Now, what do you really want?
+        ดงรัง: แล้ว เธอพอใจแล้วหรือยังล่ะ ดงแบ็ก? เธอพูดถูก และแซมโจก็คงจะกลายเป็น ร่างแรกเริ่ม/ตั้งต้น ของมนุษย์ชาติไปแล้ว ในบ่อน้ำตานี้ ยินดีด้วย ทีนี้เธอต้องการอะไรกันแน่?
         ```
 
         ---
 
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dongbaek: ……
+        Dongbaek: ......
+        ดงแบ็ก: ......
         ```
         ```
         Dongbaek: The Singularity. Permanently destroying it and everything related by using the concept incinerator.
+        ดงแบ็ก: ซิงกูลาริตี้ ทำลายมันอย่างถาวร และทุกอย่างที่เกี่ยวข้องกับมัน ด้วย เครื่องเผาแนวคิด/คอนเซ็ปต์อินซิเนอเรเตอร์ <*ถึงนี้>
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: Concept incinerator, huh. You'll use it again?
+        ดงรัง: 
         ```
         ```
         Dongrang: So, Dongbaek... Let's say that you do successfully return to an age of nothingness... What comes next?
+        ดงรัง: 
         ```
         ```
         Dongrang: Chop trees, build huts, make clothes out of leather... Is that the kind of life you want?
+        ดงรัง: 
         ```
         ```
         Dongrang: Mourning the lost lives of trees and animals you've killed?
+        ดงรัง: 
         ```
         ```
         Dongrang: Look, Dongbaek... With an attitude like that... you'll be nothing more than a primitive amateur. Are you really sure that's what you want?
+        ดงรัง: 
         ```
 
         ---

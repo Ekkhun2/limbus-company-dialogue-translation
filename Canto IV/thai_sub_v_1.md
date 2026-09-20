@@ -10774,7 +10774,7 @@
 
         ```
         Heathcliff: 'Veil'? What's that supposed to be... Gah, you buggers started talking about things only you know again, eh?
-        ฮิธคลิฟฟ์: 'ผ้าคลุม'? <*ถึงนี้,ยังไม่เสร็จ>
+        ฮิธคลิฟฟ์: 'ผ้าคลุม'? หมายความว่าไงอะ... เห้ย พวกแกพูดเรื่องอะไรที่เข้าใจกันแค่สองคนอีกแล้วเหรอ?
         ```
 
         ---
@@ -10783,7 +10783,7 @@
 
         ```
         Ishmael: You might be able to live in the City alright, but you clearly aren't cut out to be a Fixer.
-        อิชมาเอล: 
+        อิชมาเอล: รู้ไหมว่าถึงนายจะใช้ชีวิตอยู่ได้ในเดอะซิตี้ แต่ดูยังไงนายก็ไม่มีทางเป็นฟิกเซอร์ได้หรอก
         ```
 
         ---
@@ -10792,184 +10792,264 @@
 
         ```
         Faust: Most people will struggle to figure out or understand the source of each technology in their lives, so they give up the endeavor and simply nod along.
-        เฟาสท์: 
+        เฟาสท์: คนส่วนมากพยายามที่จะตีความ หรือทำความเข้าใจแก่นแท้ของเหล่าเทคโนโลยีในช่วงชีวิตของพวกเขา ก่อนที่ตัวเองจะละทิ้งความพยายามนั่น และพงักหน้าตอบรับตามน้ำไป
         ```
         ```
         Faust: Pretending to know. It's an essential skill for making your life in the City bearable.
-        เฟาสท์: 
+        เฟาสท์: แสร้งทำเหมือนกับว่าตัวเองรู้ เป็นความสามารถที่สำคัญยิ่ง ในการใช้ชีวิตอยู่ในเดอะซิตี้
         ```
 
         ---
 
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Ishmael: …Ahem.
+        Ishmael: ...Ahem.
+        อิชมาเอล: ...อะแฮ่ม
         ```
 
         ---
 
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dongbaek: ……
+        Dongbaek: ......
+        ดงแบ็ก: ......
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: It's an expensive Singularity-based item only famous Fixers, Wing executives, or the richest classes could afford... Even if I asked how you got it, you won't answer me, will you?
+        ดงรัง: มันเป็นของราคาสูงที่ถูกสร้างขึ้นจากซิงกูลาริตี้ ให้กับหมู่ฟิกเซอร์ที่มีชื่อเสียง ผู้บริหารวิงส์ หรือชนชั้นสูงที่มีปัญญาจ่าย... ถึงผมจะถามไปว่าคุณได้มาได้ยังไง แต่คุณก็คงไม่ตอบผมใช่ไหมครับ?
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Is what I'm seeing the truth behind regeneration ampules?
+        ดงแบ็ก: สิ่งที่ฉันเห็นอยู่นี้ คือความจริง เบื้องหลังยาฟื้นฟูงั้นหรอ?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: ...Yes, that's right. The source of the ampules you're hellbent on destroying.
+        ดงรัง: ...อื้ม ใช่แล้วครับ ใช่แล้ว ต้นกำเนิดยาฟื้นฟูที่คุณดื้อด้านที่จะทำลายมัน
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: What do you... Destroy?
+        แซมโจ: แล้วทำไม... ต้องทำลาย?
         ```
         ```
         Samjo: Let me ask you a question: Don't you know how many lives these ampules can save?
+        แซมโจ: ขอถามหน่อยเถอะครับ: คุณไม่รู้บ้างหรอ ว่ายาพวกนี้ สามารถช่วยชีวิตคนได้อีกมากแค่ไหน?
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: These regeneration ampules don't simply regenerate the body.
+        ดงแบ็ก: ยาฟื้นฟูพวกนี้ ไม่ได้ทำได้แค่รักษาร่างกายเท่านั้น
         ```
         ```
         Dongbaek: These tears can kill as easily as they can save.
+        ดงแบ็ก: แต่หยดน้ำตาของพวกมัน ก็คร่าชีวิตได้ง่ายไม่ต่างกับที่มันช่วย
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Hah... Are you trying to suggest that these tears kill people?
+        แซมโจ: ฮะฮา... นี้คุณกำลังจะบอกว่า หยดน้ำตาพวกนั้นฆ่าคนได้เนี้ยนะครับ?
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: I have nothing more to say to you if you won't believe me even after seeing it happen several times already.
+        ดงแบ็ก: ฉันไม่มีอะไรที่ต้องพูดอีกแล้ว ถ้านายยังไม่เชื่อฉัน หลังจากที่ได้เห็นมันไปสองสามครั้งแล้วก็ตาม
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Fine then, will you concede if I prove their safety by walking into this pool?
+        แซมโจ: ก็ได้ งั้นคุณจะยอมรับไหมล่ะครับ ถ้าผมเดินลงไปเพื่อพิสูจน์ความปลอดภัยของมัน? 
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: What?
+        ดงแบ็ก: หะ?
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: Don't slander Mr. Dongrang with your baseless claims. Countless people have recovered from life-threatening conditions thanks to this technology.
+        แซมโจ: อย่าใส่ร้ายคุณดงรังด้วยคำพูดไร้แก่นสารแบบนั้นเป็นอันขาดครับ ผู้คนอีกมากมายจะได้หายจากอาการสาหัสเพราะเทคโนโลยีนี้
         ```
         ```
         Samjo: I've been injected with it once myself.
+        แซมโจ: ผมเคยฉีดมันกับตัวมาครั้งหนึ่งแล้ว
         ```
         ```
         Samjo: My neck broke while diving, but the regeneration ampule helped me recover from the brink of death. It was one of the reasons I applied for K Corp. as soon as I became an adult, but that's not the point here.
+        แซมโจ: ในตอนที่คอหักระหว่างดำน้ำ แต่ยาฟื้นฟูนั่นก็ช่วยชีวิตผมเอาไว้จากปากเหวแห่งความตาย และก็เป็นหนึ่งในสาเหตุ ที่ผมสมัครเข้ามาทำงานที่เคคอร์ปเมื่อโตขึ้น แต่ก็ช่างเรื่องนั่นไปเถอะครับ 
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: W-What are you doing, Mr. Samjo?
+        โรเดียน: จ-จะทำอะไรน่ะคะ คุณแซมโจ?
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: My childhood dream was to be a competitive swimmer in the Nest. I can dive from this height no problem.
+        แซมโจ: ความฝันในวัยเด็กของผม คือการได้เป็นนักกีฬาว่ายน้ำของเนส เพราะงั้นถึงจะสูงขนาดนี้ ก็ไม่คณามือผมหรอกครับ
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: I thought it was being a baseball star...
+        โรเดียน: ฉันนึกว่าเป็นดาวเบสบอลซะอีกนะคะ...
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Haha, you're overdoing it again, Samjo. You don't have to go through the trouble. It's okay, so just stay here.
+        ดงรัง: ฮาฮา นายทำเกินไปอีกแล้วนะ แซมโจ นายไม่จำเป็นต้องรับหน้าแทนฉันหรอก ไม่เป็นไร แค่อยู่ตรงนี้ก็พอแล้ว  
         ```
 
         ---
+
+        <img src="../images/Samjo.png" alt="Samjo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Samjo: It's no trouble at all. You worked on the ampule yourself.
+        แซมโจ: ไม่เป็นไรเลยครับ พวกคุณเป็นคนทำยาฟื้นฟูด้วยตัวยตัวของพวกคุณเอง
         ```
         ```
         Samjo: Mr. Dongrang, Director Alfonso... and countless other researchers worked for years to perfect K Corp's regeneration ampules.
+        แซมโจ: ทั้งคุณดงรัง ประธานอัลฟอนโซ... และเหล่านักวิจัยอีกหลายหัวที่ตรากตร่ำทำงานเป็นปี ๆ เพื่อที่จะผลิตยาฟื้นฟูอันสมบูรณ์แบบของเคคอร์ปขั้นมา
         ```
         ```
         Samjo: I could only be here because I trust this technology. I'm proud of it.
+        แซมโจ: ที่ผมยืนอยู่ตรงนี้ได้ ก็เพราะเชื่อมั่นในเทคโนโลยีนี้ ที่ผมภาคภูมิใจมันมาก
         ```
         ```
         Samjo: I'll be back in a minute.
+        แซมโจ: ไว้ผมจะกลับมานะครับ
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: ...Wait, Samjo?
+        ดงรัง: ...เดี๋ยวก่อน แซมโจ?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Samjo took his glasses off and jumped into the vat containing the tears.
+            แซมโจถอดแว่นของเขาออกมา และกระโดดลงไปในแอ่งน้ำ ที่เต็มไปด้วยน้ำตา
             ```
             ```
             Small bubbles rose from where he dove, but a few seconds later, no sound could be heard from the vat.
+            ฟองเล็ก ๆ ลอยขึ้นจากที่ ๆ เขาดำลงไป ก่อนที่ไม่กี่วินาทีต่อมา จะไม่ได้ยินเสียงอะไรจากในบ่อ
             ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: Ah...
+        ดงรัง: อ้า...
         ```
         ```
         Dongrang: Oh dear, what a bother. Samjo never knew about the unrefined tears.
+        ดงรัง: โธ่เอ้ย แย่อะไรแบบนี้ ที่แซมโจจะไม่มีวันได้รู้เกี่ยวกับน้ำตาที่ถูกดัดแปลง
         ```
         ```
         Dongrang: We won't be able to salvage his body. Still... It's fortunate that he remained proud of us until the end.
+        ดงรัง: เราจะไม่มีทางหาร่างเขาเจอแน่ แต่ไม่ว่ายังไง... คิดในแง่ดี อย่างน้อย ๆ เขาก็จะภูมิใจในตัวเราจนถึงวาระสุดท้าย
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: ...What did you just say?
+        ซินแคร์: ...คุณหมายความว่าไง?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Mr. Samjo's was a case of success from a humble upbringing. I like that sort of person.
+        ดงรัง: 
         ```
         ```
         Dongrang: Fellows who are hired by Wings even though their qualifications are far below the Wings' requirements tend to be loyal to their employers.
+        ดงรัง: 
         ```
 
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Heathcliff: What? Wasn't he a Nest-born...
+        ฮิธคลิฟฟ์: 
         ```
 
         ---

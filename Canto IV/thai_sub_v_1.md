@@ -11197,15 +11197,15 @@
 
         ```
         Dongrang: Concept incinerator, huh. You'll use it again?
-        ดงรัง: 
+        ดงรัง: เครื่องเผาแนวคิด ฮา เธอจะใช้มันอีกแล้วหรอ?
         ```
         ```
         Dongrang: So, Dongbaek... Let's say that you do successfully return to an age of nothingness... What comes next?
-        ดงรัง: 
+        ดงรัง: งั้น ดงแบ็ก... สมมุติว่าเธอย้อนกลับไปยังยุคที่ ว่างเปล่า/ไม่มีอะไรเลย ได้สำเร็จ... แล้วจะเกิดอะไรขึ้นต่อล่ะ?
         ```
         ```
         Dongrang: Chop trees, build huts, make clothes out of leather... Is that the kind of life you want?
-        ดงรัง: 
+        ดงรัง: ตัดไม้, สร้างกระท่อม, ถอเสื้อผ้าขึ้นมาจาหนังสัตว์... นั่นน่ะหรอชีวิตที่เธออยากใช้? <*ถึงนี้>
         ```
         ```
         Dongrang: Mourning the lost lives of trees and animals you've killed?

@@ -11197,7 +11197,7 @@
 
         ```
         Dongrang: Concept incinerator, huh. You'll use it again?
-        ดงรัง: เครื่องเผาแนวคิด ฮา เธอจะใช้มันอีกแล้วหรอ?
+        ดงรัง: เครื่องเผาแนวคิดสินะ เธอจะใช้มันอีกแล้วหรอ?
         ```
         ```
         Dongrang: So, Dongbaek... Let's say that you do successfully return to an age of nothingness... What comes next?
@@ -11205,36 +11205,45 @@
         ```
         ```
         Dongrang: Chop trees, build huts, make clothes out of leather... Is that the kind of life you want?
-        ดงรัง: ตัดไม้, สร้างกระท่อม, ถอเสื้อผ้าขึ้นมาจาหนังสัตว์... นั่นน่ะหรอชีวิตที่เธออยากใช้? <*ถึงนี้>
+        ดงรัง: ต้องตัดไม้, สร้างกระท่อม, ถอเสื้อผ้าขึ้นมาจากขนสัตว์ด้วยไหม... ชีวิตที่เธออยากใด้?
         ```
         ```
         Dongrang: Mourning the lost lives of trees and animals you've killed?
-        ดงรัง: 
+        ดงรัง: ร่ำไห้ให้กับชีวิตของต้นไม้และสัตว์ที่เธอพรากไป?
         ```
         ```
         Dongrang: Look, Dongbaek... With an attitude like that... you'll be nothing more than a primitive amateur. Are you really sure that's what you want?
-        ดงรัง: 
+        ดงรัง: ฟังนะดงแบ็ก... ด้วยทัศนคติแบบนั้นแล้ว... เธอเป็นได้ก็แค่คน มนุษย์ยุคหินมือสมัครเล่น เธอแน่ใจแล้วจริง ๆ ใช่ไหมว่าตัวเองต้องการแบบนี้?
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: You... always ask stupid questions, then and now.
+        ดงแบ็ก: นายเนี้ย... เอาแต่ถามคำถามไร้สาระไม่หยุดหย่อน ไม่ว่าจะเมื่อก่อนหรือตอนนี้
         ```
         ```
         Dongbaek: We decided to use vile technology as tools to get rid of their vile creators.
+        ดงแบ็ก: พวกเราตัดสินใจที่จะใช้เทคโนโลยีแสนโหดเหี้ยม เป็นเครื่องมือเอาไว้กำจัดผู้สร้างสุดชั่วช้าของพวกมัน
         ```
         ```
         Dongbaek: Thus, no one can remain in the future we envision.
+        ดงแบ็ก: เพื่อที่ว่าจะได้ไม่มีใครมาขัดแข้งขัดขา ในผืนอนาคตที่เราวาดฝันเอาไว้ <*ถึงนี้> 
         ```
         ```
         Dongbaek: That's why we could be free. From the obsession with survival.
+        ดงแบ็ก: 
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: Haha, what are you talking about? So you weren't envisioning a future; you just can't let go of the past.
+        ดงรัง: 
         ```
 
         ---

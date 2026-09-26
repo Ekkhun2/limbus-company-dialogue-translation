@@ -11386,37 +11386,51 @@
 
         ```
         Faust: Even with the repeated training with Qliphoth deterrence, abuse of E.G.O will still push the user's body to the limit.
-        เฟาสท์: 
+        เฟาสท์: ถึงแม้จะมีการฝึกฝนซ้ำแล้วซ้ำเล่ากับสนามพลังคลิฟอธ แต่การดันทุรังใช้อีโก้ก็ยังสร้างภาระต่อร่างกายจนถึงขีดสุด
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Will you return the Golden Bough now, Dongbaek?
+        ดงรัง: แล้วทีนี้เธอ จะคืนกิ่งทองได้หรือยัง ดงแบ็ก?
         ```
         ```
         Dongrang: I was supposed to hand it over to my guests over here, signed in some complicated contract with several stamps... So I can't go back on my words here.
+        ดงรัง: ฉันควรที่จะส่งมอบมันให้กับแขกที่อยู่ตรงนั้น พอดีฉันเซ็นท์สัญญาซับซ้อนไปสองสามฉบับและก็ประทับตราแล้ว... เพราะงั้นฉันคงจะคืนคำไม่ได้ 
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongback" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Proudly... boasting your... ignorance... still...
+        ดงแบ็ก: ยังหน้าด้าน...  หน้าทนพูด... อะไรไม่แยแส... ได้อยู่อีกนะ... <*ถึงนี้>
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: And you are weak. Still.
+        ดงรัง: 
         ```
         ```
         Dongrang: Even with the E.G.O from Lobotomy Corp, this was below my expectations, Dongbaek.
+        ดงรัง: 
         ```
         ```
         Dongrang: Besides... I haven't even introduced you to the technology I developed. I know, why don't we hold our first conference in a while?
+        ดงแบ็ก: 
         ```
 
         ---
+
+
 
         ```
         Announcer: The daily audiovisual feed has been sent.

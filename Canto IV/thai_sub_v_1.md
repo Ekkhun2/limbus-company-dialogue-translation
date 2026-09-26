@@ -11346,6 +11346,11 @@
         Dongbaek: I'm frankly glad it is.
         ดงบัง: ฉันดีใจที่มันลงเอย
         ```
+
+        ---
+
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongbaek: I'll take this opportunity to kill two of my old companions with my own hands.
         ดงบัง: ในแบบที่ฉันจะได้โอกาศ ที่จะฆ่าเพื่อนเก่าเพื่อนแก่ด้วยน้ำมือของตัวฉันเอง 
@@ -11353,6 +11358,537 @@
         ```
         Dongbaek: Then I'll seize and burn the Singularity.
         ดงบัง: ก่อนที่ จะช่วงชิงและเผาซิงกูลาริตี้ให้สิ้นซาก
+        ```
+
+    ---
+
+    * **Episode: 30 | ตอนที่ 30<br>Location: Screening Room | ห้องคัดกรอง****
+
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: Kaff... Koff...
+        ดงแบ็ก: แค่ก... ค่อก...
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: Hemoptysis. An optimistic sign.
+        เอาทิส: ไอเป็นเลือด เป็นสัญญาณที่ดี
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: Even with the repeated training with Qliphoth deterrence, abuse of E.G.O will still push the user's body to the limit.
+        เฟาสท์: 
+        ```
+
+        ---
+
+        ```
+        Dongrang: Will you return the Golden Bough now, Dongbaek?
+        ```
+        ```
+        Dongrang: I was supposed to hand it over to my guests over here, signed in some complicated contract with several stamps... So I can't go back on my words here.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Proudly... boasting your... ignorance... still...
+        ```
+
+        ---
+
+        ```
+        Dongrang: And you are weak. Still.
+        ```
+        ```
+        Dongrang: Even with the E.G.O from Lobotomy Corp, this was below my expectations, Dongbaek.
+        ```
+        ```
+        Dongrang: Besides... I haven't even introduced you to the technology I developed. I know, why don't we hold our first conference in a while?
+        ```
+
+        ---
+
+        ```
+        Announcer: The daily audiovisual feed has been sent.
+        ```
+
+        ---
+
+        ```
+        Dongrang: So, tell me, Dongbaek...
+        ```
+        ```
+        Dongrang: How bigger can your despair grow?
+        ```
+
+        ---
+
+        ```
+        Running Civilian: Ahhhhh!! Help me!!!
+        ```
+
+        ---
+
+        ```
+        Ishmael: What's up with this sound?
+        ```
+
+        ---
+
+        ```
+        Gregor: Is that the footage those drones filmed while we were fighting the Abnormality on the street...
+        ```
+
+        ---
+
+        ```
+        Dongrang: I read the threat you sent, Dongbaek. Said you'll release an Abnormality on the streets if I don't speak about the Singularity.
+        ```
+        ```
+        Dongrang: I know you were always fond of radical events... But I didn't think you'd actually do it.
+        ```
+        ```
+        Dongrang: Of course... It produced a lot more tears. All thanks to you.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: No... I wasn't planning to release it. It escaped. You ignored my warning...
+        ```
+
+        ---
+
+        ```
+        Dongrang: If I responded there, that'd mean admitting that our lab had been experimenting on Abnormalities arbitrarily.
+        ```
+        ```
+        Dongrang: Thank goodness our contractors happened to be near the Nest when it happened.
+        ```
+
+        ---
+
+        ```
+        Ishmael: So it was all part of your plan to have us run into the breached Abnormality?
+        ```
+
+        ---
+
+        ```
+        Dongrang: It was closer to an experiment than a plan. The possibility of failure was kept in mind, but I had evidence to trust that you'd make it through.
+        ```
+        ```
+        Dongrang: I've been keeping an eye on your for longer than you might think.
+        ```
+        ```
+        Dongrang: I told you, didn't it?
+        ```
+        ```
+        Dongrang: I'm a fan of yours.
+        ```
+
+        ---
+
+        ```
+        Kromer: No, Sinclair! It's always been the other way around... I am the one who grips...!
+        ```
+
+        ---
+
+        ```
+        Sinclair: How is this... I don't think I want to watch...
+        ```
+
+        ---
+
+        ```
+        Dongrang: We generated record tears that time as well. It played a significant part in securing the award, I might add.
+        ```
+        ```
+        Dongrang: The employees of a certain department in N Corp. weren't the best people to talk with, but I was able to procure fresh audiovisual feed thanks to them.
+        ```
+
+        ---
+
+        ```
+        Rodion: That means... the reason N Corp. could get away with such cruelties in a residential area in Nest K was...
+        ```
+
+        ---
+
+        ```
+        Meursault: This is what the deal entailed.
+        ```
+
+        ---
+
+        ```
+        Dongrang: I think I remember a certain fellow saying this: while Brother Young-ji's 'glass window' was innovative, it was simply too vast to freely wield, especially for a coarse man like me.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: …….
+        ```
+
+        ---
+
+        ```
+        Dongrang: Ah, Dongbaek. Was it you?
+        ```
+
+        ---
+
+        ```
+        Dongbaek: What is... Are you...
+        ```
+
+        ---
+
+        ```
+        Dongrang: There just were never enough tears.
+        ```
+        ```
+        Dongrang: I mean, look around you, and see how many people are suffering here.
+        ```
+        ```
+        Dongrang: So they'll be doing the crying for us.
+        ```
+        ```
+        Dongrang: With no time to shut their eyes.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: I only made minor modifications to Brother Young-ji's work.
+        ```
+        ```
+        Yi Sang: I wanted to show a reflection of any possibility in its unvarnished image.
+        ```
+        ```
+        Yi Sang: That is why I am considering the name for it:
+        ```
+        ```
+        Yi Sang: 'Mirror'.
+        ```
+        ```
+        Yi Sang: I wish that this will serve as a tool of entertainment... giving us more joy.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Is this why I haven't been able to see you lately? To discover this?
+        ```
+        ```
+        Dongbaek: Dongrang, why are you laughing like that?
+        ```
+
+        ---
+
+        ```
+        Dongrang: It's just funny that you're talking so ferociously when your eyes are full of curious twinkles.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Yi Sang, will you tell him to shut it?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Why don't you hide your astonishment of a child who's tried ice cream for the first time on your face first?
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Mouths unable to hold laughter.
+            ```
+            ```
+            Exclamations of amazeness.
+            ```
+            ```
+            Smiles at each other.
+            ```
+            ```
+            Eyes glowing brighter than stars.
+            ```
+            ```
+            Everyone there felt... pure joy.
+            ```
+            ```
+            I only wished that all this...
+            ```
+            ```
+            Would remain a simple recreation.
+            ```
+
+        ---
+
+        ```
+        ???: Be quiet.
+        ```
+        ```
+        ???: You will simply... live on as you are. As if you know nothing.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: The glass window... wasn't made for this kind of wicked degeneracy...
+        ```
+
+        ---
+
+        ```
+        Dongrang: We're having an important moment. Please mind your language.
+        ```
+        ```
+        Dongrang: And I know what you're saying. Brother Young-ji would have scolded me for this.
+        ```
+        ```
+        Dongrang: Ah, but did you know, though? We're no longer in the time when we used to cheer over toy-like inventions. The applause won't be as loud with how few of us that remain now.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: …….
+        ```
+
+        ---
+
+        ```
+        Dongrang: You're just struggling to let go. Isn't that right?
+        ```
+        ```
+        Dongrang: You give your grand speeches about the evil of technology... But that's no more than a pretext you made up on the way as a means to garner support. To reach your true goal.
+        ```
+        ```
+        Dongrang: You claim to fight the vile technology, but you yourself are being plenty vile.
+        ```
+        ```
+        Dongrang: When your group took over the Lobotomy branch facility where I just happened to be conducting my research...
+        ```
+        ```
+        Dongrang: You probably told your followers that it was to investigate the Singularity, but in reality, you figured out that you could find pieces of technology you could use as weapons, didn't you? Like E.G.O.
+        ```
+        ```
+        Dongrang: I wonder who gave you all that precious information. Shrenne couldn't have known that. How about a game of twenty questions, will you tell me that way?
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Don't talk like you know everything. That attitude of yours...always annoyed me...
+        ```
+
+        ---
+
+        ```
+        Dongrang: Haha, then let me act like I know about just one more thing.
+        ```
+        ```
+        Dongrang: When we peeked through Brother Young-ji's glass window... and when we got a glimpse of worlds reflected in Yi Sang's mirror...
+        ```
+        ```
+        Dongrang: We felt the euphoria and schism we would never be able to recover from.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: …….
+        ```
+        ```
+        Dongbaek: Since the moment the glass window was made...
+        ```
+        ```
+        Dongbaek: All sorts of interest groups came knocking on the door.
+        ```
+        ```
+        Dongbaek: Right... While we may think... that we left the League of our own volition...
+        ```
+        ```
+        Dongbaek: We all know what actually happened... We were actually just torn apart and scattered away...
+        ```
+        ```
+        Dongbaek: And that the reason for it came from the inside...
+        ```
+
+        ---
+
+        ```
+        Dongrang: Dongbaek, even if you put my work in the concept incinerator, we won't be able to go back to those innocent times. You know that, right?
+        ```
+        ```
+        Dongrang: Hmm... Even though you are aware... you still can't give up your obsession...
+        ```
+
+        ---
+
+        ```
+        Dongbaek: …….
+        ```
+
+        ---
+
+        ```
+        Dongrang: Ah, now I get it.
+        ```
+        ```
+        Dongrang: If someone were to discover the incinerated technologies again...
+        ```
+        ```
+        Dongrang: Other nameless fellows with other dreams... would feel the same euphoria we once felt. That's what you wanted to happen.
+        ```
+        ```
+        Dongrang: Since we can't return to the past ourselves...
+        ```
+        ```
+        Dongrang: You were going to recreate the past for coming generations.
+        ```
+        ```
+        Dongrang: Wow, what a cute and unique idea, Dongbaek.
+        ```
+
+        ---
+
+        ```
+        Sinclair: M-Miss Dongbaek... Your body...
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Dongbaek muttered into emptiness. It was as though she was talking to someone.
+            ```
+
+        ---
+
+        ```
+        Dongbaek: Yes... I'll bury it... deep in the sand... hide them...
+        ```
+        ```
+        Dongbaek: For someone to find... some day...
+        ```
+        ```
+        Dongbaek: We... didn't discover the technologies because we were better or had exclusive rights to...
+        ```
+        ```
+        Dongbaek: You may be right, I fooled everyone including myself into working for my own goals... It was... the land we tilled... that was fertile...
+        ```
+
+        ---
+
+        ```
+        Dongrang: That's disheartening to hear. Are you going to discredit all our efforts that went into plowing the soil, missing out on sights of flowers?
+        ```
+        ```
+        Dongrang: Back then, we were naive amateurs, and the past you refuse to forget is just a fleeting moment seen through rose-tinted glasses.
+        ```
+        ```
+        Dongrang: Did your colleagues who gave their lives to the cause know this, though?
+        ```
+        ```
+        Dongrang: That the cause you exclaimed was only a specious banner to lure people with. That it was as vain as a cloud on the sky.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: No... And yet... I'm finally seeing myself better now. Which is why I should plant the sprout and cover it with dirt with my own hands, isn't that right?
+        ```
+        ```
+        Dongbaek: The bud has fallen... and our fruit has long since withered...
+        ```
+        ```
+        Dongbaek: It must be covered with dirt again... let other fruits be borne...
+        ```
+
+        ---
+
+        ```
+        Rodion: Hey... Is it really okay to let her be?
+        ```
+        ```
+        Rodion: You know... Your mind doesn't work right when you're using E.G.O...
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Now hold on... Are you doing this on purpose...? Taunt her as much as you can...
+        ```
+
+        ---
+
+        ```
+        Outis: And wait for her to tire herself out...
+        ```
+
+        ---
+
+        ```
+        Dongbaek: ...Back to the innocent times, now without us.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Ah, innocence...
+        ```
+        ```
+        Dongrang: No words are as embarrassing as that.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Oi, keep it together!
+        ```
+
+        ---
+
+        ```
+        Dongrang: No one can shake your mind like I do, then and now. Isn't that right?
+        ```
+
+        ---
+
+        ```
+        Dongbaek: No, I feel like my mind is blooming wider than ever.
+        ```
+        ```
+        Dongbaek: I've always wished to be a bud, soon to burst into bloom.
+        ```
+        ```
+        Dongbaek: Shrouded in scent all over the body...
+        ```
+        ```
+        Dongbaek: Even if this is my own heart-wrenching path, understood by no one...
+        ```
+        ```
+        Dongbaek: I'll still leave behind a morrow, strong and fertile like fallen petals.
         ```
 ---
 

@@ -11230,11 +11230,11 @@
         ```
         ```
         Dongbaek: Thus, no one can remain in the future we envision.
-        ดงแบ็ก: เพื่อที่ว่าจะได้ไม่มีใครมาขัดแข้งขัดขา ในผืนอนาคตที่เราวาดฝันเอาไว้ <*ถึงนี้> 
+        ดงแบ็ก: เพื่อที่ว่าจะได้ไม่มีใครมาขัดแข้งขัดขา ในผืนอนาคตที่เราวาดฝันเอาไว้
         ```
         ```
         Dongbaek: That's why we could be free. From the obsession with survival.
-        ดงแบ็ก: 
+        ดงแบ็ก: เช่นนั้นแล้วพวกเราจะเป็นอิสระได้ จากความลุ่มหลงในการเอาชีวิตรอด
         ```
 
         ---
@@ -11243,82 +11243,116 @@
 
         ```
         Dongrang: Haha, what are you talking about? So you weren't envisioning a future; you just can't let go of the past.
-        ดงรัง: 
+        ดงรัง: ฮาฮา นี้พูดอะไรอยู่น่ะ? เธอไม่ได้วาดฝันอนาคตอะไรทั้งนั้นแหละ; ก็แค่คนที่ ปล่อยวางอดีตไม่ได้
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: Both of you... Stop this.
+        ยี่ซัง: พวกนายทั้งคู่... หยุดแค่นั้นแหละ
         ```
         ```
         Yi Sang: I don't want old feuds repeating before my eyes.
+        ยี่ซํง: ฉันไม่อยากเห็นเพื่อนเก่าตัวเองต้องมา ทะเลาะกันต่อหน้าต่อตาฉัน 
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Yi Sang, you look fine.
+        ดงแบ็ก: ยี่ซัง นายไม่เป็นไรหรอ  
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: You say it like you're relieved. Didn't you want him...
+        เกรกอร์: หิ *ถอนหายใจ* ทำพูดเข้าอย่างกับว่าเป็นห่วง ไม่ใช่ว่าเธออยากให้เขา... 
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: You're right. I wanted him to die.
+        ดงแบ็ก: อืม ใช่แล้วฉันอยากให้เขาตาย
         ```
         ```
         Dongbaek: But I'm sure he wished for the same.
+        ดงแบ็ก: แต่ฉันคิด ว่าเขาก็คงหวังไม่ต่างจากฉันนักหรอก
         ```
         ```
         Dongbaek: He wouldn't resist while it dug into his heart.
+        ดงแบ็ก: เขาไม่ได้ขัดขืนอะไรในตอนที่ฉันแทงเจ้านั้น ลงบนหัวใจของเขา
         ```
         ```
         Dongbaek: It was unpleasant. It felt like I was granting your wish.
+        ดงแบ็ก: รู้สึกแย่มากเลยนะ เหมือนกับว่าฉันกำลังประทานพรให้กับนายไม่มีผิด <*ไม่ค่อยดี>
         ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Yi Sang: ……
+        Yi Sang: ......
+        ยี่ซัง: ......
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Seems to me both of you got a few screws loose. You think pushing someone off a cliff can be justified because that person was hesitating?
+        เกรกอร์: หือ *ถอนหายใจ* สำหรับฉันพวกนายทั้งสองคนน่าจะเพี้ยนกันไปหมดแล้ว เธอคิดว่าการผลักใครออกไปยังหน้าผาจะกลายเป็นความชอบธรรมได้ เพราะแค่เขากำลังลังเลเนี้ยนะ?
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Hesi— Haah, why don't we hear it from the person himself, then?
+        ดงแบ็ก: ลังเล(หรอ)— ฮา งั้นทำไมเราถึงไม่ฟังจากปากเจ้าตัวดีล่ะ?
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: ...I have no words to say.
+        ยี่ซํง: ...ฉันไม่มีอะไรจะพูดทั้งนั้น
         ```
 
         ---
 
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongbaek: This conversation is over, then.
+        ดงบัง: งั้นก็จบกันแค่นี้
         ```
         ```
         Dongbaek: I'm frankly glad it is.
+        ดงบัง: ฉันดีใจที่มันลงเอย
         ```
         ```
         Dongbaek: I'll take this opportunity to kill two of my old companions with my own hands.
+        ดงบัง: ในแบบที่ฉันจะได้โอกาศ ที่จะฆ่าเพื่อนเก่าเพื่อนแก่ด้วยน้ำมือของตัวฉันเอง 
         ```
         ```
         Dongbaek: Then I'll seize and burn the Singularity.
+        ดงบัง: ก่อนที่ จะช่วงชิงและเผาซิงกูลาริตี้ให้สิ้นซาก
         ```
 ---
 

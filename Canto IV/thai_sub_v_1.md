@@ -11309,7 +11309,7 @@
 
         ---
 
-        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Seems to me both of you got a few screws loose. You think pushing someone off a cliff can be justified because that person was hesitating?
@@ -11408,7 +11408,7 @@
 
         ```
         Dongbaek: Proudly... boasting your... ignorance... still...
-        ดงแบ็ก: ยังหน้าด้าน...  หน้าทนพูด... อะไรไม่แยแส... ได้อยู่อีกนะ... <*ถึงนี้>
+        ดงแบ็ก: ยังหน้าด้าน...  หน้าทนพูด... อะไรไม่แยแส... ได้อยู่อีกนะ...
         ```
 
         ---
@@ -11417,50 +11417,64 @@
 
         ```
         Dongrang: And you are weak. Still.
-        ดงรัง: 
+        ดงรัง: และเธอ ก็ยังอ่อนปวกเปียก เหมือนเดิม
         ```
         ```
         Dongrang: Even with the E.G.O from Lobotomy Corp, this was below my expectations, Dongbaek.
-        ดงรัง: 
+        ดงรัง: แม้จะมีอีโก้จากศูนย์วิจัยโลโบโตมี่แล้วก็เถอะ แต่นี้ก็ต่ำกว่าที่ฉันคาดหวังเอาไว้ซะอีกนะ ดงแบ็ก
         ```
         ```
         Dongrang: Besides... I haven't even introduced you to the technology I developed. I know, why don't we hold our first conference in a while?
-        ดงแบ็ก: 
+        ดงแบ็ก: แล้วก็อีกอย่าง... ฉันยังไม่ได้พาเธอไปแนะนำตัวกับเทคโนโลยีที่ฉันสร้างขึ้นเลยนี้เนอะ จริงสิ ทำไมเราไม่จัดงานประชุมกันสักครั้ง หลังจากที่ได้จัดมานานดีล่ะ
         ```
 
         ---
 
-
-
+        <img src="../images/None_Extra.png" alt="Announcer" width="100" style="display: block; margin: 0 auto;">
+        
         ```
         Announcer: The daily audiovisual feed has been sent.
+        ผู้ประกาศเสียงตามสาย: สัญญาณโสตทัศนูปกรณ์รายวันถูกส่งเรียบร้อยแล้ว
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: So, tell me, Dongbaek...
+        ดงรัง: เอ้าทีนี้ บอกฉํนทีสิ ดงแบ็ก...
         ```
         ```
         Dongrang: How bigger can your despair grow?
+        ดงรัง: ว่าความสิ้นหวังของเธอ มันจะโตขึ้น ได้มากแค่ไหนกันเชียว?
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="RunningCivilian" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Running Civilian: Ahhhhh!! Help me!!!
+        ประชาชนที่วิ่งหนีตาย: อ้าาาาา!! ใครก็ได้ช่วยด้วย!!! 
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: What's up with this sound?
+        อิชมาเอล: นี้มันเสียงอะไร? <*ถึงนี้>
         ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: Is that the footage those drones filmed while we were fighting the Abnormality on the street...
+        เกรกอร์: 
         ```
 
         ---

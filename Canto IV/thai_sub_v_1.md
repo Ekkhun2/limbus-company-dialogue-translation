@@ -11543,7 +11543,7 @@
         ```
         ```
         Dongrang: I'm a fan of yours.
-        ดงรัง: ว่าผมเป็นแฟนตัวยงของพวกคุณ <*ถึงนี้>
+        ดงรัง: ว่าผมเป็นแฟนตัวยงของพวกคุณ
         ```
 
         ---
@@ -11552,7 +11552,7 @@
 
         ```
         Kromer: No, Sinclair! It's always been the other way around... I am the one who grips...!
-        โครเมอร์: 
+        โครเมอร์: อย่าหวังเลยให้ยากซินแคร์! มันไม่มีทางลงเอยแบบนั้นได้หรอก... เพราะฉันคือผู้กุมกำ...!
         ```
 
         ---
@@ -11561,85 +11561,120 @@
 
         ```
         Sinclair: How is this... I don't think I want to watch...
-        ซินแคร์: 
+        ซินแคร์: อะไรเนี้ย... ผมไม่อยากเลย ที่จะดูมัน...
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: We generated record tears that time as well. It played a significant part in securing the award, I might add.
+        ดงรัง: จังหวะนี้ เล่นสร้างน้ำตาได้เป็น ผลุแตก/ประวัติการณ์ เลยนะครับ แถมยังเป็นส่วนสำคัญที่ทำให้ผม ได้รับรางวัลพนักงานดีเด่นแห่งปีซะอีก
         ```
         ```
         Dongrang: The employees of a certain department in N Corp. weren't the best people to talk with, but I was able to procure fresh audiovisual feed thanks to them.
+        ดงรัง: ถึงแม้ว่าพนักงานบางแผนกในเอ็นคอร์ป จะไม่ได้เป็นคนที่—คุยด้วยได้ง่าย ๆ แต่ในท้ายที่สุดแล้ว ผมก็จัดหาแสงสีเสียงสดใหม่มาประคบประหงมเจ้าลูกตาน้อยนี้ได้ในที่สุด เพราะพวกเขาเลย 
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: That means... the reason N Corp. could get away with such cruelties in a residential area in Nest K was...
+        โรเดียน: ถ้างั้น... สาเหตุที่เอ็นคอร์ปไม่โดนอะไรที่โหดร้ายในเขตผู้อยู่อาศัยในเนสเคก็...
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: This is what the deal entailed.
+        เมอร์โซลท์: เป็นที่มาของ ดีล/ข้อตกลง นั้นสินะครับ
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: I think I remember a certain fellow saying this: while Brother Young-ji's 'glass window' was innovative, it was simply too vast to freely wield, especially for a coarse man like me.
+        ดงรัง: ผมว่าผมนึกออกแล้ว ว่ามีใครบางคนเคยบอกกับผมว่า: ถึงแม้ 'กระจกแก้ว' ของพี่น้องยังจีจะเป็นนวัตกรรมมากแค่ไหน มันก็กว้างใหญ่เกินไป กว่าที่คนอย่างพวกเราจะถือครองได้ โดยเฉพาะอย่างยิ่งคนแบบผม
         ```
 
         ---
 
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dongbaek: …….
+        Dongbaek: ......
+        ดงแบ็ก: ......
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Ah, Dongbaek. Was it you?
+        ดงรัง: อา ดงแบ็ก เธอรึเปล่า?
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: What is... Are you...
+        ดงแบ็ก: แกแม่ง... พูดเรื่องอะไร...
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: There just were never enough tears.
+        ดงรัง: มันก็แค่พวกเราไม่เคยมีน้ำตาที่เพียงพอเลย
         ```
         ```
         Dongrang: I mean, look around you, and see how many people are suffering here.
+        ดงรัง: ก็แบบ มองไปรอบ ๆ ตัวสิ ว่ามีคนมากมายแค่ไหนที่กำลังทนทุกข์ๆทรมาณอยู่ตรงนั้น 
         ```
         ```
         Dongrang: So they'll be doing the crying for us.
+        ดงรัง: ถึงขนาดที่พวกเขา ต้องร้องไห้อ้อนวอนกับพวกเรา
         ```
         ```
         Dongrang: With no time to shut their eyes.
+        ดงรัง: โดยที่ไม่มีเวลาปิดตาลงเลยด้วยซ้ำ
         ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Yi Sang: I only made minor modifications to Brother Young-ji's work.
+        ยี่ซํง: 
         ```
         ```
         Yi Sang: I wanted to show a reflection of any possibility in its unvarnished image.
+        ยี่ซํง: 
         ```
         ```
         Yi Sang: That is why I am considering the name for it:
+        ยี่ซํง: 
         ```
         ```
         Yi Sang: 'Mirror'.
+        ยี่ซํง: 
         ```
         ```
         Yi Sang: I wish that this will serve as a tool of entertainment... giving us more joy.
+        ยี่ซัง: 
         ```
 
         ---

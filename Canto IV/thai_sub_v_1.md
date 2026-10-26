@@ -245,7 +245,7 @@
         ```
         ```
         Vergilius: Since a Golden Bough is on the line, we have...
-        วอร์จิลิอุส: แล้วพอกิ่งทองกลายเป็นรางวัลที่อยู่บนเส้นชัย พวกจะไปทำอะไรได้ นอกจาก...
+        วอร์จิลิอุส: แล้วพอกิ่งทองกลายเป็นรางวัลที่อยู่บนเส้นชัย พวกเราจะไปทำอะไรได้ นอกจาก...
         ```
 
         ---
@@ -872,7 +872,7 @@
         
         ---
 
-        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: For goodness’ sake, what’s there to be so damn obtuse about?
@@ -11417,7 +11417,7 @@
 
         ```
         Dongrang: And you are weak. Still.
-        ดงรัง: และเธอ ก็ยังอ่อนปวกเปียก เหมือนเดิม
+        ดงรัง: และเธอ ก็ยังอ่อนปวกเปียก เหมือนเดิม/ไม่เปลี่ยน
         ```
         ```
         Dongrang: Even with the E.G.O from Lobotomy Corp, this was below my expectations, Dongbaek.
@@ -11452,7 +11452,7 @@
 
         ---
 
-        <img src="../images/None_Extra.png" alt="RunningCivilian" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/K_people.png" alt="RunningCivilian" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Running Civilian: Ahhhhh!! Help me!!!
@@ -11465,7 +11465,7 @@
 
         ```
         Ishmael: What's up with this sound?
-        อิชมาเอล: นี้มันเสียงอะไร? <*ถึงนี้>
+        อิชมาเอล: เมื่อกี้นี้มันเสียงอะไร?
         ```
 
         ---
@@ -11474,67 +11474,94 @@
 
         ```
         Gregor: Is that the footage those drones filmed while we were fighting the Abnormality on the street...
-        เกรกอร์: 
+        เกรกอร์: ไม่ใช่ว่าวิดิโอพวกนี้คือภาพถ่ายเดียวกันกับที่โดรนพวกนั้นเคยถ่ายเราเอาไว้บนถนนหรือไง...
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: I read the threat you sent, Dongbaek. Said you'll release an Abnormality on the streets if I don't speak about the Singularity.
+        ดงรัง: ฉันอ่านคำขู่ที่เธอส่งมาแล้วนะ ดงแบ็ก ที่ว่าเธอจะปล่อยสิ่งแปลกปลอมพวกนั้นออกมายังถนน ถ้าฉันไม่ยอมพูดเกี่ยวกับเรื่องซิงกูลาริตี้
         ```
         ```
         Dongrang: I know you were always fond of radical events... But I didn't think you'd actually do it.
+        ดงรัง: เห้อ *ถอนหายใจ* ฉันรู้อยู่แล้วว่าเธอเป็นคนที่ชอบเหตุการณ์อะไรพวกนี้นะ... แต่ก็ไม่ยักกะคิดว่าเธอจะลงมือทำจริง ๆ 
         ```
         ```
         Dongrang: Of course... It produced a lot more tears. All thanks to you.
+        ดงรัง: และแน่ล่ะ... ว่ามันสร้างน้ำตาได้มากโข ต้องขอบคุณเธอด้วย
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: No... I wasn't planning to release it. It escaped. You ignored my warning...
+        ดงแบ็ก: ไม่จริง... ฉันไม่ได้ตั้งใจที่จะปล่อยมันออกมา มันหนีออกไปได้ แล้วนายก็เมินคำเตือนของฉัน...   
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: If I responded there, that'd mean admitting that our lab had been experimenting on Abnormalities arbitrarily.
+        ดงรัง: อ้อ ก็ถ้าฉันตอบไปตั้งแต่ตอนนั้น มันก็ไม่ต่างอะไรกับการยอมรับกราย ๆ สิว่า แลปของฉันมีการทดลองกับสิ่งแปลกปลอมอยู่โดยไม่ได้รับอนุญาติ
         ```
         ```
         Dongrang: Thank goodness our contractors happened to be near the Nest when it happened.
+        ดงรัง: ต้องขอบคุณพระเจ้า ที่คู่สัญญาของพวกเราดันอยู่ใกล้เนสพอดิบพอดี
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: So it was all part of your plan to have us run into the breached Abnormality?
+        อิชมาเอล: แปลว่าทั้งหมดนี้ คือแผนการของคุณที่จะให้พวกเราเข้าไปยังศูนย์วิจัยที่เต็มไปด้วยสิ่งแปลกปลอมงั้นหรอคะ
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: It was closer to an experiment than a plan. The possibility of failure was kept in mind, but I had evidence to trust that you'd make it through.
+        ดงรัง: เหอะ อันที่จริงพูดว่าเป็นการทดลองน่าจะถูกกว่านะครับ ความเป็นไปได้ของการล้มเหลวเป็นสิ่งที่ถูกคิดไว้ตั้งแต่แรกแล้ว แต่เพียงแต่ผม มีหลักประกันที่เชื่อถือได้ ว่าพวกคุณจะรอดออกมา
         ```
         ```
         Dongrang: I've been keeping an eye on your for longer than you might think.
+        ดงรัง: อย่างที่ผมบอกไงครับ ว่าผมจับตาดูพวกคุณมา—นานกว่าที่พวกคุณคิดไว้ซะอีก
         ```
         ```
         Dongrang: I told you, didn't it?
+        ดงรัง: ใช่ไหมล่ะครับ?
         ```
         ```
         Dongrang: I'm a fan of yours.
+        ดงรัง: ในเมื่อผมเป็นแฟนตัวยงของพวกคุณ <*ถึงนี้>
         ```
 
         ---
+
+        <img src="../images/Cromer.png" alt="Kromer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Kromer: No, Sinclair! It's always been the other way around... I am the one who grips...!
+        โครเมอร์: 
         ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: How is this... I don't think I want to watch...
+        ซินแคร์: 
         ```
 
         ---

@@ -11797,7 +11797,7 @@
 
         ```
         Dongbaek: .......
-        ดงแบ็ก: ....... <*ถึงนี้>
+        ดงแบ็ก: .......
         ```
 
         ---
@@ -11806,15 +11806,15 @@
 
         ```
         Dongrang: You're just struggling to let go. Isn't that right?
-        ดงรัง: 
+        ดงรัง: เธอก็แค่ทำใจที่จะทิ้งไปไม่ได้ ใช่ไหมนะ?
         ```
         ```
         Dongrang: You give your grand speeches about the evil of technology... But that's no more than a pretext you made up on the way as a means to garner support. To reach your true goal.
-        ดงรัง: 
+        ดงรัง: เธอเอาแต่พูดอะไรใหญ่โตเกี่ยวกับความชั่วร้ายที่เทคโนโนยีสร้างขึ้น... แต่มันก็ไม่ได้เป็นอะไร ที่มากไปกว่าเพียงข้ออ้าง ที่เธอกุขึ้นมาแล้วปั้นน้ำเป็นตัว เพื่อเอื้อมไปให้ถึงเป้าหมายที่แท้จริงที่เธอตั้งไว้
         ```
         ```
         Dongrang: You claim to fight the vile technology, but you yourself are being plenty vile.
-        ดงรัง: 
+        ดงรัง: เธอยืนกรานที่จะต่อสู้กับเทคโนโลยีที่เธอเรียกว่าโหดเหี้ยม ทั้ง ๆ ที่ตัวเธอเองก็ไม่ต่างกัน
         ```
         ```
         Dongrang: When your group took over the Lobotomy branch facility where I just happened to be conducting my research...

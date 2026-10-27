@@ -11601,7 +11601,7 @@
 
         ```
         Dongrang: I think I remember a certain fellow saying this: while Brother Young-ji's 'glass window' was innovative, it was simply too vast to freely wield, especially for a coarse man like me.
-        ดงรัง: ผมว่าผมนึกออกแล้ว ว่ามีใครบางคนเคยบอกกับผมว่า: ถึงแม้ 'กระจกแก้ว' ของพี่น้องยังจีจะเป็นนวัตกรรมมากแค่ไหน มันก็กว้างใหญ่เกินไป กว่าที่คนอย่างพวกเราจะถือครองได้ โดยเฉพาะอย่างยิ่งคนแบบผม
+        ดงรัง: ฉันว่าฉันนึกออกแล้ว ว่ามีใครบางคนเคยบอกกับฉันว่า: ถึงแม้ 'กระจกแก้ว' ของพี่ยังจีจะเป็นนวัตกรรมมากแค่ไหน มันก็กว้างใหญ่เกินไป กว่าที่คนอย่างพวกเราจะถือครองได้ โดยเฉพาะอย่างยิ่งคนแบบฉัน
         ```
 
         ---
@@ -11658,133 +11658,180 @@
 
         ```
         Yi Sang: I only made minor modifications to Brother Young-ji's work.
-        ยี่ซํง: 
+        ยี่ซํง: ฉันแค่แก้อะไรนิด ๆ หน่อย ๆ ในงานของพี่ยังจี 
         ```
         ```
         Yi Sang: I wanted to show a reflection of any possibility in its unvarnished image.
-        ยี่ซํง: 
+        ยี่ซํง: ฉันอยากที่จะกลั่นกรองให้เป็นที่ประจักษ์ ถึงภาพสะทัอนแห่งความเป็นไปได้นับอนันต์ที่ไม่หลวงหลอก
         ```
         ```
         Yi Sang: That is why I am considering the name for it:
-        ยี่ซํง: 
+        ยี่ซํง: และเป็นที่มาของชื่อที่ฉันตั้งให้กับมัน: 
         ```
         ```
         Yi Sang: 'Mirror'.
-        ยี่ซํง: 
+        ยี่ซํง: 'มิลเลอร์'/'กระจก'
         ```
         ```
         Yi Sang: I wish that this will serve as a tool of entertainment... giving us more joy.
-        ยี่ซัง: 
+        ยี่ซัง: โดยที่เชื่ออยู่เต็มอกว่า สิ่งนี้จะเป็นเครื่องมือที่นำมาซึ่งความบันเทิง... และมอบความสุขให้กับพวกเรามากกว่าที่เคยมี
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Is this why I haven't been able to see you lately? To discover this?
+        ดงแบ็ก: นี้สินะสาเหตุที่ฉันไม่ได้เห็นหน้านายเมื่อนานมานี้? เพื่อที่จะค้นพบเจ้านี้น่ะหรอ?
         ```
         ```
         Dongbaek: Dongrang, why are you laughing like that?
+        ดงแบ็ก: ดงรัง หัวเราะแบบนั้นทำไมล่ะ?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: It's just funny that you're talking so ferociously when your eyes are full of curious twinkles.
+        ดงรัง: เหอะ *เราะเยาะ* ไม่มีอะไรมากหรอก แค่เห็นแล้วตลกดี ที่เธอพูดมันออกมาได้หน้าตาเฉย ทั้ง ๆ ที่แววตาตัวเองกำลังส่องประกายระยิบระยับไม่ต่างอะไรกับเด็กอายุสิบขวบ
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Yi Sang, will you tell him to shut it?
+        ดงแบ็ก: ยี่ซัง ช่วยบอกให้มันหุบปากสักแป๊ปจะได้ไหม?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Why don't you hide your astonishment of a child who's tried ice cream for the first time on your face first?
+        ดงรัง: ก่อนจะบอกใครให้หุบปาก รู้จักซ่อนใบหน้าเด็กน้อยอมมือทีอยากกินไอศครีมใจจะขาดนั้นก่อนไม่ดีกกว่าหรือไง?
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Mouths unable to hold laughter.
+            ปากที่อาจหยุดหัวเราะได้
             ```
             ```
             Exclamations of amazeness.
+            คำอุทานแทนอารมณ์ที่เต็มไปด้วยความประหลาดใจ
             ```
             ```
             Smiles at each other.
+            รอยยิ้มที่มีให้กัน
             ```
             ```
             Eyes glowing brighter than stars.
+            ดวงตาที่ส่องสว่างยิ่งกว่าดวงดาว
             ```
             ```
             Everyone there felt... pure joy.
+            ทุกคนที่อยู่ตรงนั้นรู้สึกได้... ถึงความโสมนัสที่มิอาจมีสิ่งใดมาเทียบเคียง
             ```
             ```
             I only wished that all this...
+            และฉันก็หวังว่าทั้งหมดนี้...
             ```
             ```
             Would remain a simple recreation.
+            จะคงเป็นเหมือนเดิม หลังจากที่ถูกสร้างใหม่แล้ว
             ```
 
         ---
 
+        <img src="../images/None_Extra.png" alt="์YiSang?" width="100" style="display: block; margin: 0 auto;">
+
         ```
         ???: Be quiet.
+        บุคคลปริศนา: ช่วยเงียบหน่อย
         ```
         ```
         ???: You will simply... live on as you are. As if you know nothing.
+        บุคคลปริศนา: เจ้าจะได้มีชีวิต... ดั่งที่เจ้าปราถนา ประดั่งว่าเจ้าไม่ทราบอะไรทั้งนั้น
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: The glass window... wasn't made for this kind of wicked degeneracy...
+        ดงแบ็ก: กระจกแก้ว... ไม่ได้ถูกสร้างขึ้นมาเพื่อเรื่องต่ำทรามพรรคนี้...
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: We're having an important moment. Please mind your language.
+        ดงรัง: เรากำลังอยู่ในช่วงเวลา สำคัญกันอยู่นะ ช่วยระวังคำพูดหน่อยสิ
         ```
         ```
         Dongrang: And I know what you're saying. Brother Young-ji would have scolded me for this.
+        ดงรัง: ฉันเข้าใจสิ่งที่เธอพูด พี่ชายยังจีจะต้องเฉ่งฉันหูฉีกแน่สำหรับ ทุกสิ่งที่ฉันทำไป/เรื่องนี้
         ```
         ```
         Dongrang: Ah, but did you know, though? We're no longer in the time when we used to cheer over toy-like inventions. The applause won't be as loud with how few of us that remain now.
+        ดงรัง: อา แต่เธอจะรู้ตัวไหมนะ? ว่ามันหมดยุคสมัยไปแล้ว ที่พวกเราต้องมานั่งตื่นตาตื่นใจ กับสิ่งประดิษฐ์ของเล่นกิ๊กก๊อกไร้ค่า โดยที่ไม่มีทางเลยที่เสียงปรบมืออันดังก้องในตอนนั้น จะเทียบเคียงเศษเสียงอันแผ่วเบาของเราในตอนนี้ 
         ```
 
         ---
 
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dongbaek: …….
+        Dongbaek: .......
+        ดงแบ็ก: ....... <*ถึงนี้>
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: You're just struggling to let go. Isn't that right?
+        ดงรัง: 
         ```
         ```
         Dongrang: You give your grand speeches about the evil of technology... But that's no more than a pretext you made up on the way as a means to garner support. To reach your true goal.
+        ดงรัง: 
         ```
         ```
         Dongrang: You claim to fight the vile technology, but you yourself are being plenty vile.
+        ดงรัง: 
         ```
         ```
         Dongrang: When your group took over the Lobotomy branch facility where I just happened to be conducting my research...
+        ดงรัง: 
         ```
         ```
         Dongrang: You probably told your followers that it was to investigate the Singularity, but in reality, you figured out that you could find pieces of technology you could use as weapons, didn't you? Like E.G.O.
+        ดงรัง: 
         ```
         ```
         Dongrang: I wonder who gave you all that precious information. Shrenne couldn't have known that. How about a game of twenty questions, will you tell me that way?
+        ดงรัง: 
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Don't talk like you know everything. That attitude of yours...always annoyed me...

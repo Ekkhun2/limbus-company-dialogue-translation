@@ -11814,15 +11814,15 @@
         ```
         ```
         Dongrang: You claim to fight the vile technology, but you yourself are being plenty vile.
-        ดงรัง: เธอยืนกรานที่จะต่อสู้กับเทคโนโลยีที่เธอเรียกว่าโหดเหี้ยม ทั้ง ๆ ที่ตัวเธอเองก็ไม่ต่างกัน
+        ดงรัง: เธอยืนกรานที่จะต่อสู้กับเทคโนโลยีที่เธอตราหน้าว่าโหดเหี้ยม แต่กลับไม่เคยมองย้อนการกระทำของตัวเองเลยสักครั้งว่าเป็นไง
         ```
         ```
         Dongrang: When your group took over the Lobotomy branch facility where I just happened to be conducting my research...
-        ดงรัง: 
+        ดงรัง: ในตอนที่กลุ่มเธอบุกยึดแลปของฉันไปในศูนย์วิจัยโลโบโตมี่ ซึ่งดันประจวบเหมาะเป็นที่มั่นหมายของฉันในการวิจัย...
         ```
         ```
         Dongrang: You probably told your followers that it was to investigate the Singularity, but in reality, you figured out that you could find pieces of technology you could use as weapons, didn't you? Like E.G.O.
-        ดงรัง: 
+        ดงรัง: เธอเองก็คงบอกกับผู้ติดตามของตัวเองว่า ทั้งหมดนี้ก็เพื่อการตรวจสอบซิงกูลาริตี้ แต่ในความเป็นจริงก็คือ เธอรู้แล้วว่าต้องหาเทคโนโลยีที่สามารถใช้เป็นอาวุธได้ที่ไหน ใช่ม้า? แบบอีโก้อะไรอย่างงั้นที่สามารถใช้เพื่อพลิกเกมได้
         ```
         ```
         Dongrang: I wonder who gave you all that precious information. Shrenne couldn't have known that. How about a game of twenty questions, will you tell me that way?

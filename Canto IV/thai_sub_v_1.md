@@ -2,7 +2,7 @@
 
 ---
 
-* ***The Unchanging*** **(ผู้ไม่แปรเปลี่ยน)**
+* ***The Unchanging*** **(ผู้ที่ไม่เคยแปรเปลี่ยน)**
 
     * **Episode: 1 | ตอนที่ 1**
 
@@ -11969,7 +11969,7 @@
         ```
         ```
         Dongbaek: We... didn't discover the technologies because we were better or had exclusive rights to...
-        ดงแบ็ก: พวกเรานั้น... ไม่ได้ค้นพบเทคโนโลยีพวกนี้ก่อน เพราะเราเก่งกว่าหรือมีสิทธิเหนือใคร
+        ดงแบ็ก: พวกเรานั้น... ไม่ได้ค้นพบเทคโนโลยีพวกนี้ก่อน เพราะเราเก่งกว่าหรือมีสิทธิเหนือใคร...
         ```
         ```
         Dongbaek: You may be right, I fooled everyone including myself into working for my own goals... It was... the land we tilled... that was fertile...
@@ -11982,11 +11982,11 @@
 
         ```
         Dongrang: That's disheartening to hear. Are you going to discredit all our efforts that went into plowing the soil, missing out on sights of flowers?
-        ดงรัง: ได้ยินแบบนั้นก็หมดกำลังใจแย่เลย นี้เธอไม่เห็นค่าความพยายามที่พวกเราอุตสาห์ร่วมสร้างกันมาบนพื้นหญ้าแห่งนั้นบ้างหรอ สงสัยจะใกล้ตายจนเห็นผิดเป็นถูกไปหมดแล้วมั้ง? <*ถึงนี้>
+        ดงรัง: ได้ยินแบบนั้นก็หมดกำลังใจแย่เลย นี้เธอไม่เห็นค่าความพยายามที่พวกเราอุตสาห์ร่วมสร้างกันมาบนพื้นหญ้าแห่งนั้นบ้างหรอ สงสัยจะใกล้ตายจนเห็นผิดเป็นถูกไปหมดแล้วมั้ง?
         ```
         ```
         Dongrang: Back then, we were naive amateurs, and the past you refuse to forget is just a fleeting moment seen through rose-tinted glasses.
-        ดงรัง: 
+        ดงรัง: เมื่อก่อน พวกเราก็เป็นแค่เด็กอมมือสมัครเล่น 
         ```
         ```
         Dongrang: Did your colleagues who gave their lives to the cause know this, though?

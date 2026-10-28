@@ -11818,15 +11818,15 @@
         ```
         ```
         Dongrang: When your group took over the Lobotomy branch facility where I just happened to be conducting my research...
-        ดงรัง: ในตอนที่กลุ่มเธอบุกยึดแลปของฉันไปในศูนย์วิจัยโลโบโตมี่ ซึ่งดันประจวบเหมาะเป็นที่มั่นหมายของฉันในการวิจัย...
+        ดงรัง: ในตอนที่กลุ่มเธอบุกยึดแลปฉันไปในสาขาย่อยโลโบโตมี่ อันเป็นที่มั่นหมายสำคัญของฉันในการทำวิจัย...
         ```
         ```
         Dongrang: You probably told your followers that it was to investigate the Singularity, but in reality, you figured out that you could find pieces of technology you could use as weapons, didn't you? Like E.G.O.
-        ดงรัง: เธอเองก็คงบอกกับผู้ติดตามของตัวเองว่า ทั้งหมดนี้ก็เพื่อการตรวจสอบซิงกูลาริตี้ แต่ในความเป็นจริงก็คือ เธอรู้แล้วว่าต้องหาเทคโนโลยีที่สามารถใช้เป็นอาวุธได้ที่ไหน ใช่ม้า? แบบอีโก้อะไรอย่างงั้นที่สามารถใช้เพื่อพลิกเกมได้
+        ดงรัง: เธอเองก็คงบอกกับผู้ติดตามของตัวเองว่า ที่ทำไปทั้งหมดนี้ ก็เพื่อการสืบสวนสอบสวนซิงกูลาริตี้ที่เขาลือกัน แต่ในความเป็นจริง เธอรู้อยู่แก่ใจว่าต้องหาเทคโนโลยีที่สามารถใช้เป็นอาวุธได้จากที่ไหน ใช่รึเปล่าล่ะ? แบบอีโก้อะไรเทือกงั้นที่สามารถใช้พลิกเกมได้
         ```
         ```
         Dongrang: I wonder who gave you all that precious information. Shrenne couldn't have known that. How about a game of twenty questions, will you tell me that way?
-        ดงรัง: 
+        ดงรัง: ฉันล่ะอยากรู้จริง ๆ ว่าใครหนอที่เป็นคนมอบข้อมูลแสนล้ำค่าพวกนั้นให้กับเธอ ไงซะชเรนน์ก็ไม่มีทางรู้เรื่อง งั้นเรา—มาเล่นเกมถามตอบยี่สิบข้อกันดีไหม ถึงเธอจะบอกฉันได้? 
         ```
 
         ---
@@ -11835,182 +11835,259 @@
 
         ```
         Dongbaek: Don't talk like you know everything. That attitude of yours...always annoyed me...
+        ดงแบ็ก: อย่าพูดเหมือนกับว่านายรู้ดีหน่อยเลย ไอความมั่นหน้านั้นของนาย... มันน่าลำคาญชะมัด...
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Haha, then let me act like I know about just one more thing.
+        ดงรัง: หือ ฮือฮะฮา งั้น ให้ฉันแสร้งทำเหมือนกับว่าฉันรู้บางอย่างเป็นอย่างสุดท้ายดีไหม
         ```
         ```
         Dongrang: When we peeked through Brother Young-ji's glass window... and when we got a glimpse of worlds reflected in Yi Sang's mirror...
+        ดงรัง: ในตอนที่เราแอบมองเข้าไปในกระจกแก้วของพี่ยังจี... กับในตอนที่พวกเรา ได้มองเห็นปากประตูของโลกที่สะท้อนผ่านกระจกของยี่ซัง...
         ```
         ```
         Dongrang: We felt the euphoria and schism we would never be able to recover from.
+        ดงรัง: พวกเราก็รู้สึกถึงความปลื้มปิติและแตกแยก ในแบบที่พวกเราไม่อาจจะที่ห้วนคืนได้อีก
         ```
 
         ---
 
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dongbaek: …….
+        Dongbaek: ......
+        ดงแบ็ก: ......
         ```
         ```
         Dongbaek: Since the moment the glass window was made...
+        ดงแบ็ก: นับตั้งแต่วินาทีที่กระจกแก้วถูกสร้างขึ้น...
         ```
         ```
         Dongbaek: All sorts of interest groups came knocking on the door.
+        ดงแบ็ก: กลุ่มของผู้คนที่สนใจ ก็ดราหน้ากันเข้ามาที่ประตูเดิมไม่หยุดหย่อน
         ```
         ```
         Dongbaek: Right... While we may think... that we left the League of our own volition...
+        ดงแบ็ก: ใช่แล้ว... ถึงแม้เราจะคิด... ว่าเรา ออกจากลีกออฟไนน์ด้วยเจตจำนงของพวกเราเอง...
         ```
         ```
         Dongbaek: We all know what actually happened... We were actually just torn apart and scattered away...
+        ดงแบ็ก: แต่เราก็รู้ดีอยู่เต็มอก ว่าความจริงเกิดสิ่งใดขึ้น... ความจริงที่ว่าพวกเราเองเนี้ยแหละ ที่เป็นคน—ฉีกกระชากตัวของพวกเราเองเป็นชิ้น ๆ และกระจัดกระจายออกจากกัน
         ```
         ```
         Dongbaek: And that the reason for it came from the inside...
+        ดงแบ็ก: และถือเป็นสาเหตุ ที่มันเริ่มขึ้นจากภายใน...
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Dongbaek, even if you put my work in the concept incinerator, we won't be able to go back to those innocent times. You know that, right?
+        ดงรัง: ดงแบ็ก ถึงแม้ว่าเธอจะโยนงานของฉันเข้าเครื่องเผาแนวคิด แต่ไม่ว่ายังไง พวกเราก็ไม่มีทางกลับไปเป็นดั่งเดิมเหมือนในวันวานได้หรอก เธอรู้ใช่ไหม?
         ```
         ```
         Dongrang: Hmm... Even though you are aware... you still can't give up your obsession...
+        ดงรัง: หืมม... ถึงแม้จะรู้ตัว... แต่เธอ กลับยังไม่ยอมปล่อยความยึดติดนั้นที่ตัวเองมี ได้อีกสินะ...
         ```
 
         ---
 
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dongbaek: …….
+        Dongbaek: ......
+        ดงแบ็ก: ......
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Ah, now I get it.
+        ดงรัง: อา ฉันเข้าใจแล้ว
         ```
         ```
         Dongrang: If someone were to discover the incinerated technologies again...
+        ดงรัง: ว่าถ้าเกิดวันหนึ่ง มีใครก็ตามที่สามารถชุบชีวิตเทคโนโลยีเหล่านี้ ที่ครั้นเคยมีอยู่แล้วให้กลับมาได้...
         ```
         ```
         Dongrang: Other nameless fellows with other dreams... would feel the same euphoria we once felt. That's what you wanted to happen.
+        ดงรัง: เจ้าพวกไร้ชื่อพวกนั้นที่แบกความฝันอยู่กับตัว... ก็คงรู้สึกได้ไม่ต่างกัน—เหมือนกับที่พวกเราเคยสัมผัส นั้นคือสิ่งที่เธอต้องการ
         ```
         ```
         Dongrang: Since we can't return to the past ourselves...
+        ดงรัง: ตราบใดที่เรา ไม่สามารถย้อนกลับไปเป็นตัวเองในอดีตได้อีก...
         ```
         ```
         Dongrang: You were going to recreate the past for coming generations.
+        ดงรัง: เธอก็เลย พยายามที่จะสร้างอดีตนั้นขึ้นมาใหม่ ให้คนรุ่นหลัง
         ```
         ```
         Dongrang: Wow, what a cute and unique idea, Dongbaek.
+        ดงรัง: ว้าว ช่างเป็นไอเดียที่น่ารักและปราดเปรื่องอะไรเช่นนี้เนี้ย ดงแบ็ก
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: M-Miss Dongbaek... Your body...
+        ซินแคร์: ค-คุณดงแบ็ก... ร่างกายคุณ...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Dongbaek muttered into emptiness. It was as though she was talking to someone.
+            ดงแบ็กพึมพำไปในความว่างเปล่า ราวกับว่าเธอกำลังพูดคุยกับใครสักคนที่อยู่ตรงนั้น
             ```
 
         ---
 
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongbaek: Yes... I'll bury it... deep in the sand... hide them...
+        ดงแบ็ก: ใช่แล้ว... ฉันจะฝังมัน... ให้ลึกลงในไปทราย... แล้วซ่อนพวกมันเอาไว้... 
         ```
         ```
         Dongbaek: For someone to find... some day...
+        ดงแบ็ก: เพื่อใครสักคนที่จะมาหามัน... ในสักวัน...
         ```
         ```
         Dongbaek: We... didn't discover the technologies because we were better or had exclusive rights to...
+        ดงแบ็ก: พวกเรานั้น... ไม่ได้ค้นพบเทคโนโลยีพวกนี้ก่อน เพราะเราเก่งกว่าหรือมีสิทธิเหนือใคร
         ```
         ```
         Dongbaek: You may be right, I fooled everyone including myself into working for my own goals... It was... the land we tilled... that was fertile...
+        ดงแบ็ก: บางทีนายอาจจะพูดถูกแล้วก็ได้ ว่าสุดท้ายแล้ว ฉันก็หลอกทุกคนจนหมดสิ้น ไม่เว้นแม้แต่ตัวฉันเอง เพื่อเป้าหมายที่ฉันตั้งเอาไว้... มันเคยเป็น... ดินแดนที่พวกเราเคยบุกเบิก... และอุดมสมบูรณ์...
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: That's disheartening to hear. Are you going to discredit all our efforts that went into plowing the soil, missing out on sights of flowers?
+        ดงรัง: ได้ยินแบบนั้นก็หมดกำลังใจแย่เลย นี้เธอไม่เห็นค่าความพยายามที่พวกเราอุตสาห์ร่วมสร้างกันมาบนพื้นหญ้าแห่งนั้นบ้างหรอ สงสัยจะใกล้ตายจนเห็นผิดเป็นถูกไปหมดแล้วมั้ง? <*ถึงนี้>
         ```
         ```
         Dongrang: Back then, we were naive amateurs, and the past you refuse to forget is just a fleeting moment seen through rose-tinted glasses.
+        ดงรัง: 
         ```
         ```
         Dongrang: Did your colleagues who gave their lives to the cause know this, though?
+        ดงรัง: 
         ```
         ```
         Dongrang: That the cause you exclaimed was only a specious banner to lure people with. That it was as vain as a cloud on the sky.
+        ดงรัง: 
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: No... And yet... I'm finally seeing myself better now. Which is why I should plant the sprout and cover it with dirt with my own hands, isn't that right?
+        ดงแบ็ก: 
         ```
         ```
         Dongbaek: The bud has fallen... and our fruit has long since withered...
+        ดงแบ็ก: 
         ```
         ```
         Dongbaek: It must be covered with dirt again... let other fruits be borne...
+        ดงแบ็ก: 
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Hey... Is it really okay to let her be?
+        โรเดียน: 
         ```
         ```
         Rodion: You know... Your mind doesn't work right when you're using E.G.O...
+        โรเดียน: 
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Now hold on... Are you doing this on purpose...? Taunt her as much as you can...
+        ฮิธคลิฟฟ์: 
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: And wait for her to tire herself out...
+        เอาทิส: 
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: ...Back to the innocent times, now without us.
+        ดงแบ็ก: 
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Ah, innocence...
+        ดงรัง: 
         ```
         ```
         Dongrang: No words are as embarrassing as that.
+        ดงรัง: 
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Oi, keep it together!
+        ฮิธคลิฟฟ์: 
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: No one can shake your mind like I do, then and now. Isn't that right?
+        ดงรัง: 
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: No, I feel like my mind is blooming wider than ever.

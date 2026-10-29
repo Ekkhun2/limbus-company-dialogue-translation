@@ -11982,19 +11982,19 @@
 
         ```
         Dongrang: That's disheartening to hear. Are you going to discredit all our efforts that went into plowing the soil, missing out on sights of flowers?
-        ดงรัง: ได้ยินแบบนั้นก็หมดกำลังใจแย่เลย นี้เธอไม่เห็นค่าความพยายามที่พวกเราอุตสาห์ร่วมสร้างกันมาบนพื้นหญ้าแห่งนั้นบ้างหรอ สงสัยจะใกล้ตายจนเห็นผิดเป็นถูกไปหมดแล้วมั้ง?
+        ดงรัง: ได้ยินแบบนั้นก็หมดกำลังใจแย่เลยสิ นี้เธอไม่เห็นค่าความพยายามแห่งหยาดเหงื่อที่พวกเราอุทิศไป เพื่อพื้นหญ้าแห่งนั้นบ้างเลยหรอ สงสัยจะใกล้ตายจนเห็นผิดเป็นถูกสลับกันไปหมดแล้วมั้ง?
         ```
         ```
         Dongrang: Back then, we were naive amateurs, and the past you refuse to forget is just a fleeting moment seen through rose-tinted glasses.
-        ดงรัง: เมื่อก่อน พวกเราก็เป็นแค่เด็กอมมือสมัครเล่น 
+        ดงรัง: ในตอนนั้น พวกเราก็เป็นแค่เด็กอมมือสมัครเล่น และอดีตที่เธอปฎิเสธนักปฎิเสธหนาที่จะลืมเลือน ก็เป็นแค่—ช่วงเวลาเพียงอึดใจเดียวที่ถูกมองผ่าน กระจกเขี้ยวกุหลาบสีชาดที่กำลังผลิบาน
         ```
         ```
         Dongrang: Did your colleagues who gave their lives to the cause know this, though?
-        ดงรัง: 
+        ดงรัง: งั้นฉันขอถามหน่อยได้ไหม ว่าเพื่อนร่วมงานเธอที่สละชีวิตไป รู้ตัวบ้างหรือเปล่า—ว่าทั้งหมดนี้ มันก็แค่กุศโลบายหลอกเด็ก?
         ```
         ```
         Dongrang: That the cause you exclaimed was only a specious banner to lure people with. That it was as vain as a cloud on the sky.
-        ดงรัง: 
+        ดงรัง: โดยใช้ข้ออ้างที่เธอสร้างขึ้น เป็นป้ายโฆษณาตบตา เพื่อล่อลวงคนพวกนั้นให้ติดกับ และหลงเชื่อฝังหัว ว่าสิ่งที่หยิบจับมีอยู่จริง
         ```
 
         ---
@@ -12003,15 +12003,15 @@
 
         ```
         Dongbaek: No... And yet... I'm finally seeing myself better now. Which is why I should plant the sprout and cover it with dirt with my own hands, isn't that right?
-        ดงแบ็ก: 
+        ดงแบ็ก: ไม่ใช่... และเพราะอย่างงั้น... ในที่สุด ฉันก็มองเห็นตัวเองชัดขึ้นสักที ว่าฉันก็ควรที่จะ หว่านเมล็ดพันธ์ และปิดมันเอาไว้ใต้ดิน ด้วยมือสองข้างนี้ที่ฉันมี ต้องแบบนั้นต่างหาก? 
         ```
         ```
         Dongbaek: The bud has fallen... and our fruit has long since withered...
-        ดงแบ็ก: 
+        ดงแบ็ก: สหายของพวกเรา... ได้ล่วงหล่น... และพืชผลที่มีก็สูญสิ้น... เมื่อนานมาแล้ว...
         ```
         ```
         Dongbaek: It must be covered with dirt again... let other fruits be borne...
-        ดงแบ็ก: 
+        ดงแบ็ก: มันจำเป็นจะต้องถูกกลบในดินอีกครั้งหนึ่ง... และปล่อยให้พืชผลอีกหลายต้นได้โตขึ้น...
         ```
 
         ---
@@ -12020,11 +12020,11 @@
 
         ```
         Rodion: Hey... Is it really okay to let her be?
-        โรเดียน: 
+        โรเดียน: นี้ทุกคน... มันดีแล้วจริง ๆ ใช่ไหม ที่เราจะปล่อยเธอไว้แบบนั้น? 
         ```
         ```
         Rodion: You know... Your mind doesn't work right when you're using E.G.O...
-        โรเดียน: 
+        โรเดียน: แบบว่า พวกนายก็รู้ใช่ไหม... ว่าสติเราจะไม่ค่อยดีเวลาใช้อีโก้น่ะ...
         ```
 
         ---
@@ -12033,7 +12033,7 @@
 
         ```
         Heathcliff: Now hold on... Are you doing this on purpose...? Taunt her as much as you can...
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: ห้า เดี๋ยวก่อนนะ... นี้แกกำลังตั้งใจทำแบบนี้อยู่ใช่ไหม...? ยั่วยุเธอให้ได้มากที่สุดเท่าที่แกทำได้...
         ```
 
         ---
@@ -12042,7 +12042,7 @@
 
         ```
         Outis: And wait for her to tire herself out...
-        เอาทิส: 
+        เอาทิส: แล้วก็รอ จนกว่าเธอจะหมดแรงไปเอง...
         ```
 
         ---
@@ -12051,7 +12051,7 @@
 
         ```
         Dongbaek: ...Back to the innocent times, now without us.
-        ดงแบ็ก: 
+        ดงแบ็ก: ...ย้อนกลับไป ในช่วงเวลาที่แสนบริสุทธิ์ ตอนนี้ โดยไม่มีพวกเรา
         ```
 
         ---
@@ -12060,11 +12060,11 @@
 
         ```
         Dongrang: Ah, innocence...
-        ดงรัง: 
+        ดงรัง: อา บริสุทธิ์...
         ```
         ```
         Dongrang: No words are as embarrassing as that.
-        ดงรัง: 
+        ดงรัง: ไม่มีคำไหนแล้ว ที่จะน่าอายได้เท่านั้น
         ```
 
         ---
@@ -12073,7 +12073,7 @@
 
         ```
         Heathcliff: Oi, keep it together!
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: โอ่ย ตั้งสติเอาไว้เซ่!
         ```
 
         ---
@@ -12082,7 +12082,7 @@
 
         ```
         Dongrang: No one can shake your mind like I do, then and now. Isn't that right?
-        ดงรัง: 
+        ดงรัง: ไม่มีใคร ที่สามารถกระตุกจิตเธอได้ แบบที่ฉันทำ ไม่ว่าจะเมื่อก่อน หรือตอนนี้ ใช่ไหมล่ะ? 
         ```
 
         ---
@@ -12091,18 +12091,23 @@
 
         ```
         Dongbaek: No, I feel like my mind is blooming wider than ever.
+        ดงแบ็ก: ไม่เลย ฉันรู้สึก อย่างกับว่าจิตใจของฉํน มันกำลังผลิบานออกมา มากกว่าที่เคยเป็น
         ```
         ```
         Dongbaek: I've always wished to be a bud, soon to burst into bloom.
+        ดงแบ็ก: ฉันหวังมาตลอด ว่าอยากที่จะเป็นดอกไม้ตูม ที่รอคอยวันผลิบานในไม่ช้า
         ```
         ```
         Dongbaek: Shrouded in scent all over the body...
+        ดงแบ็ก: ในขณะที่ทั้งร่าง ปกคลุมไปด้วยกลิ่นหอม...
         ```
         ```
         Dongbaek: Even if this is my own heart-wrenching path, understood by no one...
+        ดงแบ็ก: ถึงนี้ จะเป็นเส้นทางที่บีบคั้นหัวใจ และไร้ซึ่งมิตรที่คอยอยู่เคียงข้าง...
         ```
         ```
         Dongbaek: I'll still leave behind a morrow, strong and fertile like fallen petals.
+        ดงแบ็ก: ฉัน ก็จะยังทำมัน และทิ้งทุกอย่างไว้ข้างหลัง ด้วยความแข็งแกร่ง และอุดมสมบูรณ์ เหมือนผู้ล่วงลับ
         ```
 ---
 

@@ -11404,7 +11404,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongback" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_fox1.png" alt="Dongback" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Proudly... boasting your... ignorance... still...
@@ -11439,7 +11439,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: So, tell me, Dongbaek...
@@ -11606,7 +11606,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: ......
@@ -11624,7 +11624,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: What is... Are you...
@@ -11679,7 +11679,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Is this why I haven't been able to see you lately? To discover this?
@@ -11701,7 +11701,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Yi Sang, will you tell him to shut it?
@@ -11767,7 +11767,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: The glass window... wasn't made for this kind of wicked degeneracy...
@@ -11793,7 +11793,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: .......
@@ -11831,7 +11831,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Don't talk like you know everything. That attitude of yours...always annoyed me...
@@ -11857,7 +11857,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: ......
@@ -11899,7 +11899,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: ......
@@ -11957,7 +11957,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Yes... I'll bury it... deep in the sand... hide them...
@@ -11999,7 +11999,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: No... And yet... I'm finally seeing myself better now. Which is why I should plant the sprout and cover it with dirt with my own hands, isn't that right?
@@ -12047,7 +12047,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: ...Back to the innocent times, now without us.
@@ -12087,7 +12087,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_fox1.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: No, I feel like my mind is blooming wider than ever.
@@ -12105,6 +12105,11 @@
         Dongbaek: Even if this is my own heart-wrenching path, understood by no one...
         ดงแบ็ก: ถึงนี้ จะเป็นเส้นทางที่บีบคั้นหัวใจ และไร้ซึ่งมิตรที่คอยอยู่เคียงข้าง...
         ```
+
+        ---
+
+        <img src="../images/Dongback_EGO.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        
         ```
         Dongbaek: I'll still leave behind a morrow, strong and fertile like fallen petals.
         ดงแบ็ก: ฉัน ก็จะยังทำมัน และทิ้งทุกอย่างไว้ข้างหลัง ด้วยความแข็งแกร่ง และอุดมสมบูรณ์ เหมือนผู้ล่วงลับ
@@ -12127,7 +12132,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_EGO.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: ......

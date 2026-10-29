@@ -12109,6 +12109,220 @@
         Dongbaek: I'll still leave behind a morrow, strong and fertile like fallen petals.
         ดงแบ็ก: ฉัน ก็จะยังทำมัน และทิ้งทุกอย่างไว้ข้างหลัง ด้วยความแข็งแกร่ง และอุดมสมบูรณ์ เหมือนผู้ล่วงลับ
         ```
+
+    ---
+
+    * **Episode: 31 | ตอนที่ 31<br>Location: Screening Room | ห้องคัดกรอง**
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+        
+        ```
+        Dongrang: Why don't we look at it this way?
+        ดงรัง: ทำไมเราไม่ลองมองมุมนี้บ้างล่ะ?
+        ```
+        ```
+        Dongrang: Did you know that a new League of Nine has been formed in N Corp?
+        ดงรัง: เธอรู้หรือเปล่า ว่าลีกออฟไนน์ ถูกก่อตั้งขึ้นมาใหม่ในเอ็นคอร์ป?
+        ```
+
+        ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: ......
+        ดงแบ็ก: ......
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: They seem to be recruiting the old members and their technologies, similar to what you tried to do.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: Though, it looks like they're trying to erase that past, rather.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: This is purely conjecture, but we're all doomed to die at the hands of our dear fellow Gubo and be taxidermied, one after another.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: All I did was bring that predetermined death a bit earlier.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: Besides... You've gone too far for our past friendship to forgive, Dongbaek.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: Ahh~ I was looking forward to the staff dinner tomorrow, I really was.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: Come on, then... It's time you ceased the bloom, Dongbaek.
+        ดงรัง: 
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            With the Golden Bough in hand, Dongrang stabs Dongbaek without hesitation.
+            ```
+
+        ---
+
+        ```
+        Yi Sang: But why…
+        ```
+
+        ---
+
+        ```
+        Dongrang: … … …
+        ```
+
+        ---
+
+        ```
+        Dongbaek: ……
+        ```
+
+        ---
+
+        ```
+        Dongrang: I could state many reasons, but... right, let's say this is my parting act of compassion.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: ...I knew I'd have to wilt when the time came, but...
+        ```
+        ```
+        Dongbaek: I... always...
+        ```
+        ```
+        Dongbaek: Wished to be a bud... soon to bloom, bearing the scent within...
+        ```
+        ```
+        Dongbaek: Like you, Yi Sang... How you dreamed... of flying...
+        ```
+        ```
+        Dongbaek: Like that... I just... wanted to be buried... under a piquant scent of flowers... with you all...
+        ```
+
+        ---
+
+        ```
+        Announcer: New feed has been added.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Soon, the screen is filled with yellow petals.
+            ```
+
+        ---
+
+        ```
+        Yi Sang: ……
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Thank you, Yi Sang. For showing me such a moment.
+        ```
+        ```
+        Dongbaek: I would dedicate my entire life to repay you for this favor...
+        ```
+
+        ---
+
+        ```
+        Dongrang: Hey, Yi Sang, what say you to setting up a lab with me? I get the feeling every day spent with you will be a fun one.
+        ```
+
+        ---
+
+        ```
+        Young-ji: Amazing, Yi Sang. Unlike me, you attempted to reflect the true image in all its uprightness.
+        ```
+        ```
+        Young-ji: The images don't overlap... They aren't blurry or shaky.
+        ```
+
+        ---
+
+        ```
+        Gubo: Yi Sang, you're too lax.
+        ```
+        ```
+        Gubo: Why on earth would you leave it as a plaything when it can be so much more?
+        ```
+
+        ---
+
+        ```
+        ???: Be still.
+        ```
+        ```
+        ???: Just be still, and do nothing more than breathe.
+        ```
+        ```
+        ???: For now, that's how you must live.
+        ```
+        ```
+        ???: You cannot fly.
+        ```
+
+        ---
+
+        ```
+        Gubo: The League has fallen apart! We have to leave this place.
+        ```
+        ```
+        Gubo: Yi Sang, you will come with me.
+        ```
+        ```
+        Gubo: You can close your eyes if you so wish. Since you're too faint-hearted, I'll see ahead in your stead.
+        ```
+
+        ---
+
+        ```
+        Dongrang: What are you thinking?
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ……
+        ```
+        ```
+        Yi Sang: Nothing.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            And the scent of the grave was in full bloom.
+            ```
+
+        ---
 ---
 
 ### เพิ่มเติม

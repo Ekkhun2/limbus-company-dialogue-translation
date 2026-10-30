@@ -11758,7 +11758,7 @@
 
         ```
         ???: Be quiet.
-        บุคคลปริศนา: ช่วยเงียบหน่อย
+        บุคคลปริศนา: หุบปากของเจ้าเสีย
         ```
         ```
         ???: You will simply... live on as you are. As if you know nothing.
@@ -12279,11 +12279,11 @@
 
         ```
         Dongbaek: Thank you, Yi Sang. For showing me such a moment.
-        ดงแบ็ก: ขอบคุณนะ ยี่ซัง ที่แสดงให้ฉันได้เห็นสิ่งนั้น
+        ดงแบ็ก: ขอบคุณนะ ยี่ซัง ที่พาฉันมาดูเจ้านี้
         ```
         ```
         Dongbaek: I would dedicate my entire life to repay you for this favor...
-        ดงแบ็ก: ต่อให้ฉัน ต้องอุทิศถวายชีวิตตัวเองที่เหลืออยู่ เพื่อตอบแทนสิ่งที่นายให้ไว้... ฉันก็เต็มใจที่จะทำมัน...
+        ดงแบ็ก: ต่อให้ฉัน ต้องอุทิศถวายชีวิตตัวเองที่เหลืออยู่ เพื่อตอบแทนสิ่งที่นายให้ไว้ ฉันก็เต็มใจที่จะทำนะ...
         ```
 
         ---
@@ -12292,7 +12292,7 @@
 
         ```
         Dongrang: Hey, Yi Sang, what say you to setting up a lab with me? I get the feeling every day spent with you will be a fun one.
-        ดงรัง: นี้ ยี่ซัง นายจะว่าไงล่ะ ถ้าฉันจะชวนนายมาร่วมทำแลปกับฉัน? ฉันรู้สึกได้เลยนะ ว่าการที่จะได้ใช้ชีวิตร่วมกับนายทุกวัน คงจะเป็นอะไรที่สนุกมาก  
+        ดงรัง: นี้ ยี่ซัง นายจะว่าไงล่ะ ถ้าฉันจะชวนนายมาทำแลปร่วมกับฉัน? ฉันรู้สึกได้เลยนะ ว่าการที่จะได้ใช้เวลาร่วมกับนายทุกวัน คงเป็นเรื่องที่สนุกมาก  
         ```
 
         ---
@@ -12301,73 +12301,98 @@
 
         ```
         Young-ji: Amazing, Yi Sang. Unlike me, you attempted to reflect the true image in all its uprightness.
-        ยังจี: 
+        ยังจี: ทำได้เยี่ยมยอดมากเลย ยี่ซัง ไม่เหมือนกับฉัน นายพยายามที่จะสะท้อนภาพที่แท้จริง ด้วยสีตามธรรมชาติที่เที่ยงตรงที่สุดที่มันเป็น
         ```
         ```
         Young-ji: The images don't overlap... They aren't blurry or shaky.
-        ยังจี: 
+        ยังจี: ในขณะที่ภาพพวกนี้ไมเกยกัน... พวกมันไม่เบลอ หรือสั่นไหว
         ```
 
         ---
+
+        <img src="../images/Gubo.png" alt="Gubo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gubo: Yi Sang, you're too lax.
+        กุโบะ: ยี่ซัง นายเหลวไหลเกินไปแล้ว
         ```
         ```
         Gubo: Why on earth would you leave it as a plaything when it can be so much more?
+        กุโบะ: ทำไม นายถึงปล่อยให้มันเป็นแค่ของเด็กเล่น ทั้ง ๆ ที่มันก็สามารถ ที่จะเป็นได้มากกว่านั่น?
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="YiSang?" width="100" style="display: block; margin: 0 auto;">
 
         ```
         ???: Be still.
+        บุคคลปริศนา: หยุดแค่นั้นแหละ
         ```
         ```
         ???: Just be still, and do nothing more than breathe.
+        บุคคลปริศนา: แค่อยู่นิ่ง ๆ และไม่ต้องทำอะไร นอกจากหายใจ
         ```
         ```
         ???: For now, that's how you must live.
+        บุคคลปริศนา: ตั้งแต่ตอนนี้ นั่น จะเป็นวิธีที่เจ้ามีชีวิต
         ```
         ```
         ???: You cannot fly.
+        บุคคฃปริศนา: เป็นนกที่มิอาจบินได้
         ```
 
         ---
+
+        <img src="../images/Gubo.png" alt="Gubo" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gubo: The League has fallen apart! We have to leave this place.
+        กุโบะ: สมาพันธ์แตกไปแล้ว! พวกเราต้องออกไปจากที่นี้
         ```
         ```
         Gubo: Yi Sang, you will come with me.
+        กุโบะ: ยี่ซัง นายจะมากับฉันไหม 
         ```
         ```
         Gubo: You can close your eyes if you so wish. Since you're too faint-hearted, I'll see ahead in your stead.
+        กุโบะ: นาย—จะหลับตาไว้ก็ได้ถ้านายต้องการ ก็แหงล่ะ นายมันใจเสาะนี้เนอะ ฉันจะไปล่วงหน้าไปก่อน แล้วนายก็ตามมา
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: What are you thinking?
+        ดงรัง: นายกำลังคิดอะไรอยู่ในหัวหรอ?
         ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Yi Sang: ……
+        Yi Sang: ......
+        ยี่ซัง: ......
         ```
         ```
         Yi Sang: Nothing.
+        ยี่ซัง: เปล่าสักหน่อย
         ```
 
         ---
+
+        <img src="../images/Gubo.png" alt="Gubo" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             And the scent of the grave was in full bloom.
+            และกลิ่นหอมของหลุ่มศพก็ลอยฟุ่งออกมา
             ```
 
-        ---
+    ---
 ---
 
 ### เพิ่มเติม

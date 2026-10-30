@@ -9836,7 +9836,7 @@
 
         ```
         Dongrang: Rescuing is left to Class 1 staff.
-        ดงรัง: ส่วนการช่วยเหลือเป็นหน้าที่ของเจ้าหน้าคลาส 1 น่ะครับ
+        ดงรัง: ส่วนการช่วยเหลือเป็นหน้าที่ของเจ้าหน้าที่คลาส 1 น่ะครับ
         ```
 
         ---
@@ -11434,7 +11434,7 @@
         
         ```
         Announcer: The daily audiovisual feed has been sent.
-        ผู้ประกาศเสียงตามสาย: สัญญาณโสตทัศนูปกรณ์รายวันถูกส่งเรียบร้อยแล้ว
+        เสียงตามสาย: สัญญาณโสตทัศนูปกรณ์รายวันถูกส่งเรียบร้อยแล้ว
         ```
 
         ---
@@ -12112,7 +12112,7 @@
         
         ```
         Dongbaek: I'll still leave behind a morrow, strong and fertile like fallen petals.
-        ดงแบ็ก: ฉัน ก็จะยังทำมัน และทิ้งทุกอย่างไว้ข้างหลัง ด้วยความแข็งแกร่ง และอุดมสมบูรณ์ เหมือนผู้ล่วงลับ
+        ดงแบ็ก: ฉัน ก็จะยังทำมัน และทิ้งทุกอย่างไว้ข้างหลัง ด้วยความแข็งแกร่ง และอุดมสมบูรณ์ เหมือนกลีบดอกไม้ที่ล่วงหล่น
         ```
 
     ---
@@ -12145,31 +12145,31 @@
 
         ```
         Dongrang: They seem to be recruiting the old members and their technologies, similar to what you tried to do.
-        ดงรัง: 
+        ดงรัง: ในตอนแรก พวกเขาก็ทำทีเป็นเรียกรวมสมาชิก และเก็บกู้เศษซากเทคโนโลยีเก่าแก่พวกนั้นกลับมา เหมือนกับที่เธอทำ
         ```
         ```
         Dongrang: Though, it looks like they're trying to erase that past, rather.
-        ดงรัง: 
+        ดงรัง: ถึงอย่างนั้น ทุกสิ่งทุกอย่างที่เกิดขึ้น กลับดูเหมือนว่าจะเป็นเพียง คำโกหกคำโต ที่แท้ที่จริงแล้วเหตุผลก็เพื่อลบล้างอดีตที่เคยมีอยู่
         ```
         ```
         Dongrang: This is purely conjecture, but we're all doomed to die at the hands of our dear fellow Gubo and be taxidermied, one after another.
-        ดงรัง: 
+        ดงรัง: ถึงนี้ จะเป็นเพียงการคาดเดาล้วน ๆ เลยก็เถอะ แต่สุดท้าย ไม่ว่าพวกเราจะทำยังไง ก็คง—หนีไม่พ้นชะตากรรมที่ต้องตายตกตามไป ด้วยน้ำมือสหายรักของพวกเราอย่างกุโบะ แล้วถูกสตาฟไว้ดูแก้เบื่อยามเหงา คนแล้วคนเล่า
         ```
         ```
         Dongrang: All I did was bring that predetermined death a bit earlier.
-        ดงรัง: 
+        ดงรัง: สิ่งที่ฉันทำ เป็นเพียงการกระตุ้นเวลาตายให้เร็วขึ้นก็เท่านั้น
         ```
         ```
         Dongrang: Besides... You've gone too far for our past friendship to forgive, Dongbaek.
-        ดงรัง: 
+        ดงรัง: อีกอย่าง... เธอเดินมาไกลเกินกว่า ที่มิตรไมตรีของพวกเราจะให้อภัยได้แล้ว ดงแบ็ก
         ```
         ```
         Dongrang: Ahh~ I was looking forward to the staff dinner tomorrow, I really was.
-        ดงรัง: 
+        ดงรัง: อ้าา~ ทั้ง ๆ ที่ฉันอุตสาห์กำลังจะไปติดต่อเจ้าหน้าที่สำหรับมื้อเย็นวันพรุ่งนี้เลยแท้ ๆ  ช่างน่าเสียดาย
         ```
         ```
         Dongrang: Come on, then... It's time you ceased the bloom, Dongbaek.
-        ดงรัง: 
+        ดงรัง: แต่ก็เอาเถอะ... มันได้เวลาแล้ว ที่เธอ—จะผลิบาน ดงแบ็ก 
         ```
 
         ---
@@ -12180,92 +12180,132 @@
 
             ```
             With the Golden Bough in hand, Dongrang stabs Dongbaek without hesitation.
+            ด้วยกิ่งทองที่อยู่ในมือ ดงรังแทงเข้าไปที่หน้าอกของดงแบ็ก โดยไร้ซึ่งความปราณี
             ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Yi Sang: But why…
+        ยี่ซัง: แต่ ทำไมกัน...
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dongrang: … … …
+        Dongrang: ... ... ...
+        ดงรัง: ... ... ...
         ```
 
         ---
 
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dongbaek: ……
+        Dongbaek: ......
+        ดงแบ็ก: ......
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: I could state many reasons, but... right, let's say this is my parting act of compassion.
+        ดงรัง: ถ้าจะบอกเหตุผล ฉันก็บอกได้เป็นร้อยแปด แต่ว่า... ให้เข้าใจแบบนี้ก็แล้วกัน ว่าที่ฉันทำไป ก็เพราะ ความสมเพช
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: ...I knew I'd have to wilt when the time came, but...
+        ดงแบ็ก: ...ฉันรู้ ว่าวันหนึ่ง ฉันต้องเหี่ยวเฉ่า แต่ถึงอย่างนั้น...
         ```
         ```
         Dongbaek: I... always...
+        ดงแบ็ก: ฉัน... ก็ยังอยากที่จะ...
         ```
         ```
         Dongbaek: Wished to be a bud... soon to bloom, bearing the scent within...
+        ดงแบ็ก: หวังว่าตัวเองจะได้—เป็นดอกไม้ตูม... ที่ผลิบานในอนาคต พร้อมกับกลิ่นหอมที่ซ่อนอยู่ภายในตัวมัน...
         ```
         ```
         Dongbaek: Like you, Yi Sang... How you dreamed... of flying...
+        ดงแบ็ก: เหมือนกับนายไง ยี่ซัง... นายที่ฝันอยาก... จะโบยบิน...
         ```
         ```
         Dongbaek: Like that... I just... wanted to be buried... under a piquant scent of flowers... with you all...
+        ดงแบ็ก: เพราะอย่างนั้น... ฉันก็แค่... อยากที่จะถูกฝัง... ภายในด้านใต้กลิ่นหอมแตะจมูกของดอกไม้... กับพวกนายทุกคน...
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="Announcer" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Announcer: New feed has been added.
+        เสียงตามสาย: สัญญาณใหม่ถูกเพิ่มเรียบร้อยแล้ว
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Soon, the screen is filled with yellow petals.
+            ไม่นานนัก ห้องคัดกรองก็เต็มไปด้วยกลีบสีเหลือง
             ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Yi Sang: ……
+        Yi Sang: ......
+        ยี่ซัง: ......
         ```
 
         ---
+
+        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Thank you, Yi Sang. For showing me such a moment.
+        ดงแบ็ก: ขอบคุณนะ ยี่ซัง ที่แสดงให้ฉันได้เห็นสิ่งนั้น
         ```
         ```
         Dongbaek: I would dedicate my entire life to repay you for this favor...
+        ดงแบ็ก: ต่อให้ฉัน ต้องอุทิศถวายชีวิตตัวเองที่เหลืออยู่ เพื่อตอบแทนสิ่งที่นายให้ไว้... ฉันก็เต็มใจที่จะทำมัน...
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Hey, Yi Sang, what say you to setting up a lab with me? I get the feeling every day spent with you will be a fun one.
+        ดงรัง: นี้ ยี่ซัง นายจะว่าไงล่ะ ถ้าฉันจะชวนนายมาร่วมทำแลปกับฉัน? ฉันรู้สึกได้เลยนะ ว่าการที่จะได้ใช้ชีวิตร่วมกับนายทุกวัน คงจะเป็นอะไรที่สนุกมาก  
         ```
 
         ---
 
+        <img src="../images/None_Extra.png" alt="ํYoung-ji" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Young-ji: Amazing, Yi Sang. Unlike me, you attempted to reflect the true image in all its uprightness.
+        ยังจี: 
         ```
         ```
         Young-ji: The images don't overlap... They aren't blurry or shaky.
+        ยังจี: 
         ```
 
         ---

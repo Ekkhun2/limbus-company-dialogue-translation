@@ -12203,7 +12203,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_EGO.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: ......
@@ -12221,7 +12221,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_EGO.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: ...I knew I'd have to wilt when the time came, but...
@@ -12275,7 +12275,7 @@
 
         ---
 
-        <img src="../images/Dongback.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Thank you, Yi Sang. For showing me such a moment.
@@ -12389,130 +12389,182 @@
 
             ```
             And the scent of the grave was in full bloom.
-            และกลิ่นหอมของหลุ่มศพก็ลอยฟุ่งออกมา
+            และกลิ่นหอมของหลุมศพก็ลอยฟุ่งออกมา
             ```
 
     ---
 
     * **Episode: 32 | ตอนที่ 32**
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         * เสียงในหัว
 
             ```
             Ah, and so...
+            อา แล้วก็...
             ```
 
         ---
 
-        **Location: Reconstructing K Corp. Laboratory**
+        **Location: Reconstructing K Corp. Laboratory | ห้องแลปเคคอร์ปที่กำลังก่อสร้าง**
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
         
         * เสียงในหัว
 
             ```
             As the intense golden glow fades, the space begins to twist and morph.
+            ในขณะที่แสงสีทองสว่างจ้าค่อย ๆ จางลง พืันที่ที่อยู่โดยรอบก็เริ่มที่จะบิดเบี้ยว และกลายสภาพ
             ```
 
         ---
 
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ishmael: Did the Golden Bough have the power do to this? I don't think we've even entered the fathoms of ego yet... Was it capable of warping the real world?
+        อิชมาเอล: กิ่งทองมีพลังที่จะทำอะไรแบบนี้ด้วยหรอ? เท่าที่ฉันจำได้ พวกเราน่าจะยังไม่ได้เข้าปากเหวแห่งอีโก้เลยด้วยซ้ำ... แต่นี้ มันมีพลังถึงขั้นบิดเบี้ยวความเป็นจริงได้เลยนะ?
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: Excitement or questions over matters related to the Golden Boughs have little meaning.
+        เฟาสท์: ไม่ว่าจะเพราะคำถามหรือความตื่นเต้นเกี่ยวกับกิ่งทอง ก็ไม่มีความหมายอะไรทั้งนั้น
         ```
         ```
         Faust: To you, and to Faust... All of us would be the very first witnesses to what is happening before our eyes.
+        เฟาสท์: ไม่ว่าจะกับเธอ และกับเฟาสท์... พวกเราทั้งคู่อาจกำลังได้เป็นสักขีพยาน ของอะไรบางอย่างที่เกิดขึ้น ต่อหน้าต่อตาพวกเรา
         ```
         ```
         Faust: It would be statistically sound to assume that we will continue to witness previously unseen events in the future.
+        เฟาสท์: จนอาจพูดได้ว่า ในทางสถิติแล้ว พวกเราจะต้องเฝ้ามองเหตุการณ์ที่เคยเกิด แต่ไม่เคยพบเห็นแบบนี้ต่อไปเรื่อย ๆ ในอนาคต
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: I suppose you're right... I mean, look at that...
+        อิชมาเอล: ฉันเดาว่าเธอน่าจะพูดถูก... ก็แบบ ดูเจ้านั้นสิ... 
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Unable to properly articulate her words any further, Ishmael pointed a finger instead.
+            ไม่มีคำไหนจะมาพรรณาสิ่งที่เธอเห็น ได้มากกว่าที่พูดแล้ว ก่อนที่อิชมาเอลจะชี้ไปยังเจ้าสิ่งนั่นและปิดปาก
             ```
 
         ---
 
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ishmael: Even the dead... are coming back...
+        อิชมาเอล: กระทั่งพวกคนตาย... ก็กลับมา...
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Bodies that have been devoid of life for a while begin to rise.
+            ศพที่ไร้วี่แววของชีวิตได้พักใหญ่ กลับลุกขึ้นมา
             ```
             ```
             Their organs or body parts were severely damaged; this could only be described as 'resurrection'.
+            ทั้ง ๆ ที่ก่อนหน้านี้ อวัยวะของพวกเขา หรือชิ้นส่วนร่างกาย ก็ยังเสียหายสาหัสอยู่เลยแท้ ๆ; นี้ คงเรียกได้อย่างเดียว ว่า 'การชุบชีวิต'
             ```
 
         ---
 
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Gregor: Huh, I've seen some stuff, but bringing people back from the dead... sounds too implausible. Even K Corp's HP ampules couldn't do this much, right?
+        เกรกอร์: หือ *ถอนหายใจ* ฉันเองก็เคยเห็นอะไรมามากอยู่ แต่การชุบคนตายกลับมา... ฟังดูเป็นอะไรที่เหลือเชื่อสุด ๆ แม้กระทั่ง ยาฟื้นฟูของเคคอร์ปก็ทำไม่ได้ขนาดนี้เลยใช่ไหม?
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: It's unlikely that there was absolutely no technology or Singularity capable of complete revival at some point.
+        เอาทิส: มันก็ไม่ใช่ว่าจะไม่มีเทคโนโลยี หรือซิงกูลาริตี้ ที่สามารถชุบชีวิตคนตายได้หรอกนะ
         ```
         ```
         Outis: However, if such technology did exist... I, for one, haven't heard of it once even during war.
+        เอาทิส: แต่ถึงอย่างนั้น ถ้าเทคโนโลยีแบบนั่นมีอยู่จริง... งั้น ก็มีฉันคนหนึ่งเนี้ยแหละ ที่ไม่เคยได้ยินมันมาก่อนกระทั่งในช่วงสงคราม
         ```
         ```
         Outis: That can only mean... it's not a kind of technology allowed to prosper in the City. ...If I had to guess, the Head might...
+        เอาทิส: ฉนั้นนี้คงหมายความได้อย่างเดียว... ว่ามัน ไม่ใช่เทคโนโลยีที่ควรมีอยู่ ในเดอะซิตี้... ถ้าฉันต้องเดาล่ะก็ บางทีเดอะเฮด ก็อาจจะมี(เอี่ยวด้วยก็ได้)... 
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: Indeed. It may well be an act of taboo as established by the Head.
+        เฟาสท์: ถูกต้องค่ะ บางทีนี้ อาจเป็นข้อห้าม ที่ถูกสร้างขึ้นจากน้ำมือของเดอะเฮด 
         ```
         ```
         Faust: It's completely different from Limbus Company's case, where we can experience revival by synchronizing with Dante.
+        เฟาสท์: มันแตกต่างอย่างสมบูรณ์ กับกรณีของลิมบัส ที่พวกเรา ถูกชุบชีวิตกลับมา ด้วยการประสานเข้ากับดันเต้
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: It's different, and wrong.
+        เมอร์โซลท์: มันต่างกันและผิดปกติ
         ```
         ```
         Meursault: Theirs is not a complete restoration, unlike our case. They're merely...
+        เมอร์โซลท์: แบบพวกเขา ไม่ใช่การฟื้นฟูกลับมาโดยสมบูรณ์ เหมือนพวกเรา แทนที่จะเป็นแบบนั้น มันเหมือนกับ ว่าพวกเขา...
         ```
         ```
         Meursault: Animated. That is all. They appear to lack consciousness and reason.
+        เมอร์โซลท์: ก็แค่กำลังขยับไปมา เพียงเท่านั้น โดยที่พวกเขาดูไร้วี่แววของสติ และเหตุผล
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Seems that way... In other words, I guess it would only count as a taboo if both the mind and body are recovered.
+        เกรกอร์: ก็ดูเป็นแบบนั้นนะ... หรือพูดอีกอย่างก็คือ มันจะนับว่าเป็นข้อห้าม ก็ต่อเมื่อ ร่างกายและจิตใจ ถูกฟื้นขึ้นมาพร้อมกันใช่ไหม
         ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Faust: ……
+        Faust: ......
+        เฟาสท์: ......
         ```
+
+    ---
 ---
 
 ### เพิ่มเติม

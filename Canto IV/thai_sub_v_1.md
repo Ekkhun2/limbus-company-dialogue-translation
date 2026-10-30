@@ -12407,7 +12407,7 @@
 
         ---
 
-        **Location: Reconstructing K Corp. Laboratory | ห้องแลปเคคอร์ปที่กำลังก่อสร้าง**
+        **Location: Reconstructing K Corp. Laboratory | แลปเคคอร์ปที่กำลังก่อสร้าง**
 
         ---
 
@@ -12565,6 +12565,109 @@
         ```
 
     ---
+
+    * **Episode: 33 | ตอนที่ 33<br>Location: Reconstructing K Corp. Laboratory | แลปเคคอร์ปที่กำลังก่อสร้าง**
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            When I took a closer look at the revived foes after the battle, I could see a liquid of a familiar hue flowing from their eyes.
+            ในตอน ที่ฉันพยายามจะมองไปที่ดวงตาของศัตรูที่ตื่นขึ้น หลังจากการต่อสู้ ฉันก็เหมือนจะมองเห็นของเหลวบางอย่างที่ไหลออกมา จากดวงตาของพวกเขา
+            ```
+
+        ---
+
+        <img src="../images/Liberation1.png" alt="LiberationMember" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Revived? Liberation Member: Unh... Ahheahii...
+        สมาชิกพันธมิตรปลดเอกที่กลับมามีชีวิต?: เออ... อ้าเห้ออเออออ้า... 
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: Dante, do you feel the Golden Bough's presence nearby?
+        เฟาสท์: ดันเต้ นายรู้สึก ถึงกิ่งทอง ที่อยู่แถวนี้บ้างไหม?
+        ```
+        ```
+        Faust: Last time I saw, the Golden Bough was lodged into Dongbaek's body...
+        เฟาสท์: ครั้งสุดท้ายทีฉันเห็นมัน กิ่งทองก็ถูกแทงลงไปบนตัวของดงแบ็กแล้ว...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <I can't find her corpse anywhere... Must have been moved away when the space twisted.>
+        ดันเต้: <ฉันหาศพเธอไม่เจอเหมือนกัน... น่าจะถูกเคลื่อนย้ายไปที่อื่นในตอนที่พื้นที่ถูกบิดเบือน>
+        ```
+        ```
+        Dante: <But it can't be too far away, I'm sure of it. I can feel it...>
+        ดันเต้: <แต่คงอยู่ไม่ไกลจากที่นี้นักหรอก ฉันมั่นใจได้ ฉันรู้สึกถึงมัน...>
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Ah, I don't see Dongrang, either.
+        ซินแคร์: อา ผมไม่เห็นดงรัง เหมือนกันครับ
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: He's likely to be in the same location as the deceased Dongbaek.
+        เฟาสท์: เขาน่าจะอยู่ที่เดียวกัน กับดงแบ็กที่ตายไป ไม่ผิดแน่
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Until now... we've experienced the fathoms of ego at the same time. I guess it's thanks to Dante's particular... affinity, if that makes sense...?
+        ซินแคร์: 
+        ```
+
+        ---
+
+        ```
+        Heathcliff: The hell are you talking about. Affinity?
+        ```
+
+        ---
+
+        ```
+        Faust: Do you mean the chains binding us?
+        ```
+
+        ---
+
+        ```
+        Sinclair: Yeah... This is one of their influences, right?
+        ```
+        ```
+        Sinclair: Then, what will happen if someone like Dongrang gets to the fathoms?
+        ```
+
+        ---
+
+        ```
+        Don Quixote: Fret not, for we shall find out from now on!
+        ```
+        ```
+        Don Quixote: Let us vanquish the foes ahead for now!
+        ```
 ---
 
 ### เพิ่มเติม

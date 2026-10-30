@@ -12383,7 +12383,7 @@
 
         ---
 
-        <img src="../images/Gubo.png" alt="Gubo" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -12393,6 +12393,126 @@
             ```
 
     ---
+
+    * **Episode: 32 | ตอนที่ 32**
+
+        * เสียงในหัว
+
+            ```
+            Ah, and so...
+            ```
+
+        ---
+
+        **Location: Reconstructing K Corp. Laboratory**
+
+        ---
+        
+        * เสียงในหัว
+
+            ```
+            As the intense golden glow fades, the space begins to twist and morph.
+            ```
+
+        ---
+
+        ```
+        Ishmael: Did the Golden Bough have the power do to this? I don't think we've even entered the fathoms of ego yet... Was it capable of warping the real world?
+        ```
+
+        ---
+
+        ```
+        Faust: Excitement or questions over matters related to the Golden Boughs have little meaning.
+        ```
+        ```
+        Faust: To you, and to Faust... All of us would be the very first witnesses to what is happening before our eyes.
+        ```
+        ```
+        Faust: It would be statistically sound to assume that we will continue to witness previously unseen events in the future.
+        ```
+
+        ---
+
+        ```
+        Ishmael: I suppose you're right... I mean, look at that...
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Unable to properly articulate her words any further, Ishmael pointed a finger instead.
+            ```
+
+        ---
+
+        ```
+        Ishmael: Even the dead... are coming back...
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Bodies that have been devoid of life for a while begin to rise.
+            ```
+            ```
+            Their organs or body parts were severely damaged; this could only be described as 'resurrection'.
+            ```
+
+        ---
+
+        ```
+        Gregor: Huh, I've seen some stuff, but bringing people back from the dead... sounds too implausible. Even K Corp's HP ampules couldn't do this much, right?
+        ```
+
+        ---
+
+        ```
+        Outis: It's unlikely that there was absolutely no technology or Singularity capable of complete revival at some point.
+        ```
+        ```
+        Outis: However, if such technology did exist... I, for one, haven't heard of it once even during war.
+        ```
+        ```
+        Outis: That can only mean... it's not a kind of technology allowed to prosper in the City. ...If I had to guess, the Head might...
+        ```
+
+        ---
+
+        ```
+        Faust: Indeed. It may well be an act of taboo as established by the Head.
+        ```
+        ```
+        Faust: It's completely different from Limbus Company's case, where we can experience revival by synchronizing with Dante.
+        ```
+
+        ---
+
+        ```
+        Meursault: It's different, and wrong.
+        ```
+        ```
+        Meursault: Theirs is not a complete restoration, unlike our case. They're merely...
+        ```
+        ```
+        Meursault: Animated. That is all. They appear to lack consciousness and reason.
+        ```
+
+        ---
+
+        ```
+        Gregor: Seems that way... In other words, I guess it would only count as a taboo if both the mind and body are recovered.
+        ```
+
+        ---
+
+        ```
+        Faust: ……
+        ```
 ---
 
 ### เพิ่มเติม

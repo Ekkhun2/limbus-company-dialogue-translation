@@ -12680,6 +12680,583 @@
         ```
 
     ---
+
+    * **Episode: 34 | ตอนที่ 34<br>Location: Reconstructing K Corp. Laboratory | แลปเคคอร์ปที่กำลังก่อสร้าง**
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            As we approached the center of the Golden Bough's resonance, I noticed scattering piles of yellow.
+            ทันทีที่พวกเรา กำลังเดินเข้าไปใกล้ใจกลางของการสอดประสาน ฉันก็มองเห็นกองสีเหลืองที่กระจัดกระจาย
+            ```
+            ```
+            With the twisting space, petals were wavering.
+            พร้อมกันกับพื้นที่ที่บิดเบี้ยว และกลีบดอกไม้ที่ปลิวไสว
+            ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: So the fathoms of Yi Sang's ego are over there...
+        ซินแคร์: งั้นนั่น ก็คือหุบเหวอีโก้ของยี่ซัง...
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <Come on, let's get in.>
+        ดันเต้: <เอาล่ะ ไปกันได้แล้ว>
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: ......
+        ยี่ซํง: ......
+        ```
+
+        ---
+
+        **Location: ??? | ที่ไหนสักแห่ง**
+
+        ---
+
+        <img src="../images/None_Extra.png" alt="Dongrang?" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        ???: Wow, I sure didn't expect I'd be back here. Is this thanks to the Golden Bough? Or is it you, Yi Sang?
+        บุคคลปริศนา: ว้าว ฉันไม่คิดไม่ฝันมาก่อนเลยว่าจะได้กลับมาที่นี้ ทั้งหมด เป็นเพราะเจ้ากิ่งทองนี้ใช่ไหม? หรือเพราะนายล่ะ ยี่ซัง?
+        
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+
+        * เสียงในหัว
+
+            ```
+            When we got there, Dongrang greeted us merrily.
+            ในตอนที่เรา ก้าวไปถึงที่นั่น ดงรัง ก็ออกต้อนรับพวกเราด้วยท่าทีที่สนุกสนาน
+            ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: How cozy... What place was this, Yi Sang?
+        โรเดียน: รู้สึกสบายอะไรอย่างงี้เนี้ย... ที่นี้คือที่ไหนหรอ ยี่ซํง?
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: The only place where I may breathe... That's what this was.
+        ยี่ซัง: สถานที่เพียงแห่งเดียวที่ฉันหายใจได้... นั้นคือสิ่งที่มันเคยเป็น
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <...There are stacks of paper on the desk.>
+        ดันเต้: <...มีกระดาษเป็นปึก ๆ บนโต๊ะนี้ด้วย>
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: Aha... Yes, you see, usually...
+        โรเดียน: อ้า... อืม นายรู้ไหม...
+        ```
+        ```
+        Rodion: These are placed for visitors like us to read.
+        โรเดียน: ว่ากระดาษพวกนั้นน่ะ ก็มีไว้ให้สำหรับแขกอย่างพวกเราอ่านนะ
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: ......
+        ยี่ซํง: ......
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Yi Sang quietly picks up a stack. I couldn't begin to imagine what thoughts his face may have suggested as he silently read the letters on them.
+            ยี่ซังแอบหยิบมากองหนึ่ง <*ถึงนี้>
+            ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: A letter, I had written once... And its structure... follows that of a play's script.
+        ยี่ซัง: 
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: It's then reasonable to assume that each actor in the play was provided with one.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: If so... This may well have been a stage awaiting our arrival, rather than a simple emptiness.
+        ```
+
+        ---
+
+        ```
+        Dongrang: From the looks of it... We'll have to read out this script, right?
+        ```
+        ```
+        Dongrang: Maybe Dongbaek might just come, Yi Sang.
+        ```
+        ```
+        Dongrang: If Dongbaek got to this... space before she died... Haha, I'm not sure what I should call this.
+        ```
+        ```
+        Dongrang: Anyway, if the entrance opened while she was alive... Her consciousness might have been wrapped up in this, as ours were.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ...For what reason did you stab Dongbaek?
+        ```
+
+        ---
+
+        ```
+        Dongrang: She hesitated a little too much... What, did you want this kind of eulogy from me?
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ...The reason, I'll hear it.
+        ```
+
+        ---
+
+        ```
+        Dongrang: No, it's really... You knew as well, Yi Sang. In that state, Dongbaek's death was imminent... Her life would've painfully scattered away if I let her be.
+        ```
+        ```
+        Dongrang: That's why you can't lash out at me, despite the anger boiling inside you. It wouldn't have made much of a difference.
+        ```
+
+        ---
+
+        ```
+        Faust: This time, the fathoms of ego... might present themselves differently from the previous ones.
+        ```
+        ```
+        Faust: The fathoms of ego are places or images of someone's mind made manifest.
+        ```
+        ```
+        Faust: It releases a powerful and complex energy... It might draw in people other than the Sinners, like those deeply related to Yi Sang in this case.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: ...That so? To put it bluntly... It dragged in a bunch of clowns to act on stage, is that right?
+        ```
+
+        ---
+
+        ```
+        Faust: Although this is merely a guess... Yes, I suppose that's about right. We'll have to do our best with our given roles.
+        ```
+
+        ---
+
+        ```
+        Ryoshu: ...And if we don't?
+        ```
+
+        ---
+
+        ```
+        Faust: The image displayed by the fathoms of ego will go awry... ultimately preventing our access to the Golden Bough. We must reenact the original's—in other words, Yi Sang's—actual memories as closely as possible.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Alright, I got that clear enough. So...
+        ```
+        ```
+        Heathcliff: What the-?! I almost jumped out of my skin!
+        ```
+
+        ---
+
+        ```
+        Yi Sang: I had people who accompanied me, either by caprice, coincidence... or fate.
+        ```
+
+        ---
+
+        ```
+        Dongrang: What a fascinating line.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: ...Why did you stand in front of the door like a dork?
+        ```
+
+        ---
+
+        ```
+        Heathcliff: ...What did you call me? Wait... Aren't you the one that just...
+        ```
+
+        ---
+
+        ```
+        Dongbaek: What are you staring at my face for, like you were looking at a dead person? Why, do I look cool?
+        ```
+
+        ---
+
+        ```
+        Sinclair: S-She's right, Gap-ryong, don't act like such a country bumpkin. Do you want your mannerisms to match your name?
+        ```
+
+        ---
+
+        ```
+        Heathcliff: ...? The hell are you saying now... What is it?
+        ```
+
+        ---
+
+        ```
+        Sinclair: (Eep, I'm just reading from the script, Mr. Heathcliff. The script...! That's just what mine says.)
+        ```
+
+        ---
+
+        ```
+        Dongbaek: What are you whispering like that?
+        ```
+
+        ---
+
+        ```
+        Dongrang: You know, Dongbaek. Gap-ryong was thinking back to how we all managed to gather here at T Corp.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: That really bugs me... Oi, don't call me by that name.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Good acting. The real Gap-ryong always used to ask us not to call him by his name, too.
+        ```
+
+        ---
+
+        ```
+        Outis: ……
+        ```
+
+        ---
+
+        ```
+        Yi Sang: It is now your turn to speak, Sang-heo.
+        ```
+
+        ---
+
+        ```
+        Outis: Ahem.
+        ```
+        ```
+        Outis: Ah... So...
+        ```
+        ```
+        Outis: As one might know, our hometown, S Corp's district, was going through a turbulent time, many things breaking and changing.
+        ```
+        ```
+        Outis: Because of daydreaming higher-ups who tell sweet-sounding words with no substance and corrupt officials squeezing the people, the public's lives and economy teetered and twisted more and more each day...
+        ```
+        ```
+        Outis: With no guarantees of arrangements between Wings or positions to apply for, researchers like us who pursued the studies of knowledge struggle to find even a simple bolt to help ourselves.
+        ```
+        ```
+        Outis: That was when Brother Young-ji brought us together.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Ah... I was the one who called Yi Sang and Dongbaek. We grew up in the same town.
+        ```
+
+        ---
+
+        ```
+        Outis: ...Right, Brother Young-ji and Dongrang brought us together.
+        ```
+
+        ---
+
+        ```
+        Hong Lu: There, I suggested:
+        ```
+        ```
+        Hong Lu: The Wing called T Corp. is seeing remarkable technological growth nowadays, generously backing inventions of machines and technology.
+        ```
+        ```
+        Hong Lu: So it should be no problem at all to get any part we need; there, all the people invent for a living.
+        ```
+        ```
+        Hong Lu: So, the like-minded ones defected to the district empty-handed, risking everything.
+        ```
+
+        ---
+
+        ```
+        Meursault: As everyone wished... We were free to continue our research here.
+        ```
+        ```
+        Meursault: Even though we had to yield the colors in them, making it so they didn't outwardly shine.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            As Meursault, or the League of Nine Littérateurs member he played, pointed out... I couldn't see any color in this place.
+            ```
+            ```
+            Even the flower just outside the window was devoid of color, waving like a turbid blur.
+            ```
+
+        ---
+
+        ```
+        Faust: In T Corp's district, having colors is a kind of privilege.
+        ```
+
+        ---
+
+        ```
+        Sinclair: They take away colors?
+        ```
+
+        ---
+
+        ```
+        Ishmael: Colors establish identity. There are few better ways to rob one of uniqueness than this. Isn't that right?
+        ```
+
+        ---
+
+        ```
+        Faust: For sure.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: ...And colors are some of the few little things the poor could normally have.
+        ```
+
+        ---
+
+        ```
+        Sinclair: ……
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Hey, Aneung, are you gonna keep chatting away?
+        ```
+        ```
+        Dongbaek: The conference is today. Watch, I've made a vibrant amusement.
+        ```
+        ```
+        Dongbaek: Look. It blows up better than before, doesn't it?
+        ```
+
+        ---
+
+        ```
+        Ishmael: I have to wonder what is up with your obsession with explosives... I mean, fireworks, Dongbaek...
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Here, you can't see stars in the night sky thanks to blinding lights and smokestacks filling the air. The stars were so pretty in my hometown, it was fun watching them together.
+        ```
+        ```
+        Dongbaek: What's more, there's no color here. Where we were, we could at least see the colors of flowers.
+        ```
+        ```
+        Dongbaek: So... I wanted to bring it back in some way.
+        ```
+        ```
+        Dongbaek: Look. Even if it's all black and white, you can still see it, right?
+        ```
+        ```
+        Dongbaek: Fire makes such a warm color.
+        ```
+
+        ---
+
+        ```
+        Dongrang: I'm a bit embarrassed. I don't have anything to show off for now.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Is that really something to admit so merrily?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Haha, treating injured animals on the streets took much of my time.
+        ```
+        ```
+        Dongrang: I couldn't leave them be. They reminded me of the yellow calf I left behind in my hometown.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: It used to like you so much. I don't get what it saw in you.
+        ```
+
+        ---
+
+        ```
+        Dongrang: It was abandoned by its mother. Seeking warmth to lean on is an instinct all living beings have.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Well, by now, I guess it... has offspring?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Hm, probably not. That calf was male.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: ……
+        ```
+
+        ---
+
+        ```
+        Revived? Liberation Alliance MemberRevived? Liberation: Agh... Urrgiahh...
+        ```
+
+        ---
+
+        ```
+        Dante: <…!>
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Oh, bother... Here we go again.
+        ```
+        ```
+        Dongbaek: Gap-ryong, looks like the bar owner is here to take the tab you owe again. Why don't you go outside and greet them?
+        ```
+
+        ---
+
+        ```
+        Heathcliff: What the, those crooks... How'd they get here?
+        ```
+
+        ---
+
+        ```
+        Faust: The strong resonance of the Golden Bough with Yi Sang is affecting the entire laboratory building.
+        ```
+        ```
+        Faust: They were caught up it in as well, but they have no ties to Yi Sang.
+        ```
+        ```
+        Faust: Since they weren't given any roles in the play... they'll instead try to ruin the stage. It'll only get worse as the fathoms grow unstable.
+        ```
+
+        ---
+
+        ```
+        Ishmael: In other words, we have to be quick with moving the play's plot along.
+        ```
+        ```
+        Ishmael: The more time we spend fooling around like a certain complete oaf instead of reading what the script says, the more enemies will attack us.
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            Ishmael began to lightly limber up, cracking her joints.
+            ```
+
+        ---
+
+        ```
+        Ishmael: So let's focus on the foes on deck for now.
+        ```
+
+    ---
 ---
 
 ### เพิ่มเติม

@@ -12428,7 +12428,7 @@
 
         ```
         Ishmael: Did the Golden Bough have the power do to this? I don't think we've even entered the fathoms of ego yet... Was it capable of warping the real world?
-        อิชมาเอล: กิ่งทองมีพลังที่จะทำอะไรแบบนี้ด้วยหรอ? เท่าที่ฉันจำได้ พวกเราน่าจะยังไม่ได้เข้าปากเหวแห่งอีโก้เลยด้วยซ้ำ... แต่นี้ มันมีพลังถึงขั้นบิดเบี้ยวความเป็นจริงได้เลยนะ?
+        อิชมาเอล: กิ่งทองมีพลังที่จะทำอะไรแบบนี้ด้วยหรอ? เท่าที่ฉันจำได้ พวกเราน่าจะยังเข้าไม่ถึงปากเหวแห่งอีโก้เลยด้วยซ้ำ... แต่นี้ มันมีพลังถึงขั้นบิดเบี้ยวความเป็นจริงได้เลยนะ?
         ```
 
         ---
@@ -12638,7 +12638,7 @@
 
         ```
         Sinclair: Until now... we've experienced the fathoms of ego at the same time. I guess it's thanks to Dante's particular... affinity, if that makes sense...?
-        ซินแคร์: จนถึงตอนนี้... สาเหตุที่พวกเราสัมผัสถึงหุบเหวแห่งอีโก้ได้พร้อมกัน คงเป็นเพราะ... สายสัมพันธ์ที่แปลกประหลาด ระหว่างดันเต้ กับพวกเราใช่ไหมครับ ถ้ามันเหมือนที่ผมคิด...?  
+        ซินแคร์: จนถึงตอนนี้... สาเหตุที่พวกเราสัมผัสถึงห้วงลึกแห่งอีโก้ได้พร้อมกัน คงเป็นเพราะ... สายสัมพันธ์ที่แปลกประหลาด ระหว่างดันเต้ กับพวกเราใช่ไหมครับ ถ้ามันเหมือนที่ผมคิด...?  
         ```
 
         ---
@@ -12669,7 +12669,7 @@
         ```
         ```
         Sinclair: Then, what will happen if someone like Dongrang gets to the fathoms?
-        ซินแคร์: ถ้างั้นจะเกิดอะไรขึ้น ถ้าคนอย่างคุณดงรังเข้าไปในหุบเหวได้สำเร็จ?
+        ซินแคร์: ถ้างั้นจะเกิดอะไรขึ้น ถ้าคนอย่างคุณดงรังเข้าไปในห้วงลึกได้สำเร็จ?
         ```
 
         ---
@@ -12708,7 +12708,7 @@
 
         ```
         Sinclair: So the fathoms of Yi Sang's ego are over there...
-        ซินแคร์: งั้นนั่น ก็คือหุบเหวอีโก้ของยี่ซัง...
+        ซินแคร์: งั้นนั่น ก็คือห้วงลึกอีโก้ของยี่ซัง...
         ```
 
         ---
@@ -12821,7 +12821,7 @@
 
         ```
         Yi Sang: A letter, I had written once... And its structure... follows that of a play's script.
-        ยี่ซัง: จดหมาย ที่ฉันเคยเขียนเอาไว้... พร้อมกับโครงสร้างของมัน... ที่อิง ตามบทละคร
+        ยี่ซัง: จดหมาย ที่ฉันเคยเขียนเอาไว้... แล้วก็โครงสร้างของมัน... ที่อิง ตามสคริปในบทละคร
         ```
 
         ---
@@ -12909,11 +12909,11 @@
 
         ```
         Faust: This time, the fathoms of ego... might present themselves differently from the previous ones.
-        เฟาสท์: ดูเหมือนว่าครั้งนี้ หุบเหวแห่งอีโก้... จะแสดงตนเอง แตกต่างออกไป จากครั้งที่แล้วนะ
+        เฟาสท์: ดูเหมือนว่าครั้งนี้ ห้วงลึกแห่งอีโก้... จะแสดงตนเอง แตกต่างออกไป จากครั้งที่แล้วนะ
         ```
         ```
         Faust: The fathoms of ego are places or images of someone's mind made manifest.
-        เฟาสท์: หุบเหวแห่งอีโก้ เปรียบเสมือนสถานที่หรือภาพจำ ของจิตใจใครบางคนที่ถูกตีแผ่ให้เป็นรูปเป็นร่าง  
+        เฟาสท์: ห้วงลึกแห่งอีโก้ เปรียบเสมือนสถานที่หรือภาพจำ ของจิตใจใครบางคนที่ถูกตีแผ่ให้เป็นรูปเป็นร่าง  
         ```
         ```
         Faust: It releases a powerful and complex energy... It might draw in people other than the Sinners, like those deeply related to Yi Sang in this case.
@@ -12935,133 +12935,193 @@
 
         ```
         Faust: Although this is merely a guess... Yes, I suppose that's about right. We'll have to do our best with our given roles.
-        เฟาสท์: 
+        เฟาสท์: ถึงแม้ว่านี้จะเป็นเพียงการคาดเดา... แต่ใช่ ฉันคิดว่าที่นี้มันน่าจะเป็นแบบนั้น และพวกเรา ต้องพยายามให้ดีที่สุดในบทบาทที่ได้รับ
         ```
 
         ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ryoshu: ...And if we don't?
+        เรียวชู: ...แล้วถ้าไม่ล่ะ?
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: The image displayed by the fathoms of ego will go awry... ultimately preventing our access to the Golden Bough. We must reenact the original's—in other words, Yi Sang's—actual memories as closely as possible.
+        เฟาสท์: ถ้าไม่ ภาพสะท้อนแห่งอีโก้จะเลือนหายไป... และทำให้พวกเรา ไร้ซึ่งหนทางที่จะเข้าใกล้กิ่งทองนี้ได้อีก พวกเราต้องทำซ้ำสถานการณ์ต้นฉบับที่เกิดขึ้น—หรือพูดอีกอย่างก็คือ จำลองความทรงจำของยี่ซังให้ใกล้เคียงมากที่สุดเท่าที่จะเป็นไปได้
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Alright, I got that clear enough. So...
+        ฮิธคลิฟฟ์: อา ฉันว่าฉันเข้าใจเกินพอแล้ว เพราะงั้น...
         ```
         ```
         Heathcliff: What the-?! I almost jumped out of my skin!
+        ฮิธคลิฟฟ์: เหอะ! *ตกใจ* อะไรวะ-?! ฉันเกือบจะตกใจจนออกมาจากหนังตัวเองเลยนะรู้ไหม! 
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: I had people who accompanied me, either by caprice, coincidence... or fate.
+        ยี่ซัง: ฉันมีคนรอบตัวที่อยู่เคียงข้างฉัน ไม่ว่าจะเพราะความสามารถ ความบังเอิญ... หรือโชคชะตา
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: What a fascinating line.
+        ดงรัง: เป็นคำพูดที่สุดยอดอะไรอย่างนี้
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: ...Why did you stand in front of the door like a dork?
+        ดงแบ็ก: ...ทำไมนาย ถึงยืนอยู่หน้าประตูเหมือนไอบื้อแบบนั้นล่ะ? 
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: ...What did you call me? Wait... Aren't you the one that just...
+        ฮิธคลิฟฟ์: ...เมื่อกี้แกคิดว่าตัวเองเรียกฉันว่ายังไงนะ? เดี๋ยว... ไม่ใช่ว่าแกเป็นยัยนั้น ที่พึ่ง(ซี้ม่องเท่งไปรึไง)... 
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: What are you staring at my face for, like you were looking at a dead person? Why, do I look cool?
+        ดงแบ็ก: นายจะมองหน้าฉันหาอะไร ทำหน้าทำตาอย่างกับว่าตัวเองเห็นคนตายอย่างงั้นแหละ? ทำไมล่ะ ฉันดูเท่รึไง?
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: S-She's right, Gap-ryong, don't act like such a country bumpkin. Do you want your mannerisms to match your name?
+        ซินแคร์: ธ-เธอพูดถูกนะครับ กัป-รยง ทำไมนาย ถึงทำตัวบ้านนอกอย่างงั้นล่ะ นี้นาย ไม่อยากให้กริยาท่าทางตัวเองเหมือนกับชื่อหรอ?
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: ...? The hell are you saying now... What is it?
+        ฮิธคลิฟฟ์: เหอะ *ไม่พอใจอย่างแรง* ...? เมื่อกี้แกพูดว่าอะไรนะ... พูดออกมาอีกทีสิ?
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: (Eep, I'm just reading from the script, Mr. Heathcliff. The script...! That's just what mine says.)
+        ซินแคร์: (อะ-เหอะเออะ *ตื่นตระหนก* ผมแค่พูดตามสคริปน่ะครับ คุณฮิธคลิฟฟ์ สคริปอันเนี้ย...! ผมแค่พูดตามที่มันเขียน)
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongback" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: What are you whispering like that?
+        ดงแบ็ก: ตรงนั้น กำลังกระซิบกระซาบอะไรกันอยู่หรอ?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: You know, Dongbaek. Gap-ryong was thinking back to how we all managed to gather here at T Corp.
+        ดงรัง: อย่างที่เธอรู้ ดงแบ็ก กัป-รยงน่ะ ก็คงกำลังนึกย้อนกลับไป ในตอนที่พวกเราทั้งหมดในรวมตัวกันที่ทีคอร์ป
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: That really bugs me... Oi, don't call me by that name.
+        ฮิธคลิฟฟ์: กัป-รยงบ้านป้าแกสิ... โอ่ย ลองเรียกฉันด้วยชื่อนั่นอีกทีหนึ่งสิ
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Good acting. The real Gap-ryong always used to ask us not to call him by his name, too.
+        ฮิธคลิฟฟ์: แสดงได้ดีมาก กัป-รยงตัวจริงเป็นคนที่เอาแต่บอกว่าไม่ให้เรียกเขาด้วยชื่อนั่นเหมือนกัน
         ```
 
         ---
 
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Outis: ……
+        Outis: ......
+        เอาทิส: ......
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: It is now your turn to speak, Sang-heo.
+        ยี่ซํง: ทีนี้ก็ถึงตาเธอพูดแล้ว ซัง-ฮอ
         ```
 
         ---
 
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Outis: Ahem.
+        เอาทิส: อแฮม
         ```
         ```
         Outis: Ah... So...
+        เอาทิส: อา... ก็...
         ```
         ```
         Outis: As one might know, our hometown, S Corp's district, was going through a turbulent time, many things breaking and changing.
+        เอาทิส: อย่างที่ทุกคนรู้ ว่าบ้านเกิดของเรา เขตเอสคอร์ป กำลังอยู่ในช่วงเวลาแห่งความโกลาหล ที่หลายอย่างพังลงและเปลี่ยนไป
         ```
         ```
         Outis: Because of daydreaming higher-ups who tell sweet-sounding words with no substance and corrupt officials squeezing the people, the public's lives and economy teetered and twisted more and more each day...
+        เอาทิส: อันเป็นน้ำมือของพวกชนชั้นสูง ที่ใช้คำพูดหว่านล้อม <*ถีงนี้>
         ```
         ```
         Outis: With no guarantees of arrangements between Wings or positions to apply for, researchers like us who pursued the studies of knowledge struggle to find even a simple bolt to help ourselves.
+        เอาทิส: 
         ```
         ```
         Outis: That was when Brother Young-ji brought us together.
+        เอาทิส: 
         ```
 
         ---

@@ -12411,10 +12411,6 @@
 
         ---
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
-        
-        * เสียงในหัว
-
             ```
             As the intense golden glow fades, the space begins to twist and morph.
             ในขณะที่แสงสีทองสว่างจ้าค่อย ๆ จางลง พืันที่ที่อยู่โดยรอบก็เริ่มที่จะบิดเบี้ยว และกลายสภาพ
@@ -12636,38 +12632,54 @@
 
         ```
         Sinclair: Until now... we've experienced the fathoms of ego at the same time. I guess it's thanks to Dante's particular... affinity, if that makes sense...?
-        ซินแคร์: 
+        ซินแคร์: จนถึงตอนนี้... สาเหตุที่พวกเราสัมผัสถึงหุบเหวแห่งอีโก้ได้พร้อมกัน คงเป็นเพราะ... สายสัมพันธ์ที่แปลกประหลาด ระหว่างดันเต้ กับพวกเราใช่ไหมครับ ถ้ามันเหมือนที่ผมคิด...?  
         ```
 
         ---
+        
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: The hell are you talking about. Affinity?
+        ฮิธคลิฟฟ์: พูดบ้าอะไรของแกอยู่ สายสัมพันธ์เนี้ยนะ?
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: Do you mean the chains binding us?
+        เฟาสท์: เธอหมายถึง โซ่ตรวน ที่ผูกพวกเราไว้ด้วยกันหรอ?
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: Yeah... This is one of their influences, right?
+        ซินแคร์: ใช่ครับ... นี้เป็นผลของมัน ใช่ไหม?
         ```
         ```
         Sinclair: Then, what will happen if someone like Dongrang gets to the fathoms?
+        ซินแคร์: ถ้างั้นจะเกิดอะไรขึ้น ถ้าคนอย่างคุณดงรังเข้าไปในหุบเหวได้สำเร็จ?
         ```
 
         ---
 
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Don Quixote: Fret not, for we shall find out from now on!
+        ดอน กิโฆเต้: หาได้กังวลไม่ พวกเราจักพบคำตอบในไม่ช้า!
         ```
         ```
         Don Quixote: Let us vanquish the foes ahead for now!
+        ดอน กิโฆเต้: หากแต่เรา ต้องจัดการศัตรูที่อยู่ตรงหน้าเสียก่อน!
         ```
+
+    ---
 ---
 
 ### เพิ่มเติม

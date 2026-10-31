@@ -12839,7 +12839,7 @@
 
         ```
         Yi Sang: If so... This may well have been a stage awaiting our arrival, rather than a simple emptiness.
-        ยี่ซัง: ถ้าเป็นแบบนั้น... นี้ ก็อาจเป็นเวทีที่กำลังรอคอยการมาถึงของเราอยู่ แทนที่จะเป็นความว่างเปล่าเฉย ๆ สินะ
+        ยี่ซัง: ถ้าเป็นแบบนั้น... นี้ ก็อาจเป็นเวทีที่กำลังรอคอยการมาถึงของเราอยู่ แทนที่จะเป็นความว่างเปล่าสินะ
         ```
 
         ---
@@ -12848,19 +12848,19 @@
 
         ```
         Dongrang: From the looks of it... We'll have to read out this script, right?
-        ดงรัง: 
+        ดงรัง: จากรูปการแล้ว... เราคงต้องอ่านบทนี้ใช่ไหม?
         ```
         ```
         Dongrang: Maybe Dongbaek might just come, Yi Sang.
-        ดงรัง: 
+        ดงรัง: บางทีดงแบ็ก อาจจะโผล่มาก็ได้นะ ยี่ซัง 
         ```
         ```
         Dongrang: If Dongbaek got to this... space before she died... Haha, I'm not sure what I should call this.
-        ดงรัง: 
+        ดงรัง: ถ้าดงแบ็กรอดออกมาได้... ยังพื้นที่นี้ก่อนที่เธอจะตาย... ฮาฮา ฉันชักจะไม่แน่ใจแล้วสิ ว่าต้องเรียกที่นี้ว่าอะไร
         ```
         ```
         Dongrang: Anyway, if the entrance opened while she was alive... Her consciousness might have been wrapped up in this, as ours were.
-        ดงรัง: 
+        ดงรัง: ไงก็เถอะ ถ้าทางเข้ายังเปิดอยู่ ในตอนที่เธอยังมีลมหายใจ... สติของเธอเอง ก็น่าจะถูกโอนย้ายเข้ามาในนี้ เหมือนกับเรา
         ```
 
         ---
@@ -12869,52 +12869,73 @@
 
         ```
         Yi Sang: ...For what reason did you stab Dongbaek?
-        ยี่ซัง: 
+        ยี่ซัง: ...เพราะอะไร ทำไมนายถึงแทงดงแบ็ก?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: She hesitated a little too much... What, did you want this kind of eulogy from me?
+        ดงรัง: ก็เพราะ เธอลังเลมากไปหน่อย... อะไรเล่า หรือว่านายต้องการ คำสรรเสริญให้ผู้วายชนม์จากฉันหรอ? 
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: ...The reason, I'll hear it.
+        ยี่ซัง: ...เหตุผล ฉันอยากได้ยินมัน
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: No, it's really... You knew as well, Yi Sang. In that state, Dongbaek's death was imminent... Her life would've painfully scattered away if I let her be.
+        ดงรัง: ก็ไม่นี้ ฉันพูดจริง ๆ นะ... นายเองก็น่าจะรู้อยู่แก่ใจไม่ใช่หรอ ยี่ซัง ว่าในสภาพแบบนั้น ยังไงความตายของดงแบ็กก็เป็นสิ่งที่ไม่อาจเลี่ยงได้... ชีวิตของเธอก็จะประสบกับความเจ็บปวดสาหัสแน่ ถ้าฉันปล่อยเธอไว้แบบนั้น
         ```
         ```
         Dongrang: That's why you can't lash out at me, despite the anger boiling inside you. It wouldn't have made much of a difference.
+        ดงรัง: เพราะงั้นนาย ก็ไม่มีสิทธิ์จะมาตวาดฉัน แม้ว่าข้างในนั่นจะร้อนระอุมากแค่ไหน แต่มันคงไม่ต่างกันนักหรอก
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: This time, the fathoms of ego... might present themselves differently from the previous ones.
+        เฟาสท์: ดูเหมือนว่าครั้งนี้ หุบเหวแห่งอีโก้... จะแสดงตนเอง แตกต่างออกไป จากครั้งที่แล้วนะ
         ```
         ```
         Faust: The fathoms of ego are places or images of someone's mind made manifest.
+        เฟาสท์: หุบเหวแห่งอีโก้ เปรียบเสมือนสถานที่หรือภาพจำ ของจิตใจใครบางคนที่ถูกตีแผ่ให้เป็นรูปเป็นร่าง  
         ```
         ```
         Faust: It releases a powerful and complex energy... It might draw in people other than the Sinners, like those deeply related to Yi Sang in this case.
+        เฟาสท์: มันปลดปล่อยพลังงานที่แข็งแกร่งและซับซ้อน... และอาจดึงดูดคนนอกเข้ามา โดยที่เจ้าตัวไม่จำเป็นจะต้องเป็นคนบาป เหมือนกับเหล่าผู้คน ที่มีความสัมพันธ์อันลึกซึ้งกับยี่ซัง ในกรณีนี้
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: ...That so? To put it bluntly... It dragged in a bunch of clowns to act on stage, is that right?
+        ฮิธคลิฟฟ์: ...งั้นเองสินะ? พูดง่าย ๆ ก็คือ... มันดึงดูดพวกแมลงเม่าให้เข้ามาบนเวที ใช่ไหม? <*ถึงนี้>
         ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: Although this is merely a guess... Yes, I suppose that's about right. We'll have to do our best with our given roles.
+        เฟาสท์: 
         ```
 
         ---

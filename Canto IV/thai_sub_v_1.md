@@ -12396,20 +12396,26 @@
 
     * **Episode: 32 | ตอนที่ 32**
 
-        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
-        * เสียงในหัว
-
-            ```
-            Ah, and so...
-            อา แล้วก็...
-            ```
+        ```
+        Ah, and so...
+        อา แล้วก็...
+        ```
+        ```
+        Am I still a 'nothing'?
+        นี้ฉัน ยัง 'ว่างเปล่า' อยู่อีกหรอ?
+        ```
 
         ---
 
         **Location: Reconstructing K Corp. Laboratory | แลปเคคอร์ปที่กำลังก่อสร้าง**
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
 
             ```
             As the intense golden glow fades, the space begins to twist and morph.
@@ -12786,7 +12792,7 @@
         ```
         ```
         Rodion: These are placed for visitors like us to read.
-        โรเดียน: ว่ากระดาษพวกนั้นน่ะ ก็มีไว้ให้สำหรับแขกอย่างพวกเราอ่านนะ
+        โรเดียน: ว่ากระดาษพวกนั้นน่ะ ก็มีไว้ให้สำหรับแขกอย่างพวกเราอ่านไง
         ```
 
         ---
@@ -12806,7 +12812,7 @@
 
             ```
             Yi Sang quietly picks up a stack. I couldn't begin to imagine what thoughts his face may have suggested as he silently read the letters on them.
-            ยี่ซังแอบหยิบมากองหนึ่ง <*ถึงนี้>
+            ยี่ซังแอบหยิบเอกสารมากองหนึ่ง ฉันเดาไม่ออกเลย ว่าเขา จะมีสีหน้ายังไง ในตอนที่ตัวเองได้เปิดอ่าน จดหมายพวกนั้น
             ```
 
         ---
@@ -12815,7 +12821,7 @@
 
         ```
         Yi Sang: A letter, I had written once... And its structure... follows that of a play's script.
-        ยี่ซัง: 
+        ยี่ซัง: จดหมาย ที่ฉันเคยเขียนเอาไว้... พร้อมกับโครงสร้างของมัน... ที่อิง ตามบทละคร
         ```
 
         ---
@@ -12824,33 +12830,46 @@
 
         ```
         Meursault: It's then reasonable to assume that each actor in the play was provided with one.
+        เมอร์โซลท์: ถ้างั้นมันก็สมเหตุสมผลที่จะคาดเดาว่า นักแสดงแต่ละคนที่ได้รับบท ก็จะได้สิ่งนั้นไปคนละส่วน
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: If so... This may well have been a stage awaiting our arrival, rather than a simple emptiness.
+        ยี่ซัง: ถ้าเป็นแบบนั้น... นี้ ก็อาจเป็นเวทีที่กำลังรอคอยการมาถึงของเราอยู่ แทนที่จะเป็นความว่างเปล่าเฉย ๆ สินะ
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: From the looks of it... We'll have to read out this script, right?
+        ดงรัง: 
         ```
         ```
         Dongrang: Maybe Dongbaek might just come, Yi Sang.
+        ดงรัง: 
         ```
         ```
         Dongrang: If Dongbaek got to this... space before she died... Haha, I'm not sure what I should call this.
+        ดงรัง: 
         ```
         ```
         Dongrang: Anyway, if the entrance opened while she was alive... Her consciousness might have been wrapped up in this, as ours were.
+        ดงรัง: 
         ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Yi Sang: ...For what reason did you stab Dongbaek?
+        ยี่ซัง: 
         ```
 
         ---

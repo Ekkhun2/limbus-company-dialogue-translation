@@ -13065,7 +13065,7 @@
 
         ```
         Heathcliff: That really bugs me... Oi, don't call me by that name.
-        ฮิธคลิฟฟ์: กัป-รยงบ้านป้าแกสิ... โอ่ย ลองเรียกฉันด้วยชื่อนั่นอีกทีหนึ่งสิ
+        ฮิธคลิฟฟ์: กัป-รยงบ้านป้าแกสิ... โอ่ย ถ้าแกยังเรียกฉันด้วยนั่นอีกทีหนึ่งล่ะก็
         ```
 
         ---
@@ -13074,7 +13074,7 @@
 
         ```
         Dongrang: Good acting. The real Gap-ryong always used to ask us not to call him by his name, too.
-        ฮิธคลิฟฟ์: แสดงได้ดีมาก กัป-รยงตัวจริงเป็นคนที่เอาแต่บอกว่าไม่ให้เรียกเขาด้วยชื่อนั่นเหมือนกัน
+        ฮิธคลิฟฟ์: แสดงได้ดีมาก กัป-รยงตัวจริงก็เอาแต่บอกเหมือนกันว่าไม่ให้เรียกเขาด้วยชื่อนั่น
         ```
 
         ---
@@ -13105,50 +13105,62 @@
         ```
         ```
         Outis: Ah... So...
-        เอาทิส: อา... ก็...
+        เอาทิส: อา... คือแบบนี้นะ...
         ```
         ```
         Outis: As one might know, our hometown, S Corp's district, was going through a turbulent time, many things breaking and changing.
-        เอาทิส: อย่างที่ทุกคนรู้ ว่าบ้านเกิดของเรา เขตเอสคอร์ป กำลังอยู่ในช่วงเวลาแห่งความโกลาหล ที่หลายอย่างพังลงและเปลี่ยนไป
+        เอาทิส: อย่างที่ทุกคนรู้กัน ว่าบ้านเกิดของเราเขตเอสคอร์ป กำลังตกอยู่ในช่วงเวลาแห่งความโกลาหล ที่หลายอย่างพังลงและเปลี่ยนไป
         ```
         ```
         Outis: Because of daydreaming higher-ups who tell sweet-sounding words with no substance and corrupt officials squeezing the people, the public's lives and economy teetered and twisted more and more each day...
-        เอาทิส: อันเป็นน้ำมือของพวกชนชั้นสูง ที่ใช้คำพูดหว่านล้อม <*ถีงนี้>
+        เอาทิส: อันเป็นน้ำมือของพวกชนชั้นสูง ที่ใช้คำลวงไร้แก่นสารหว่านล้อม และเจ้าหน้าที่ฉ้อแลที่เอารัดเอาเปรียบประชาชน จนชีวิตของผู้คน และเศรษฐกิจค่อย ๆ เสียสูญ และเสื่อมโทรมมากขึ้นในแต่ละวัน...
         ```
         ```
         Outis: With no guarantees of arrangements between Wings or positions to apply for, researchers like us who pursued the studies of knowledge struggle to find even a simple bolt to help ourselves.
-        เอาทิส: 
+        เอาทิส: โดยไร้ซึ่งการรับปาก ว่าจะมีการจัดแจงกันระหว่างวิงส์ หรือตำแหน่งที่สามารถเข้าทำได้ ช่างน่าเป็นเรื่องตลกร้าย ที่นักวิจัยอย่างพวกเรา ที่เอาแต่หวนขวายหาความรู้ กลับจู่ ๆ ต้องมาดิ้นรนกับการแก้ไขปัญหายิบย่อยด้วยตัวเอง
         ```
         ```
         Outis: That was when Brother Young-ji brought us together.
-        เอาทิส: 
+        เอาทิส: และนั้น ก็เป็นตอนที่พี่ยังจี พาเรามาด้วยกัน
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Ah... I was the one who called Yi Sang and Dongbaek. We grew up in the same town.
+        ดงรัง: อ้า... ในตอนนั้น ฉันเป็นคน ที่เรียกยี่ซังกับดงแบ็กมาด้วยตัวเอง เพราะว่าพวกเราเกิดในเมืองเดียวกัน
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: ...Right, Brother Young-ji and Dongrang brought us together.
+        เอาทิส: ...งั้นสินะ แปลว่าพี่ยังจีกับดงรัง ก็เป็นคนพาเรามาด้วยกัน <*ถีงนี้>
         ```
 
         ---
 
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Hong Lu: There, I suggested:
+        ฮงหลู่: 
         ```
         ```
         Hong Lu: The Wing called T Corp. is seeing remarkable technological growth nowadays, generously backing inventions of machines and technology.
+        ฮงหลู่: 
         ```
         ```
         Hong Lu: So it should be no problem at all to get any part we need; there, all the people invent for a living.
+        ฮงหลู่: 
         ```
         ```
         Hong Lu: So, the like-minded ones defected to the district empty-handed, risking everything.
+        ฮงหลู่: 
         ```
 
         ---

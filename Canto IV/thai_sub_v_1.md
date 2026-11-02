@@ -12398,14 +12398,16 @@
 
         <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
-        ```
-        Ah, and so...
-        อา แล้วก็...
-        ```
-        ```
-        Am I still a 'nothing'?
-        นี้ฉัน ยัง 'ว่างเปล่า' อยู่อีกหรอ?
-        ```
+        * เสียงในหัว
+
+            ```
+            Ah, and so...
+            อา แล้วก็...
+            ```
+            ```
+            Am I still a 'nothing'?
+            นี้ฉัน ยัง 'ว่างเปล่า' อยู่อีกหรอ?
+            ```
 
         ---
 
@@ -13461,6 +13463,111 @@
         ```
         Ishmael: So let's focus on the foes on deck for now.
         อิชมาเอล: งั้นเรามาโฟกัส กับศัตรู ที่แอบขึ้นเรือพวกนี้ดีไหม
+        ```
+
+    ---
+
+    * **Episode: 35 | ตอนที่ 35<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนลีกออฟไนน์ที่รุ่งเรือง**
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Yi Sang: I hope you have been well since we conversed last.
+            ยี่ซัง: ฉันหวังว่าเธอจะยังสบายดีอยู่ หลังจากครั้งล่าสุดที่พวกเราคุยกัน
+            ```
+            ```
+            Yi Sang: I see flowers bloom outside, and the birds chirp every now and then.
+            ยี่ซัง: ฉันเห็นดอกไม้บานอยู่ข้างนอก พร้อมกับเสียงจิ๊บของเหล่านกที่เจื้อยแจ้ว ไม่ว่าจะตอนนี้ หรือเมื่อก่อน
+            ```
+            ```
+            Yi Sang: Though the scents of flowers spread as they like, they create a rather sweet smell once mingled in one place.
+            ยี่ซัง: ถึงแม้ ว่ากลิ่นของดอกไม้จะฟุ่งกระจายออกไปทั่วทุกสารทิศ แต่พอมันมาอยู่รวมกันในที่เดียว ก็กลับสร้างกลิ่นหอมชวนเย้ายวนที่หวานหยด
+            ```
+            ```
+            Yi Sang: I wonder if you have taken in such a smell.
+            ยี่ซัง: ฉันสงสัยเหลือเกิน ว่าเธอ จะเคยได้กลิ่นแบบนั้นบ้างหรือเปล่า
+            ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: I was always worried about the gloom on Dongbaek's face...
+        ฮงหลู่: 
+        ```
+        ```
+        Hong Lu: But the things she presents at the illuminators' conferences are relieving to see; they carry a certain joy with them.
+        ฮงหลู่: 
+        ```
+        ```
+        Hong Lu: Can I take that as her way of indirectly expressing the smiles she couldn't make at us?
+        ฮงหลู่: 
+        ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Donbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: ...Well, take it however you want.
+        ดงแบ็ก: 
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Yi Sang.
+        ```
+        ```
+        Hong Lu: What are you thinking?
+        ```
+        ```
+        Hong Lu: I just can't figure out what your face might mean. It makes me curious to know what's in your mind.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Those who I have brushed past until now asked that same question.
+        ```
+        ```
+        Yi Sang: However, as I did not possess the eloquence to utter a concise answer in words and the matter itself was too wearisome and perplexing to clearly summarize...
+        ```
+        ```
+        Yi Sang: I would substitute my answer with a figurative blank sheet of paper.
+        ```
+        ```
+        Yi Sang: ...You know what that is:
+        ```
+        ```
+        Yi Sang: Nothing.
+        ```
+        ```
+        Yi Sang: In truth, it may not have been nothing, after all.
+        ```
+        ```
+        Yi Sang: I would feel a desire to scatter into the winds in lush blue, sensing the sway of seeds plunging into my scrawling mind.
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Well, how was my acting?
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ……
+        ```
+        ```
+        Yi Sang: Brother Young-ji was a man of kindness. He was not one to rashly harbor spite or reproach for others.
+        ```
+        ```
+        Yi Sang: You resemble him in that sense.
         ```
 
     ---

@@ -12584,7 +12584,7 @@
         <img src="../images/Liberation1.png" alt="LiberationMember" width="100" style="display: block; margin: 0 auto;">
 
         ```
-        Revived? Liberation Member: Unh... Ahheahii...
+        Revived? Liberation Alliance Member: Unh... Ahheahii...
         สมาชิกพันธมิตรปลดเอกที่กลับมามีชีวิต?: เออ... อ้าเห้ออเออออ้า... 
         ```
 
@@ -13139,7 +13139,7 @@
 
         ```
         Outis: ...Right, Brother Young-ji and Dongrang brought us together.
-        เอาทิส: ...งั้นสินะ แปลว่าพี่ยังจีกับดงรัง ก็เป็นคนพาเรามาด้วยกัน <*ถีงนี้>
+        เอาทิส: ...งั้นสินะ แปลว่าพี่ยังจีกับดงรัง ก็เป็นคนพาเรามาด้วยกัน
         ```
 
         ---
@@ -13148,224 +13148,319 @@
 
         ```
         Hong Lu: There, I suggested:
-        ฮงหลู่: 
+        ฮงหลู่: เพราะงั้นผมถึงได้บอกไง: 
         ```
         ```
         Hong Lu: The Wing called T Corp. is seeing remarkable technological growth nowadays, generously backing inventions of machines and technology.
-        ฮงหลู่: 
+        ฮงหลู่: ว่าวิงส์ที่ชื่อว่าทีคอร์ป เดี๋ยวนี้มีพัฒนาการ ทางด้านเทคโนโลยีที่ก้าวกระโดดเป็นอย่างมาก และเป็นคนที่อยู่เบื้องหลังนวัตกรรมเครื่องจักรสมัยใหม่ รวบถึงเทคโนโลยีนับไม่ถ้วน
         ```
         ```
         Hong Lu: So it should be no problem at all to get any part we need; there, all the people invent for a living.
-        ฮงหลู่: 
+        ฮงหลู่: เพราะงั้นมันก็ไม่น่าแปลกใจอะไร ที่เรา จะได้ชิ้นส่วนทั้งหมดที่ต้องการ; ยังไงซะ พวกคนที่อยู่ที่นั่น ก็ประดิษฐ์สิ่งของเป็นขีวิตจิตใจอยู่แล้ว
         ```
         ```
         Hong Lu: So, the like-minded ones defected to the district empty-handed, risking everything.
-        ฮงหลู่: 
+        ฮงหลู่: และพวกนั้นที่มีอุดมการณ์เดียวกัน ก็ตัดสินใจที่จะแปรพักตร์ไปซบเขตอื่น โดยที่ไม่ได้เอาอะไรไปด้วย ในขณะที่เดิมพันทุกสิ่งทุกอย่างที่มี
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: As everyone wished... We were free to continue our research here.
+        เมอร์โซลท์: อย่างที่ทุกคนต้องการ... พวกเราจะทำงานวิจัยของตัวเองที่นี้ต่อไปก็ได้
         ```
         ```
         Meursault: Even though we had to yield the colors in them, making it so they didn't outwardly shine.
+        เมอร์โซลท์: แม้ว่านั้นจะหมายถึง การที่พวกเราต้องลดทอนสีของพวกมัน ไม่ให้สะดุดตาอย่างที่เคยเป็น
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             As Meursault, or the League of Nine Littérateurs member he played, pointed out... I couldn't see any color in this place.
+            ทันทีที่เมอร์โซลท์ หรือหนึ่งในสมาชิกสมาพันธ์ที่เขารับบท พูดออกมาแบบนั้น... ฉัน ก็มองไม่เห็นสีสันในสถานที่นี้อีกต่อไป
             ```
             ```
             Even the flower just outside the window was devoid of color, waving like a turbid blur.
+            กระทั่งดอกไม้ที่อยู่นอกหน้าต่าง ในตอนนี้ ก็กลับซีดเซียวไร้สีสัน โบกสะบัดไปมาเหมือนความพร่าที่ขุ่นมัว
             ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: In T Corp's district, having colors is a kind of privilege.
+        เฟาทส์: ในเขตทีคอร์ป การมีสีสัน ก็ถือเป็นอภิสิทธิ์อย่างหนึ่ง
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: They take away colors?
+        ซินแคร์: พวกเขาช่วงชิงสีสันไปหรอครับ?
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Colors establish identity. There are few better ways to rob one of uniqueness than this. Isn't that right?
+        อิชมาเอล: สีเป็นสิ่งที่บอกตัวตน แต่ ไม่ใช่ว่ามันมีวิธีที่ดีกว่านี้ ในการขโมอัตลักษณ์หรือไง?
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
 
         ```
         Faust: For sure.
+        เฟาสท์: แน่นอนค่ะ
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: ...And colors are some of the few little things the poor could normally have.
+        ฮิธคลิฟฟ์: เห้อ *ถอนหายใจ*...และปกติสีสันเป็นอะไรที่น้อยมาก ที่พวกคนจนจะมีได้
         ```
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Sinclair: ……
+        Sinclair: ......
+        ซินแคร์ซ ......
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Hey, Aneung, are you gonna keep chatting away?
+        ดงแบ็ก: นี้ อานึง เธอจะคุยอีกนานไหมเนี้ย?
         ```
         ```
         Dongbaek: The conference is today. Watch, I've made a vibrant amusement.
+        ดแบ็ก: อีกเดี๋ยวก็จะประชุมแล้วนะ ดู ว่าฉันสร้างอะไรที่แสนสนุกออกมาด้วย  
         ```
         ```
         Dongbaek: Look. It blows up better than before, doesn't it?
+        ดงแบ็ก: ดูสิ ว่ามันระเบิดได้ดีขึ้นมากแค่ไหน สุดยอดใช่ม้า?
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: I have to wonder what is up with your obsession with explosives... I mean, fireworks, Dongbaek...
+        อิชมาเอล: ฉันอดสงสัยไม่ได้เลยจริง ๆ ว่าทำไมเธอถึงหมกมุ่นกับระเบิดได้ขนาดนั้น... ฉันหมายถึง พลุไฟนั่นน่ะ ดงแบ็ก...
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Here, you can't see stars in the night sky thanks to blinding lights and smokestacks filling the air. The stars were so pretty in my hometown, it was fun watching them together.
+        ดงแบ็ก: ก็ที่นี้ เธอไม่มีทางมองเห็นดวงดาวบนฟ้ายามค่ำคืนหรอกนะ เพราะเจ้าแสงสว่างจ้าชวนตาบอด แล้วก็ปล่องควันที่ปกคลุมไปทั่ว ดวงดาวน่ะ เป็นอะไรช่างสวยงามในเมืองของฉัน แล้วมันก็เป็นเรื่องสนุก ที่เราจะได้ดูมันไปด้วยกัน
         ```
         ```
         Dongbaek: What's more, there's no color here. Where we were, we could at least see the colors of flowers.
+        ดงแบ็ก: อีกอย่าง มันก็ไม่มีสีสันที่นี้ เหมือนกับที่ ๆ เราเคยอยู่ อย่างน้อย ๆ พวกเราก็ควรที่จะได้เห็นสีของดอกไม้บ้าง
         ```
         ```
         Dongbaek: So... I wanted to bring it back in some way.
+        ดงแบ็ก: เพราะงั้น... ฉันก็เลยอยากที่จะเอามันกลับมา ไม่ว่าจะด้วยวิธีใดก็ตาม
         ```
         ```
         Dongbaek: Look. Even if it's all black and white, you can still see it, right?
+        ดงแบ็ก: เห็นไหม ว่าถึงแม้มันจะมีแค่ขาวกับดำ แต่เธอก็สามารถมองเห็นมันได้?
         ```
         ```
         Dongbaek: Fire makes such a warm color.
+        ดงแบ็ก: ไฟน่ะ สร้างสีที่ดูอบอุ่นดีใช่ไหม
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: I'm a bit embarrassed. I don't have anything to show off for now.
+        ดงรัง: ฉันอายนิดหน่อยนะเนี้ย ที่ไม่ได้เตรียมอะไรมาโชว์กับเขาบ้างเลย
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Is that really something to admit so merrily?
+        ดงแบ็ก: นั่นเป็นเรื่องน่ายอมรับมากหรือไง?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Haha, treating injured animals on the streets took much of my time.
+        ดงแบ็ก: ฮาฮา การที่ต้องรักษาสัตว์ล้มป่วยบนถนนเนี้ย กินเวลาฉันมากโขเลยล่ะ
         ```
         ```
         Dongrang: I couldn't leave them be. They reminded me of the yellow calf I left behind in my hometown.
+        ดงแบ็ก: ฉันทำใจปล่อยพวกมันไว้อย่างนั้นไม่ได้ พอเห็นพวกมันทีไร ก็ทำเอานึกถึงลูกวัวสีเหลืองที่ฉันทิ้งเอาไว้ที่บ้านเกิด
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: It used to like you so much. I don't get what it saw in you.
+        ดงแบ็ก: อ้อ *งั้นสินะ* มันเคยติดนายมากเลยนี้ ฉันไม่เข้าใจเลยจริง ๆ ว่ามันเห็นอะไรในตัวนาย
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: It was abandoned by its mother. Seeking warmth to lean on is an instinct all living beings have.
+        ดงรัง: อืม *ถอนหายใจ* ก็ไม่มีอะไรมากหรอก แค่ว่าเมื่อก่อน มันเคยถูกทอดทิ้งจากแม่ของมัน และการโหยหาความอบอุ่นจากบางอย่างให้พึ่งพึง ก็ถือเป็นสัญชาตญาณที่สิ่งขีวิตทุกตัวต่างมี 
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Well, by now, I guess it... has offspring?
+        ดงแบ็ก: ถ้างั้นตอนนี้ ฉันเดาว่ามัน... ก็น่าจะมีลูกหลานแล้วใช่ไหม?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Hm, probably not. That calf was male.
+        ดงรัง: หืม คงไม่หรอก ก็วัวตัวนั้นเป็นเพศผู้น่ะ
         ```
 
         ---
 
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dongbaek: ……
+        Dongbaek: ......
+        ดงแบ็ก: ......
         ```
 
         ---
 
+        <img src="../images/Liberation1.png" alt="LiberationMember" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Revived? Liberation Alliance MemberRevived? Liberation: Agh... Urrgiahh...
+        Revived? Liberation Alliance Member: Agh... Urrgiahh...
+        สมาชิกพันธมิตรปลดเอกที่กลับมามีชีวิต?: อัก... อ้าากาอาา...
         ```
 
         ---
 
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dante: <…!>
+        Dante: <...!>
+        ดันเต้: <...!>
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Oh, bother... Here we go again.
+        ดงแบ็ก: อ้า น่ารำคาญอะไรแบบนี้... เจอกันอีกแล้วนะ
         ```
         ```
         Dongbaek: Gap-ryong, looks like the bar owner is here to take the tab you owe again. Why don't you go outside and greet them?
+        ดงแบ็ก: กัป-รยง ดูเหมือนว่าคุณเจ้าของบาร์จะมานี้ เพื่อมาเรียกยอดที่นายค้างไว้อีกแล้วนะ ทำไมนายถึงไม่ออกไปข้างนอก และต้อนรับพวกเขาดีล่ะ?
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: What the, those crooks... How'd they get here?
+        ฮิธคลิฟฟ์: ห่าอะไรวะเนี้ย ไอเจ้าพวกนั่น... มันมาที่นี้ได้ยังไง?
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: The strong resonance of the Golden Bough with Yi Sang is affecting the entire laboratory building.
+        เฟาสท์: การสอดประสานที่รุนแรงของกิ่งทองกับยี่ซัง กำลังส่งผลไปทั่วทั้งอาคารแลปแห่งนี้ 
         ```
         ```
         Faust: They were caught up it in as well, but they have no ties to Yi Sang.
+        เฟาสท์: ทำให้พวกเขาก็สามารถที่จะเข้ามาที่นี้ได้ ถึงแม้ ว่าจะไม่ได้สายใยกับยี่ซังเลยก็ตาม
         ```
         ```
         Faust: Since they weren't given any roles in the play... they'll instead try to ruin the stage. It'll only get worse as the fathoms grow unstable.
+        เฟาสท์: และด้วยความที่พวกเขา ไม่รับบท ในการแสดงครั้งนี้... พวกเขาก็เลยตัดสินใจที่จะทำลายเวทีของเราแทน หรือพูดง่าย ๆ ก็คือ เหตุการณ์ทุกอย่างจะค่อย ๆ ย่ำแย่ขึ้น ในขณะที่ห้วงลึกแห่งนี้เริ่มเสียความเสถียร
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: In other words, we have to be quick with moving the play's plot along.
+        อิชมาเอล: หรือพูดอีกอย่างก็คือ พวกเราต้องรีบเล่นบทพวกนี้ไปเรื่อย ๆ 
         ```
         ```
         Ishmael: The more time we spend fooling around like a certain complete oaf instead of reading what the script says, the more enemies will attack us.
+        อิชมาเอล: เพราะยิ่งเราโง่ใช้เวลาทำตัวเหมือนไองั่งแทนที่จะอ่านสิ่งที่สคริปเขียนมากเท่าไหร่ ศัตรูก็จะมีแต่โผล่มากขึ้น
         ```
 
         ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
             ```
             Ishmael began to lightly limber up, cracking her joints.
+            อิชมาเอลเริ่มที่ยืดเหยียดร่างกายไปพลาง ๆ ก่อนที่หักข้อที่อยู่ตามร่างกาย
             ```
 
         ---
 
+        <img src="../images/Ishamel.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ishmael: So let's focus on the foes on deck for now.
+        อิชมาเอล: งั้นเรามาโฟกัส กับศัตรู ที่แอบขึ้นเรือพวกนี้ดีไหม
         ```
 
     ---

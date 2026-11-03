@@ -13475,19 +13475,19 @@
 
             ```
             Yi Sang: I hope you have been well since we conversed last.
-            ยี่ซัง: ฉันหวังว่าเธอจะยังสบายดีอยู่ หลังจากครั้งล่าสุดที่พวกเราคุยกัน
+            ยี่ซัง: ฉันหวังว่าเธอจะยังสบายดีอยู่ หลังจากครั้งล่าสุดที่เราคุยกัน
             ```
             ```
             Yi Sang: I see flowers bloom outside, and the birds chirp every now and then.
-            ยี่ซัง: ฉันเห็นดอกไม้บานอยู่ข้างนอก พร้อมกับเสียงจิ๊บของเหล่านกที่เจื้อยแจ้ว ไม่ว่าจะตอนนี้ หรือเมื่อก่อน
+            ยี่ซัง: ฉันเห็นดอกไม้ที่บานสะพรั่งอยู่ข้างนอก พร้อมกับเสียงจิ๊บแจ้วของเหล่านก ที่ดังขึ้นเป็นครั้งคราว
             ```
             ```
             Yi Sang: Though the scents of flowers spread as they like, they create a rather sweet smell once mingled in one place.
-            ยี่ซัง: ถึงแม้ ว่ากลิ่นของดอกไม้จะฟุ่งกระจายออกไปทั่วทุกสารทิศ แต่พอมันมาอยู่รวมกันในที่เดียว ก็กลับสร้างกลิ่นหอมชวนเย้ายวนที่หวานหยด
+            ยี่ซัง: ถึงแม้ ว่ากลิ่นของดอกไม้จะฟุ่งกระจายออกไปในทุกที่ แต่พอมันมาอยู่รวมในที่เดียวกัน ก็กลับสร้างกลิ่นหอมหวานที่ชวนเย้ายวนอย่างน่าประหลาดใจ
             ```
             ```
             Yi Sang: I wonder if you have taken in such a smell.
-            ยี่ซัง: ฉันสงสัยเหลือเกิน ว่าเธอ จะเคยได้กลิ่นแบบนั้นบ้างหรือเปล่า
+            ยี่ซัง: ฉันล่ะสงสัยจัง ว่าเธอ จะเคยได้กลิ่นแบบนั้นบ้างหรือเปล่า
             ```
 
         ---
@@ -13496,15 +13496,15 @@
 
         ```
         Hong Lu: I was always worried about the gloom on Dongbaek's face...
-        ฮงหลู่: 
+        ฮงหลู่: ผมรู้สึกกังวลมาตลอดเลยนะครับ เวลาที่คุณดงแบ็กแสดงหน้าที่อึมครึมแบบนั้น...
         ```
         ```
         Hong Lu: But the things she presents at the illuminators' conferences are relieving to see; they carry a certain joy with them.
-        ฮงหลู่: 
+        ฮงหลู่: แต่—สิ่งที่เธอเอามานำเสนอในงานประชุมไฟส่องสว่างครั้งนี้ กลับเป็นอะไรที่น่าจรรโลงใจสุด ๆ ไปเลยล่ะครับ; ที่ได้เห็นว่าเจ้าสิ่งนั้น มันเต็มไปด้วยความสุข จนเอ่อล้นออกมา
         ```
         ```
         Hong Lu: Can I take that as her way of indirectly expressing the smiles she couldn't make at us?
-        ฮงหลู่: 
+        ฮงหลู่: ผมขอนับว่านี้ เป็นการแสดงรอยยิ้มทางอ้อม ที่เธอไม่เคยทำต่อหน้าเราได้สินะครับ?
         ```
 
         ---
@@ -13513,61 +13513,83 @@
 
         ```
         Dongbaek: ...Well, take it however you want.
-        ดงแบ็ก: 
+        ดงแบ็ก: ...ก็ จะเอายังไงแล้วแต่นายเถอะ
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Yi Sang.
+        ฮงหลู่: ยี่ซัง
         ```
         ```
         Hong Lu: What are you thinking?
+        ฮงหลู่: คุณคิดอะไรอยู่หรอ?
         ```
         ```
         Hong Lu: I just can't figure out what your face might mean. It makes me curious to know what's in your mind.
+        ฮงหลู่: ผมเดาไม่ออกเลย ว่าใบหน้านั้นของคุณกำลังคิดเรื่องอะไรอยู่ มันทำให้ผมสังสัยนะรู้ไหม ว่าอะไรกันที่อยู่ในหัวคุณ
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: Those who I have brushed past until now asked that same question.
+        ยี่ซัง: 
         ```
         ```
         Yi Sang: However, as I did not possess the eloquence to utter a concise answer in words and the matter itself was too wearisome and perplexing to clearly summarize...
+        ยี่ซํง: 
         ```
         ```
         Yi Sang: I would substitute my answer with a figurative blank sheet of paper.
+        ยี่ซํง: 
         ```
         ```
         Yi Sang: ...You know what that is:
+        ยี่ซัง: 
         ```
         ```
         Yi Sang: Nothing.
+        ยี่ซัง: 
         ```
         ```
         Yi Sang: In truth, it may not have been nothing, after all.
+        ยี่ซัง: 
         ```
         ```
         Yi Sang: I would feel a desire to scatter into the winds in lush blue, sensing the sway of seeds plunging into my scrawling mind.
+        ยี่ซัง: 
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Well, how was my acting?
+        ฮงหลู่: 
         ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Yi Sang: ……
+        Yi Sang: ......
+        ยี่ซัง: ......
         ```
         ```
         Yi Sang: Brother Young-ji was a man of kindness. He was not one to rashly harbor spite or reproach for others.
+        ยี่ซัง: 
         ```
         ```
         Yi Sang: You resemble him in that sense.
+        ยี่ซัง: 
         ```
 
     ---

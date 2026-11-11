@@ -13537,21 +13537,24 @@
 
         <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
-        ```
-        Yi Sang: Those who I have brushed past until now asked that same question.
-        ยี่ซัง: พวกคนที่ฉันเคยคบค้าด้วย ก็เคยถามคำถามอะไรแบบนั้นเหมือนกัน
-        ```
-        ```
-        Yi Sang: However, as I did not possess the eloquence to utter a concise answer in words and the matter itself was too wearisome and perplexing to clearly summarize...
-        ยี่ซํง: ถึงยังไง ไม่ว่าจะเพราะฉันไม่มีความสามารถเพียงพอ ที่จะใช้ถ้อยคำเพื่อสื่อสารคำตอบที่กระชับชัดเจน หรือเพราะตัวเนื้อความที่น่าเบื่อเกินไป และชวนงงกว่าจะสรุปได้... 
-        ```
-        ```
-        Yi Sang: I would substitute my answer with a figurative blank sheet of paper.
-        ยี่ซํง: ฉันก็มักจะแทนคำตอบของฉัน ด้วยกระดาษเปล่า ในเชิงเปรียบเทียบ
-        ```
+        * เสียงในหัว
+
+            ```
+            Those who I have brushed past until now asked that same question.
+            พวกคนที่ฉันเคยคบค้าด้วย ก็เคยถามคำถามอะไรแบบนั้นเหมือนกัน
+            ```
+            ```
+            However, as I did not possess the eloquence to utter a concise answer in words and the matter itself was too wearisome and perplexing to clearly summarize...
+            ถึงยังไง ไม่ว่าจะเพราะฉันไม่มีความสามารถเพียงพอ ที่จะใช้ถ้อยคำเพื่อสื่อสารคำตอบที่กระชับชัดเจน หรือเพราะตัวเนื้อความที่น่าเบื่อเกินไป และชวนงงกว่าจะสรุปได้... 
+            ```
+            ```
+            I would substitute my answer with a figurative blank sheet of paper.
+            ฉันก็มักจะแทนคำตอบของฉัน ด้วยกระดาษเปล่า ในเชิงเปรียบเทียบ
+            ```
+
         ```
         Yi Sang: ...You know what that is:
-        ยี่ซัง: ...ที่นายก็รู้ว่าคืออะไร: 
+        ยี่ซัง: ...นายก็รู้นี้ว่ามันคืออะไร: 
         ```
         ```
         Yi Sang: Nothing.
@@ -13559,11 +13562,11 @@
         ```
         ```
         Yi Sang: In truth, it may not have been nothing, after all.
-        ยี่ซัง: ซึ่งในความเป็นจริง มันก็จะอาจไม่มีอะไรตั้งแต่แรกแล้วก็ได้ <*ถึงนี้,พักกินข้าวเที่ยง>
+        ยี่ซัง: ซึ่งในความเป็นจริง มันก็อาจจะไม่มีอะไรตั้งแต่แรกแล้วก็ได้
         ```
         ```
         Yi Sang: I would feel a desire to scatter into the winds in lush blue, sensing the sway of seeds plunging into my scrawling mind.
-        ยี่ซัง: 
+        ยี่ซัง: แล้วฉันก็คงมีความสุข ถ้าตัวเองจะได้ล่องลอยไปในอากาศ บนท้องฟ้าที่เขียวชอุ่ม สัมผัสถึงสายลมที่ไหลผ่าน พัดพาเมล็ดพันธ์ให้ล่วงหล่นสู่ห้วงความคิดที่ยุ่งเหยิงของฉัน
         ```
 
         ---
@@ -13572,7 +13575,7 @@
 
         ```
         Hong Lu: Well, how was my acting?
-        ฮงหลู่: 
+        ฮงหลู่: งั้นสินะ แล้ว ผมแสดงดีไหมครับ?
         ```
 
         ---
@@ -13585,11 +13588,11 @@
         ```
         ```
         Yi Sang: Brother Young-ji was a man of kindness. He was not one to rashly harbor spite or reproach for others.
-        ยี่ซัง: 
+        ยี่ซัง: พี่ยังจีเป็นคนใจดี เขาไม่ชอบที่จะเก็บงำความแค้นเอาไว้ อย่างหุนหันพลันแล่น หรือตำหนิใคร
         ```
         ```
         Yi Sang: You resemble him in that sense.
-        ยี่ซัง: 
+        ยี่ซัง: นายเหมือนกับเขาในมุมนั้นนะ
         ```
 
     ---

@@ -13539,27 +13539,27 @@
 
         ```
         Yi Sang: Those who I have brushed past until now asked that same question.
-        ยี่ซัง: 
+        ยี่ซัง: พวกคนที่ฉันเคยคบค้าด้วย ก็เคยถามคำถามอะไรแบบนั้นเหมือนกัน
         ```
         ```
         Yi Sang: However, as I did not possess the eloquence to utter a concise answer in words and the matter itself was too wearisome and perplexing to clearly summarize...
-        ยี่ซํง: 
+        ยี่ซํง: ถึงยังไง ไม่ว่าจะเพราะฉันไม่มีความสามารถเพียงพอ ที่จะใช้ถ้อยคำเพื่อสื่อสารคำตอบที่กระชับชัดเจน หรือเพราะตัวเนื้อความที่น่าเบื่อเกินไป และชวนงงกว่าจะสรุปได้... 
         ```
         ```
         Yi Sang: I would substitute my answer with a figurative blank sheet of paper.
-        ยี่ซํง: 
+        ยี่ซํง: ฉันก็มักจะแทนคำตอบของฉัน ด้วยกระดาษเปล่า ในเชิงเปรียบเทียบ
         ```
         ```
         Yi Sang: ...You know what that is:
-        ยี่ซัง: 
+        ยี่ซัง: ...ที่นายก็รู้ว่าคืออะไร: 
         ```
         ```
         Yi Sang: Nothing.
-        ยี่ซัง: 
+        ยี่ซัง: ความว่างเปล่า
         ```
         ```
         Yi Sang: In truth, it may not have been nothing, after all.
-        ยี่ซัง: 
+        ยี่ซัง: ซึ่งในความเป็นจริง มันก็จะอาจไม่มีอะไรตั้งแต่แรกแล้วก็ได้ <*ถึงนี้,พักกินข้าวเที่ยง>
         ```
         ```
         Yi Sang: I would feel a desire to scatter into the winds in lush blue, sensing the sway of seeds plunging into my scrawling mind.

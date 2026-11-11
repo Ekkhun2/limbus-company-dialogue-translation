@@ -13596,6 +13596,205 @@
         ```
 
     ---
+
+    * **Episode: 36 | ตอนที่ 36<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนลีกออฟไนน์ที่รุ่งเรือง**
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: You see, I called you this time, because...
+        ฮงหลู่: ก็อย่างที่พวกทุกคน ว่าที่ฉันเรียกพวกเธอมาครั้งนี้ ก็เพราะว่า... 
+        ```
+        ```
+        Hong Lu: I've made something interesting that I'd like to show.
+        ฮงหลู่: ฉันได้รังสรรค์อะไรบางอย่างที่น่าสนใจขึ้นมา เลยอยากเอามาโชว์
+        ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: Ahem...
+        ดงแบ็ก: อแฮม...
+        ```
+        ```
+        Dongbaek: Young-ji... What is this?
+        ดงแบ็ก: ยังจี... นี้อะไรหรอ?
+        ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: ......
+        ฮงหลู่: ......
+        ```
+        ```
+        Hong Lu: There are simply too many transient things that wilt all too soon, don't you think?
+        ฮงหลู่: เคยคิดบ้างไหมล่ะ? ว่าโลกนี้ มีหลายอย่างไม่จีรัง และร่วงโรยมากเกินไป ก่อนอันควร?
+        ```
+        ```
+        Hong Lu: The butterfly only wanted to lightly flutter, but to be punished with death for that crime... That felt too unfortunate.
+        ฮงหลู่: ผีเสื้อ ก็แค่ต้องการที่จะบินไปอย่างอิสระ แต่กลับต้องถูกลงโทษ ด้วยความตายจากสิ่งที่มันทำ... ช่างเป็นอะไร—ทีหดหู่ดายยิ่งนัก
+        ```
+
+        ---
+
+        <img src="../images/Donback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: Did you... bring it back... from the dead? I thought that kind of technology was forbidden by the Head's treaty...
+        ดงแบ็ก: อย่าบอกนะ... ว่าพี่ชุบขีวิตมัน... จากความตาย? ไม่ใช่ว่าเทคโนโลยีอะไรแบบนั้นถูกสั่งห้ามจากเดอะเฮดหรอคะ...  
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: It is no such case. Although the carcass remains inanimate, something has overridden it.
+        ยี่ซัง: มันไม่ใช่แบบนั้น ถึงแม้ว่าซากศพนี้ จะขยับไปมาอยู่ตลอด แต่กลับเหมือนมีบางอย่างที่กำลังควบคุมมันอยู่
+        ```
+
+        ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Hong Lu: That's right. To be exact... it's the glass window.
+        ฮงหลู่: ใช่แล้ว ถ้าพูดให้ถูก... ทั้งหมดนี้มันคือผลจากกระจกแก้ว
+        ```
+        ```
+        Hong Lu: The butterfly can now be free within it.
+        ฮงหลู่: ที่ทำให้เจ้าผีเสื้อตัวนี้สามารถมีชีวิตอยู่ได้ภายใต้มัน
+        ```
+        ```
+        Hong Lu: Even if its wings dampen while trying to cross a pond, are gripped in somebody's hands and crumble to dust, or dry out due to the lack of flowers...
+        ฮงหลู่: และถึงแม้ปีกจะดูยับยู้ยี้มากแค่ไหน ไม่ว่าจะตอนที่มันกำลังข้ามบ่อน้ำ ถูกจับ—ในมือใครบางคนและขย้ำเป็นผุยผง หรือแม้แต่ตอนที่แห้งเกลา เพราะขาดน้ำหวานจากดอกไม้...
+        ```
+        ```
+        Hong Lu: The butterfly won't stop. And eventually... in the distant future...
+        ฮงหลู่: ผีเสื้อก็จะไม่หยุด—ที่จะบินต่อไป จนกระทั่งมัน... ในอนาคตที่ไกลออกไป...
+        ```
+
+        ---
+        
+        <img src="../images/Faust.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Faust: It'll make it across a sea.
+        เฟาสท์: ก็จะข้ามน้ำข้ามทะเลได้
+        ```
+        ```
+        Faust: If that happens, will the butterfly no longer be afraid of the sea?
+        เฟาสท์: และเมื่อเป็นแบบนั้น เจ้าผีเสื้อ จะหยุดกลัวทะเลหรือเปล่า? <*ถึงนี้,พักกินข้าวเย็น>
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Splendid, Young-ji. This level of technology could have numerous applications.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Young-ji... Are you sure... you really made this just for the conference?
+        ```
+
+        ---
+
+        ```
+        Hong Lu: What do you mean by that?
+        ```
+
+        ---
+
+        ```
+        Dongbaek: A gathering where we show technology we've created as a hobby in our free time after returning from a day's work, sharing our thoughts...
+        ```
+        ```
+        Dongbaek: Wasn't that the significance and appeal of the illuminators' conference our League had?
+        ```
+        ```
+        Dongbaek: But this... It doesn't look like a simple hobbyhorse to me.
+        ```
+        ```
+        Dongbaek: Are you still... not over what happened then...
+        ```
+
+        ---
+
+        ```
+        Hong Lu: ...That's... how you see it, Dongbaek...
+        ```
+        ```
+        Hong Lu: I'd like to know what you think as well, Yi Sang.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ……
+        ```
+        ```
+        Yi Sang: As Dongrang rightfully assessed, this is nothing short of a great first discovery.
+        ```
+        ```
+        Yi Sang: Alas...
+        ```
+        ```
+        Yi Sang: If frost were to form on the glass window...
+        ```
+        ```
+        Yi Sang: It will blur the reflected image all the same.
+        ```
+        ```
+        Yi Sang: As such, the frame of this glass window... will need to be made firmer and straighter.
+        ```
+
+        ---
+
+        ```
+        Hong Lu: ……
+        ```
+        ```
+        Hong Lu: Yi Sang, you managed to see through its essence from just a single glance.
+        ```
+        ```
+        Hong Lu: But personally... I can't seem to think of a way, so how about this instead?
+        ```
+        ```
+        Hong Lu: Yi Sang, try recreating it in your own way.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: My own way...
+        ```
+
+        ---
+
+        ```
+        Hong Lu: That's right. By the next conference.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Is it... truly okay for me... to handle a technology as valuable as the glass window?
+        ```
+
+        ---
+
+        ```
+        Hong Lu: You got it wrong. I'm making this suggestion because it's valuable.
+        ```
 ---
 
 ### เพิ่มเติม

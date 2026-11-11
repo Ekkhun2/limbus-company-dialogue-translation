@@ -13746,11 +13746,11 @@
 
         ```
         Hong Lu: ...That's... how you see it, Dongbaek...
-        ฮงหลู่: 
+        ฮงหลู่: ...นั้น... คือสิ่งที่เธอเห็นสินะ ดงแบ็ก...
         ```
         ```
         Hong Lu: I'd like to know what you think as well, Yi Sang.
-        ฮงหลู๋: 
+        ฮงหลู๋: ฉันเองก็อยากรู้เหมือนกัน ว่านายคิดยังไง ยี่ซัง
         ```
 
         ---
@@ -13763,63 +13763,83 @@
         ```
         ```
         Yi Sang: As Dongrang rightfully assessed, this is nothing short of a great first discovery.
-        ยี่ซัง: 
+        ยี่ซัง: เหมือนกับที่ดงรังพูดนั้นแหละครับ ว่านี้ ก็ไม่ต่างอะไรกับค้นพบครั้งยิ่งใหญ่
         ```
         ```
         Yi Sang: Alas...
-        ยี่ซัง: 
+        ยี่ซัง: แต่ก็น่าเสียดาย...
         ```
         ```
         Yi Sang: If frost were to form on the glass window...
-        ยี่ซัง: 
+        ยี่ซัง: ว่าถ้าเกิดน้ำแข็งดันเกาะกระจกแก้วขึ้นมา...
         ```
         ```
         Yi Sang: It will blur the reflected image all the same.
-        ยี่ซัง: 
+        ยี่ซัง: คงมีหวังได้บังภาพสะท้อนจนหมดแน่
         ```
         ```
         Yi Sang: As such, the frame of this glass window... will need to be made firmer and straighter.
-        ยี่ซัง: 
+        ยี่ซัง: เพราะอย่างนั้น ขอบของกระจกแก้วนี้... ควรที่จะเปลี่ยนเป็นวัสดุที่บางกว่านี้ และตรงขึ้น
         ```
 
         ---
 
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Hong Lu: ……
+        Hong Lu: ......
+        ฮงหลู่: ......
         ```
         ```
         Hong Lu: Yi Sang, you managed to see through its essence from just a single glance.
+        ฮงหลู่: ยี่ซัง นายมองมันทะลุปรุโปร่ง ตั้งแต่เห็นครั้งแรกเลยหรอ
         ```
         ```
         Hong Lu: But personally... I can't seem to think of a way, so how about this instead?
+        ฮงหลู่: แต่เอาเข้าจริง... ฉันก็ไม่ค่อยเก็ตที่นายบอกเท่าไหร่ งั้นเอางี้ไหม?
         ```
         ```
         Hong Lu: Yi Sang, try recreating it in your own way.
+        ฮงหลู่: ยี่ซัง นายลองสร้างมันออกมา ในแบบของนายดูสิ 
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: My own way...
+        ยี่ซัง: แบบ—ของฉันงั้นหรอ...
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: That's right. By the next conference.
+        ฮงหลู่: ใช่แล้ว แล้วก็เอามาดูกันรอบหน้า 
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: Is it... truly okay for me... to handle a technology as valuable as the glass window?
+        ยี่ซัง: นี้มัน... โอเคแล้วจริง ๆ หรอครับ... ที่จะให้ผมถือเทคโนโลยี ที่มีค่าระดับ—เทียบเท่ากับกระจกแก้วน่ะครับ?
         ```
 
         ---
 
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Hong Lu: You got it wrong. I'm making this suggestion because it's valuable.
+        ฮงหลู่: นายเข้าใจผิดแล้ว ที่ฉันแนะนำแบบนี้ ก็เพราะมันมีคุณค่าต่างหาก
         ```
+    
+    ---
 ---
 
 ### เพิ่มเติม

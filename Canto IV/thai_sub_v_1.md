@@ -13689,7 +13689,7 @@
         ```
         ```
         Faust: If that happens, will the butterfly no longer be afraid of the sea?
-        เฟาสท์: และเมื่อเป็นแบบนั้น เจ้าผีเสื้อ จะหยุดกลัวทะเลหรือเปล่า? <*ถึงนี้,พักกินข้าวเย็น>
+        เฟาสท์: และเมื่อเป็นแบบนั้น เจ้าผีเสื้อ จะหยุดกลัวทะเลหรือเปล่า?
         ```
 
         ---
@@ -13698,63 +13698,88 @@
 
         ```
         Dongrang: Splendid, Young-ji. This level of technology could have numerous applications.
+        ดงรัง: ฮะหะ *ตกตะลึงในสิ่งที่เห็น* เยี่ยมยอดมากยังจี ด้วยเทคโนโลยีระดับนี้ เราต้องสร้างได้ประโยชน์ได้มากโขแน่
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Young-ji... Are you sure... you really made this just for the conference?
+        ดงแบ็ก: ยังจี... พี่แน่ใจแล้วหรอ... ว่าพี่ทำสิ่งนี้มาก็เพื่องานนี้?
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: What do you mean by that?
+        ฮงหลู่: หมายความว่าไงหรอ?
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: A gathering where we show technology we've created as a hobby in our free time after returning from a day's work, sharing our thoughts...
+        ดงแบ็ก: เออ... ก็ มันเป็นการรวมตัวที่พวกเรา จะเอางานอดิเรกที่ตัวเองสร้าง หลังจากว่างเว้นจากการทำงานมาเจอกัน แล้วก็แบ่งปันความคิด... 
         ```
         ```
         Dongbaek: Wasn't that the significance and appeal of the illuminators' conference our League had?
+        ดงแบ็ก: ไม่ใช่ว่านั้นเป็นส่วนสำคัญและเสน่ห์ ของการประชุมไฟส่องสว่างของพวกเราหรอคะ?
         ```
         ```
         Dongbaek: But this... It doesn't look like a simple hobbyhorse to me.
+        ดงแบ็ก: แต่นี้... มันดูไม่เหมือนงานอดิเรกทั่วไปสำหรับฉันเลยนะ
         ```
         ```
         Dongbaek: Are you still... not over what happened then...
+        ดงแบ็ก: หรือว่าพี่... ยังไม่มูฟออน จากเรื่องที่เกิดขึ้นอีกหรอคะ...
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: ...That's... how you see it, Dongbaek...
+        ฮงหลู่: 
         ```
         ```
         Hong Lu: I'd like to know what you think as well, Yi Sang.
+        ฮงหลู๋: 
         ```
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Yi Sang: ……
+        Yi Sang: ......
+        ยี่ซัง: ......
         ```
         ```
         Yi Sang: As Dongrang rightfully assessed, this is nothing short of a great first discovery.
+        ยี่ซัง: 
         ```
         ```
         Yi Sang: Alas...
+        ยี่ซัง: 
         ```
         ```
         Yi Sang: If frost were to form on the glass window...
+        ยี่ซัง: 
         ```
         ```
         Yi Sang: It will blur the reflected image all the same.
+        ยี่ซัง: 
         ```
         ```
         Yi Sang: As such, the frame of this glass window... will need to be made firmer and straighter.
+        ยี่ซัง: 
         ```
 
         ---

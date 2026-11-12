@@ -13840,6 +13840,194 @@
         ```
     
     ---
+
+    * **Episode:  37 | ตอนที่ 37<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนลีกออฟไนน์ที่รุ่งเรือง**
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ishmael: It looks like the group was at peace.
+        อิชมาเอล: ดูเหมือนว่ากลุ่มนี้ก็เคยมีช่วงเวลาที่สงบสุข เหมือนกันสินะคะ
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Things were good for a short while. It was as though we were on a trip. We thought everything would be fine after leaving our hometown for this new place, but alas...
+        ดงรัง: ถึงจะสั้นไปหน่อย แต่เมื่อก่อน ไม่ว่าจะอะไร ๆ ก็ดีไปหมด จนเหมือนกับว่าพวกเรา กำลังได้พักร้อนอยู่ยังไงอย่างงั้น พวกเราได้แต่คิด ว่าทุกอย่างจะดีขึ้นเอง หลังจากที่เราออกมาจากบ้านเกิดเพื่อมาที่นี้ แต่ช่างน่าผิดหวัง...
+        ```
+        ```
+        Dongrang: At the end of the day, human societies weren't so different from each other.
+        ดงรัง: ที่สุดท้ายแล้ว สิ่งที่เรียกว่าสังคมมนุษย์ ก็ดูเหมือนจะไม่ได้แตกต่างอะไรกันเลยสักนิด
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: Today... I saw something suspicious at the market.
+        เอาทิส: วันนี้... ฉันไปเห็นน่าสงสัยมาที่ตลาดด้วย
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Now that intrigues me. What is it, Sang-heo?
+        ดงรัง: หะ *อารมณ์แบบงั้นหรอ* นั่นทำฉันสนใจเลยนะ มันเรื่งอะไรหรอ ซัง-ฮอ?
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: This invention. Wasn't this your work for the League of Nine, Gap-ryong?
+        เอาทิส: สิ่งประดิษฐ์นี้ ไม่ใช่ว่ามันคือผลงานของนายที่ทำให้สมาพันธ์หรอ? กัป-รยง
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: It... is. But, I mean... there's no need to scour markets and all that, right? It, it's trust and faith that binds us together, isn't it?
+        ฮิธคลิฟฟ์: ก็... ใช่ แต่คือ.. มันจำเป็นด้วยหรือไง ที่เธอ ต้องมานั่งตระเวนตามร้านค้าแล้วจับผิดฉันแบบนี้? คือแบบ—ไม่ใช่เพราะศรัทธาและเชื่อใจหรอ ที่นำพาพวกเรามาไกลขนาดนี้?
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: You must have forgotten the League's nine laws.
+        เอาทิส: นายคงลืมกฎของลีกออฟไนน์ไปแล้วสิท่า
+        ```
+
+        ---
+
+        <img src="../images/Ryoshu.png" alt="Ryoshu" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Ryoshu: (L.N.L. Pft. Fascinating.)
+        เรียวชู: (กฎของลีกลอว์ ฟิ่บ *ขำ* สุดยอดไปเลย)
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: (Ryōshū! You aren't supposed to say things that aren't in the script!)
+        ซินแคร์: (เรียวชู! คุณไม่ควรพูดอะไรที่ไม่อยู่ในบทนะครับ!)
+        ```
+
+        ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Heathcliff: Tsk… I know. They made me memorize every word of it, you think I'll forget?
+        ฮิธคลิฟฟ์: ชิ... รู้แล้วน่า ก็ดูพวกมันเซ่ เล่นบังคับให้ฉันจำทุกคำที่อยู่ในนี้เลย แล้วแกคิดว่าฉันจะลืมได้หรือไง? <*ถึงนี้,โทนผิด,บทนี้ฮิธคลิฟฟ์ให้อารมณ์แบบรู้แล้ว ๆ ก็พวกมันเล่นให้ท่องจำซะขนาดนี้จะลืมได้ยังไง>
+        ```
+        ```
+        Heathcliff: No technology made within the League shall be distributed outside. Be particularly careful not to be tainted with the smell of money.
+        ฮิธคลิฟฟ์: 
+        ```
+        ```
+        Heathcliff: But... we've been told that all our property will be seized if we don't pay the rent for the laboratory within the next six days. What are we supposed to do?
+        ฮิธคลิฟฟ์: 
+        ```
+        ```
+        Heathcliff: We've got to do something about it. The money we earn at the factory can only barely keep us fed.
+        ฮิธคลิฟฟ์: 
+        ```
+        ```
+        Heathcliff: We got here from S Corp's district, taking nothing but passion for research with us! Tell me how else we're gonna pay the rent.
+        ฮิธคลิฟฟ์: 
+        ```
+
+        ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Meursault: That's a valid point. Taxes are heavier on us because we migrated from another district.
+        เมอร์โซลท์: 
+        ```
+        ```
+        Meursault: They are demanding a fee we cannot afford to pay regularly.
+        เมอร์โซลท์: 
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ...I can pay that. So I suggest we put this matter to rest.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Wait, why haven't I been told about this before? Seized? Did you know all along, Young-ji? I want to hear it from you directly.
+        ```
+
+        ---
+
+        ```
+        Outis: I understand that you're upset, but be mindful of what you say to Brother Young-ji, Dongbaek.
+        ```
+
+        ---
+
+        ```
+        Hong Lu: I'm fine, Sang-heo.
+        ```
+        ```
+        Hong Lu: Dongbaek, I was planning to tell you once it had been dealt with. I figured you'd be the first to get furious about matters concerning the League.
+        ```
+        ```
+        Hong Lu: And Yi Sang, while I sincerely appreciate your offer, I couldn't possibly take it.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: It bothers me not, for accumulating wealth has no meaning to me. I urge you to spend it for the League's sake.
+        ```
+
+        ---
+
+        ```
+        Ishmael: Whaaat? Wait, Yi Sang! Were you that rich?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Haha, you might want to do a better job at remembering your part, yes?
+        ```
+        ```
+        Dongrang: The enemies will start attacking again, you know.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: Look who's fooling around like an oaf, failing what's as easy as reading words on paper.
+        ```
+
+        ---
+
+        ```
+        Ishmael: Haah...
+        ```
+
+    ---
 ---
 
 ### เพิ่มเติม

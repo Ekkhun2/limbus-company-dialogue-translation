@@ -13940,15 +13940,15 @@
         ```
         ```
         Heathcliff: But... we've been told that all our property will be seized if we don't pay the rent for the laboratory within the next six days. What are we supposed to do?
-        ฮิธคลิฟฟ์: แต่นี้... พวกเราก็รู้มาได้สักพักแล้วไม่ใช่หรอ ว่าทรัพย์สินของเรากำลังจะถูกยึด ถ้าเรา ยังคงหาค่าเช่าแลปมาจ่ายไม่ได้ในสัปดาห์นี้ แล้วเธอ คิดว่าเราต้องทำไงล่ะ? <*ถึงนี้,กินข้าวเย็น>
+        ฮิธคลิฟฟ์: แต่นี้... พวกเราก็รู้มาได้สักพักแล้วไม่ใช่หรอ ว่าทรัพย์สินของเรากำลังจะถูกยึด ถ้าเรา ยังคงหาค่าเช่าแลปมาจ่ายไม่ได้ในสัปดาห์นี้ แล้วเธอ คิดว่าเราจะทำอะไรได้ล่ะ?
         ```
         ```
         Heathcliff: We've got to do something about it. The money we earn at the factory can only barely keep us fed.
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: ในสถานการณ์ที่เราถูกบีบบังคับให้ต้องทำอะไรสักอย่าง เงินที่เราได้จากโรงงาน กะอีแค่เลี้ยงตัวเองไม่ให้ตายได้ก็หรูแล้ว
         ```
         ```
         Heathcliff: We got here from S Corp's district, taking nothing but passion for research with us! Tell me how else we're gonna pay the rent.
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: พวกเรามานี้จากเอสคอร์ปด้วยตัวเปล่า ไม่ได้เตรียมอะไรมานอกเหนือจากใจที่รักในการวิจัยในตัวเรา! ช่วยบอกฉันทีสิ ว่าเราจะมีปัญญาจ่ายค่าเช่านั้นด้วยวิธีอื่นได้ยังไง <*ถีงนี้,ไม่ค่อยดี>
         ```
 
         ---

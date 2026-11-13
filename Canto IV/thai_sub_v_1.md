@@ -13932,15 +13932,15 @@
 
         ```
         Heathcliff: Tsk… I know. They made me memorize every word of it, you think I'll forget?
-        ฮิธคลิฟฟ์: ชิ... รู้แล้วน่า ก็ดูพวกมันเซ่ เล่นบังคับให้ฉันจำทุกคำที่อยู่ในนี้เลย แล้วแกคิดว่าฉันจะลืมได้หรือไง? <*ถึงนี้,โทนผิด,บทนี้ฮิธคลิฟฟ์ให้อารมณ์แบบรู้แล้ว ๆ ก็พวกมันเล่นให้ท่องจำซะขนาดนี้จะลืมได้ยังไง>
+        ฮิธคลิฟฟ์: *เสียงจับกระดาษ* รู้แล้ว ก็พวกมัน เล่นให้ฉันท่องจำตั้งหลายจบ แล้วเธอคิดว่า ฉันจะลืมลงหรือไง?
         ```
         ```
         Heathcliff: No technology made within the League shall be distributed outside. Be particularly careful not to be tainted with the smell of money.
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: ไม่อนุญาติ ให้มีการแจกจ่ายเทคโนโลยีที่ถูกสร้างขึ้นในลีกออฟไนน์สู่ภายนอกเป็นอันขาด และจงพึงระลึกไว้เสมอ ว่าอย่าปล่อยกายปล่อยใจ ไปกับกลิ่นเงินหอม ๆ ที่โชยมา
         ```
         ```
         Heathcliff: But... we've been told that all our property will be seized if we don't pay the rent for the laboratory within the next six days. What are we supposed to do?
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: แต่นี้... พวกเราก็รู้มาได้สักพักแล้วไม่ใช่หรอ ว่าทรัพย์สินของเรากำลังจะถูกยึด ถ้าเรา ยังคงหาค่าเช่าแลปมาจ่ายไม่ได้ในสัปดาห์นี้ แล้วเธอ คิดว่าเราต้องทำไงล่ะ? <*ถึงนี้,กินข้าวเย็น>
         ```
         ```
         Heathcliff: We've got to do something about it. The money we earn at the factory can only barely keep us fed.

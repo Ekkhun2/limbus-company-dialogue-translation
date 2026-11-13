@@ -20,6 +20,8 @@
 
 ---
 
-<img src="/images/Liar_Liar.png" alt="Liar" width="500" style="display: block; margin: 0 auto;">
+<div align="center">
+  <img src="/images/Liar_Liar.png" alt="Liar" width="500">
+</div>
 
-> “Liar Liar” Plushie by sh4rkle
+> Mirou “Liar Liar” plushie by sh4rkle

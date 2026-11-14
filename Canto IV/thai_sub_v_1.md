@@ -14058,6 +14058,314 @@
         ```
 
     ---
+
+    * **Episode:  38 | ตอนที่ 38**	
+    
+        * เสียงในหัว
+
+            ```
+            On that spring day, I made a small mirror. I named it 'Yeonsim'.
+            ในฤดูใบไม้ผลิวันนั้น ฉันสร้างกระจกบานเล็กบานหนึ่งขึ้นมา ฉันตั้งชื่อให้มันว่า 'ยอนซิม' 
+            ```
+            ```
+            And, I happened to catch a signal while tuning out numerous noises and shatterings.
+            และฉัน ก็จับโดนสัญญาณสัญญาณหนึ่ง ในขณะที่กำลังลองจูนคลื่น และการแผ่กระจาย
+            ```
+
+        ---
+
+        ```
+        Yi Sang: In Yeonsim, I met you at last.
+        ยี่ซัง: <*ถีงนี้,พักกินข้าวเย็น+อาบน้ำ>
+        ```
+        ```
+        Yi Sang: My left-handed self... beautiful and serene.
+        ยี่ซัง: 
+        ```
+        ```
+        Yi Sang: It's a pleasure to meet you. I am...
+        ยี่ซัง: 
+        ```
+
+        ---
+
+        ```
+        Sang Yi: Yi Sang, isn't it. What a peculiar experience this is.
+        ซังยี่: 
+        ```
+        ```
+        Sang Yi: And that mirror you're holding...
+        ซังยี่: 
+        ```
+
+        ---
+
+        ```
+        Yi Sang: It's what I call Yeonsim.
+        ยี่ซัง: 
+        ```
+
+        ---
+
+        ```
+        Sang Yi: Yeonsim, huh... (硏, to grind or study; 尋, to seek)
+        ```
+
+        ---
+
+        ```
+        Yi Sang: This is a product of grinding something... scraping even the mind to polish it.
+        ```
+
+        ---
+
+        ```
+        Sang Yi: I see. I suppose all versions of Yi Sang were dedicated to research.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: You have wings on your back, if my eyes aren't being deceitful.
+        ```
+
+        ---
+
+        ```
+        Sang Yi: ...What do you think of them?
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ...Resplendent.
+        ```
+        ```
+        Yi Sang: They look quite warm... and free.
+        ```
+        ```
+        Yi Sang: We looked into and ahead of each other.
+        ```
+
+        ---
+
+        ```
+        Location:Blossoming League of Nine Littérateurs
+        ```
+
+
+        ---
+
+        ```
+        Yi Sang: I only made minor modifications to Brother Young-ji's work.
+        ```
+        ```
+        Yi Sang: I wanted to show a reflection of any possibility in its unvarnished image, without a blur.
+        ```
+
+        ---
+
+        ```
+        Hong Lu: The stars I saw while lying on the ground here seemed so far away...
+        ```
+        ```
+        Hong Lu: Yet it was possible to see them up close.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Is this why I haven't been able to see you lately? To discover this? I thought you caved to your yearning for rice and went back to S Corp's district...
+        ```
+        ```
+        Dongbaek: I'll say, though... This isn't half bad.
+        ```
+        ```
+        Dongbaek: Dongrang, why are you laughing like that?
+        ```
+
+        ---
+
+        ```
+        Dongrang: It's just funny that you're talking so ferociously when your eyes are full of curious twinkles.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Yi Sang, will you tell him to shut it?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Why don't you first hide your facial recreation of a child who's tried ice cream for the first time?
+        ```
+        ```
+        Dongrang: Gubo, why don't you say something? You've been part of the League for fairly long now, so stop standing around like a guest.
+        ```
+
+        ---
+
+        ```
+        Don Quixote: ...What more do I have to add? Everyone already seems to be of one mind.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: ...If you're trying to be an odd one out, at least have some audacity. Some cold fish you are.
+        ```
+
+        ---
+
+        ```
+        Hong Lu: I see... So this... is how you view the world.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: ...The world I view, is it.
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Did you know? They say every invention carries hints of the hopes and dreams of its inventor.
+        ```
+        ```
+        Hong Lu: Discovering them is one of the spectators' joys. It's a tidbit that's good to know.
+        ```
+
+        ---
+
+        ```
+        Dongrang: So, Yi Sang, what do you plan to do with this technology?
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Do... what exactly?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Brother Young-ji's glass window is already making the rounds. Researchers from other Nests have taken an interest, or so I've heard.
+        ```
+        ```
+        Dongrang: Really... We rarely saw visitors in the past, but now we might have to start punching tickets so all those people will stand in line.
+        ```
+        ```
+        Dongrang: So if you announce your work here...
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Dongrang, I have absolutely no intention of announcing this.
+        ```
+
+        ---
+
+        ```
+        Dongrang: ...None? At all?
+        ```
+
+        ---
+
+        ```
+        Yi Sang: All that I ask...
+        ```
+        ```
+        Yi Sang: Is to keep this as a moment of laughter, solely between us.
+        ```
+
+        ---
+
+        ```
+        Dongrang: ……
+        ```
+        ```
+        Dongrang: Look, just what is your idea of...
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Pft... Yi Sang. That was the second funniest moment I've seen out of you.
+        ```
+        ```
+        Dongbaek: The first is... y'know, when the yellow calf was being fed milk, and it suddenly licked his hair... Pfh...
+        ```
+
+        ---
+
+        ```
+        Dongrang: True, I've never seen Dongbaek laugh as loudly as then.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: T-That... I think we'd best forget...
+        ```
+        ```
+        Yi Sang: Human eyes are such glistening and scalding things. Fearing that they would burn me, I tended to watch them from the side.
+        ```
+        ```
+        Yi Sang: However, not seeing the subject straightly does not mean I think lowly of them.
+        ```
+        ```
+        Yi Sang: Even without looking, it is possible to seep in.
+        ```
+
+        ---
+
+        ```
+        Rodion: By the way, is that... the same as the mirror we use?
+        ```
+
+        ---
+
+        ```
+        Faust: Similar, to be exact. Limbus Company uses a mirror with special modifications.
+        ```
+
+        ---
+
+        ```
+        Rodion: You invented something incredible, Yi Sang...
+        ```
+
+        ---
+
+        ```
+        Yi Sang: What Young-ji and I did... wasn't invention; we discovered, rather.
+        ```
+
+        ---
+
+        ```
+        Meursault: T Corp... wouldn't have been pleased with the idea of a technology capable of peeping into other worlds without permission.
+        ```
+        ```
+        Meursault: I do believe you know well enough that their problem lies with the lack of permission, not the capability of the technology.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Although we had figured that...
+        ```
+        ```
+        Yi Sang: We thought it would be fine since it was only used as a pastime between us.
+        ```
+        ```
+        Yi Sang: The decision couldn't have been more glib.
+        ```
 ---
 
 ### เพิ่มเติม

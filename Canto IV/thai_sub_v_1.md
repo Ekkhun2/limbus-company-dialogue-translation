@@ -13957,74 +13957,104 @@
 
         ```
         Meursault: That's a valid point. Taxes are heavier on us because we migrated from another district.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: ที่พูดมาก็มีเหตุผลนะครับ ภาษีจะเก็บมากกับพวกเราเป็นพิเศษ เพราะเรามาจากเขตอื่น
         ```
         ```
         Meursault: They are demanding a fee we cannot afford to pay regularly.
-        เมอร์โซลท์: 
+        เมอร์โซลท์: และพวกเขา ก็เอาแต่เรียกร้องค่าธรรมเนียม ที่พวกเราจ่ายเป็นประจำไม่ได้
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: ...I can pay that. So I suggest we put this matter to rest.
+        ยี่ซัง: ...ผมจ่ายได้นะ เพราะงั้น เลิกพูดเรื่องนี้ดีกว่านะครับ
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Wait, why haven't I been told about this before? Seized? Did you know all along, Young-ji? I want to hear it from you directly.
+        ดงแบ็ก: เดี๋ยว ทำไม—ฉันถึงไม่เคยได้ยินเรื่องนี้มาก่อนเลย? ยึดหรอ? นี้พี่รู้เรื่องนี้มาตลอดเลยหรอคะ พี่ยังจี? ช่วยบอกหนูมาตรง ๆ เถอะ
         ```
 
         ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: I understand that you're upset, but be mindful of what you say to Brother Young-ji, Dongbaek.
+        เอาทิส: ฉันเข้าใจ ว่าเธอโมโห แต่ช่วยระวังปากเวลาพูดกับพี่ยังจีหน่อย ดงแบ็ก
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: I'm fine, Sang-heo.
+        ฮงหลู่: ไม่เป็นไร ซัง-ฮอ
         ```
         ```
         Hong Lu: Dongbaek, I was planning to tell you once it had been dealt with. I figured you'd be the first to get furious about matters concerning the League.
+        ฮงหลู่: ดงแบ็ก ฉันตั้งใจที่จะบอกเธอ หลังจากที่เรื่องทุกอย่างคลี่คลายแล้ว ฉันรู้ ว่าเธอจะเป็นคนแรกที่โกรธ เวลามีเรื่องที่เกี่ยวกับสมาพันธ์
         ```
         ```
         Hong Lu: And Yi Sang, while I sincerely appreciate your offer, I couldn't possibly take it.
+        ฮงหลู่: แล้วก็ยี่ซัง ถึงฉันจะซาบซึ้งกับข้อเสนอนั้นมากแค่ไหน แต่ฉัน คงรับมันไม่ได้หรอก <*ถีงนี้,พักกินข้าวเที่ยง>
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: It bothers me not, for accumulating wealth has no meaning to me. I urge you to spend it for the League's sake.
+        ยี่ซํง: 
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Whaaat? Wait, Yi Sang! Were you that rich?
+        อิชมาเอล: 
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Haha, you might want to do a better job at remembering your part, yes?
+        ดงรัง: 
         ```
         ```
         Dongrang: The enemies will start attacking again, you know.
+        ดงรัง: 
         ```
 
         ---
+
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Heathcliff: Look who's fooling around like an oaf, failing what's as easy as reading words on paper.
+        ฮิธคลิฟฟ์: 
         ```
 
         ---
 
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Ishmael: Haah...
+        อิชมาเอล: หะ... *ถอนหายใจ*
         ```
 
     ---

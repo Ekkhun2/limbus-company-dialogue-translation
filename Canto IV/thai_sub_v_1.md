@@ -11683,11 +11683,11 @@
 
         ```
         Dongbaek: Is this why I haven't been able to see you lately? To discover this?
-        ดงแบ็ก: นี้สินะสาเหตุที่ฉันไม่ได้เห็นหน้านายเมื่อนานมานี้? เพื่อที่จะค้นพบเจ้านี้น่ะหรอ?
+        ดงแบ็ก: นี้สินะว่าทำไม เหตุผลที่ช่วยนี้ฉันไม่ค่อยเห็นนายเลย? ที่แท้ ก็เก็บตัวเพื่อสร้างไอเนี้ยเองหรอ? 
         ```
         ```
         Dongbaek: Dongrang, why are you laughing like that?
-        ดงแบ็ก: ดงรัง หัวเราะแบบนั้นทำไมล่ะ?
+        ดงแบ็ก: ดงรัง หัวเราะอะไรของนายน่ะหะ?
         ```
 
         ---
@@ -11696,7 +11696,7 @@
 
         ```
         Dongrang: It's just funny that you're talking so ferociously when your eyes are full of curious twinkles.
-        ดงรัง: เหอะ *เราะเยาะ* ไม่มีอะไรมากหรอก แค่เห็นแล้วตลกดี ที่เธอพูดมันออกมาได้หน้าตาเฉย ทั้ง ๆ ที่แววตาตัวเองกำลังส่องประกายระยิบระยับไม่ต่างอะไรกับเด็กอายุสิบขวบ
+        ดงรัง: เหอะ *เราะเยาะ* ก็แค่ตลกน่ะ ที่เห็นเธอพูดออกมาได้หน้าตาเฉย ทั้ง ๆ ที่แววตาตัวเองกำลังส่องประกายระยิบระยับ ไม่ต่างอะไรกับเด็กอายุสิบขวบเลยล่ะ
         ```
 
         ---
@@ -11705,7 +11705,7 @@
 
         ```
         Dongbaek: Yi Sang, will you tell him to shut it?
-        ดงแบ็ก: ยี่ซัง ช่วยบอกให้มันหุบปากสักแป๊ปจะได้ไหม?
+        ดงแบ็ก: ยี่ซัง ช่วยบอกให้มันหุบปากจะได้ไหม?
         ```
 
         ---
@@ -13467,7 +13467,7 @@
 
     ---
 
-    * **Episode: 35 | ตอนที่ 35<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนลีกออฟไนน์ที่ผลิบาน**
+    * **Episode: 35 | ตอนที่ 35<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่ผลิบาน**
 
         <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
@@ -13597,7 +13597,7 @@
 
     ---
 
-    * **Episode: 36 | ตอนที่ 36<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนลีกออฟไนน์ที่ผลิบาน**
+    * **Episode: 36 | ตอนที่ 36<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่ผลิบาน**
 
         <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
@@ -13841,7 +13841,7 @@
     
     ---
 
-    * **Episode:  37 | ตอนที่ 37<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนลีกออฟไนน์ที่ผลิบาน**
+    * **Episode:  37 | ตอนที่ 37<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่ผลิบาน**
 
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
@@ -14175,7 +14175,7 @@
 
         ---
 
-        **Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนลีกออฟไนน์ที่ผลิบาน**
+        **Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่ผลิบาน**
 
         ---
 
@@ -14202,7 +14202,7 @@
         ```
         ```
         Hong Lu: Yet it was possible to see them up close.
-        ฮงหลู่: แต่ถึงอย่างนั้น มันก็เป็นไปได้ที่จะมองเห็นพวกมันอย่างใกล้ ๆ <*ถึงนี้,พักกินข้าวเที่ยง>
+        ฮงหลู่: แต่ถึงอย่างนั้น มันก็พอเป็นไปได้ที่จะเฝ้าดูพวกมันอย่างใกล้ชิด
         ```
 
         ---
@@ -14211,15 +14211,15 @@
 
         ```
         Dongbaek: Is this why I haven't been able to see you lately? To discover this? I thought you caved to your yearning for rice and went back to S Corp's district...
-        ดงแบ็ก: 
+        ดงแบ็ก: นี้สินะว่าทำไม เหตุผลที่ช่วยนี้ฉันไม่ค่อยเห็นนายเลย? ที่แท้ ก็เก็บตัวเพื่อสร้างไอเนี้ยเองหรอ? ฉันก็นึกว่านายยอมแพ้ให้กับความอยากกินข้าวแล้ว—ก็กลับที่เอสคอร์ปซะอีก...
         ```
         ```
         Dongbaek: I'll say, though... This isn't half bad.
-        ดงแบ็ก: 
+        ดงแบ็ก: แต่พูดก็พูดเถอะ... นี้ก็ไม่ได้แย่ขนาดนั้น 
         ```
         ```
         Dongbaek: Dongrang, why are you laughing like that?
-        ดงแบ็ก: 
+        ดงแบ็ก: ดงรัง หัวเราะอะไรของนายน่ะหะ?
         ```
 
         ---
@@ -14228,28 +14228,38 @@
 
         ```
         Dongrang: It's just funny that you're talking so ferociously when your eyes are full of curious twinkles.
-        ดงรัง: 
+        ดงรัง: เหอะ *เราะเยาะ* ก็แค่ตลกน่ะ ที่เห็นเธอพูดออกมาได้หน้าตาเฉย ทั้ง ๆ ที่แววตาตัวเองกำลังส่องประกายระยิบระยับ ไม่ต่างอะไรกับเด็กอายุสิบขวบเลยล่ะ
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Yi Sang, will you tell him to shut it?
+        ดงแบ็ก: ยี่ซัง ช่วยบอกให้มันหุบปากจะได้ไหม? <*ถีงนี้,กินข้าวเย็น>
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Why don't you first hide your facial recreation of a child who's tried ice cream for the first time?
+        ดงแบ็ก: 
         ```
         ```
         Dongrang: Gubo, why don't you say something? You've been part of the League for fairly long now, so stop standing around like a guest.
+        ดงแบ็ก: 
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Don Quixote: ...What more do I have to add? Everyone already seems to be of one mind.
+        ดอน กิโฆเต้: ...
         ```
 
         ---

@@ -11658,7 +11658,7 @@
 
         ```
         Yi Sang: I only made minor modifications to Brother Young-ji's work.
-        ยี่ซํง: ฉันแค่แก้อะไรนิด ๆ หน่อย ๆ ในงานของพี่ยังจี 
+        ยี่ซํง: ฉันแค่ปรับแต่งงานที่พี่ยังจีทำเอาไว้นิดหน่อย
         ```
         ```
         Yi Sang: I wanted to show a reflection of any possibility in its unvarnished image.
@@ -13467,7 +13467,7 @@
 
     ---
 
-    * **Episode: 35 | ตอนที่ 35<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนลีกออฟไนน์ที่รุ่งเรือง**
+    * **Episode: 35 | ตอนที่ 35<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนลีกออฟไนน์ที่ผลิบาน**
 
         <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
@@ -13597,7 +13597,7 @@
 
     ---
 
-    * **Episode: 36 | ตอนที่ 36<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนลีกออฟไนน์ที่รุ่งเรือง**
+    * **Episode: 36 | ตอนที่ 36<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนลีกออฟไนน์ที่ผลิบาน**
 
         <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
@@ -13841,7 +13841,7 @@
     
     ---
 
-    * **Episode:  37 | ตอนที่ 37<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนลีกออฟไนน์ที่รุ่งเรือง**
+    * **Episode:  37 | ตอนที่ 37<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนลีกออฟไนน์ที่ผลิบาน**
 
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
@@ -14059,135 +14059,176 @@
 
     ---
 
-    * **Episode:  38 | ตอนที่ 38**	
-    
+    * **Episode: 38 | ตอนที่ 38**	
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         * เสียงในหัว
 
             ```
             On that spring day, I made a small mirror. I named it 'Yeonsim'.
-            ในฤดูใบไม้ผลิวันนั้น ฉันสร้างกระจกบานเล็กบานหนึ่งขึ้นมา ฉันตั้งชื่อให้มันว่า 'ยอนซิม' 
+            ในฤดูใบไม้ผลิของวันนั้น ฉันสร้างกระจกบานเล็กบานหนึ่งขึ้นมา แล้วก็ตั้งชื่อให้มันว่า 'ยอนซิม' 
             ```
             ```
             And, I happened to catch a signal while tuning out numerous noises and shatterings.
-            และฉัน ก็จับโดนสัญญาณสัญญาณหนึ่ง ในขณะที่กำลังลองจูนคลื่น และการแผ่กระจาย
+            และฉัน ก็จับโดนสัญญาณหนึ่งโดยบังเอิญ ในขณะที่กำลังจูนคลื่นผ่านเสียงรบกวน และการแผ่กระจายนับไม่ถ้วน
+            ```
+            Yi Sang: In Yeonsim, I met you at last.
+            ยี่ซัง: ในที่สุด ฉันก็ได้เจอนาย ในยอนซิมแห่งนั้น  
+            ```
+
+        ```
+        Yi Sang: My left-handed self... beautiful and serene.
+        ยี่ซัง: ตัวฉันที่กลับด้าน... งดงาม และนิ่งสงบ
+        ```
+        ```
+        Yi Sang: It's a pleasure to meet you. I am...
+        ยี่ซัง: มันเป็นเกียรติมากที่ได้พบนาย ฉันชื่อ...
+        ```
+
+        ---
+
+        <img src="../images/None_Extra.png" alt="SangYi" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sang Yi: Yi Sang, isn't it. What a peculiar experience this is.
+        ซังยี่: ยี่ซังใช่ไหม เป็นประสบการณ์ที่น่าประหลาดใจอะไรเยี่ยงนี้
+        ```
+        ```
+        Sang Yi: And that mirror you're holding...
+        ซังยี่: แล้วกระจกที่เจ้าถืออยู่...
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: It's what I call Yeonsim.
+        ยี่ซัง: เออ ผมเรียกมันว่ายอนซิมน่ะครับ
+        ```
+
+        ---
+
+        <img src="../images/None_Extra.png" alt="SangYi" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sang Yi: Yeonsim, huh... (硏, to grind or study; 尋, to seek)
+        ซังยี่: ยอนซิมเหรอ... (ยอน ที่แปลว่าขวนขวายหรือเรียนรู้ กับ ซิม ที่แปลว่าเสาะหา)
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: This is a product of grinding something... scraping even the mind to polish it.
+        ยี่ซัง: นี้เป็นผลลัพธ์ของการขวนขวายบางสิ่ง... ทำทุกอย่างเพื่อให้ได้มันมา แม้จะต้องสละความคิดเดิม ๆ เพื่อขัดเกลามันให้สมบูรณ์
+        ```
+
+        ---
+
+        <img src="../images/None_Extra.png" alt="SangYi" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sang Yi: I see. I suppose all versions of Yi Sang were dedicated to research.
+        ซังยี่: อื้ม อย่างนี่นี้เอง ฉันเดาว่าทุกเวอร์ชันของยีซัง เหมือนจะบ้าวิจัยกันหมดเลยสินะ  
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: You have wings on your back, if my eyes aren't being deceitful.
+        ยี่ซัง: นายมีปีกอยู่ข้างหลังด้วย ถ้าตาผมไม่เพี้ยน
+        ```
+
+        ---
+
+        <img src="../images/None_Extra.png" alt="SangYi" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sang Yi: ...What do you think of them?
+        ซังยี่: ...นายคิดว่าพวกมันเป็นไงล่ะ?
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: ...Resplendent.
+        ยี่ซํง: ...งดงามมากครับ
+        ```
+        ```
+        Yi Sang: They look quite warm... and free.
+        ยี่ซัง: พวกมันดู อบอุ่น... และมีอิสระ
+        ```
+
+        * เสียงในหัว
+
+            ```
+            We looked into and ahead of each other.
+            พวกเรามองกันและกัน และเข้าไปในอีกคนหนึ่ง
             ```
 
         ---
 
-        ```
-        Yi Sang: In Yeonsim, I met you at last.
-        ยี่ซัง: <*ถีงนี้,พักกินข้าวเย็น+อาบน้ำ>
-        ```
-        ```
-        Yi Sang: My left-handed self... beautiful and serene.
-        ยี่ซัง: 
-        ```
-        ```
-        Yi Sang: It's a pleasure to meet you. I am...
-        ยี่ซัง: 
-        ```
+        **Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนลีกออฟไนน์ที่ผลิบาน**
 
         ---
 
-        ```
-        Sang Yi: Yi Sang, isn't it. What a peculiar experience this is.
-        ซังยี่: 
-        ```
-        ```
-        Sang Yi: And that mirror you're holding...
-        ซังยี่: 
-        ```
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            I only made minor modifications to Brother Young-ji's work.
+            ฉันแค่ปรับแต่งงานที่พี่ยังจีทำเอาไว้นิดหน่อย
+            ```
+            ```
+            I wanted to show a reflection of any possibility in its unvarnished image, without a blur.
+            ฉันอยากที่จะกลั่นกรองให้เป็นที่ประจักษ์ ถึงภาพสะทัอนแห่งความเป็นไปได้นับอนันต์ที่ไม่หลวงหลอก และไม่เบลอ
+            ```
 
         ---
 
-        ```
-        Yi Sang: It's what I call Yeonsim.
-        ยี่ซัง: 
-        ```
-
-        ---
-
-        ```
-        Sang Yi: Yeonsim, huh... (硏, to grind or study; 尋, to seek)
-        ```
-
-        ---
-
-        ```
-        Yi Sang: This is a product of grinding something... scraping even the mind to polish it.
-        ```
-
-        ---
-
-        ```
-        Sang Yi: I see. I suppose all versions of Yi Sang were dedicated to research.
-        ```
-
-        ---
-
-        ```
-        Yi Sang: You have wings on your back, if my eyes aren't being deceitful.
-        ```
-
-        ---
-
-        ```
-        Sang Yi: ...What do you think of them?
-        ```
-
-        ---
-
-        ```
-        Yi Sang: ...Resplendent.
-        ```
-        ```
-        Yi Sang: They look quite warm... and free.
-        ```
-        ```
-        Yi Sang: We looked into and ahead of each other.
-        ```
-
-        ---
-
-        ```
-        Location:Blossoming League of Nine Littérateurs
-        ```
-
-
-        ---
-
-        ```
-        Yi Sang: I only made minor modifications to Brother Young-ji's work.
-        ```
-        ```
-        Yi Sang: I wanted to show a reflection of any possibility in its unvarnished image, without a blur.
-        ```
-
-        ---
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: The stars I saw while lying on the ground here seemed so far away...
+        ฮงหลู่: ดวงดาวที่ฉันเห็น ในตอนที่นอนอยู่บนพื้นนี้ดูไกลมากเลย...
         ```
         ```
         Hong Lu: Yet it was possible to see them up close.
+        ฮงหลู่: แต่ถึงอย่างนั้น มันก็เป็นไปได้ที่จะมองเห็นพวกมันอย่างใกล้ ๆ <*ถึงนี้,พักกินข้าวเที่ยง>
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Is this why I haven't been able to see you lately? To discover this? I thought you caved to your yearning for rice and went back to S Corp's district...
+        ดงแบ็ก: 
         ```
         ```
         Dongbaek: I'll say, though... This isn't half bad.
+        ดงแบ็ก: 
         ```
         ```
         Dongbaek: Dongrang, why are you laughing like that?
+        ดงแบ็ก: 
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: It's just funny that you're talking so ferociously when your eyes are full of curious twinkles.
+        ดงรัง: 
         ```
 
         ---

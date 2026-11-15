@@ -14295,11 +14295,11 @@
 
         ```
         Hong Lu: Did you know? They say every invention carries hints of the hopes and dreams of its inventor.
-        ฮงหลู่: นายรู้หรือเปล่า? ว่าพวกเขาว่ากันว่า ไม่ว่าจะเป็นนวัฒนกรรมแบบไหน ก็ล้วนแบกรับคำใบ้แห่งความหวังและความฝันของผู้ประดิษฐ์
+        ฮงหลู่: นายรู้หรือเปล่า? ว่าพวกเขาว่ากันว่า ทุกนวัฒนกรรมล้วนแบกรับคำใบ้แห่งความหวังและความฝันของผู้ประดิษฐ์
         ```
         ```
         Hong Lu: Discovering them is one of the spectators' joys. It's a tidbit that's good to know.
-        ฮงหลู่: 
+        ฮงหลู่: และการที่ได้ ค้นพบมันแบบนี้ ก็ถือเป็นหนึ่งในความสุขของผู้จ้องมอง เป็นเกร็ดความรู้ที่น่าสนใจดีเนอะ
         ```
 
         ---
@@ -14308,7 +14308,7 @@
 
         ```
         Dongrang: So, Yi Sang, what do you plan to do with this technology?
-        ดงรัง: 
+        ดงรัง: แล้วยี่ซัง นายตั้งใจจะทำอะไรกับเทคโนโลยีนี้หรอ?
         ```
 
         ---
@@ -14317,7 +14317,7 @@
 
         ```
         Yi Sang: Do... what exactly?
-        ยี่ซัง: 
+        ยี่ซัง: ทำ... อะไรหรอ?
         ```
 
         ---
@@ -14326,60 +14326,81 @@
 
         ```
         Dongrang: Brother Young-ji's glass window is already making the rounds. Researchers from other Nests have taken an interest, or so I've heard.
-        ดงรัง: 
+        ดงรัง: กระจกแก้วของพี่ยังจีแพร่สะพัดไปใหญ่แล้ว พวกนักวิจัยจากเนสอื่นก็ดูจะสนใจมาก เท่าที่ฉันได้ยินมา
         ```
         ```
         Dongrang: Really... We rarely saw visitors in the past, but now we might have to start punching tickets so all those people will stand in line.
-        ดงรัง: 
+        ดงรัง: เอาเข้าจริง... พวกเราแทบไม่เคยวี่แววของผู้เยี่ยมชมในอดีตเลย แต่งวดนี้ มีหวังต้องเริ่มตรวจตั๋ว แล้วก็ให้เจ้าพวกนั้นยืนต่อคิวแล้วล่ะมั้ง
         ```
         ```
         Dongrang: So if you announce your work here...
-        ดงรัง: 
+        ดงรัง: เพราะงั้นนายเปิดตัวงานของนายที่นี้...
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: Dongrang, I have absolutely no intention of announcing this.
+        ยี่ซัง: โทษนะดงรัง ฉันไม่มีความตั้งใจเลยที่จะเปิดตัวเจ้านี้
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: ...None? At all?
+        ดงรัง: ...ไม่? เลยหรอ?
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: All that I ask...
+        ยี่ซัง: ทั้งหมดที่ผมต้องการ... 
         ```
         ```
         Yi Sang: Is to keep this as a moment of laughter, solely between us.
+        ยี่ซัง: คือเก็บช่วงเวลาของเสียงหัวเราะเอาไว้ ระหว่างพวกเราแค่กลุ่มเดียว
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dongrang: ……
+        Dongrang: ......
+        ดงรัง: ......
         ```
         ```
         Dongrang: Look, just what is your idea of...
+        ดงรัง: นี้ แล้วอะไรคือแนวคิดของ(สิ่งที่นายเลือกล่ะ)...
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Pft... Yi Sang. That was the second funniest moment I've seen out of you.
+        ดงแบ็ก: ฟิ่บ *กลั้นขำไม่อยู่*... ฉันยกให้นั่นเป็นโมเมนต์ที่โคตรตลกอันดับสองของฉันเลย ที่เคยเห็นจากนาย
         ```
         ```
         Dongbaek: The first is... y'know, when the yellow calf was being fed milk, and it suddenly licked his hair... Pfh...
+        ดงแบ็ก: ส่วนอันดับหนึ่งก็... แบบว่า ในตอนที่เจ้าวัวสีเหลืองกำลังถูกรีดนมอยู่ แล้วมันก็เลียหัวนาย... ฟิ่บ *ขำแบบเสียเส้น*...
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: True, I've never seen Dongbaek laugh as loudly as then.
+        ดงรัง: <*ถึงนี้,ผมไปนอนแล้ว.ราตรีสวัสดิ์>
         ```
 
         ---

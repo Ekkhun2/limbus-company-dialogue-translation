@@ -14237,7 +14237,7 @@
 
         ```
         Dongbaek: Yi Sang, will you tell him to shut it?
-        ดงแบ็ก: ยี่ซัง ช่วยบอกให้มันหุบปากจะได้ไหม? <*ถีงนี้,กินข้าวเย็น>
+        ดงแบ็ก: ยี่ซัง ช่วยบอกให้มันหุบปากจะได้ไหม?
         ```
 
         ---
@@ -14246,11 +14246,11 @@
 
         ```
         Dongrang: Why don't you first hide your facial recreation of a child who's tried ice cream for the first time?
-        ดงแบ็ก: 
+        ดงแบ็ก: แล้วทำไมเธอถึงไม่ซ่อนใบหน้า ที่เหมือนกับเด็ก—ที่พึ่งกินไอติมเป็นครั้งแรกก่อนล่ะ?
         ```
         ```
         Dongrang: Gubo, why don't you say something? You've been part of the League for fairly long now, so stop standing around like a guest.
-        ดงแบ็ก: 
+        ดงแบ็ก: กุโบะ นายไม่พูดอะไรหน่อยหรอ? นายเองก็เป็นส่วนหนึ่งของสมาพันธ์มาได้สักพักใหญ่แล้วนะ เพราะงั้นก็ช่วยหยุดทำตัวเหินห่างเหมือนเป็นแขกได้แล้ว
         ```
 
         ---
@@ -14259,58 +14259,82 @@
 
         ```
         Don Quixote: ...What more do I have to add? Everyone already seems to be of one mind.
-        ดอน กิโฆเต้: ...
+        ดอน กิโฆเต้: ...เช่นนั้นข้าต้องเอ่ยสิ่งใดด้วยหรือ? ในเมื่อทุกท่านก็ดูเหมือนจะคิดเหมือนกัน
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongback" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: ...If you're trying to be an odd one out, at least have some audacity. Some cold fish you are.
+        ดงแบ็ก: ...ถ้านายอยากจะเป็นแกะดำ อย่างน้อย ๆ ก็ช่วยมีความกล้าหน่อย นายเนี้ยเย็นชาจริง ๆ เลยนะ
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: I see... So this... is how you view the world.
+        ฮงหลู่: แบบนี้สินะ... งั้นนี้... ก็เป็นโลกที่นายมองเห็นหรอ
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: ...The world I view, is it.
+        ยี่ซัง: ...โลกที่ผมมองเห็น สินะ
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Did you know? They say every invention carries hints of the hopes and dreams of its inventor.
+        ฮงหลู่: นายรู้หรือเปล่า? ว่าพวกเขาว่ากันว่า ไม่ว่าจะเป็นนวัฒนกรรมแบบไหน ก็ล้วนแบกรับคำใบ้แห่งความหวังและความฝันของผู้ประดิษฐ์
         ```
         ```
         Hong Lu: Discovering them is one of the spectators' joys. It's a tidbit that's good to know.
+        ฮงหลู่: 
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: So, Yi Sang, what do you plan to do with this technology?
+        ดงรัง: 
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: Do... what exactly?
+        ยี่ซัง: 
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: Brother Young-ji's glass window is already making the rounds. Researchers from other Nests have taken an interest, or so I've heard.
+        ดงรัง: 
         ```
         ```
         Dongrang: Really... We rarely saw visitors in the past, but now we might have to start punching tickets so all those people will stand in line.
+        ดงรัง: 
         ```
         ```
         Dongrang: So if you announce your work here...
+        ดงรัง: 
         ```
 
         ---

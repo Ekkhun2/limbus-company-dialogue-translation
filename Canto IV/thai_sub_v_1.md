@@ -14525,7 +14525,7 @@
 
         ```
         Unknown Boy: Yeah, I guess that must be the reason everyone tried to keep quiet about it.
-        เด็กหนุ่มไม่ทราบชื่อ: เออ ฉันเดาว่านั่นคงจะเป็นเหตุผล ที่ทุกคนพยายามจะปิดปากเงียบเกี่ยวกับมัน <*ถีงนี้,พัก>
+        เด็กหนุ่มไม่ทราบชื่อ: เออ ฉันเดาว่านั่นคงจะเป็นเหตุผล ที่ทุกคนพยายามปิดเงียบเกี่ยวกับมัน
         ```
 
         ---
@@ -14534,24 +14534,30 @@
 
         ```
         Stephanette: Right, do you, by any chance... know a story about the things beyond the Outskirts? It's said there's a thing that lives here... granting wishes to those who are earnest. Wanna hear it?
-        สเตฟาเน่(สเตฟาเน็ตต์): 
+        สเตฟาเน่(สเตฟาเน็ตต์): อา จะว่าไป นายพอจะเคยได้ยิน... เรื่องราวของสิ่งที่อยู่นอกชานเมืองบ้างหรือเปล่า? ที่เขาบอกว่า มีบางสิ่งอาศัยอยู่ที่นี้... และคอยประทานพรให้กับผู้ที่มีความตั้งใจอย่างแท้จริง อยากฟังไหม? 
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="UnKnownBoy" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Unknown Boy: Sure. I always look forward to your stories.
-        เด็กหนุ่มไม่ทราบชื่อ: 
+        เด็กหนุ่มไม่ทราบชื่อ: แน่นอน ฉันน่ะยังไงก็ต้องอยากฟัง เรื่องราวของเธออยู่แล้ว
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="Staphanette" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Stephanette: Can it wait just a moment? I saw something nice over there.
-        สเตฟาเน่(สเตฟาเน็ตต์): 
+        สเตฟาเน่(สเตฟาเน็ตต์): งั้นนายช่วยรอแปปนึงนะ? เหมือนฉันเห็นอะไรน่าสนใจอยู่ตรงนั้นด้วย
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="UnknownBoy" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Unknown Boy: ......
@@ -14559,19 +14565,19 @@
         ```
         ```
         Unknown Boy: When we look up at our sky... all we see is a pinch of muddled light.
-        เด็กหนุ่มไม่ทราบชื่อ: 
+        เด็กหนุ่มไม่ทราบชื่อ: ตอนที่เรามองขึ้นไปในท้องฟ้า... สิ่งที่เราเห็น ก็มีเพียงหยิบมือของแสงที่ยุ่งเหยิง <*ยังไม่เสร็จ>
         ```
         ```
         Unknown Boy: But here...
-        เด็กหนุ่มไม่ทราบชื่อ: 
+        เด็กหนุ่มไม่ทราบชื่อ: แต่ที่นี้... 
         ```
         ```
         Unknown Boy: I can see lone stars looking down at us.
-        เด็กหนุ่มไม่ทราบชื่อ: 
+        เด็กหนุ่มไม่ทราบชื่อ: ฉันกลับเห็นหมู่ดาราที่โดดเดี่ยวกำลังจ้องมองมาที่เรา
         ```
         ```
         Unknown Boy: Since the city I can see from here is filled with cries of pain and despair...
-        เด็กหนุ่มไม่ทราบชื่อ: 
+        เด็กหนุ่มไม่ทราบชื่อ: อาจเพราะตรงนี้ <*ถีงนี้,ผมจะไปนอนละ/ฝันดีทุกคน>
         ```
         ```
         Unknown Boy: I'd rather... gaze down at people from the loneliness up in the sky and shed tears with them...

@@ -14516,125 +14516,150 @@
 
         ```
         Stephanette: You're right. Was the world beyond the Outskirts one filled with such beautiful and tranquil beings?
-        สเตฟาเน่(สเตฟาเน็ตต์):  
+        สเตฟาเน่(สเตฟาเน็ตต์): ถูกเพ้งเลย ใครจะคิดกันล่ะ ว่าโลกข้างนอกชานเมืองนี้ จะเต็มไปด้วยตัวตนที่งดงาม และเงียบสงบถึงเพียงนี้
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="UnknownBoy" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Unknown Boy: Yeah, I guess that must be the reason everyone tried to keep quiet about it.
+        เด็กหนุ่มไม่ทราบชื่อ: เออ ฉันเดาว่านั่นคงจะเป็นเหตุผล ที่ทุกคนพยายามจะปิดปากเงียบเกี่ยวกับมัน <*ถีงนี้,พัก>
         ```
 
         ---
 
+        <img src="../images/None_Extra.png" alt="Staphanette" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Stephanette: Right, do you, by any chance... know a story about the things beyond the Outskirts? It's said there's a thing that lives here... granting wishes to those who are earnest. Wanna hear it?
+        สเตฟาเน่(สเตฟาเน็ตต์): 
         ```
 
         ---
 
         ```
         Unknown Boy: Sure. I always look forward to your stories.
+        เด็กหนุ่มไม่ทราบชื่อ: 
         ```
 
         ---
 
         ```
         Stephanette: Can it wait just a moment? I saw something nice over there.
+        สเตฟาเน่(สเตฟาเน็ตต์): 
         ```
 
         ---
 
         ```
-        Unknown Boy: ……
+        Unknown Boy: ......
+        เด็กหนุ่มไม่ทราบชื่อ: ......
         ```
         ```
         Unknown Boy: When we look up at our sky... all we see is a pinch of muddled light.
+        เด็กหนุ่มไม่ทราบชื่อ: 
         ```
         ```
         Unknown Boy: But here...
+        เด็กหนุ่มไม่ทราบชื่อ: 
         ```
         ```
         Unknown Boy: I can see lone stars looking down at us.
+        เด็กหนุ่มไม่ทราบชื่อ: 
         ```
         ```
         Unknown Boy: Since the city I can see from here is filled with cries of pain and despair...
+        เด็กหนุ่มไม่ทราบชื่อ: 
         ```
         ```
         Unknown Boy: I'd rather... gaze down at people from the loneliness up in the sky and shed tears with them...
+        เด็กหนุ่มไม่ทราบชื่อ: 
         ```
 
         ---
 
         ```
         Stephanette: Sorry, I was a bit late. There were flowers I'd never seen before, maybe we could smell them as I tell my story...
+        สเตฟาเน่(สเตฟาเน็ตต์): 
         ```
         ```
-        Stephanette: ……
+        Stephanette: ......
+        สเตฟาเน่(สเตฟาเน็ตต์): ......
         ```
         ```
         Stephanette: I see, have you... finally fulfilled your wish?
+        สเตฟาเน่(สเตฟาเน็ตต์): 
         ```
         ```
         Stephanette: Starting today, even if the handful of stars doesn't rise in a corner of the night sky...
+        สเตฟาเน่(สเตฟาเน็ตต์): 
         ```
         ```
         Stephanette: Those stars will light the dark of the lands below instead...
+        สเตฟาเน่(สเตฟาเน็ตต์): 
         ```
         ```
         Stephanette: So it'll all be okay.
+        สเตฟาเน่(สเตฟาเน็ตต์): 
         ```
 
         ---
 
-        ```
-        Location:Blossoming League of Nine Littérateurs
-        ```
-
+        **Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่ผลิบาน**
 
         ---
 
         ```
         Sinclair: What was that just now? It felt like a story from long ago.
+        ซินแคร์: 
         ```
 
         ---
 
         ```
         Faust: As the Golden Bough generated the fathoms of ego in a frenzy... foreign matters were mixed into them.
+        เฟาสท์: 
         ```
         ```
         Faust: K Corp's Singularity: Tears of the so-called 'Tearful Thing'.
+        เฟาสท์: 
         ```
 
         ---
 
         ```
         Gregor: Can sure see that... It's bringing back dead people to fight us.
+        เกรกอร์: 
         ```
 
         ---
 
         ```
         Faust: Yes, they seem to be relevant to the experiences... of melting down.
+        เฟาสท์: 
         ```
 
         ---
 
         ```
         Hong Lu: Did the mind of that Tearful Thing melt into this resonance as well, then?
+        ฮงหลู่: 
         ```
 
         ---
 
         ```
         Sinclair: That means... the Tearful Thing is... no different from people...
+        ซินแคร์: 
         ```
 
         ---
 
         ```
         Faust: Dante, in this world... there are many who seek after stars.
+        เฟาสท์: 
         ```
 ---
 

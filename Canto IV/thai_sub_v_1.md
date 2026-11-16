@@ -14492,8 +14492,150 @@
             ```
             ```
             The decision couldn't have been more glib.
-            ไม่มีการตัดสินใจใด จะโง่เขลาได้เท่านี้อีกแล้ว <*ถีงนี้,พักแซ่บข้าวเที่ยง>
+            ไม่มีการตัดสินใจใด จะโง่เขลาได้เท่านี้อีกแล้ว
             ```
+
+    ---
+
+    * **Episode: 39 | ตอนที่ 39<br>Location: Outreaches of the Outskirts | พื้นที่รอบนอกสุดของชานเมือง**
+
+        <img src="../images/None_Extra.png" alt="UnknownBoy" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Unknown Boy: It's quiet.
+        เด็กหนุ่มไม่ทราบชื่อ: โว้ว... หึ้อ *ตื่นตาตื่นใจ* เงียบชะมัด
+        ```
+        ```
+        Unknown Boy: Nothing like the Outskirts...
+        เด็กหนุ่มไม่ทราบชื่อ: ไม่เหมือน กับชานเมืองเลย...
+        ```
+
+        ---
+
+        <img src="../images/None_Extra.png" alt="Staphanette" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Stephanette: You're right. Was the world beyond the Outskirts one filled with such beautiful and tranquil beings?
+        สเตฟาเน่(สเตฟาเน็ตต์):  
+        ```
+
+        ---
+
+        ```
+        Unknown Boy: Yeah, I guess that must be the reason everyone tried to keep quiet about it.
+        ```
+
+        ---
+
+        ```
+        Stephanette: Right, do you, by any chance... know a story about the things beyond the Outskirts? It's said there's a thing that lives here... granting wishes to those who are earnest. Wanna hear it?
+        ```
+
+        ---
+
+        ```
+        Unknown Boy: Sure. I always look forward to your stories.
+        ```
+
+        ---
+
+        ```
+        Stephanette: Can it wait just a moment? I saw something nice over there.
+        ```
+
+        ---
+
+        ```
+        Unknown Boy: ……
+        ```
+        ```
+        Unknown Boy: When we look up at our sky... all we see is a pinch of muddled light.
+        ```
+        ```
+        Unknown Boy: But here...
+        ```
+        ```
+        Unknown Boy: I can see lone stars looking down at us.
+        ```
+        ```
+        Unknown Boy: Since the city I can see from here is filled with cries of pain and despair...
+        ```
+        ```
+        Unknown Boy: I'd rather... gaze down at people from the loneliness up in the sky and shed tears with them...
+        ```
+
+        ---
+
+        ```
+        Stephanette: Sorry, I was a bit late. There were flowers I'd never seen before, maybe we could smell them as I tell my story...
+        ```
+        ```
+        Stephanette: ……
+        ```
+        ```
+        Stephanette: I see, have you... finally fulfilled your wish?
+        ```
+        ```
+        Stephanette: Starting today, even if the handful of stars doesn't rise in a corner of the night sky...
+        ```
+        ```
+        Stephanette: Those stars will light the dark of the lands below instead...
+        ```
+        ```
+        Stephanette: So it'll all be okay.
+        ```
+
+        ---
+
+        ```
+        Location:Blossoming League of Nine Littérateurs
+        ```
+
+
+        ---
+
+        ```
+        Sinclair: What was that just now? It felt like a story from long ago.
+        ```
+
+        ---
+
+        ```
+        Faust: As the Golden Bough generated the fathoms of ego in a frenzy... foreign matters were mixed into them.
+        ```
+        ```
+        Faust: K Corp's Singularity: Tears of the so-called 'Tearful Thing'.
+        ```
+
+        ---
+
+        ```
+        Gregor: Can sure see that... It's bringing back dead people to fight us.
+        ```
+
+        ---
+
+        ```
+        Faust: Yes, they seem to be relevant to the experiences... of melting down.
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Did the mind of that Tearful Thing melt into this resonance as well, then?
+        ```
+
+        ---
+
+        ```
+        Sinclair: That means... the Tearful Thing is... no different from people...
+        ```
+
+        ---
+
+        ```
+        Faust: Dante, in this world... there are many who seek after stars.
+        ```
 ---
 
 ### เพิ่มเติม

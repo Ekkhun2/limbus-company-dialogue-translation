@@ -14365,7 +14365,7 @@
         ```
         ```
         Yi Sang: Is to keep this as a moment of laughter, solely between us.
-        ยี่ซัง: คือเก็บช่วงเวลาของเสียงหัวเราะเอาไว้ ระหว่างพวกเราแค่กลุ่มเดียว
+        ยี่ซัง: คือเก็บช่วงเวลาของเสียงหัวเราะเอาไว้ ระหว่างกันและกันก็เท่านั้น
         ```
 
         ---
@@ -14391,7 +14391,7 @@
         ```
         ```
         Dongbaek: The first is... y'know, when the yellow calf was being fed milk, and it suddenly licked his hair... Pfh...
-        ดงแบ็ก: ส่วนอันดับหนึ่งก็... แบบว่า ในตอนที่เจ้าวัวสีเหลืองกำลังถูกรีดนมอยู่ แล้วมันก็เลียหัวนาย... ฟิ่บ *ขำแบบเสียเส้น*...
+        ดงแบ็ก: ส่วนอันดับหนึ่งก็... แบบว่า ในตอนที่เจ้าวัวลูกสีเหลืองกำลังถูกป้อนนมอยู่ แล้วจู่ ๆ มันก็เลียหัวนาย... ฟิ่บ *ตลกจนเสียเส้น*...
         ```
 
         ---
@@ -14400,68 +14400,100 @@
 
         ```
         Dongrang: True, I've never seen Dongbaek laugh as loudly as then.
-        ดงรัง: <*ถึงนี้,ผมไปนอนแล้ว.ราตรีสวัสดิ์>
+        ดงรัง: หืม *ถอนหายใจ* ก็จริงแหละ ฉันไม่เคยเห็นดงแบ็กหัวเราะดังขนาดนั้นมาก่อนเลย
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: T-That... I think we'd best forget...
-        ```
-        ```
-        Yi Sang: Human eyes are such glistening and scalding things. Fearing that they would burn me, I tended to watch them from the side.
-        ```
-        ```
-        Yi Sang: However, not seeing the subject straightly does not mean I think lowly of them.
-        ```
-        ```
-        Yi Sang: Even without looking, it is possible to seep in.
+        ยี่ซัง: น-นั่น... ฉันว่าลืม ๆ ไปดีกว่านะ...
         ```
 
+        * เสียงในหัว 
+
+            ```
+            Human eyes are such glistening and scalding things. Fearing that they would burn me, I tended to watch them from the side.
+            ดวงตาของมนุษย์ ช่างแวววาว และเร้าร้อน จนฉันรู้สึกกลัว ว่ามันจะเผาผลาญฉัน ตลอดมา ฉันก็เลยทำได้แต่จ้องมองมันจากอีกฝั่ง
+            ```
+            ```
+            However, not seeing the subject straightly does not mean I think lowly of them.
+            ยี่ซัง: เพราะถึงยังไง การที่ไม่ได้เห็นสิ่งนั้นด้วยตนเอง ก็ไม่ได้แปลว่าฉันด้อยค่ามันเลยสักนิด
+            ```
+            ```
+            Even without looking, it is possible to seep in.
+            ถึงไม่ได้มองมัน แต่เราก็ยังคงรู้สึกถึงมันได้
+            ```
+
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: By the way, is that... the same as the mirror we use?
+        โรเดียน: จะว่าไปแล้ว... มันเหมือนกับกระจกที่พวกเราใช้หรือเปล่านะ?
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: Similar, to be exact. Limbus Company uses a mirror with special modifications.
+        เฟาสท์: คล้ายกันมากกว่า กระจกที่ลิมบัสคอมเพนีใช้เป็นของที่ได้รับการปรับแต่งพิเศษเป็นที่เรียบร้อยแล้ว
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: You invented something incredible, Yi Sang...
+        โรเดียน: นายประดิษฐ์อะไรที่เจ๋งมากเลยนะ ยี่ซัง...
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: What Young-ji and I did... wasn't invention; we discovered, rather.
+        ยี่ซัง: สิ่งที่พี่ยังจีกับฉันทำ... ไม่ใช่การประดิษฐ์; แต่คือการค้นพบมากกว่า
         ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: T Corp... wouldn't have been pleased with the idea of a technology capable of peeping into other worlds without permission.
+        เมอร์โซลท์: ทีคอร์ป... คงชอบใจแน่ ถ้ารู้เข้าว่ามีเทคโนโลยีที่สามารถแอบส่องไปยังโลกอื่นได้ โดยที่ไม่ได้รับอนุญาติ
         ```
         ```
         Meursault: I do believe you know well enough that their problem lies with the lack of permission, not the capability of the technology.
+        เมอร์โซลท์: ผมเชื่อคุณรู้อยู่แล้ว ว่าปัญหาของพวกเขาไม่ใช่การที่ไม่ได้รับอนุญาติ แต่เป็นความสามารถที่เทคโนโลยีทำได้ต่างหาก
         ```
 
         ---
 
-        ```
-        Yi Sang: Although we had figured that...
-        ```
-        ```
-        Yi Sang: We thought it would be fine since it was only used as a pastime between us.
-        ```
-        ```
-        Yi Sang: The decision couldn't have been more glib.
-        ```
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Although we had figured that...
+            แม้ว่าเราจะรู้เรื่องนั่นอยู่ก่อนแล้ว... 
+            ```
+            ```
+            We thought it would be fine since it was only used as a pastime between us.
+            แต่เรากลับคิดว่ามันจะไม่เป็นไร ถ้าเกิดสิ่งนี้เป็นเพียงผลงานที่ถูกสร้างขึ้น ในฐานะงานอดิเรกของพวกเรา
+            ```
+            ```
+            The decision couldn't have been more glib.
+            ไม่มีการตัดสินใจใด จะโง่เขลาได้เท่านี้อีกแล้ว <*ถีงนี้,พักแซ่บข้าวเที่ยง>
+            ```
 ---
 
 ### เพิ่มเติม

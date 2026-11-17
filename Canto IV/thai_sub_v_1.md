@@ -2,7 +2,7 @@
 
 ---
 
-* ***The Unchanging*** **(ผู้ที่ไม่เคยแปรเปลี่ยน)**
+* ***The Unchanging*** **(ผู้ไม่เคยแปรเปลี่ยน)**
 
     * **Episode: 1 | ตอนที่ 1**
 
@@ -5002,7 +5002,7 @@
         ```
         ```
         Faust: Therefore, observing it won't provide much insight that can be applied to K Corp's Singularity or regeneration ampules.
-        เฟาสท์: เพราะงั้น ถึงสังเกตไป ก็ไม่ได้ข้อมูลอะไรที่เป็นประโยชน์ต่อการปรับใช้กับซิงกูลาริตี้ หรือ ยาฟื้นฟูหรอกนะคะ
+        เฟาสท์: เพราะงั้น ถึงสังเกตไป ก็ไม่ได้ข้อมูลอะไรที่เป็นประโยชน์ต่อการปรับใช้กับซิงกูราริตี้ หรือ ยาฟื้นฟูหรอกนะคะ
         ```
 
         ---
@@ -10823,7 +10823,7 @@
 
         ```
         Dongrang: It's an expensive Singularity-based item only famous Fixers, Wing executives, or the richest classes could afford... Even if I asked how you got it, you won't answer me, will you?
-        ดงรัง: มันเป็นของราคาสูงที่ถูกสร้างขึ้นจากซิงกูลาริตี้ ให้กับหมู่ฟิกเซอร์ที่มีชื่อเสียง ผู้บริหารวิงส์ หรือชนชั้นสูงที่มีปัญญาจ่าย... ถึงผมจะถามไปว่าคุณได้มาได้ยังไง แต่คุณก็คงไม่ตอบผมใช่ไหมครับ?
+        ดงรัง: มันเป็นของราคาสูงที่ถูกสร้างขึ้นจากซิงกูราริตี้ ให้กับหมู่ฟิกเซอร์ที่มีชื่อเสียง ผู้บริหารวิงส์ หรือชนชั้นสูงที่มีปัญญาจ่าย... ถึงผมจะถามไปว่าคุณได้มาได้ยังไง แต่คุณก็คงไม่ตอบผมใช่ไหมครับ?
         ```
 
         ---
@@ -11188,7 +11188,7 @@
         ```
         ```
         Dongbaek: The Singularity. Permanently destroying it and everything related by using the concept incinerator.
-        ดงแบ็ก: ซิงกูลาริตี้ ทำลายมันอย่างถาวร และทุกอย่างที่เกี่ยวข้องกับมัน ด้วย เครื่องเผาแนวคิด/คอนเซ็ปต์อินซิเนอเรเตอร์
+        ดงแบ็ก: ซิงกูราริตี้ ทำลายมันอย่างถาวร และทุกอย่างที่เกี่ยวข้องกับมัน ด้วย เครื่องเผาแนวคิด/คอนเซ็ปต์อินซิเนอเรเตอร์
         ```
 
         ---
@@ -11357,7 +11357,7 @@
         ```
         ```
         Dongbaek: Then I'll seize and burn the Singularity.
-        ดงบัง: ก่อนที่ จะช่วงชิงและเผาซิงกูลาริตี้ให้สิ้นซาก
+        ดงบัง: ก่อนที่ จะช่วงชิงและเผาซิงกูราริตี้ให้สิ้นซาก
         ```
 
     ---
@@ -11483,7 +11483,7 @@
 
         ```
         Dongrang: I read the threat you sent, Dongbaek. Said you'll release an Abnormality on the streets if I don't speak about the Singularity.
-        ดงรัง: ฉันอ่านคำขู่ที่เธอส่งมาแล้วนะ ดงแบ็ก ที่ว่าเธอจะปล่อยสิ่งแปลกปลอมพวกนั้นออกมายังถนน ถ้าฉันไม่ยอมพูดเกี่ยวกับเรื่องซิงกูลาริตี้
+        ดงรัง: ฉันอ่านคำขู่ที่เธอส่งมาแล้วนะ ดงแบ็ก ที่ว่าเธอจะปล่อยสิ่งแปลกปลอมพวกนั้นออกมายังถนน ถ้าฉันไม่ยอมพูดเกี่ยวกับเรื่องซิงกูราริตี้
         ```
         ```
         Dongrang: I know you were always fond of radical events... But I didn't think you'd actually do it.
@@ -11822,7 +11822,7 @@
         ```
         ```
         Dongrang: You probably told your followers that it was to investigate the Singularity, but in reality, you figured out that you could find pieces of technology you could use as weapons, didn't you? Like E.G.O.
-        ดงรัง: เธอเองก็คงบอกกับผู้ติดตามของตัวเองว่า ที่ทำไปทั้งหมดนี้ ก็เพื่อการสืบสวนสอบสวนซิงกูลาริตี้ที่เขาลือกัน แต่ในความเป็นจริง เธอรู้อยู่แก่ใจว่าต้องหาเทคโนโลยีที่สามารถใช้เป็นอาวุธได้จากที่ไหน ใช่รึเปล่าล่ะ? แบบอีโก้อะไรเทือกงั้นที่สามารถใช้พลิกเกมได้
+        ดงรัง: เธอเองก็คงบอกกับผู้ติดตามของตัวเองว่า ที่ทำไปทั้งหมดนี้ ก็เพื่อการสืบสวนสอบสวนซิงกูราริตี้ที่เขาลือกัน แต่ในความเป็นจริง เธอรู้อยู่แก่ใจว่าต้องหาเทคโนโลยีที่สามารถใช้เป็นอาวุธได้จากที่ไหน ใช่รึเปล่าล่ะ? แบบอีโก้อะไรเทือกงั้นที่สามารถใช้พลิกเกมได้
         ```
         ```
         Dongrang: I wonder who gave you all that precious information. Shrenne couldn't have known that. How about a game of twenty questions, will you tell me that way?
@@ -12509,7 +12509,7 @@
 
         ```
         Outis: It's unlikely that there was absolutely no technology or Singularity capable of complete revival at some point.
-        เอาทิส: มันก็ไม่ใช่ว่าจะไม่มีเทคโนโลยี หรือซิงกูลาริตี้ ที่สามารถชุบชีวิตคนตายได้หรอกนะ
+        เอาทิส: มันก็ไม่ใช่ว่าจะไม่มีเทคโนโลยี หรือซิงกูราริตี้ ที่สามารถชุบชีวิตคนตายได้หรอกนะ
         ```
         ```
         Outis: However, if such technology did exist... I, for one, haven't heard of it once even during war.
@@ -14565,7 +14565,7 @@
         ```
         ```
         Unknown Boy: When we look up at our sky... all we see is a pinch of muddled light.
-        เด็กหนุ่มไม่ทราบชื่อ: ตอนที่เรามองขึ้นไปในท้องฟ้า... สิ่งที่เราเห็น ก็มีเพียงหยิบมือของแสงที่ยุ่งเหยิง <*ยังไม่เสร็จ>
+        เด็กหนุ่มไม่ทราบชื่อ: ทุกครั้งที่เรามองขึ้นไปในท้องฟ้าที่บ้านเกิด... สิ่งที่เราเห็น ก็มีเพียงหยิบมือของแสงไฟที่ยุ่งเหยิง (อารมณ์แบบสายไฟพันกัน)
         ```
         ```
         Unknown Boy: But here...
@@ -14577,18 +14577,20 @@
         ```
         ```
         Unknown Boy: Since the city I can see from here is filled with cries of pain and despair...
-        เด็กหนุ่มไม่ทราบชื่อ: อาจเพราะตรงนี้ <*ถีงนี้,ผมจะไปนอนละ/ฝันดีทุกคน>
+        เด็กหนุ่มไม่ทราบชื่อ: หรืออาจเพราะที่นี้ ทำให้ฉันมองเห็นนครได้อย่างชัดเจน นครที่เต็มไปด้วย—เสียงร่ำไห้แห่งความเจ็บปวด และสิ้นหวัง 
         ```
         ```
         Unknown Boy: I'd rather... gaze down at people from the loneliness up in the sky and shed tears with them...
-        เด็กหนุ่มไม่ทราบชื่อ: 
+        เด็กหนุ่มไม่ทราบชื่อ: ถ้าเป็นอย่างงั้น ฉันก็ยอมที่จะ... มองลงมาหาผู้คนที่อยู่เบื่้องล่าง—จากข้างบนที่โดดเดี่ยว บนท้องฟ้า และหลั่งน้ำตาไปกับพวกเขาด้วย...
         ```
 
         ---
 
+        <img src="../images/None_Extra.png" alt="Stephanette" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Stephanette: Sorry, I was a bit late. There were flowers I'd never seen before, maybe we could smell them as I tell my story...
-        สเตฟาเน่(สเตฟาเน็ตต์): 
+        สเตฟาเน่(สเตฟาเน็ตต์): โทษนะที่ทำให้รอ พอดีว่ามีดอกไม้ที่ฉันไม่เคยเห็นอยู่ด้วย บางทีเราน่าจะดมกลิ่นมัน ในตอนที่ฉันเล่าเรื่องนะ...
         ```
         ```
         Stephanette: ......
@@ -14596,19 +14598,19 @@
         ```
         ```
         Stephanette: I see, have you... finally fulfilled your wish?
-        สเตฟาเน่(สเตฟาเน็ตต์): 
+        สเตฟาเน่(สเตฟาเน็ตต์): งี้เอง นาย... ได้เติมเต็มความปรารถนาของนายไปแล้วสินะ? 
         ```
         ```
         Stephanette: Starting today, even if the handful of stars doesn't rise in a corner of the night sky...
-        สเตฟาเน่(สเตฟาเน็ตต์): 
+        สเตฟาเน่(สเตฟาเน็ตต์): ตั้งแต่วันนี้ ถึงแม้ดวงดาวบางส่วน จะไม่ได้ขึ้นที่เส้นขอบฟ้ายามค่ำคืน... 
         ```
         ```
         Stephanette: Those stars will light the dark of the lands below instead...
-        สเตฟาเน่(สเตฟาเน็ตต์): 
+        สเตฟาเน่(สเตฟาเน็ตต์): แต่ดวงดาวพวกนั้น จะส่องสว่าง ขับไล่ความมืดที่อยู่บนดินแดนแห่งนี้
         ```
         ```
         Stephanette: So it'll all be okay.
-        สเตฟาเน่(สเตฟาเน็ตต์): 
+        สเตฟาเน่(สเตฟาเน็ตต์): เพราะงั้น มันจะไม่เป็นไร
         ```
 
         ---
@@ -14617,56 +14619,72 @@
 
         ---
 
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sinclair: What was that just now? It felt like a story from long ago.
-        ซินแคร์: 
+        ซินแคร์: อะเรื่องเมื่อกี้มันคืออะไรหรอครับ? มันรู้สึกอย่างกับว่า เป็นเรื่องราวเมื่อนานมาแล้วเลย
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: As the Golden Bough generated the fathoms of ego in a frenzy... foreign matters were mixed into them.
-        เฟาสท์: 
+        เฟาสท์: ด้วยความที่กิ่งทองสร้างห้วงนี้ขึ้นมาด้วยความคลุ่มคลั่ง... พวกสิ่งแปลกปลอมทั้งหลาย ก็เลยอาจหลุดเข้ามาด้วย
         ```
         ```
         Faust: K Corp's Singularity: Tears of the so-called 'Tearful Thing'.
-        เฟาสท์: 
+        เฟาสท์: อย่างเช่นซิงกูราริตี้ของเคคอร์ป: น้ำตาของสิ่งที่เรียกว่า 'เจ้าน้ำตา'
         ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: Can sure see that... It's bringing back dead people to fight us.
-        เกรกอร์: 
+        เกรกอร์: เห็นแล้วล่ะ... ก็มันเล่นชุบคนตายมาสู้เราไม่หยุดเลย 
         ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: Yes, they seem to be relevant to the experiences... of melting down.
-        เฟาสท์: 
+        เฟาสท์: ใช่ พวกมันดูจะเทียบเคียง... กับการเมลทิงดาวน์ไม่มีผิดเลย 
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Did the mind of that Tearful Thing melt into this resonance as well, then?
-        ฮงหลู่: 
+        ฮงหลู่: ถ้าอย่างงั้น จิตใจของเจ้าหน้าตานั่น ก็จะแหวกเข้ามาในห้วงสอดสะท้อนนี้เหมือนกันหรอครับ? 
         ```
 
         ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: That means... the Tearful Thing is... no different from people...
-        ซินแคร์: 
+        ซินแคร์: มันก็หมายความว่า... เจ้าสิ่งที่เรียกว่าเจ้าน้ำตานั่น... ก็ไม่ได้ต่างอะไรจากพวกเราเลยสิครับ... 
         ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Faust: Dante, in this world... there are many who seek after stars.
-        เฟาสท์: 
+        เฟาสท์: ดันเต้ ในโลกใบนี้... ล้วนเต็มไปด้วยผู้คนที่ไล่ตามดารา
         ```
+
+    ---
 ---
 
 ### เพิ่มเติม

@@ -14755,117 +14755,166 @@
 
         ```
         Yi Sang: Neat, you say...
+        ยี่ซัง: พูดว่าดีสินะ... 
         ```
         ```
         Yi Sang: Originally, children used to run in these streets.
+        ยี่ซัง: เดิมทีแล้วที่นี้ ก็เคยมีเด็ก ที่วิ่งเล่นไปวิ่งมาบนถนน
         ```
         ```
         Yi Sang: Although there weren't many... they came into my view on occasion.
+        ยี่ซัง: ถึงแม้จะไม่ได้มากอะไร... แต่พวกเขา ก็ผ่านเข้ามาในสายตาฉันบ้างเป็นครั้งคร่าว
         ```
         ```
         Yi Sang: Even a single abandoned ball could keep a smile on their faces.
+        ยี่ซัง: แม้จะมีบอลถูกทิ้งไว้แค่ลูกเดียว แต่นั้นก็เพียงพอ ที่จะทำให้พวกเขายังคงมีรอยยิ้มต่อไป
         ```
 
         ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Don Quixote: I am vastly fond of youths as well! Are they not the most innocent beings?
+        ดอน กิโฆเต้: ข้าเองก็รักผู้เยาวน์มากเหมือนกัน! พวกเขาน่ะเป็นสิ่งมีชีวิตที่บริสุทธิ์ที่สุดเลยเนอะ?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: But they're nowhere to be seen now. Where could they have gone?
+        ดงรัง: แต่เดี๋ยวนี้ก็ไม่ค่อยเห็นแล้วนี้ พวกเขาจะไปไหนได้นะ? 
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: Once children are old enough to learn language, they are taken to factories.
+        ยี่ซัง: พอเด็กโตพอจนรู้ภาษา พวกเขาก็จะถูกพาตัวไปที่โรงงาน
         ```
         ```
         Yi Sang: Among them are those I made... those factories whose architecture I designed with my hands.
+        ยี่ซัง: และจำนวนหนึ่งในพวกนั้นก็เป็นผลงานที่ฉันสร้าง... โรงงานที่ถูกออกแบบภายใน ทุกระเบียดนิ้วด้วยมือของฉันเอง
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: Yi Sang...
+        ฮงหลู่: ยี่ซัง... <*ถีงนี้,ผมไปนอนละ/ราตรีสวัสดิ์>
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="ํYiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: They were optimized for efficiently monitoring people. It made pressing laborers more convenient than ever.
+        ยี่ซัง: 
         ```
         ```
         Yi Sang: Perhaps the reason my income has been rather high is that the owners of those buildings run a profitable business.
+        ยี่ซัง: 
         ```
 
         ---
 
+        <img src="../images/Heathcliff.png" alt="Heathcliff" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Heathcliff: ……
+        Heathcliff: ......
+        ฮิธคลิฟฟ์: ......
         ```
         ```
         Heathcliff: Well, even so... It's not like you spent that money to show off.
+        ฮิธคลิฟฟ์: 
         ```
         ```
         Heathcliff: You gave it all for the League.
+        ฮิธคลิฟฟ์: 
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: ...Do you remember? The first thing I invented... after getting a job at T Corp.
+        อิชมาเอล: 
         ```
 
         ---
+
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: The identification tags, right?
+        ฮงหลู่: 
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Yeah, I made them to help lost kids.
+        อิชมาเอล: 
         ```
         ```
         Ishmael: It's absurd, I know. Maybe I expected it to help more children reunite with their parents.
+        อิชมาเอล: 
         ```
         ```
         Ishmael: But now... they're being used to monitor the workers' time spent on the job in every factory.
+        อิชมาgอล: 
         ```
         ```
         Ishmael: Heck, I made those things, and even I'm not free from the obligation to wear one while working.
+        อิชมาเอล: 
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: Those were the kinds of achievements we accomplished in T Corp's district.
+        ยี่ซัง: 
         ```
         ```
         Yi Sang: Which is why... I became more engrossed in the mirror.
+        ยี่ซัง: 
         ```
         ```
         Yi Sang: Untainted, unadulterated... I wished to immerse myself in the pure exploration of knowledge.
+        ยี่ซัง: 
         ```
         ```
         Yi Sang: So that... I wouldn't have to take anything from anyone.
+        ยี่ซัง: 
         ```
 
         ---
 
+        <img src="../images/None_Extra.png" alt="SangYi" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Sang Yi: You knew you'd face those predicaments since the moment you made your way to T Corp's territory avoiding exploitation and abuse, haven't you, Yi Sang?
+        ซังยี่: 
         ```
         ```
         Sang Yi: That you'd have to exploit others if you don't want to be.
+        ซังยี่: 
         ```
         ```
         Sang Yi: So don't feel guilty about it.
+        ซังยี่: 
         ```
 
     ---

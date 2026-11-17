@@ -14685,6 +14685,190 @@
         ```
 
     ---
+
+    * **Episode: 40 | ตอนที่ 40<br>Location: Nest T’s Roads | ถนนในเนสที**
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: The space has changed. Where... was this place?
+        ซินแคร์: พื้นที่เปลี่ยนไปแล้ว เราอยู่... ที่ไหนกัน?
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: What are you talking about, Aneung. This is the road we would traverse all the time.
+        ดงรัง: นายพูดเรื่องอะไรน่ะ อาหนึ่ง/อหนึ่ง นี้ก็คือถนนที่พวกเราไปไหนมาไหนตลอดไง
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Sinclair: Oh... Um... Right.
+        ซินแคร์: โอ้... อืม... ครับ
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: This... was the place of my day's profession... or the avenue nearby.
+        ยี่ซํงซ นี้... คือสถานที่ที่ฉันมาทำงานทุกวัน... หรือไม่ก็ถนนแถวนี้
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Rodion: Hm, you researched by night... and during the day?
+        โรเดียน: หืม แปลว่านายวิจัยทั้งตอนกลางคืน... แล้วก็ตอนเช้าด้วยหรอ?
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: I was an architect.
+        ยี่ซัง: ฉันเคยเป็นสถาปนิกน่ะ
+        ```
+
+        ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gregor: Ooh~ An architect, huh... That's a neat occupation you had, Yi Sang.
+        เกรกอร์: โอ้ว~ สถาปนิกเหรอ... ไม่ได้เป็นงานที่ดีสำหรับนายเลยนะ ยี่ซัง <*ถีงนี้,พักกินข้าวเที่ยงและเตรียมตัวไลฟ์>
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: Neat, you say...
+        ```
+        ```
+        Yi Sang: Originally, children used to run in these streets.
+        ```
+        ```
+        Yi Sang: Although there weren't many... they came into my view on occasion.
+        ```
+        ```
+        Yi Sang: Even a single abandoned ball could keep a smile on their faces.
+        ```
+
+        ---
+
+        ```
+        Don Quixote: I am vastly fond of youths as well! Are they not the most innocent beings?
+        ```
+
+        ---
+
+        ```
+        Dongrang: But they're nowhere to be seen now. Where could they have gone?
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Once children are old enough to learn language, they are taken to factories.
+        ```
+        ```
+        Yi Sang: Among them are those I made... those factories whose architecture I designed with my hands.
+        ```
+
+        ---
+
+        ```
+        Hong Lu: Yi Sang...
+        ```
+
+        ---
+
+        ```
+        Yi Sang: They were optimized for efficiently monitoring people. It made pressing laborers more convenient than ever.
+        ```
+        ```
+        Yi Sang: Perhaps the reason my income has been rather high is that the owners of those buildings run a profitable business.
+        ```
+
+        ---
+
+        ```
+        Heathcliff: ……
+        ```
+        ```
+        Heathcliff: Well, even so... It's not like you spent that money to show off.
+        ```
+        ```
+        Heathcliff: You gave it all for the League.
+        ```
+
+        ---
+
+        ```
+        Ishmael: ...Do you remember? The first thing I invented... after getting a job at T Corp.
+        ```
+
+        ---
+
+        ```
+        Hong Lu: The identification tags, right?
+        ```
+
+        ---
+
+        ```
+        Ishmael: Yeah, I made them to help lost kids.
+        ```
+        ```
+        Ishmael: It's absurd, I know. Maybe I expected it to help more children reunite with their parents.
+        ```
+        ```
+        Ishmael: But now... they're being used to monitor the workers' time spent on the job in every factory.
+        ```
+        ```
+        Ishmael: Heck, I made those things, and even I'm not free from the obligation to wear one while working.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Those were the kinds of achievements we accomplished in T Corp's district.
+        ```
+        ```
+        Yi Sang: Which is why... I became more engrossed in the mirror.
+        ```
+        ```
+        Yi Sang: Untainted, unadulterated... I wished to immerse myself in the pure exploration of knowledge.
+        ```
+        ```
+        Yi Sang: So that... I wouldn't have to take anything from anyone.
+        ```
+
+        ---
+
+        ```
+        Sang Yi: You knew you'd face those predicaments since the moment you made your way to T Corp's territory avoiding exploitation and abuse, haven't you, Yi Sang?
+        ```
+        ```
+        Sang Yi: That you'd have to exploit others if you don't want to be.
+        ```
+        ```
+        Sang Yi: So don't feel guilty about it.
+        ```
+
+    ---
 ---
 
 ### เพิ่มเติม

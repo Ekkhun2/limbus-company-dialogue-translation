@@ -14807,7 +14807,7 @@
 
         ```
         Hong Lu: Yi Sang...
-        ฮงหลู่: ยี่ซัง... <*ถีงนี้,ผมไปนอนละ/ราตรีสวัสดิ์>
+        ฮงหลู่: ยี่ซัง...
         ```
 
         ---
@@ -14816,11 +14816,11 @@
 
         ```
         Yi Sang: They were optimized for efficiently monitoring people. It made pressing laborers more convenient than ever.
-        ยี่ซัง: 
+        ยี่ซัง: พวกมันถูกปรับแต่ง เพื่อเฝ้าดูผู้คนอย่างมีประสิทธิภาพ และทำให้การกดขี่แรงงาน สะดวกสบายกว่าที่เคยเป็น
         ```
         ```
         Yi Sang: Perhaps the reason my income has been rather high is that the owners of those buildings run a profitable business.
-        ยี่ซัง: 
+        ยี่ซัง: บางทีแล้วสาเหตุที่ฉันมีรายได้ มากขนาดนี้ ก็อาจเพราะเจ้าของโรงงานพวกนั้นกำลังทำธุรกิจ ที่ได้กำไรเป็นจำนวนมาก 
         ```
 
         ---
@@ -14829,15 +14829,15 @@
 
         ```
         Heathcliff: ......
-        ฮิธคลิฟฟ์: ......
+        ฮิธคลิฟฟ์: *เสียงจับกระดาษ* อื้ม หืมหืม *กระแอม*......
         ```
         ```
         Heathcliff: Well, even so... It's not like you spent that money to show off.
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: ก็ ถึงจะเป็นแบบนั้น... แต่นายก็ไม่ได้เอาเงินพวกนั้นไปโอ้อวดสักหน่อยนี้
         ```
         ```
         Heathcliff: You gave it all for the League.
-        ฮิธคลิฟฟ์: 
+        ฮิธคลิฟฟ์: กลับกันสิ่งที่นายทำ คือมอบมันทั้งหมดให้กับสมาพันธ์ของพวกเรา
         ```
 
         ---
@@ -14846,7 +14846,7 @@
 
         ```
         Ishmael: ...Do you remember? The first thing I invented... after getting a job at T Corp.
-        อิชมาเอล: 
+        อิชมาเอล: ...นายจำได้หรือเปล่า? ว่าสิ่งแรกที่ฉันประดิษฐ์... หลังจากได้งานที่ทีคอร์ป...
         ```
 
         ---
@@ -14855,7 +14855,7 @@
 
         ```
         Hong Lu: The identification tags, right?
-        ฮงหลู่: 
+        ฮงหลู่: แท็กติดตามตัวใช่ไหมนะ?
         ```
 
         ---
@@ -14864,19 +14864,19 @@
 
         ```
         Ishmael: Yeah, I made them to help lost kids.
-        อิชมาเอล: 
+        อิชมาเอล: ใช่ ฉันสร้างมันขึ้นมาเพื่อช่วยหาเด็กหลง
         ```
         ```
         Ishmael: It's absurd, I know. Maybe I expected it to help more children reunite with their parents.
-        อิชมาเอล: 
+        อิชมาเอล: ฉันรู้ว่ามันฟังดูไร้สาระ แต่บางที ฉันอาจจะคาดหวังให้มันช่วยเด็ก ให้พวกเขาได้กลับไปหาพ่อแม่ของตัวเองได้มากขึ้น
         ```
         ```
         Ishmael: But now... they're being used to monitor the workers' time spent on the job in every factory.
-        อิชมาgอล: 
+        อิชมาgอล: แต่ตอนนี้... พวกมันกลับถูกใช้ เพื่อสอดแนมเวลางานของลูกจ้างแทบทุกโรงงานเลย
         ```
         ```
         Ishmael: Heck, I made those things, and even I'm not free from the obligation to wear one while working.
-        อิชมาเอล: 
+        อิชมาเอล: ห่าเอ้ย ทั้ง ๆ ที่ฉันก็เป็นคนออกแบบสิ่งนั้นด้วยตัวเองแท้ ๆ แต่ทำไมฉันกลับ—ยังไม่มีอิสรภาพที่จะถอดมันระหว่างทำงานได้เลยนะ
         ```
 
         ---
@@ -14885,19 +14885,19 @@
 
         ```
         Yi Sang: Those were the kinds of achievements we accomplished in T Corp's district.
-        ยี่ซัง: 
+        ยี่ซัง: พวกนั้นคือความสำเร็จ ที่พวกเราสร้างขึ้นในทีคอร์ป
         ```
         ```
         Yi Sang: Which is why... I became more engrossed in the mirror.
-        ยี่ซัง: 
+        ยี่ซัง: และเป็นเหตุผลว่าทำไม... ฉันถึงจดจ่อมากขึ้นกับกระจก... 
         ```
         ```
         Yi Sang: Untainted, unadulterated... I wished to immerse myself in the pure exploration of knowledge.
-        ยี่ซัง: 
+        ยี่ซัง: ที่บริสุทธิ์ และปราศจากการเปลี่ยนแปลง... ฉันอยากที่จะดำดิ่ง ไปกับการอุทิศตนเพื่อสำรวจความรู้
         ```
         ```
         Yi Sang: So that... I wouldn't have to take anything from anyone.
-        ยี่ซัง: 
+        ยี่ซัง: เพื่อที่ว่าฉัน... จะได้ไม่ต้องเอาอะไรจากใครไปอีก
         ```
 
         ---
@@ -14906,15 +14906,15 @@
 
         ```
         Sang Yi: You knew you'd face those predicaments since the moment you made your way to T Corp's territory avoiding exploitation and abuse, haven't you, Yi Sang?
-        ซังยี่: 
+        ซังยี่: นายรู้อยู่แล้ว ว่าสักวันหนึ่ง นายต้องพบเจอกับสถานการณ์เหล่านั้น ตั้งแต่ที่นาย—ตัดสินใจที่จะก้าวเท้าเข้ามาในอาณาเขตของทีคอร์ป เพื่อหลีกหนีการเอารัดเอาเปรียบ และทำร้ายกันใช่ไหมล่ะ ยี่ซํง?
         ```
         ```
         Sang Yi: That you'd have to exploit others if you don't want to be.
-        ซังยี่: 
+        ซังยี่: เพราะงั้นนายถึงต้องโกงคนอื่น แม้ว่านายจะไม่อยากทำก็ตาม
         ```
         ```
         Sang Yi: So don't feel guilty about it.
-        ซังยี่: 
+        ซังยี่: แต่อย่ารู้สึกผิดไปเลยนะ
         ```
 
     ---

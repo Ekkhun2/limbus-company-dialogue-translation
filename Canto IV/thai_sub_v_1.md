@@ -15099,11 +15099,11 @@
 
         ```
         Rodion: Say, Dongrang... How long are you gonna stick to your vet routine?
-        โรเดียน: งั้น ดงรัง... ช่วยตอบฉันทีสิ ว่านายจะอยู่กับงานดูแลสัตว์อีกนานแค่ไหน?
+        โรเดียน: นี้ ดงรัง... นายจะทำงานดูแลสัตว์นั่นอีกนานแค่ไหนกันล่ะ?
         ```
         ```
         Rodion: I made precious time in my packed schedule to check out what Young-ji's group was like... and all I see are children's playthings.
-        โรเดียน: ฉันอุตสาห์เจียดเวลาอันมีค่าในตารางงานที่แน่นเอียดของฉัน เพื่อมาดูว่ากลุ่มยังจีเป็นยังไง... และทั้งหมดที่ฉันเห็น ก็มีแต่ของเด็กเล่นไม่ได้เรื่อง
+        โรเดียน: ทั้ง ๆ ที่ฉันอุตสาห์เจียดเวลาอันมีค่าในตารางงานที่แน่นเอียดของฉัน เพื่อมาดูว่ากลุ่มยังจีเป็นยังไง... และทั้งหมดที่ฉันเห็น ก็มีแต่ของเด็กเล่นไม่ได้เรื่อง
         ```
 
         ---
@@ -15112,130 +15112,182 @@
 
         ```
         Dongrang: Oh, it's been a while, Nul-in. It's a pleasure to see a fellow from my hometown here.
-        ดงรัง: <*ถีงนี้, เตรียมไลฟ์>
+        ดงรัง: โอ้ นู-ริน ไม่เจอกันตั้งนานแนะ ดีใจมากเลยนะ ที่ได้เห็นสหายจากบ้านเกิดแบบนี้
         ```
         ```
         Dongrang: You arrived here later than we did, but it looks like you adapted much faster.
-        ดงรัง: 
+        ดงรัง: เธอมาที่นี้หลังพวกเราแท้ ๆ แต่กลับดูเหมือนว่าเธอ จะปรับตัวได้เร็วกว่าพวกเราซะอีกนะ
         ```
         ```
         Dongrang: But I must say... It's a bit disheartening to hear you call them children's playthings.
-        ดงรัง: 
+        ดงรัง: พูดก็พูดเถอะ... มันก็รู้สึกน้อยใจนิดหน่อย ที่ได้ยินเธอเรียกพวกมันว่าของเด็กเล่น
         ```
         ```
         Dongrang: You won't be saying that once you learn that animals feel pain exactly like we do.
-        ดงรัง: 
+        ดงรัง: เธอจะไม่พูดแบบนั้นแน่ ถ้าเธอรู้ ว่าสัตว์พวกนั้นที่เธอต่อว่า ก็รู้สึกเจ็บได้เหมือนกัน
         ```
 
         ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Rodion: Well, I'll take my words back if those animals start repaying the kindness by bringing money or something~
+        โรเดียน: ก็นะ ไว้ฉันจะถอนคำพูด หลังจากที่ส้ตว์พวกนั้นตอบแทนด้วยการเอาเงินมาให้ก็แล้วกัน~
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Dongbaek: Nul-in, do you take this for a gaudy auction where technology is sold for cash?
+        ดงแบ็ก: นู-อิน เธอคิดว่านี่เป็นงานประมูลหรูหรา ที่เอาเทคโนโลยีมาขายแลกตังหรือไง?
         ```
         ```
         Dongbaek: You didn't even care to cast a glance at us mere months ago, calling illuminators' conferences out of fashion... Have you come now to rake off a piece of the profit you're smelling?
+        ดงแบ็ก: เธอไม่เคยสนใจที่จะเหลียวแลพวกเราเลยเมื่อหลายเดือนก่อน แล้วยังพูดอีกว่า การประชุมไฟส่องสว่างมันตกยุค... แล้วทีนี้ที่เธอมา ก็คงเพราะได้กลิ่นของกำไร ที่เธอจะได้จากการเอาพวกนี้ไปขายใช่ไหมล่ะ?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Dongrang: Dongbaek...
+        ดงรัง: เห่อ เอ่อ *ตกตะลึง* ดงแบ็ก...
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Dongbaek: Don't mistake it for covering for you. I just don't want to see her face, that's all.
+        ดงแบ็ก: อย่าคิดว่าฉันทำแบบนี้เพราะช่วยนายนะ ฉันก็แค่ไม่อยาก ที่จะเห็นหน้ายัยนั่นอีกก็เท่านั้นเอง 
         ```
         ```
         Dongbaek: By the way... What made you so passionate about curing animals? They can't pay the bills or anything. How are you gonna make a living?
+        ดงแบ็ก: จะว่าไป... อะไรกันที่ทำให้นาย หลงใหลในการรักษาสัตว์ขนาดนั้นกันล่ะ? พวกมันก็ไม่ได้จ่ายบิลหรืออะไรทำให้ แล้วนาย จะใช้ชีวิตอยู่ได้ยังไงกัน?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Dongrang: You like to nag a lot. Well, I suppose I could run a chicken restaurant?
+        ดงรัง: อื้ม *ถอนหายใจ* เธอนี้จู้จี้จังเลยนะ ก็ ฉันคิดว่าตัวเอง น่าจะพอเปิดร้านขายไก่ได้นะ? 
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Dongbaek: What?
+        ดงแบ็ก: หะ? 
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Dongrang: Hear me out for a second. I could make chickens grow tons of wings... and cut them off without inflicting any pain.
+        ดงรัง: ฟังฉันก่อน ถ้าฉันสามารถทำให้ไก่งอกปีกออกมาได้ในจำนวนมาก... และตัดพวกมัน โดยไม่สร้างความเจ็บปวด
         ```
         ```
         Dongrang: They only need a single pair to fly. That way, humans get more meat to eat, while chickens lose nothing for it.
+        ดงรัง: ยังไงซะพวกมัน ก็ต้องการแค่ปีกคู่เดียวเพื่อจะบินอยู่แล้ว และพอเป็นอย่างนั้น มนุษย์ก็จะมีเนื้อให้กินมากขึ้น ในขณะที่ไก่ ก็ไม่ต้องเสียอะไรเลย
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Dongbaek: Pshaw...
+        ดงแบ็ก: เหลวไหล...
         ```
 
         ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Yi Sang: What name do you plan to give to the chicken?
+        ยี่ซัง: แล้วนายตั้งใจจะตั้งชื่อไก่ว่าอะไรล่ะ?
         ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Dongrang: Let's see, how about Plumpy Chicken?
+        ดงรัง: จริงด้วย ทุงทุงชิคเก้นเป็นไง?
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Dongbaek: Dongrang, never try naming things again. Got it?
+        ดงแบ็ก: ดงรัง ช่วยอย่าพยายามตั้งชื่ออะไรต่อไปเลยนะ เข้าใจไหม?
         ```
 
         ---
 
-        ```
-        Yi Sang: I may have heard a faint sound at that moment.
-        ```
-        ```
-        Yi Sang: It was the sound of a crack.
-        ```
-        ```
-        Yi Sang: Knowing well what consequences a minuscule crack could bright about, I chose to look past it...
-        ```
-        ```
-        Yi Sang: Perhaps I wanted to pretend that I did not hear it...
-        ```
-        ```
-        Yi Sang: Alas, I was careless in my assumption that I could simply observe slantwise as it comes to pass until it has seeped...
-        ```
-        ```
-        Yi Sang: Realization comes too late.
-        ```
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;>
+
+        * เสียงในหัว
+
+            ```
+            Yi Sang: I may have heard a faint sound at that moment.
+            ยี่ซัง: ตอนนั้น เหมือนฉันได้ยินเสียง แผ่วเบาของบางอย่างที่ดังขึ้น
+            ```
+            ```
+            Yi Sang: It was the sound of a crack.
+            ยี่ซัง: มันคือเสียงของรอยแตก 
+            ```
+            ```
+            Yi Sang: Knowing well what consequences a minuscule crack could bright about, I chose to look past it...
+            ยี่ซัง: และฉํนก็รู้อยู่แก่ใจอยู่แล้ว ว่ารอยแตกเพียงเล็กน้อยจะทำให้เกิดอะไรขึ้น แต่ฉัน กลับเลือก ที่จะมองข้ามมัน...
+            ```
+            ```
+            Yi Sang: Perhaps I wanted to pretend that I did not hear it...
+            ยี่ซัง: บางที ฉันอาจจะอยากแสร้งทำ ว่าไม่ได้ยินเสียงนั้น... 
+            ```
+            ```
+            Yi Sang: Alas, I was careless in my assumption that I could simply observe slantwise as it comes to pass until it has seeped...
+            ยี่ซัง: แต่สุดท้าย ฉันก็ปล่อยปะละเลยสมมุติฐานที่ฉันตั้งเอาไว้ ว่า <*ถีงนี้,พักกินข้าวเย็น>
+            ```
+            ```
+            Yi Sang: Realization comes too late.
+            ยี่ซัง: 
+            ```
 
         ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Dongrang: You know, Dongbaek?
+        ดงรัง: 
         ```
         ```
         Dongrang: Your words weren't particularly reassuring, either.
+        ดงรัง: 
         ```
         ```
         Dongrang: It was actually what Nul-in said that gave me an important lesson.
+        ดงรัง: 
         ```
         ```
         Dongrang: That no matter how hard I try, if technology doesn't have an immediate use... no one will give it a passing glance...
+        ดงรัง: 
         ```
 ---
 

@@ -14914,9 +14914,115 @@
         ```
         ```
         Sang Yi: So don't feel guilty about it.
-        ซังยี่: แต่อย่ารู้สึกผิดไปเลยนะ
+        ซังยี่: แต่จงอย่ารู้สึกผิดไปเลย
         ```
 
+    ---
+
+    * **Episode: 41 | ตอนที่ <br>Location: Rowdy League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เอะอะ**
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Yi Sang: Flowers fell, and all things began to make busy steps.
+            ยี่ซัง: ดอกไม้ร่วงหล่น และทุกอย่างก็เริ่มที่จะเดินไปอย่างเร่งรีบ
+            ```
+            ```
+            Yi Sang: More people are visiting us each day, and twice the noise fills the air.
+            ยี่ซัง: คนมากขึ้นต่างพากันมาเยี่ยมชมเราในทุกวัน จนเสียงรบกวนที่เกิด แทบทวีเป็นสองเท่ากระจายไปทั่วอากาศ
+            ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: This isn't supposed to be a downtown marketplace or anything. It's gotten way too noisy here.
+        ดงแบ็ก: นี้ไม่ใช่ตลาดนัดในเมือง ที่ให้ใครเข้าออกได้ หรืออะไรแบบนั้นนะ มันชักจะดังเกินไปแล้ว
+        ```
+        ```
+        Dongbaek: ...Nine was the right amount of people.
+        ดงแบ็ก: ...เก้าคนน่ะเหมาะกับที่นี้ที่สุดแล้ว
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Oho... Many new curiosities have taken up the space! May I be permitted to touch the inventions here?
+        ดอน กิโฆเต้: โอ้ว... มีแต่ของใหม่แปลก ๆ เต็มไปหมดเลย! ท่านจักว่ากระไรไหมถ้าหากข้า—จะขอจับเจ้าพวกนี้สักหน่อย?
+        ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: ...Will you shut that mouth?
+        ดงแบ็ก: ...นายช่วยหุบปากจะได้ไหม?
+        ```
+
+        ---
+
+        <img src="../images/DonQuixote.png" alt="DonQuixote" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Don Quixote: Khmgh...
+        ดอน กิโฆเต้: อึก อื้มมม... *เหงื่อตก*
+        ```
+
+        ---
+
+        <img src="../images/Dante.png" alt="Dante" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dante: <How scary...>
+        ดันเต้: <น่ากลัวแฮะ...>
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: Don't be so sour, Dongbaek. Liveliness is good to have.
+        ดงรัง: อย่าหงุดหงิดไปเลย ดงแบ็ก ความมีชีวิตชีวาน่ะ มีไว้ก็ไม่เสียหายนะ
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            Yi Sang: Some considered the assemblage to be mere noise... // Some did not welcome it...
+            ยี่ซํง: บางคน ก็มองว่าการรวมตัวเป็นแค่เสียงน่ารำคาญ... // และไม่ต้อนรับ...
+            ```
+            ```
+            Yi Sang: While some considered the commotion to be growth. // And some saw it as a step in a new direction.
+            ยี่ซํง: ในขณะที่บางคน ก็มองว่านี้ คือความวุ่นวายเพื่อเติบโต // และเห็นว่ามันคือก้าวแรก ในทิศทางใหม่
+            ```
+            ```
+            Yi Sang: As for me... I saw it slantwise as always.
+            ยี่ซํง: แต่สำหรับฉัน... กลับเห็นว่ามัน ยังเอียงเหมือนเคย <*ถีงนี้,พักกินข้าวเที่ยง>
+            ```
+            ```
+            Yi Sang: As heavy rain might pour for days after a spell of clear skies...
+            ยี่ซํง: 
+            ```
+            ```
+            Yi Sang: I saw no meaning in attempting to fathom the caprices of the weather.
+            ยี่ซํง: 
+            ```
+            ```
+            Yi Sang: I would simply wait for things to calm, looking out for the day's arrival.
+            ยี่ซํง: 
+            ```
+        
     ---
 ---
 

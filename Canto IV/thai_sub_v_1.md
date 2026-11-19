@@ -15018,13 +15018,225 @@
             Yi Sang: I saw no meaning in attempting to fathom the caprices of the weather.
             ยี่ซํง: ฉันไม่เห็นประโยชน์ ของการพยายามทำความเข้าใจ ถึงอารมณ์ที่เอาแน่เอานอนไม่ได้ของดินฟ้าอากาศ
             ```
-            ```
-            Yi Sang: I would simply wait for things to calm, looking out for the day's arrival.
-            ยี่ซํง: และเพราะอย่างงั้น ฉันจะรอ จนกว่าทุกอย่างจะสงบลง รอคอยวันนั้นที่จะมาถึง
-            ```
+    
+        ```
+        Yi Sang: I would simply wait for things to calm, looking out for the day's arrival.
+        ยี่ซํง: ฉันจะแค่รอให้ทุกอย่างจะสงบลง และเฝ้าคอยวันนั้นที่จะมาถึง
+        ```
         
     ---
 
+    * **Episode:  42 | ตอนที่ <br>Location: Rowdy League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เอะอะ**
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: ......
+        ดงแบ็ก: ......
+        ```
+        ```
+        Dongbaek: Young-ji hasn't shown up for this conference as well.
+        ดงแบ็ก: รอบนี้ยังจีก็ไม่ได้มาประชุมเหมือนกัน
+        ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: I heard he's been officially invited by a Wing. This is probably the second time.
+        ดงรัง: เหมือนฉันจะเคยได้ยินมาแว่ว ๆ นะ ว่าเขาได้รับเชิญจากวิงส์อย่างเป็นทางการด้วยล่ะ นี้ก็น่ารอบที่สองแล้ว 
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Faust: You don't happen to know which Wing it was, do you?
+        เฟาสท์: นายคงไม่ดันรู้เรื่องหรอกใช่ไหม ว่ามันคือวิงส์อะไร?
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Gregor: No one seems to know.
+        เกรกอร์: ก็ ดูเหมือนจะไม่มีใครรู้นะ
+        ```
+
+        ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Dongrang: Why are you displeased about it? You're the one who turned down Brother Young-ji's offer to go with him, Dongbaek.
+        ดงรัง: ทำไมถึงหน้ามุ้ยขนาดนั้นกันเล่า? ก็ในเมื่อเธอเองไม่ใช่หรอ ที่เป็นคนปฎิเสธคำชวนของพี่ยังจีว่าจะไปด้วยน่ะ ใช่ไหม ดงแบ็ก
+        ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Dongbaek: ......
+        ดงแบ็ก: ชิ *ไม่พอใจ*
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Dongrang: There's no need to be so fixated on the number nine. What if there are eight or five of us?
+        ดงรัง: ไม่เห็นจำเป็นเลยที่จะต้อง—กำหนดให้มันถึงอยู่แค่เลขเก้า แล้วมันจะเกิดอะไรขึ้นล่ะ ถ้าพวกเรา เหลือแค่แปด หรือห้า?
+        ```
+
+        ---
+
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Rodion: Say, Dongrang... How long are you gonna stick to your vet routine?
+        โรเดียน: งั้น ดงรัง... ช่วยตอบฉันทีสิ ว่านายจะอยู่กับงานดูแลสัตว์อีกนานแค่ไหน?
+        ```
+        ```
+        Rodion: I made precious time in my packed schedule to check out what Young-ji's group was like... and all I see are children's playthings.
+        โรเดียน: ฉันอุตสาห์เจียดเวลาอันมีค่าในตารางงานที่แน่นเอียดของฉัน เพื่อมาดูว่ากลุ่มยังจีเป็นยังไง... และทั้งหมดที่ฉันเห็น ก็มีแต่ของเด็กเล่นไม่ได้เรื่อง
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Dongrang: Oh, it's been a while, Nul-in. It's a pleasure to see a fellow from my hometown here.
+        ดงรัง: <*ถีงนี้, เตรียมไลฟ์>
+        ```
+        ```
+        Dongrang: You arrived here later than we did, but it looks like you adapted much faster.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: But I must say... It's a bit disheartening to hear you call them children's playthings.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: You won't be saying that once you learn that animals feel pain exactly like we do.
+        ดงรัง: 
+        ```
+
+        ---
+
+        ```
+        Rodion: Well, I'll take my words back if those animals start repaying the kindness by bringing money or something~
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Nul-in, do you take this for a gaudy auction where technology is sold for cash?
+        ```
+        ```
+        Dongbaek: You didn't even care to cast a glance at us mere months ago, calling illuminators' conferences out of fashion... Have you come now to rake off a piece of the profit you're smelling?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Dongbaek...
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Don't mistake it for covering for you. I just don't want to see her face, that's all.
+        ```
+        ```
+        Dongbaek: By the way... What made you so passionate about curing animals? They can't pay the bills or anything. How are you gonna make a living?
+        ```
+
+        ---
+
+        ```
+        Dongrang: You like to nag a lot. Well, I suppose I could run a chicken restaurant?
+        ```
+
+        ---
+
+        ```
+        Dongbaek: What?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Hear me out for a second. I could make chickens grow tons of wings... and cut them off without inflicting any pain.
+        ```
+        ```
+        Dongrang: They only need a single pair to fly. That way, humans get more meat to eat, while chickens lose nothing for it.
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Pshaw...
+        ```
+
+        ---
+
+        ```
+        Yi Sang: What name do you plan to give to the chicken?
+        ```
+
+        ---
+
+        ```
+        Dongrang: Let's see, how about Plumpy Chicken?
+        ```
+
+        ---
+
+        ```
+        Dongbaek: Dongrang, never try naming things again. Got it?
+        ```
+
+        ---
+
+        ```
+        Yi Sang: I may have heard a faint sound at that moment.
+        ```
+        ```
+        Yi Sang: It was the sound of a crack.
+        ```
+        ```
+        Yi Sang: Knowing well what consequences a minuscule crack could bright about, I chose to look past it...
+        ```
+        ```
+        Yi Sang: Perhaps I wanted to pretend that I did not hear it...
+        ```
+        ```
+        Yi Sang: Alas, I was careless in my assumption that I could simply observe slantwise as it comes to pass until it has seeped...
+        ```
+        ```
+        Yi Sang: Realization comes too late.
+        ```
+
+        ---
+
+        ```
+        Dongrang: You know, Dongbaek?
+        ```
+        ```
+        Dongrang: Your words weren't particularly reassuring, either.
+        ```
+        ```
+        Dongrang: It was actually what Nul-in said that gave me an important lesson.
+        ```
+        ```
+        Dongrang: That no matter how hard I try, if technology doesn't have an immediate use... no one will give it a passing glance...
+        ```
 ---
 
 ### เพิ่มเติม

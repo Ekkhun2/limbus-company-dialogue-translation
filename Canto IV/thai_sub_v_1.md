@@ -15000,7 +15000,7 @@
 
             ```
             Yi Sang: Some considered the assemblage to be mere noise... // Some did not welcome it...
-            ยี่ซํง: บางคน ก็มองว่าการรวมตัวเป็นแค่เสียงน่ารำคาญ... // และไม่ต้อนรับ...
+            ยี่ซํง: บางคน ก็มองว่าการรวมตัวครั้งนี้เป็นแค่เสียงน่ารำคาญ... // และไม่ต้อนรับ...
             ```
             ```
             Yi Sang: While some considered the commotion to be growth. // And some saw it as a step in a new direction.
@@ -15008,22 +15008,23 @@
             ```
             ```
             Yi Sang: As for me... I saw it slantwise as always.
-            ยี่ซํง: แต่สำหรับฉัน... กลับเห็นว่ามัน ยังเอียงเหมือนเคย <*ถีงนี้,พักกินข้าวเที่ยง>
+            ยี่ซํง: แต่สำหรับฉัน... ไม่ว่าจะตอนไหน ก็ยังเห็นว่ามันเอียงเหมือนเคย
             ```
             ```
             Yi Sang: As heavy rain might pour for days after a spell of clear skies...
-            ยี่ซํง: 
+            ยี่ซํง: เหมือนกับฝนตกหนักที่อาจโปรยปรายเป็นวัน หลังจากฟ้าโปร่ง... 
             ```
             ```
             Yi Sang: I saw no meaning in attempting to fathom the caprices of the weather.
-            ยี่ซํง: 
+            ยี่ซํง: ฉันไม่เห็นประโยชน์ ของการพยายามทำความเข้าใจ ถึงอารมณ์ที่เอาแน่เอานอนไม่ได้ของดินฟ้าอากาศ
             ```
             ```
             Yi Sang: I would simply wait for things to calm, looking out for the day's arrival.
-            ยี่ซํง: 
+            ยี่ซํง: และเพราะอย่างงั้น ฉันจะรอ จนกว่าทุกอย่างจะสงบลง รอคอยวันนั้นที่จะมาถึง
             ```
         
     ---
+
 ---
 
 ### เพิ่มเติม

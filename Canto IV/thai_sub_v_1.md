@@ -14926,12 +14926,12 @@
         * เสียงในหัว
 
             ```
-            Yi Sang: Flowers fell, and all things began to make busy steps.
-            ยี่ซัง: ดอกไม้ร่วงหล่น และทุกอย่างก็เริ่มที่จะเดินไปอย่างเร่งรีบ
+            Flowers fell, and all things began to make busy steps.
+            ดอกไม้ร่วงหล่น และทุกอย่างก็เริ่มที่จะเดินไปอย่างเร่งรีบ
             ```
             ```
-            Yi Sang: More people are visiting us each day, and twice the noise fills the air.
-            ยี่ซัง: คนมากขึ้นต่างพากันมาเยี่ยมชมเราในทุกวัน จนเสียงรบกวนที่เกิด แทบทวีเป็นสองเท่ากระจายไปทั่วอากาศ
+            More people are visiting us each day, and twice the noise fills the air.
+            คนมากขึ้นต่างพากันมาเยี่ยมชมเราในทุกวัน จนเสียงรบกวนที่เกิด แทบทวีเป็นสองเท่ากระจายไปทั่วอากาศ
             ```
 
         ---
@@ -14999,24 +14999,24 @@
         * เสียงในหัว
 
             ```
-            Yi Sang: Some considered the assemblage to be mere noise... // Some did not welcome it...
-            ยี่ซํง: บางคน ก็มองว่าการรวมตัวครั้งนี้เป็นแค่เสียงน่ารำคาญ... // และไม่ต้อนรับ...
+            Some considered the assemblage to be mere noise... // Some did not welcome it...
+            บางคน ก็มองว่าการรวมตัวครั้งนี้เป็นแค่เสียงน่ารำคาญ... // และไม่ต้อนรับ...
             ```
             ```
-            Yi Sang: While some considered the commotion to be growth. // And some saw it as a step in a new direction.
-            ยี่ซํง: ในขณะที่บางคน ก็มองว่านี้ คือความวุ่นวายเพื่อเติบโต // และเห็นว่ามันคือก้าวแรก ในทิศทางใหม่
+            While some considered the commotion to be growth. // And some saw it as a step in a new direction.
+            ในขณะที่บางคน ก็มองว่านี้ คือความวุ่นวายเพื่อเติบโต // และเห็นว่ามันคือก้าวแรก ในทิศทางใหม่
             ```
             ```
-            Yi Sang: As for me... I saw it slantwise as always.
-            ยี่ซํง: แต่สำหรับฉัน... ไม่ว่าจะตอนไหน ก็ยังเห็นว่ามันเอียงเหมือนเคย
+            As for me... I saw it slantwise as always.
+            แต่สำหรับฉัน... ไม่ว่าจะตอนไหน ก็ยังเห็นว่ามันเอียงเหมือนเคย
             ```
             ```
-            Yi Sang: As heavy rain might pour for days after a spell of clear skies...
-            ยี่ซํง: เหมือนกับฝนตกหนักที่อาจโปรยปรายเป็นวัน หลังจากฟ้าโปร่ง... 
+            As heavy rain might pour for days after a spell of clear skies...
+            เหมือนกับฝนตกหนักที่อาจโปรยปรายเป็นวัน หลังจากฟ้าโปร่ง... 
             ```
             ```
-            Yi Sang: I saw no meaning in attempting to fathom the caprices of the weather.
-            ยี่ซํง: ฉันไม่เห็นประโยชน์ ของการพยายามทำความเข้าใจ ถึงอารมณ์ที่เอาแน่เอานอนไม่ได้ของดินฟ้าอากาศ
+            I saw no meaning in attempting to fathom the caprices of the weather.
+            ฉันไม่เห็นประโยชน์ ของการพยายามทำความเข้าใจ ถึงอารมณ์ที่เอาแน่เอานอนไม่ได้ของดินฟ้าอากาศ
             ```
     
         ```
@@ -15245,28 +15245,28 @@
         * เสียงในหัว
 
             ```
-            Yi Sang: I may have heard a faint sound at that moment.
-            ยี่ซัง: ตอนนั้น เหมือนฉันได้ยินเสียง แผ่วเบาของบางอย่างที่ดังขึ้น
+            I may have heard a faint sound at that moment.
+            ตอนนั้น เหมือนฉันได้ยินเสียง แผ่วเบาของบางอย่างที่ดังขึ้น
             ```
             ```
-            Yi Sang: It was the sound of a crack.
-            ยี่ซัง: มันคือเสียงของรอยแตก 
+            It was the sound of a crack.
+            มันคือเสียงของรอยแตก 
             ```
             ```
-            Yi Sang: Knowing well what consequences a minuscule crack could bright about, I chose to look past it...
-            ยี่ซัง: และฉันก็รู้อยู่แก่ใจอยู่แล้ว ว่ารอยแตกเพียงเล็กน้อยจะทำให้เกิดอะไรขึ้น แต่ฉัน กลับเลือก ที่จะมองข้ามมัน...
+            Knowing well what consequences a minuscule crack could bright about, I chose to look past it...
+            และฉันก็รู้อยู่แก่ใจอยู่แล้ว ว่ารอยแตกเพียงเล็กน้อยจะทำให้เกิดอะไรขึ้น แต่ฉัน กลับเลือก ที่จะมองข้ามมัน...
             ```
             ```
-            Yi Sang: Perhaps I wanted to pretend that I did not hear it...
-            ยี่ซัง: บางที ฉันอาจจะอยากแสร้งทำ ว่าไม่ได้ยินเสียงนั้น... 
+            Perhaps I wanted to pretend that I did not hear it...
+            บางที ฉันอาจจะอยากแสร้งทำ ว่าไม่ได้ยินเสียงนั้น... 
             ```
             ```
-            Yi Sang: Alas, I was careless in my assumption that I could simply observe slantwise as it comes to pass until it has seeped...
-            ยี่ซัง: แต่สุดท้าย ฉันก็ประมาทเกินไป ที่เอาแต่เฝ้าดูอยู่ห่าง ๆ จนมันเริ่มที่จะซึมออกมา...
+            Alas, I was careless in my assumption that I could simply observe slantwise as it comes to pass until it has seeped...
+            แต่สุดท้าย ฉันก็ประมาทเกินไป ที่เอาแต่เฝ้าดูอยู่ห่าง ๆ จนมันเริ่มที่จะซึมออกมา...
             ```
             ```
-            Yi Sang: Realization comes too late.
-            ยี่ซัง: และพอรู้ตัวอีกที มันก็สายเกินไปแล้ว
+            Realization comes too late.
+            และพอรู้ตัวอีกที มันก็สายเกินไปแล้ว
             ```
 
         ---
@@ -15491,9 +15491,170 @@
 
         ```
         Yi Sang: ...Dongrang.
-        ยี่ซัง: ...ดงรัง
+        ยี่ซัง: หิ *ถอนหายใจ* ...ดงรัง
         ```
 
+    ---
+
+    * **Episode:  45 | ตอนที่ <br>Location: Withering League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เหี่ยวเฉ่า**
+
+        <img src="../images/YiSang.png" alt="ํYiSang" width="100" style="display: block; margin: 0 auto;>
+
+        * เสียงในหัว
+
+            ```
+            There was wilting among the nine.
+            มันมีการเหี่ยวเฉ่า ในหมู่เราทั้งเก้า
+            ```
+            ```
+            Those who indulged in research with purity and astonishment on their faces as they did in the old days have already withdrawn their buds.
+            พวกคนที่เคยชอบ การวิจัยอย่างสุดซึ้งและหน้าบานเพราะแปลกใจ เหมือนที่เคยทำในวันวาน กลับกลายเป็นดอกตูม
+            ```
+            ```
+            In exchange, unfamiliar sounds began to fill the air.
+            ในทางกลับกัน เสียงที่ไม่คุ้นหูกลับเริ่มดังก้องไปในอากาศให้ได้ยิน
+            ```
+            ```
+            Orderly footsteps, sounds of wind-up keys that signify their position, and heavy, low voices.
+            ย่างก้าวที่เป็นระเบียบ เสียงของกุญแจไขลานที่บอกตำแหน่งของพวกเขา มันหนักอึ้ง แล้วก็เบากว่าที่คิด
+            ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Outis: Why... Why did you tell them the League's location, Aneung?
+        เอาทิส: ทำไม... ทำไมนายถึงบอกได้ที่ตั้งของสมาพันธ์กันอาหนึ่ง?
+        ```
+
+        ---
+
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Sinclair: ...Anyone would have done the same.
+        ซินแคร์: ...ไม่ว่าใคร ก็คงทำแบบผมนั่นแหละ
+        ```
+        ```
+        Sinclair: They said if I don't reveal the source of the technology... I'll be forcefully repatriated to S Corp.
+        ซินแคร์: พวกเขาบอกว่าถ้าผมไม่ยอมบอก... พวกเขาก็จะบังคับให้ผม ถูกส่งตัวกลับไปที่เอสคอร์ป <*ถีงนี้,พักกินข้าว>
+        ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Dongbaek: Then you should've braced for it! Have the guts to bite your tongue and die if you couldn't stand to survive alone in the hometown!
+        ดงแบ็ก: 
+        ```
+
+        ---
+
+        ```
+        Ishmael: W-Why are these people dragging me away?
+        ```
+        ```
+        Ishmael: Why is it a crime that I couldn't yield my technology?
+        ```
+        ```
+        Ishmael: My technology was worthless! You said it yourself, Young-ji! Help! I don't want to go!
+        ```
+
+        ---
+
+        ```
+        Hong Lu: ……
+        ```
+        ```
+        Hong Lu: No matter how hard we think... There's really only one way.
+        ```
+        ```
+        Hong Lu: It'll all be over once I go back. If I give away the glass...
+        ```
+
+        ---
+
+        ```
+        Dongbaek: If you're caught, the League will be done for. Who knows what might they do with your technology once it falls into their hands?
+        ```
+
+        ---
+
+        ```
+        Yi Sang: The voices of desperation ringing in the air did not change a thing.
+        ```
+        ```
+        Yi Sang: And so, there were those who rejected the notion of yielding their creations...
+        ```
+
+        ---
+
+        ```
+        Meursault: I knew my turn would come.
+        ```
+        ```
+        Meursault: And... I don't believe we'll ever see each other again.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Those who calmly let themselves be taken away...
+        ```
+
+        ---
+
+        ```
+        Gregor: I'm bored of living in hiding.
+        ```
+        ```
+        Gregor: I've decided to go my own way. Let's hope we never meet again.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: Those who left on their own...
+        ```
+
+        ---
+
+        ```
+        Faust: I saw a child who resembled the ocean.
+        ```
+        ```
+        Faust: It's not like the glass... or the mirror, but I like the things reflected on the waves and tides of the ocean.
+        ```
+        ```
+        Faust: Since I couldn't fathom the depth of the waters, I decided to follow along.
+        ```
+
+        ---
+
+        ```
+        Yi Sang: And those who forever disappeared, leaving unknowable parting remarks.
+        ```
+        ```
+        Yi Sang: Like that... winter approached.
+        ```
+
+        ---
+
+        ```
+        Ishmael: ……
+        ```
+        ```
+        Ishmael: That was a painful experience. It was like I was actually in the shoes of a League of Nine member...
+        ```
+
+        ---
+
+        ```
+        Faust: We're synchronizing with their memories. It's only natural that their traces will influence us.
+        ```
+    
     ---
 ---
 

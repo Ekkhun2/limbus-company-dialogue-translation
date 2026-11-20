@@ -15327,7 +15327,7 @@
 
     ---
 
-    * **Episode:  44 | ตอนที่ <br>Location: Withering League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เหี่ยวเฉ่า**
+    * **Episode: 44 | ตอนที่ <br>Location: Withering League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เหี่ยวเฉ่า**
 
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;>
 
@@ -15419,15 +15419,15 @@
 
         ```
         Dongbaek: Dongrang, don't make clumsy attempts unless you're planning to save everyone in the City.
-        ดงแบ็ก: ดงรัง อย่าพยายามทำอะไรที่เกินตัวดีกว่านะฉันว่า ถ้านายไม่ได้จะช่วยทุกคนจริง <*ถีงนี้,พักกินข้าวเที่ยง>
+        ดงแบ็ก: ดงรัง อย่าพยายามทำอะไรที่เกินตัวนายดีกว่านะฉันว่า ถ้านายไม่ได้จะช่วยทุกคนจริง
         ```
         ```
         Dongbaek: If I thought this measly technology had what it takes to give every single person the help they needed, I would've given my all for it.
-        ดงแบ็ก: 
+        ดงแบ็ก: ถ้าฉันรู้ว่าเทคโนโลยีเล็กจ้อยพวกนี้สามารถช่วยทุกคนได้ ฉันก็คงยอมทุ่มเททุกอย่างเพื่อมันไปแล้ว
         ```
         ```
         Dongbaek: But... you think that'll change anything? The world will still be a terrible mess.
-        ดงแบ็ก: 
+        ดงแบ็ก: แล้วไงต่อ... นายคิดว่านั่นจะเปลี่ยนอะไรได้? ในขณะที่โลกนี้ยังคงเละเทะอยู่เหมือนเดิม   
         ```
 
         ---
@@ -15435,16 +15435,16 @@
         <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
 
         ```
-        Dongrang: ……
-        ดงรัง: 
+        Dongrang: ......
+        ดงรัง: เห่อ *ถอนหายใจเฮือกใหญ่*
         ```
         ```
         Dongrang: You're right, I thought wrong. What's the point in all this.
-        ดงรัง: 
+        ดงรัง: เห่อ *ถอนหายใจ* เธอพูดถูก ฉันคิดผิดไปจริง ๆ หิ *ถอนหายใจ* แล้วทั้งหมดนี้มันเพื่ออะไร
         ```
         ```
         Dongrang: Wow... Look at that... It really does a good job at burning things. You think its creator was a researcher who had an ardor for genuine study like us?
-        ดงรัง: 
+        ดงรัง: ว้าว... ดูนั่นสิ... มันเผาได้เก่งมาก เธอคิดว่าผู้สร้างของมันเป็น นักวิจัย ที่บ้าการศึกษาใจจะขาดเหมือนกับเราหรือเปล่าล่ะ?
         ```
 
         ---
@@ -15453,7 +15453,7 @@
 
         ```
         Yi Sang: Dongrang... Are you certain you're alright?
-        ยี่ซัง: 
+        ยี่ซัง: ดงรัง... นายแน่ใจใช่ไหมว่านายไม่เป็นไร?
         ```
 
         ---
@@ -15462,27 +15462,27 @@
 
         ```
         Dongrang: Hey, check this out, Yi Sang.
-        ดงรัง: 
+        ดงรัง: อ้า ดูนี้สิ ยี่ซัง
         ```
         ```
         Dongrang: I chanced upon this curious thing in the Backstreets.
-        ดงรัง: 
+        ดงรัง: ฉันได้ของแปลก ๆ นี้ จากแบลคสตรีทด้วยล่ะ
         ```
         ```
         Dongrang: It's apparently an item a Wing called K Corp. is producing these days. It's a swarm of nanobots that look like liquid to the naked eye, and when you inject it...
-        ดงรัง: 
+        ดงรัง: และดูเหมือนมันจะเป็นของเคคอร์ป ที่กำลังผลิตทุกวันนี้ มันคือฝูงนาโนบอทที่ดูเหมือนกับของเหลวเวลามองด้วยตาเปล่า และพอนายฉีดมันเข้าไป...   
         ```
         ```
         Dongrang: No matter how badly you're crushed, hurt, fractured, ripped, torn, or chopped away...
-        ดงรัง: 
+        ดงรัง: ไม่ว่าอาการนายจะหนักแค่ไหน ไม่ว่าจะโดนทับ ทำร้าย โดนฟัน ถูกฉีก หรือสับ...  
         ```
         ```
         Dongrang: It all heals up in seconds. Amazing, isn't it? It only takes a short while for the pain to be gone. Hahaha.
-        ดงรัง: 
+        ดงรัง: มันก็จะกลับมาในทันที เยี่ยมเลยใช่ไหมล่ะ? มันแค่ต้องใช้เวลารอสักพักหนึ่ง ก่อนที่ความรู้สึกเจ็บจะหายไปทั้งหมด ฮือ ฮือ-ฮาฮาฮา *หัวเราะในลำคอแล้วค่อย ๆ ปล่อยออกมา*
         ```
         ```
         Dongrang: It was perfectly fine to be hurt. I didn't have to strain my body and heart trying to cure things. I was so stupid, wasn't I?
-        ดงรัง: 
+        ดงรัง: ฮา มันไม่เป็นไรหรอก ที่ต้องทนเจ็บไปสักหน่อย—ทีนี้ฉันก็ไม่จำเป็นจะต้องฝืนกายใจมาเพื่อรักษา ตัวอะไรก็ตามอีกต่อไปแล้ว หิ *ขำแห้ง* ฉันนี้มันโง่ จริง ๆ เลยเนอะ?
         ```
 
         ---

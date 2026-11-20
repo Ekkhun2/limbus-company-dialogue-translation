@@ -15155,7 +15155,7 @@
 
         ```
         Dongrang: Dongbaek...
-        ดงรัง: เห่อ เอ่อ *ตกตะลึง* ดงแบ็ก...
+        ดงรัง: เห่อ เอ่อ *ใจฟู* ดงแบ็ก...
         ```
 
         ---
@@ -15254,7 +15254,7 @@
             ```
             ```
             Yi Sang: Knowing well what consequences a minuscule crack could bright about, I chose to look past it...
-            ยี่ซัง: และฉํนก็รู้อยู่แก่ใจอยู่แล้ว ว่ารอยแตกเพียงเล็กน้อยจะทำให้เกิดอะไรขึ้น แต่ฉัน กลับเลือก ที่จะมองข้ามมัน...
+            ยี่ซัง: และฉันก็รู้อยู่แก่ใจอยู่แล้ว ว่ารอยแตกเพียงเล็กน้อยจะทำให้เกิดอะไรขึ้น แต่ฉัน กลับเลือก ที่จะมองข้ามมัน...
             ```
             ```
             Yi Sang: Perhaps I wanted to pretend that I did not hear it...
@@ -15262,11 +15262,11 @@
             ```
             ```
             Yi Sang: Alas, I was careless in my assumption that I could simply observe slantwise as it comes to pass until it has seeped...
-            ยี่ซัง: แต่สุดท้าย ฉันก็ปล่อยปะละเลยสมมุติฐานที่ฉันตั้งเอาไว้ ว่า <*ถีงนี้,พักกินข้าวเย็น>
+            ยี่ซัง: แต่สุดท้าย ฉันก็ประมาทเกินไป ที่เอาแต่เฝ้าดูอยู่ห่าง ๆ จนมันเริ่มที่จะซึมออกมา...
             ```
             ```
             Yi Sang: Realization comes too late.
-            ยี่ซัง: 
+            ยี่ซัง: และพอรู้ตัวอีกที มันก็สายเกินไปแล้ว
             ```
 
         ---
@@ -15275,20 +15275,22 @@
 
         ```
         Dongrang: You know, Dongbaek?
-        ดงรัง: 
+        ดงรัง: เธอรู้หรือเปล่า ดงแบ็ก?
         ```
         ```
         Dongrang: Your words weren't particularly reassuring, either.
-        ดงรัง: 
+        ดงรัง: ว่าคำพูดของเธอ มันก็ไม่ได้ทำให้ฉันสบายใจอะไรหรอก
         ```
         ```
         Dongrang: It was actually what Nul-in said that gave me an important lesson.
-        ดงรัง: 
+        ดงรัง: แต่เพราะนู-อินพูดต่างหาก ทีสอนบทเรียนบางอย่างกับฉัน
         ```
         ```
         Dongrang: That no matter how hard I try, if technology doesn't have an immediate use... no one will give it a passing glance...
-        ดงรัง: 
+        ดงรัง: ว่าไม่ว่าฉัน จะพยายามหรือดิ้นรนมากแค่ไหน แต่ถ้าเทคโนโลยีไม่สามารถถูกใช้ได้ในทันที... ก็ไม่มีใครสนใจหรอก...
         ```
+
+    ---
 ---
 
 ### เพิ่มเติม

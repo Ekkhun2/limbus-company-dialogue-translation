@@ -15538,7 +15538,7 @@
         ```
         ```
         Sinclair: They said if I don't reveal the source of the technology... I'll be forcefully repatriated to S Corp.
-        ซินแคร์: พวกเขาบอกว่าถ้าผมไม่ยอมบอก... พวกเขาก็จะบังคับให้ผม ถูกส่งตัวกลับไปที่เอสคอร์ป <*ถีงนี้,พักกินข้าว>
+        ซินแคร์: พวกเขาบอกว่าถ้าผมไม่ยอมบอก... พวกเขาก็จะบังคับให้ผม ถูกส่งตัวกลับไปที่เอสคอร์ป
         ```
 
         ---
@@ -15547,112 +15547,167 @@
 
         ```
         Dongbaek: Then you should've braced for it! Have the guts to bite your tongue and die if you couldn't stand to survive alone in the hometown!
-        ดงแบ็ก: 
+        ดงแบ็ก: ถ้างั้นนายก็ควรที่จะแบกมันเอง! หรือไม่ก็กัดลิ้นตายไปเลยถ้านายเอาตัวรอดไม่ได้!
         ```
 
         ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Ishmael: W-Why are these people dragging me away?
+        อิชมาเอล: นี้-ทำไมมัน พวกคนพวกนี้ถึงกำลังลากฉันออกไป?
         ```
         ```
         Ishmael: Why is it a crime that I couldn't yield my technology?
+        อิชมาเอล: ทำไมฉันถึงผิดกัน ที่มีเทคโนโลยีของตัวเองไม่ได้?
         ```
         ```
         Ishmael: My technology was worthless! You said it yourself, Young-ji! Help! I don't want to go!
+        อิชมาเอล: เทคโนโลยีของฉันมันไร้ค่าไม่ใช่หรอ! พวกแกพูดแบบนั้นเองนี้ ยังจี! ช่วยด้วย! ฉันไม่อยากที่จะไป!
         ```
 
         ---
 
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;>
+
         ```
-        Hong Lu: ……
+        Hong Lu: ......
+        ฮงหลู่: เห่อ หิ *ถอนหายใจ*
         ```
         ```
         Hong Lu: No matter how hard we think... There's really only one way.
+        ฮงหลู่: ไม่ว่าเราจะคิดมากแค่ไหน... มันก็มีแค่ทางเดียว
         ```
         ```
         Hong Lu: It'll all be over once I go back. If I give away the glass...
+        ฮงหลู่: ทุกอย่างจะจบลงเมื่อฉันกลับ ถ้าฉันให้กระจกบานนั้น... 
         ```
 
         ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Dongbaek: If you're caught, the League will be done for. Who knows what might they do with your technology once it falls into their hands?
+        ดงแบ็ก: ถ้าพี่ถูกจับยังไงสมาพันธ์ก็จบแห่แน่ ใครจะรู้ล่ะว่าพวกมันจะทำอะไรบ้างกับเทคโนโลยีของพี่?
         ```
 
         ---
 
-        ```
-        Yi Sang: The voices of desperation ringing in the air did not change a thing.
-        ```
-        ```
-        Yi Sang: And so, there were those who rejected the notion of yielding their creations...
-        ```
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;>
+
+        * เสียงในหัว
+
+            ```
+            The voices of desperation ringing in the air did not change a thing.
+            เสียงแห่งความสิ้นหวังดังก้อง ไปในอากาศไม่อาจเปลี่ยน สิ่งใดได้แม้เพียงอย่างเดียว
+            ```
+            ```
+            And so, there were those who rejected the notion of yielding their creations...
+            และเพราะอย่างนั้น มันจึงมีพวกที่ปฎิเสธความเป็นเจ้าของของสิ่งที่ตัวเองสร้าง...
+            ```
 
         ---
+
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Meursault: I knew my turn would come.
+        เมอร์โซลท์: ฉันรู้ว่าอีกเดี๋ยว ก็ตาฉันแล้ว
         ```
         ```
         Meursault: And... I don't believe we'll ever see each other again.
+        เมอร์โซลท์: แล้วอีกอย่าง... ฉันก็ไม่คิดว่าเราจะได้เจอหน้ากันอีกแล้ว
         ```
 
         ---
 
-        ```
-        Yi Sang: Those who calmly let themselves be taken away...
-        ```
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;>
+
+        * เสียงในหัว
+
+            ```
+            Those who calmly let themselves be taken away...
+            พวกที่ยอมให้ตัวเองถูกพาตัวไปอย่างสงบ... 
+            ```
 
         ---
+
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Gregor: I'm bored of living in hiding.
+        เกรกอร์: ฉันเบื่อที่จะต้องซ่อนแบบนี้อีกต่อไปแล้ว
         ```
         ```
         Gregor: I've decided to go my own way. Let's hope we never meet again.
+        เกรกอร์: เพราะงั้นฉันจะไปตามทางของฉัน หวังว่าพวกเรา จะได้เจอกันอีกนะ
         ```
 
         ---
 
-        ```
-        Yi Sang: Those who left on their own...
-        ```
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;>
+
+        * เสียงในหัว
+
+            ```
+            Those who left on their own...
+            ต่อมาก็ พวกที่ออกไปด้วยเจตจำนงของตัวเอง...
+            ```
 
         ---
+
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;>
 
         ```
         Faust: I saw a child who resembled the ocean.
+        เฟาสท์: ฉันเคยเห็นเด็กคนหนึ่งที่เปรียบดั่งมหาสมุทร
         ```
         ```
         Faust: It's not like the glass... or the mirror, but I like the things reflected on the waves and tides of the ocean.
+        เฟาสท์: มันไม่เหมือนกับแก้ว... หรือกระจกบานนั้นเลย แต่ ฉันชอบเงาสะท้อนบนเกลียวคลื่น และกระแสน้ำของมหาสมุทร
         ```
         ```
         Faust: Since I couldn't fathom the depth of the waters, I decided to follow along.
+        เฟาสท์: และเพราะฉันไม่รู้ว่ามันลึกเท่าไหร่ สุดท้ายฉันก็เลยตามน้ำไป
         ```
 
         ---
 
-        ```
-        Yi Sang: And those who forever disappeared, leaving unknowable parting remarks.
-        ```
-        ```
-        Yi Sang: Like that... winter approached.
-        ```
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;>
+
+        * เสียงในหัว
+
+            ```
+            And those who forever disappeared, leaving unknowable parting remarks.
+            และพวกที่หายตัวไปตลอดกาล โดยไม่เหลือร่องรอยอะไรแห่งการจากลาให้จดจำ
+            ```
+            ```
+            Like that... winter approached.
+            และแล้ว... ฤดูหนาวก็มาถึง 
+            ```
 
         ---
 
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;>
+
         ```
-        Ishmael: ……
+        Ishmael: ......
+        อิชมาเอล: เห่อ หิ เห่อ หือ *หายใจคลายความเครียด*
         ```
         ```
         Ishmael: That was a painful experience. It was like I was actually in the shoes of a League of Nine member...
+        อิชมาเอล: เป็นประสบการณ์ที่ทรมาณมาก มันอย่างกับว่าฉัน กำลังเป็นสมาชิกของลีกออฟไนน์จริง ๆ อยู่เลย... 
         ```
 
         ---
 
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;>
+
         ```
         Faust: We're synchronizing with their memories. It's only natural that their traces will influence us.
+        เฟาสท์: พวกเรากำลังเชื่อมความทรงจำกับพวกเขา เพราะงั้นมันเป็นเรื่องปกติ ที่ร่องรอยของพวกเขาจะส่งผลต่อเรา
         ```
     
     ---

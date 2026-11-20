@@ -15026,7 +15026,7 @@
         
     ---
 
-    * **Episode:  42 | ตอนที่ <br>Location: Rowdy League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เอะอะ**
+    * **Episode: 42 | ตอนที่ <br>Location: Rowdy League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เอะอะ**
 
         <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
@@ -15288,6 +15288,210 @@
         ```
         Dongrang: That no matter how hard I try, if technology doesn't have an immediate use... no one will give it a passing glance...
         ดงรัง: ว่าไม่ว่าฉัน จะพยายามหรือดิ้นรนมากแค่ไหน แต่ถ้าเทคโนโลยีไม่สามารถถูกใช้ได้ในทันที... ก็ไม่มีใครสนใจหรอก...
+        ```
+
+    ---
+
+    * **Episode: 43 | ตอนที่ 43**
+
+        <img src="../images/None_Extra.png" alt="Stephanette" width="100" style="display: block; margin: 0 auto;>
+        
+        ```
+        Stephanette: It's a beautiful yet poignant story, isn't it?
+        สเตฟาเน่(สเตฟาเน็ตต์): มันงดงามใช่ไหมล่ะ? เป็นเรื่องราวที่เจ็บปวดมากเลยเนอะ?
+        ```
+        ```
+        Stephanette: If all the stories in the world were happy ones, the skies might not have needed stars anymore.
+        สเตฟาเน่(สเตฟาเน็ตต์): แต่ถ้าเรื่องราวทุกอย่างบนโลกใบนี้มีแต่อันที่มีความสุข ท้องฟ้า ก็คงไม่จำเป็นต้องมีดวงดาวอีกต่อไปแล้วก็ได้
+        ```
+        ```
+        Stephanette: In solitude and darkness are stars born.
+        สเตฟาเน่(สเตฟาเน็ตต์): ในความโดดเดี่ยว และความมืด คือที่ ๆ ดวงดาวเกิดมา
+        ```
+        ```
+        Stephanette: You loved my stories for the same reason.
+        สเตฟาเน่(สเตฟาเน็ตต์): และนาย ก็ชอบเรื่องราวของฉัน ด้วยเหตุผลเดียวกัน
+        ```
+        ```
+        Stephanette: ......
+        สเตฟาเน่(สเตฟาเน็ตต์): อึก เห่อ *หายใจออกมาด้วยความปวดใจ* 
+        ```
+        ```
+        Stephanette: I'll tell you tales of more worlds.
+        สเตฟาเน่(สเตฟาเน็ตต์): ฉันจะเล่าเรื่องราวของโลกที่มากกว่านี้ให้กับนาย
+        ```
+        ```
+        Stephanette: So cry for me. In my stead, and in everyone else's.
+        สเตฟาเน่(สเตฟาเน็ตต์): เพราะงั้นร้องให้ฉันทีนะ แทนฉัน และทุกคน ที่อยู่ตรงนี้
+        ```
+
+    ---
+
+    * **Episode:  44 | ตอนที่ <br>Location: Withering League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เหี่ยวเฉ่า**
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Ishmael: Isn't this a concept incinerator?
+        อิชมาเอล: ไอนั่นมัน ไม่ใช่เครื่องเผาแนวคิดหรอกหรอ?
+        ```
+        ```
+        Ishmael: What is it doing here...
+        อิชมาเอล: มันมาทำอะไรอยู่ที่นี้...
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Outis: We've received an official notice that private technological invention groups of five or more people not registered as a business require a permit from T Corp.
+        เอาทิส: เห้อ *ถอนหายใจ* พวกเราได้รับแจ้งจากทางการ ว่ากลุ่มนวัตกรรมเทคโนโลยีที่มีสมาชิกตั้งแต่ห้าคน ยังไม่ได้ลงทะเบียนให้เป็นธุรกิจ ที่ได้รับการอนุญาติจากทีคอร์ป
+        ```
+        ```
+        Outis: The same goes for technology. Everything that hasn't been authorized by the Wing's tech agency will be confiscated.
+        เอาทิส: ซึ่งรวมถึงสิ่งประดิษฐ์ ทุกอย่างที่ไม่ได้รับอนุญาติ จากกองสารสนเทศของวิงส์ จะต้องถูกยึดไปให้หมด
+        ```
+        ```
+        Outis: Whether they're registered or taken by force... they'll be used in ways none of us wanted.
+        เอาทิส: ไม่ว่าจะ จดทะเบียน หรือยึดมาด้วยกำลังก็ตาม... พวกเขาก็จะใช้ วิธีการที่ไม่มีเราคนไหนชอบใจแน่
+        ```
+        ```
+        Outis: That is why we will rid the world of them before that happens.
+        เอาทิส: เพราะงั้นก่อนที่จะเกิด พวกเราถึงต้องรีบจัดการพวกมัน
+        ```
+
+        ---
+
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Ishmael: But, why now of all times? Is it because of the League's gatherings... No, is this about the window...?
+        อิชมาเอล: แล้วทำไม ต้องเป็นเวลานี้? นี้มัน เพราะเรารวมตัวกันหรอ... ไม่สิ หรือเพราะกระจกนั้น...?
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Dongrang: Wait, wait. This idea that we have to make technology in secret could be a pitfall, you know? Who knows, T Corp. might just give us the approval.
+        ดงรัง: เดี๋ยวก่อน เดี๋ยวก่อน ไอแนวคิดที่ว่าเราต้องทำให้เทคโนโลยีเป็นความลับเนี้ยอาจจะเป็นหลุมพลางก็ได้ เห้อ *พักหายใจ* ใครจะรู้กันล่ะ ว่าทีคอร์ป อาจจะให้อนุมัติให้เรา
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Outis: A foolish question. Did you forget the reason the League of Nine was established? We gathered together for the pure pursuit of knowledge. Not to serve Wings like pathetic mules.
+        เอาทิส: เป็นคำถามที่โง่สิ้นดี นี้นายลืมเหตุผลที่เราก่อตั้งไปแล้วใช่ไหม? พวกเรารวมตัวกันก็เพื่อแสวงหาความรู้ ไม่ใช่การรับใช้วิงส์เหมือนกับไอโง่คนหนึ่ง
+        ```
+        ```
+        Outis: We deserted our hometowns for this cause, and now you suggest that we yield our knowledge? After all we've been through?
+        เอาทิส: พวกเราละทิ้งบ้านเกิดเพราะมัน และทีนี้นายกลับแนะนำให้พวกเรามอบความรู้ที่เรามี? หลังจากเรื่องทั้งหมดที่เกิดขึ้นเหรอ?
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Dongrang: Let's see the bigger picture. Rather than just T Corp, wouldn't the City as a whole be benefiting from them?
+        ดงรัง: เห่อ *ถอนหายใจ* มาดูภาพใหญ่กันดีกว่าน่ะ แทนที่จะเป็นแค่ทีคอร์ป เป็นเดอะซิตี้เลย จะไม่ดีกว่าหรอ? 
+        ```
+        ```
+        Dongrang: Technology only has value when it's used for others. Until then, they're mere toys.
+        ดงรัง: เทคโนโลยี จะมีค่าก็ต่อเมื่อมันถูกใช้เพื่อผู้อื่น แต่ถ้าไม่ใช่ พวกมัน ก็เป็นแค่ของเล่น   
+        ```
+        ```
+        Dongrang: With this healing technology I've developed, I could save at least hundreds of lives in the City.
+        ดงรัง: ด้วยเทคโนโลยีการรักษาที่ฉันสร้าง อย่างน้อยฉันก็คงช่วยได้หลายร้อยชีวิตในเดอะซิตี้
+        ```
+        ```
+        Dongrang: Should we really squander that chance... on protecting this make-believe organization?
+        ดงรัง: เพราะอย่างงั้น เราจะทิ้งโอกาศนี้... เพื่อปกป้ององค์กรปลอม ๆ นี้ต่อไปจริง ๆ แบบนั้น จะดีแล้วหรอ?
+        ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Dongbaek: Dongrang, don't make clumsy attempts unless you're planning to save everyone in the City.
+        ดงแบ็ก: ดงรัง อย่าพยายามทำอะไรที่เกินตัวดีกว่านะฉันว่า ถ้านายไม่ได้จะช่วยทุกคนจริง <*ถีงนี้,พักกินข้าวเที่ยง>
+        ```
+        ```
+        Dongbaek: If I thought this measly technology had what it takes to give every single person the help they needed, I would've given my all for it.
+        ดงแบ็ก: 
+        ```
+        ```
+        Dongbaek: But... you think that'll change anything? The world will still be a terrible mess.
+        ดงแบ็ก: 
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Dongrang: ……
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: You're right, I thought wrong. What's the point in all this.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: Wow... Look at that... It really does a good job at burning things. You think its creator was a researcher who had an ardor for genuine study like us?
+        ดงรัง: 
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Yi Sang: Dongrang... Are you certain you're alright?
+        ยี่ซัง: 
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Dongrang: Hey, check this out, Yi Sang.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: I chanced upon this curious thing in the Backstreets.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: It's apparently an item a Wing called K Corp. is producing these days. It's a swarm of nanobots that look like liquid to the naked eye, and when you inject it...
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: No matter how badly you're crushed, hurt, fractured, ripped, torn, or chopped away...
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: It all heals up in seconds. Amazing, isn't it? It only takes a short while for the pain to be gone. Hahaha.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: It was perfectly fine to be hurt. I didn't have to strain my body and heart trying to cure things. I was so stupid, wasn't I?
+        ดงรัง: 
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="ํYiSang" width="100" style="display: block; margin: 0 auto;>
+
+        ```
+        Yi Sang: ...Dongrang.
+        ยี่ซัง: ...ดงรัง
         ```
 
     ---

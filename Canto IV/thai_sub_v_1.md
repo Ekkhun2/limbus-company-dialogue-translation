@@ -13841,7 +13841,7 @@
     
     ---
 
-    * **Episode:  37 | ตอนที่ 37<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่ผลิบาน**
+    * **Episode: 37 | ตอนที่ 37<br>Location: Blossoming League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่ผลิบาน**
 
         <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
@@ -14072,6 +14072,7 @@
             ```
             And, I happened to catch a signal while tuning out numerous noises and shatterings.
             และฉัน ก็จับโดนสัญญาณหนึ่งโดยบังเอิญ ในขณะที่กำลังจูนคลื่นผ่านเสียงรบกวน และการแผ่กระจายนับไม่ถ้วน
+            ```
             ```
             Yi Sang: In Yeonsim, I met you at last.
             ยี่ซัง: ในที่สุด ฉันก็ได้เจอนาย ในยอนซิมแห่งนั้น  
@@ -14919,7 +14920,7 @@
 
     ---
 
-    * **Episode: 41 | ตอนที่ <br>Location: Rowdy League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เอะอะ**
+    * **Episode: 41 | ตอนที่ 41<br>Location: Rowdy League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เอะอะ**
 
         <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
@@ -15026,7 +15027,7 @@
         
     ---
 
-    * **Episode: 42 | ตอนที่ <br>Location: Rowdy League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เอะอะ**
+    * **Episode: 42 | ตอนที่ 42<br>Location: Rowdy League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เอะอะ**
 
         <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
@@ -15050,7 +15051,7 @@
 
         ---
 
-        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: You don't happen to know which Wing it was, do you?
@@ -15059,7 +15060,7 @@
 
         ---
 
-        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: No one seems to know.
@@ -15068,7 +15069,7 @@
 
         ---
 
-        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Why are you displeased about it? You're the one who turned down Brother Young-ji's offer to go with him, Dongbaek.
@@ -15077,7 +15078,7 @@
 
         ---
 
-        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: ......
@@ -15086,7 +15087,7 @@
 
         ---
 
-        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: There's no need to be so fixated on the number nine. What if there are eight or five of us?
@@ -15095,7 +15096,7 @@
 
         ---
 
-        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Say, Dongrang... How long are you gonna stick to your vet routine?
@@ -15108,7 +15109,7 @@
 
         ---
 
-        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Oh, it's been a while, Nul-in. It's a pleasure to see a fellow from my hometown here.
@@ -15129,7 +15130,7 @@
 
         ---
 
-        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Rodion.png" alt="Rodion" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Rodion: Well, I'll take my words back if those animals start repaying the kindness by bringing money or something~
@@ -15138,7 +15139,7 @@
 
         ---
 
-        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Nul-in, do you take this for a gaudy auction where technology is sold for cash?
@@ -15151,7 +15152,7 @@
 
         ---
 
-        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Dongbaek...
@@ -15160,7 +15161,7 @@
 
         ---
 
-        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Don't mistake it for covering for you. I just don't want to see her face, that's all.
@@ -15173,7 +15174,7 @@
 
         ---
 
-        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: You like to nag a lot. Well, I suppose I could run a chicken restaurant?
@@ -15182,7 +15183,7 @@
 
         ---
 
-        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: What?
@@ -15191,7 +15192,7 @@
 
         ---
 
-        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Hear me out for a second. I could make chickens grow tons of wings... and cut them off without inflicting any pain.
@@ -15204,7 +15205,7 @@
 
         ---
 
-        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Pshaw...
@@ -15213,7 +15214,7 @@
 
         ---
 
-        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: What name do you plan to give to the chicken?
@@ -15222,7 +15223,7 @@
 
         ---
 
-        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Let's see, how about Plumpy Chicken?
@@ -15231,7 +15232,7 @@
 
         ---
 
-        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Dongrang, never try naming things again. Got it?
@@ -15240,7 +15241,7 @@
 
         ---
 
-        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -15271,7 +15272,7 @@
 
         ---
 
-        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: You know, Dongbaek?
@@ -15294,7 +15295,7 @@
 
     * **Episode: 43 | ตอนที่ 43**
 
-        <img src="../images/None_Extra.png" alt="Stephanette" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/None_Extra.png" alt="Stephanette" width="100" style="display: block; margin: 0 auto;">
         
         ```
         Stephanette: It's a beautiful yet poignant story, isn't it?
@@ -15327,9 +15328,9 @@
 
     ---
 
-    * **Episode: 44 | ตอนที่ <br>Location: Withering League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เหี่ยวเฉ่า**
+    * **Episode: 44 | ตอนที่ 44<br>Location: Withering League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เหี่ยวเฉ่า**
 
-        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: Isn't this a concept incinerator?
@@ -15342,7 +15343,7 @@
 
         ---
 
-        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: We've received an official notice that private technological invention groups of five or more people not registered as a business require a permit from T Corp.
@@ -15363,7 +15364,7 @@
 
         ---
 
-        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: But, why now of all times? Is it because of the League's gatherings... No, is this about the window...?
@@ -15372,7 +15373,7 @@
 
         ---
 
-        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Wait, wait. This idea that we have to make technology in secret could be a pitfall, you know? Who knows, T Corp. might just give us the approval.
@@ -15381,7 +15382,7 @@
 
         ---
 
-        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: A foolish question. Did you forget the reason the League of Nine was established? We gathered together for the pure pursuit of knowledge. Not to serve Wings like pathetic mules.
@@ -15394,7 +15395,7 @@
 
         ---
 
-        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Let's see the bigger picture. Rather than just T Corp, wouldn't the City as a whole be benefiting from them?
@@ -15415,7 +15416,7 @@
 
         ---
 
-        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Dongrang, don't make clumsy attempts unless you're planning to save everyone in the City.
@@ -15432,7 +15433,7 @@
 
         ---
 
-        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: ......
@@ -15449,7 +15450,7 @@
 
         ---
 
-        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: Dongrang... Are you certain you're alright?
@@ -15458,7 +15459,7 @@
 
         ---
 
-        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongrang: Hey, check this out, Yi Sang.
@@ -15487,7 +15488,7 @@
 
         ---
 
-        <img src="../images/YiSang.png" alt="ํYiSang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/YiSang.png" alt="ํYiSang" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Yi Sang: ...Dongrang.
@@ -15496,9 +15497,9 @@
 
     ---
 
-    * **Episode:  45 | ตอนที่ <br>Location: Withering League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เหี่ยวเฉ่า**
+    * **Episode:  45 | ตอนที่ 45<br>Location: Withering League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เหี่ยวเฉ่า**
 
-        <img src="../images/YiSang.png" alt="ํYiSang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/YiSang.png" alt="ํYiSang" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -15521,7 +15522,7 @@
 
         ---
 
-        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Outis: Why... Why did you tell them the League's location, Aneung?
@@ -15530,7 +15531,7 @@
 
         ---
 
-        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Sinclair.png" alt="Sinclair" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Sinclair: ...Anyone would have done the same.
@@ -15543,7 +15544,7 @@
 
         ---
 
-        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: Then you should've braced for it! Have the guts to bite your tongue and die if you couldn't stand to survive alone in the hometown!
@@ -15552,7 +15553,7 @@
 
         ---
 
-        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: W-Why are these people dragging me away?
@@ -15569,7 +15570,7 @@
 
         ---
 
-        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/HongLu.png" alt="HongLu" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Hong Lu: ......
@@ -15586,7 +15587,7 @@
 
         ---
 
-        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Dongbaek: If you're caught, the League will be done for. Who knows what might they do with your technology once it falls into their hands?
@@ -15595,7 +15596,7 @@
 
         ---
 
-        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -15610,7 +15611,7 @@
 
         ---
 
-        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Meursault.png" alt="Meursault" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Meursault: I knew my turn would come.
@@ -15623,7 +15624,7 @@
 
         ---
 
-        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -15634,7 +15635,7 @@
 
         ---
 
-        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Gregor.png" alt="Gregor" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Gregor: I'm bored of living in hiding.
@@ -15647,7 +15648,7 @@
 
         ---
 
-        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -15658,7 +15659,7 @@
 
         ---
 
-        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: I saw a child who resembled the ocean.
@@ -15675,7 +15676,7 @@
 
         ---
 
-        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
 
         * เสียงในหัว
 
@@ -15690,7 +15691,7 @@
 
         ---
 
-        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Ishmael.png" alt="Ishmael" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Ishmael: ......
@@ -15703,13 +15704,69 @@
 
         ---
 
-        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;>
+        <img src="../images/Faust.png" alt="Faust" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Faust: We're synchronizing with their memories. It's only natural that their traces will influence us.
         เฟาสท์: พวกเรากำลังเชื่อมความทรงจำกับพวกเขา เพราะงั้นมันเป็นเรื่องปกติ ที่ร่องรอยของพวกเขาจะส่งผลต่อเรา
         ```
     
+    ---
+
+    * **Episode: 46 | ตอนที่ 46<br>Location: Withering League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เหี่ยวเฉ่า**
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            As it turned out, each of us wanted to protect a different point in time.
+            มันกลายเป็นว่า พวกเราแต่ละคนมีความอยากที่จะปกป้องช่วงเวลาที่ต่างกัน
+            ```
+            ```
+            Some wished it to stop where it was,
+            บางคนก็อยาก ให้มันหยุดอยู่ที่มันเคยเป็น 
+            ```
+            ```
+            While some wished it to advance.
+            ขณะที่บางคน อยากให้มันเดินไปข้างหน้าต่อไป  
+            ```
+            ```
+            In my case...
+            เห่อ *ถอนหายใจ* ส่วนฉัน... 
+            ```
+
+        ---
+
+        ```
+        *Wham! Wham! Wham!*
+        *ตึง! ตึง! ตึง!* (เสียงเหมือนเคาะห้องขังที่ทำด้วยสังกะสี)
+        ```
+
+        <img src="../images/None_Extra.png" alt="Class2Collector" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Class 2 Collector: We have received a report that you are in possession of unauthorized technology.
+        เจ้าหน้าที่จัดเก็บคลาส 2: เราได้รับแจ้งว่าพวกแกกำลังครอบครองเทคโนโลยีที่ไม่ได้รับอนุญาติ 
+        ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: I sent Young-ji a letter in advance telling him to seek refuge.
+        ดงแบ็ก: ฉันส่งจดหมายไปให้ยังจีก่อนแล้วว่าให้เขาหาที่กบดาน 
+        ```
+        ```
+        Dongbaek: We must hide the glass window and the mirror in the basement before they can take them.
+        ดงแบ็ก: พวกเราต้องซ่อนกระจกแก้ว กับกระจกในห้องใต้ดินก่อนที่พวกมันจะเอาไปได้
+        ```
+        ```
+        Dongbaek: Dongrang and I will carry them to safety... I want the rest of you to hold the door while we do.
+        ดงแบ็ก: ดงรังกับฉันจะเอามันไปยังที่ปลอดภัย... อือ หือ *ยิ้มและถอนหายใจ* ระหว่างนั้นฉันอยากให้พวกนายยื้อให้หน่อย 
+        ```
+
     ---
 ---
 

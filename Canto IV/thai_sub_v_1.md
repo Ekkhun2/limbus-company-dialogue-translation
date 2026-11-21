@@ -15976,15 +15976,15 @@
 
         ```
         Dongrang: ...You know, Yi Sang?
-        ดงรัง: ...หือ-ฮือ *ถอนหายใจ* นายรู้อะไรไหม ยี่ซัง? <*ถีงนี้,พักกินข้าวเที่ยง>
+        ดงรัง: ...หือ-ฮือ *ถอนหายใจ* นายรู้อะไรไหม ยี่ซัง?
         ```
         ```
         Dongrang: Loud ticks of clocks at your front door are a sign that T Corp's tech agency employees have come to your house.
-        ดงรัง: 
+        ดงรัง: เสียงนาฬิกา ที่ดังขึ้นที่หน้าบ้านนายเป็นสัญญาณเตือนที่บอกว่า ทีคอร์ป ได้ส่งเจ้าหน้าที่จากกองเทคโนโลยีมาถึงที่บ้านนายแล้ว
         ```
         ```
         Dongrang: I'm sure most of them were visited by the agency. It's an unforgettable experience. Yet it's one you couldn't have known since you must've been under T Corp's grace as a skilled architect.
-        ดงรัง: 
+        ดงรัง: ฉันมั่นใจเลยว่าส่วนมาก พวกเขาจะถูกเยี่ยมเยือนจากหน่วยงาน มันเป็นประสบการณ์ที่ยากจะลืมเลือน แต่นายคงไม่รู้จักความรู้สึกนั้นหรอก ก็นายเป็นถึงลูกรักของทีคอร์ป ในฐานะสถาปนิกผู้เก่งกาจที่ยากจะแทนได้นี้ <*ถีงนี้,พักกินข้าวเย็นและอาบน้ำ>
         ```
         ```
         Dongrang: The first visit tends to be sudden and quiet. Most are flustered by the unexpected arrival... but they still keep their pride and faith as a member of the League.

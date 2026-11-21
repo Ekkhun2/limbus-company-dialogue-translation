@@ -15743,7 +15743,7 @@
         *ตึง! ตึง! ตึง!* (เสียงเหมือนเคาะห้องขังที่ทำด้วยสังกะสี)
         ```
 
-        <img src="../images/None_Extra.png" alt="Class2Collector" width="100" style="display: block; margin: 0 auto;">
+        <img src="../images/T_Employee1.png" alt="Class2Collector" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Class 2 Collector: We have received a report that you are in possession of unauthorized technology.
@@ -15760,11 +15760,320 @@
         ```
         ```
         Dongbaek: We must hide the glass window and the mirror in the basement before they can take them.
-        ดงแบ็ก: พวกเราต้องซ่อนกระจกแก้ว กับกระจกในห้องใต้ดินก่อนที่พวกมันจะเอาไปได้
+        ดงแบ็ก: พวกเราต้องซ่อนกระจกแก้ว ไว้ในในห้องใต้ดินก่อนที่พวกมันจะเอาไปได้
         ```
         ```
         Dongbaek: Dongrang and I will carry them to safety... I want the rest of you to hold the door while we do.
         ดงแบ็ก: ดงรังกับฉันจะเอามันไปยังที่ปลอดภัย... อือ หือ *ยิ้มและถอนหายใจ* ระหว่างนั้นฉันอยากให้พวกนายยื้อให้หน่อย 
+        ```
+
+    ---
+
+    * **Episode: 47 | ตอนที่ 47<br>Location: Withering League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่เหี่ยวเฉ่า**
+
+        <img src="../images/T_Employee2.png" alt="Class4Collector" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Class 4 Collector: Where is Young-ji, the League of Nine Littérateurs' leader, and his glass technology?
+        เจ้าหน้าที่จัดเก็บคลาส 4: ยังจีที่เป็นหัวหน้าของลีกออฟไนน์ กับกระจกแก้วไปไหนแล้ว?
+        ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: ......
+        ดงแบ็ก: หะ เห่อ *หายใจ*
+        ```
+
+        ---
+
+        <img src="../images/T_Employee2.png" alt="Class4Collector" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Class 4 Collector: This is the price you pay for the time you've spent wrongly.
+        เจ้าหน้าที่จัดเก็บคลาส 4: นี้คือราคา ที่ต้องจ่ายสำหรับเวลาที่เจ้าใช้ไปอย่างไม่ถูกต้อง
+        ```
+        ```
+        Class 4 Collector: Open the door to the basement.
+        เจ้าหน้าที่จัดเก็บคลาส 4: เปิดห้องใต้ดินซะ
+        ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: How do they know about the basement...
+        ดงแบ็ก: พวกมันรู้ได้ยังไง... 
+        ```
+        ```
+        Dongbaek: One of us betrayed the league.
+        ดงแบ็ก: หนึ่งในพวกเราทรยศสมาพันธ์
+        ```
+        ```
+        Dongbaek: Gap-ryong is nowhere to be seen since yesterday... It must've been him.
+        ดงแบ็ก: ไม่เห็นกัป-รยงตั้งแต่เมื่อวานแล้ว... ต้องเป็นหมอนั่นแน่
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: That matters no longer, Dongbaek. We must run, now.
+        เอาทิส: เรื่องนั้นไม่สำคัญอีกแล้ว ดงแบ็ก พวกเราต้องหนีเดี๋ยวนี้ 
+        ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: ...Say, how about I treat you to a stunning fireworks display for the last time? Fire can be a rather pretty flower when seen from a distance.
+        ดงแบ็ก: ...งั้นเหรอ ให้ฉันโชว์พลุอันน่าทึงของฉันให้เธอดูเป็นครั้งสุดท้ายดีไหม? ไฟก็ไม่ต่างกับดอกไม้ ที่ดูสวยจากที่ไกล ๆ 
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: Dongbaek, are you planning to...
+        เอาทิส: ดงแบ็ก หรือว่าเธอตั้งใจที่จะ... 
+        ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: Let me ask for the last time. None of you here are traitors, right?
+        ดงแบ็ก: ขอฉันถามเป็นครั้งสุดท้าย ว่าพวกเธอที่เหลือ ไม่มีใครเป็นคนทรยศแล้วใช่ไหม? 
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: There's no doubt about it.
+        ยี่ซัง: ไม่มีอะไรที่ต้องติดใจ 
+        ```
+
+        ---
+
+        <img src="../images/Outis.png" alt="Outis" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Outis: You're asking a ridiculous question.
+        เอาทิส: เป็นคำถามอะไรที่โง่มาก
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: ......
+        ดงรัง: *เสียงจับกระดาษ*
+        ```
+        ```
+        Dongrang: ...It was me, Dongbaek. I sold the League out.
+        ดงรัง: ....หือ *ถอนหายใจ* ตึก ตึก *เดินเข้ามา* ฉันเอง ดงแบ็ก ฉันเป็นคนขายสมาพันธ์ ให้พวกนั้นเอง
+        ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: ......
+        ดงแบ็ก: ห-เห่อ ห๊า *ถอนหายใจด้วยความไม่เชื่อสิ่งที่ตัวเองได้ยิน*
+        ```
+
+        ---
+
+        * เสียงในหัว
+
+            ```
+            The last things that entered my sight with the sound of the explosion were Dongbaek's half-scorched face...
+            อย่างสุดท้ายที่ฉันมองเห็น พร้อมกับเสียงระเบิดที่ดังกึกก้องขึ้นมาโดยไม่รู้ตัว... คือใบหน้าดงแบ็กที่ไหม้เกรียม...
+            ```
+            ```
+            And...
+            แล้วก็... 
+            ```
+            ```
+            Our League... burning down in a colorless fire.
+            สมาพันธ์ของเราที่กำลังถูกเผา... ในเพลิง ที่ไร้ซึ่งสีสัน 
+            ```
+
+        ---
+
+        **Location: Emptied League of Nine Littérateurs | สมาพันธ์ลีกออฟไนน์ทีว่างเปล่า**
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Yi Sang: ......
+        ยี่ซัง: อึก หือ *ปวดใจ*
+        ```
+        ```
+        Yi Sang: That isn't quite right, Dongrang. You never confessed the truth to Dongbaek.
+        ยี่ซัง: ไม่ได้นะ ดงรัง นายยังไม่ได้สารภาพความจริงกับเธอด้วยปากของตัวเองเลย
+        ```
+        ```
+        Yi Sang: Dongbaek... has remained oblivious to it. Thusly, she constantly harbored suspicion against us, knowing that it must have been one of us.
+        ยี่ซัง: ดงแบ็กน่ะ... ยังคงลืมมันอยู่เสมอ ถึงแม้เธอจะสงสัยมาตลอด และรู้อยู่แก่ใจอยู่แล้วว่าต้องเป็นหนึ่งในพวกเราสักคนแน่  
+        ```
+
+        ---
+
+        **Location: Screening Room | ห้องคัดกรอง**
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: It was me, Dongbaek. I ratted out the group.
+        ดงรัง: มันคือฉันเองดงแบ็ก ฉันเอง ที่หักหลังพวกเรา
+        ```
+
+        ---
+
+        <img src="../images/Dongback_past.png" alt="Dongbaek" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongbaek: I knew it... It had to be...!!! You... you... fucking traitor!!!!
+        ดงแบ็ก: ว่าแล้ว... หือ ว่าแล้ว...!!! หือฮือ *สะอื้นปนความโกรธแค้น* แกมันไอคนทรยศ!!!! *หวีดร้อง*
+        ```
+
+        ---
+
+        **Location: Emptied League of Nine Littérateurs | สมาพันธ์ลีกออฟไนน์ที่ว่างเปล่า**
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        YiSang: The revelation is what colored Dongbaek's dying eyes with wrath...
+        ยี่ซัง: คำสารภาพ คือสิ่งที่แต่งแต้มดวงตาที่ใกล้ตายของดงแบ๊กไปด้วยความโกรธ...
+        ```
+        ```
+        YiSang: And caused the frail E.G.O to break and fall, snapping, scattering into petals.
+        ยี่ซัง: และทำให้อีโก้ที่เปราะบางพังทลาย และจมดิ่ง หักงอเป็นชิ้น ๆ ชิ้น ๆ ร่วงโรยเป็นกลีบดอก
+        ```
+
+        ---
+
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Dongrang: ...You know, Yi Sang?
+        ดงรัง: ...หือ-ฮือ *ถอนหายใจ* นายรู้อะไรไหม ยี่ซัง? <*ถีงนี้,พักกินข้าวเที่ยง>
+        ```
+        ```
+        Dongrang: Loud ticks of clocks at your front door are a sign that T Corp's tech agency employees have come to your house.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: I'm sure most of them were visited by the agency. It's an unforgettable experience. Yet it's one you couldn't have known since you must've been under T Corp's grace as a skilled architect.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: The first visit tends to be sudden and quiet. Most are flustered by the unexpected arrival... but they still keep their pride and faith as a member of the League.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: The agency knows that as well. They also know that their visit instilled the fear that they might come again whenever they'd like.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: The second visit is when things start to change. They now know where my time flows from and where it's headed.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: They have my past, present, and future. The shapes of all my weaknesses and desires are in their hands.
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: What would have been your choice? Under the same circumstances, would you have chosen differently?
+        ดงรัง: 
+        ```
+        ```
+        Dongrang: And if so... can you say for sure that you would have?
+        ดงรังซ 
+        ```
+
+        ---
+
+        <img src="../images/T_Employee1.png" alt="Class2Collector" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Class 2 Collector: Organics.
+        เจ้าหน้าที่จัดเก็บคลาส 2: 
+        ```
+
+        ---
+
+        ```
+        Dongrang: ……
+        ```
+
+        ---
+
+        ```
+        Location:Nest T’s Roads
+        ```
+
+
+        ---
+
+        ```
+        Class 2 Collector: In particular, the regeneration and treatment of animals are your interests, right?
+        ```
+        ```
+        Class 2 Collector: Do you know about K Corp, a Wing we've been working with recently? It's an emerging one, whose Nest is filled with an emerald glow.
+        ```
+        ```
+        Class 2 Collector: That Wing might be interested in your technology.
+        ```
+
+        ---
+
+        ```
+        Dongrang: ……
+        ```
+
+        ---
+
+        ```
+        Class 2 Collector: ...I'm sure you know that this is not a common opportunity.
+        ```
+
+        ---
+
+        ```
+        Location:Emptied League of Nine Littérateurs
+        ```
+
+
+        ---
+
+        ```
+        Yi Sang: So, did you accomplish your wish there at last, Dongrang?
+        ```
+
+        ---
+
+        ```
+        Dongrang: ……
         ```
 
     ---

@@ -14032,7 +14032,7 @@
 
         ```
         Dongrang: Haha, you might want to do a better job at remembering your part, yes?
-        ดงรัง: ฮาฮาหือ *หัวเราะ* ผมว่าคุณควรที่จะตั้งใจจำบทของตัวเองให้ดีกว่านี้นะครับ?
+        ดงรัง: ฮะ-ฮาฮาฮา หือ *หัวเราะ* ผมว่าคุณควรที่จะตั้งใจจำบทของตัวเองให้ดีกว่านี้นะครับ?
         ```
         ```
         Dongrang: The enemies will start attacking again, you know.
@@ -15895,6 +15895,8 @@
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         * เสียงในหัว
 
             ```
@@ -15980,35 +15982,35 @@
         ```
         ```
         Dongrang: Loud ticks of clocks at your front door are a sign that T Corp's tech agency employees have come to your house.
-        ดงรัง: เสียงนาฬิกา ที่ดังขึ้นที่หน้าบ้านนายเป็นสัญญาณเตือนที่บอกว่า ทีคอร์ป ได้ส่งเจ้าหน้าที่จากกองเทคโนโลยีมาถึงที่บ้านนายแล้ว
+        ดงรัง: เสียงนาฬิกา ที่ดังขึ้นที่หน้าบ้านของนายเป็นสัญญาณที่บอกว่า ทีคอร์ป ได้ส่งเจ้าหน้าที่จากกองเทคโนโลยีมาถึงที่บ้านนายแล้ว
         ```
         ```
         Dongrang: I'm sure most of them were visited by the agency. It's an unforgettable experience. Yet it's one you couldn't have known since you must've been under T Corp's grace as a skilled architect.
-        ดงรัง: ฉันมั่นใจเลยว่าส่วนมาก พวกเขาจะถูกเยี่ยมเยือนจากหน่วยงาน มันเป็นประสบการณ์ที่ยากจะลืมเลือน แต่นายคงไม่รู้จักความรู้สึกนั้นหรอก ก็นายเป็นถึงลูกรักของทีคอร์ป ในฐานะสถาปนิกผู้เก่งกาจที่ยากจะแทนได้นี้ <*ถีงนี้,พักกินข้าวเย็นและอาบน้ำ>
+        ดงรัง: ฉันมั่นใจเลยว่าส่วนมาก พวกเขาจะถูกเยี่ยมจากหน่วยงาน มันเป็นประสบการณ์ที่ยากจะลืมเลือน แต่นายคงไม่รู้จักความรู้สึกนั้นหรอก ก็นายเป็นถึงลูกรักของทีคอร์ป ในฐานะสถาปนิกผู้เก่งกาจที่ยากจะแทนได้นี้
         ```
         ```
         Dongrang: The first visit tends to be sudden and quiet. Most are flustered by the unexpected arrival... but they still keep their pride and faith as a member of the League.
-        ดงรัง: 
+        ดงรัง: ครั้งแรก จะกะทันหันและเงียบ คนส่วนมากจะลนลาน... จากการมาถึงอย่างไม่คาดคิดที่เกิดขึ้น แต่พวกเขาก็ยังคงเชิดหน้า และศรัทธา ในฐานะของสมาชิกคนหนึ่งของสมาพันธ์ผู้ซื่อสัตว์และตรงฉิน   
         ```
         ```
         Dongrang: The agency knows that as well. They also know that their visit instilled the fear that they might come again whenever they'd like.
-        ดงรัง: 
+        ดงรัง: แต่หน่วยงานก็รู้เหมือนกัน ว่าการที่ พวกเขามาเยี่ยมชม มันทำให้ความหวาดกลัวหยั่งรากลึกลงไปในตัวพวกเขาและกังวล ว่าจะมาอีกตอนไหน
         ```
         ```
         Dongrang: The second visit is when things start to change. They now know where my time flows from and where it's headed.
-        ดงรัง: 
+        ดงรัง: และการมาครั้งที่สองคือในตอนที่ทุกอย่างเริ่มที่จะเปลี่ยนไป ทีนี้พวกเขารู้แล้ว ว่าเวลาชีวิตของฉันเริ่มเดินตอนไหน และมันจะมุ่งหน้าไปสิ้นสุดที่ใด  
         ```
         ```
         Dongrang: They have my past, present, and future. The shapes of all my weaknesses and desires are in their hands.
-        ดงรัง: 
+        ดงรัง: พวกเขามีอดีตฉัน ปัจจุบัน และอนาคตที่ดำเนินไป หือ *ถอนหายใจเฮือกเล็ก* รูปร่างของความอ่อนแอและความต้องการฉัน มันอยู่ในมือ ของพวกเขาทั้งหมดตั้งแต่ตอนแรกแล้ว
         ```
         ```
         Dongrang: What would have been your choice? Under the same circumstances, would you have chosen differently?
-        ดงรัง: 
+        ดงรัง: ถ้าเป็นนายจะทำยังไงล่ะ? ถ้าต้องเจอ แบบเดียวกันนายจะเปลี่ยนมันไหม?  
         ```
         ```
         Dongrang: And if so... can you say for sure that you would have?
-        ดงรังซ 
+        ดงรังซ และถ้าใช่... นายมั่นใจได้หรือเปล่า ว่านายจะทำจริง? *พูดเสียงเบาคล้ายกระซิบ*
         ```
 
         ---
@@ -16017,63 +16019,73 @@
 
         ```
         Class 2 Collector: Organics.
-        เจ้าหน้าที่จัดเก็บคลาส 2: 
+        เจ้าหน้าที่จัดเก็บคลาส 2: สารอินทรีย์ *ตึก ตึก ตึก ตึก ตึก ตึก* (เสียงติ๊กของนาฬิกาที่ดังขึ้นจากเจ้าหน้าที่[กองเทคโนโลยี])
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dongrang: ……
+        Dongrang: ......
+        ดงรัง: ......
         ```
 
         ---
 
-        ```
-        Location:Nest T’s Roads
-        ```
-
+        **Location: Nest T’s Roads | ถนนในเนสที**
 
         ---
+
+        <img src="../images/T_Employee1.png" alt="Class2Collector" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Class 2 Collector: In particular, the regeneration and treatment of animals are your interests, right?
+        เจ้าหน้าที่จัดเก็บคลาส 2: โดยเฉพาะ การฟื้นฟูและรักษาสัตว์คือสิ่งที่แกชอบใช่ไหม? 
         ```
         ```
         Class 2 Collector: Do you know about K Corp, a Wing we've been working with recently? It's an emerging one, whose Nest is filled with an emerald glow.
+        เจ้าหน้าที่จัดเก็บคลาส 2: แกรู้หรือเปล่าว่าเคคอร์ปวิงส์ที่เราพึ่งไปทำงานด้วยเมื่อไม่เร็วมานี้? มันเต็มไปด้วยผู้คนที่ เต็มไปด้วยความสามารถเหมือนเพชรพลอย 
         ```
         ```
         Class 2 Collector: That Wing might be interested in your technology.
+        เจ้าหน้าที่จัดเก็บคลาส 2: และวิงส์ที่นั่น ก็อาจจะสนใจเทคโนโลยีที่แกทำขึ้นก็ได้
         ```
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
-        Dongrang: ……
+        Dongrang: ......
+        ดงรัง: ......
         ```
 
         ---
+
+        <img src="../images/T_Employee1.png" alt="Class2Collector" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Class 2 Collector: ...I'm sure you know that this is not a common opportunity.
+        เจ้าหน้าที่จัดเก็บคลาส 2: ...หื้มมม-ฮือ *เสียงเหนื่อยจากการเกลี้ยกล่อมและจุดไฟเช็ค* ฉันว่าแกก็รู้ *สูบบุหรี่และพ่นออกมา* เห่อ ว่าโอกาศแบบนี้มันก็ไม่ได้มากันง่าย ๆ 
         ```
 
         ---
 
-        ```
-        Location:Emptied League of Nine Littérateurs
-        ```
-
+        **Location: Emptied League of Nine Littérateurs | สมาพันธ์ลีกออฟไนน์ที่ว่างเปล่า**
 
         ---
 
         ```
         Yi Sang: So, did you accomplish your wish there at last, Dongrang?
+        ยี่ซัง: งั้นบอกฉันที ดงรัง ว่านาย ได้ในสิ่งที่ต้วเองต้องการหรือยัง?
         ```
 
         ---
 
         ```
-        Dongrang: ……
+        Dongrang: ......
+        ดงรัง: หืม *ถอนหายใจ*
         ```
 
     ---

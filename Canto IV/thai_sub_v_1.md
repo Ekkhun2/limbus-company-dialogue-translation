@@ -16076,6 +16076,8 @@
 
         ---
 
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Yi Sang: So, did you accomplish your wish there at last, Dongrang?
         ยี่ซัง: งั้นบอกฉันที ดงรัง ว่านาย ได้ในสิ่งที่ต้วเองต้องการหรือยัง?
@@ -16083,10 +16085,85 @@
 
         ---
 
+        <img src="../images/Dongrang.png" alt="Dongrang" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Dongrang: ......
         ดงรัง: หืม *ถอนหายใจ*
         ```
+
+    ---
+
+    * **Episode: 48 | ตอนที่ 48<br>Location: Emptied League of Nine Littérateurs | สมาพันธ์นักเขียนแห่งลีกออฟไนน์ที่ว่างเปล่า**
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            The explosion of the League of Nine shattered everything there was, and everything came to a halt for me as well.
+            การระเบิดของสมาพันธ์ ทำลายทุกสิ่งทุกอย่างที่เคยมีอยู่จนราบคาบ ไปพร้อมกับโลกของฉันที่หยุดนิ่งนับตั้งแต่นั้นเป็นต้นมา
+            ```
+            ```
+            To stop means to cease caring... It is a state of indifference.
+            เพื่อที่จะขัดขว้าง... หมายความว่าต้องตัดใจ เป็นสิ่งเดียวกันที่ไม่ต่าง
+            ```
+            ```
+            In other words...
+            เพราะ...
+            ```
+            ```
+            It no longer mattered if I was weathered and stomped.
+            มันไม่สำคัญอีกแล้วว่าฉันต้องตากแดดตากฝน หรือโดนเหยียบย่ำให้จมดิน
+            ```
+            ```
+            But that was when someone held me by the arm.
+            แต่ในตอนนั้นเอง ก็มีใครบางคนจับแขนฉันเอาไว้
+            ```
+
+        ---
+
+        <img src="../images/Gubo.png" alt="Gubo" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Gubo: Are you going to stand still and let T Corp's tech agency take you away? Someone like you? Have you finally gone mad, Yi Sang?
+        กุโบะ: นี้นายจะยืนเฉย ๆ แล้วก็ปล่อยให้พวกทีคอร์ปเอาตัวนายไปหรือไง? คนแบบนายเนี้ยนะ? เสี่ยสติแล้วหรือไงยี่ซํง?
+        ```
+        ```
+        Gubo: You must come with me.
+        กุโบะ: นายต้องมากับฉัน
+        ```
+
+        ---
+
+        <img src="../images/YiSang.png" alt="YiSang" width="100" style="display: block; margin: 0 auto;">
+
+        * เสียงในหัว
+
+            ```
+            What could I have done other than nod?
+            ในตอนนั้นฉันจะทำอะไรได้ นอกจากพยักหน้าตอบเขาไปด้วยความคล้อยตาม? 
+            ```
+            ```
+            If he told me to be apprehended by the tech agency employees, I would have nodded all the same.
+            ถ้าเขาบอกฉัน ว่าให้ถูกจับกุมโดยพวกเจ้าหน้าที่พวกนั้นแล้วล่ะก็ ฉันก็จะพยักหน้าเหมือนเดิม
+            ```
+            ```
+            If he told me to put all of the mirror technology into a concept incinerator, I would have done so.
+            ถ้าเขาบอกให้ฉันโยนเทคโนโลยีกระจกเข้าไปในเครื่องเผนแนวคิด ฉันก็จะทำมัน 
+            ```
+            ```
+            If he told me to hide on the spot and pretend I know nothing, I would have followed it.
+            ถ้าเขาบอกให้ซ่อน ฉันก็จะซ่อนอยู่ตรงนั้นและทำเป็นไม่รู้อะไร ถ้าเขาบอกฉันแบบนั้น
+            ```
+            ```
+            How many of the nine survived and ran away...
+            มีกี่คน ในพวกเรากันที่รอดและวิ่งหนีออกไปได้...  
+            ```
+            ```
+            Yi Sang: I do not know.
+            ยี่ซัง: ฉันไม่รู้ เรื่องนั้นเลย
+            ```
 
     ---
 ---

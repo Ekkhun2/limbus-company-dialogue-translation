@@ -16166,6 +16166,179 @@
             ```
 
     ---
+
+    * **Episode: 49 | ตอนที่ 49**
+
+        <img src="../images/None_Extra.png" alt="Stephanette" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Stephanette: Don't be sad...
+        สเตฟาเน่(สเตฟาเน็ตต์): เธออย่าได้เสียใจไปเลยนะ... 
+        ```
+        ```
+        Stephanette: I don't want to use your tears to fight the flow of time...
+        สเตฟาเน่(สเตฟาเน็ตต์): ฉันไม่อยาก ที่จะให้เธอร้องไห้เพื่อยื้อเวลาของฉันที่กำลัง ค่อย ๆ สั้นลงหรอกนะ... <*ถีงนี้>
+        ```
+        ```
+        Stephanette: Those tears are better reserved for those who need them more dearly.
+        สเตฟาเน่(สเตฟาเน็ตต์): 
+        ```
+        ```
+        Stephanette: Don't forget... You're a nameless star, hanging in the sky for everyone who is in suffering...
+        สเตฟาเน่(สเตฟาเน็ตต์): 
+        ```
+
+        ---
+
+        **Location: K Corp. Laboratory | แลปเคคอร์ป**
+
+        ---
+
+        <img src="../images/None_Extra.png" alt="PrudishExecutive" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Prudish K Corp. Executive: With the passing of Ms. Stephanette... We at K Corp. would like to take a moment to express our condolences, honoring her noble will...
+        ผู้บริหารบริษัทเคคอร์ปผู้เคร่งครัดในศีลธรรม:
+        ```
+
+        ---
+
+        <img src="../images/Alfonso.png" alt="Alfonso" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Alfonso: What's the need to be so roundabout?
+        อัลฟอนโซ: 
+        ```
+        ```
+        Alfonso: You know there's something you really want to say: which one of us will be the next chief executive...
+        อัลฟอนโซ: 
+        ```
+
+        ---
+
+        <img src="../images/None_Extra.png" alt="PrudishExecutive" width="100" style="display: block; margin: 0 auto;">
+
+        ```
+        Prudish K Corp. Executive: ...Mm.
+        ผู้บริหารบริษัทเคคอร์ปผู้เคร่งครัดในศีลธรรม:
+        ```
+
+        ---
+
+        ```
+        Impulsive K Corp. Executive: Kehm…
+        ```
+
+        ---
+
+        ```
+        Alfonso: Well... The nomination should be simple, right? What did each of us do, and how much did it help to contribute to the growth of this Wing and its Nest...
+        ```
+
+        ---
+
+        ```
+        Impulsive K Corp. Executive: Ever since Ms. Stephanette began struggling to even speak due to her age... I started extracting the tears in her stead.
+        ```
+
+        ---
+
+        ```
+        Prudish K Corp. Executive: What... Having your men buy and read those 'gut-wrenching and heartwarming stories' out loud? I saw the tear production going down, too.
+        ผู้บริหารบริษัทเคคอร์ปผู้เคร่งครัดในศีลธรรม:
+        ```
+
+        ---
+
+        ```
+        Impulsive K Corp. Executive: ...Are you serious?
+        ```
+
+        ---
+
+        ```
+        Prudish K Corp. Executive: Kah... W-Wait.
+        ```
+
+        ---
+
+        ```
+        Impulsive K Corp. Executive: This is what happens when you run your mouth rashly. You knew my temper and still decided to play with fire?
+        ```
+
+        ---
+
+        ```
+        Prudish K Corp. Executive: Hngh... The board of directors won't... let you get away with this...
+        ```
+
+        ---
+
+        ```
+        Impulsive K Corp. Executive: I'll make sure that you're finished before that happens.
+        ```
+
+        ---
+
+        ```
+        Alfonso: ……
+        ```
+        ```
+        Alfonso: Ah, our dear Ms. Stephanette... You were so kind even after you've gone.
+        ```
+        ```
+        Alfonso: The tears don't have to be by noble means after all.
+        ```
+        ```
+        Alfonso: Everyone, I believe I've found the answer.
+        ```
+        ```
+        Alfonso: To take the seat of the chief executive, there's only one simple thing to do: ensure the prosperity of K Corp.
+        ```
+        ```
+        Alfonso: All that's left now is for the board of directors to cast their votes.
+        ```
+
+        ---
+
+        ```
+        Don Quixote: Stop them this instant...! It appalls me greatly to think that one must suffer everlasting sights of despair in captivity for the many...
+        ```
+
+        ---
+
+        ```
+        Faust: Your pleas won't reach them. This one didn't come from Yi Sang... It's a fragmented scene concerning the tears.
+        ```
+
+        ---
+
+        ```
+        Dongrang: Ah, in case you aren't familiar, that one Singularity has saved countless lives.
+        ```
+        ```
+        Dongrang: It was like someone fulfilled my old dream I couldn't make true.
+        ```
+
+        ---
+
+        ```
+        Rodion: ……
+        ```
+
+        ---
+
+        ```
+        Dongrang: If, say, I were in that vat... I would have gladly given up everything I had. Every single thing, with no exception.
+        ```
+        ```
+        Dongrang: So all we can do is just... look at it with gratitude and respect.
+        ```
+        ```
+        Dongrang: Like looking up at the stars in my hometown.
+        ```
+
+    ---
 ---
 
 ### เพิ่มเติม

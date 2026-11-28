@@ -16177,15 +16177,15 @@
         ```
         ```
         Stephanette: I don't want to use your tears to fight the flow of time...
-        สเตฟาเน่(สเตฟาเน็ตต์): ฉันไม่อยาก ที่จะให้เธอร้องไห้เพื่อยื้อเวลาของฉันที่กำลัง ค่อย ๆ สั้นลงหรอกนะ... <*ถีงนี้>
+        สเตฟาเน่(สเตฟาเน็ตต์): ฉันไม่อยาก ที่จะให้เธอร้องไห้เพื่อยื้อเวลาชีวิตของฉันที่ อีกต่อไปแล้วล่ะนะ...
         ```
         ```
         Stephanette: Those tears are better reserved for those who need them more dearly.
-        สเตฟาเน่(สเตฟาเน็ตต์): 
+        สเตฟาเน่(สเตฟาเน็ตต์): น้ำตาพวกนั้น มันมีค่ามากกว่าสำหรับผู้ ที่ต้องการมันอย่างสุดซึ้ง
         ```
         ```
         Stephanette: Don't forget... You're a nameless star, hanging in the sky for everyone who is in suffering...
-        สเตฟาเน่(สเตฟาเน็ตต์): 
+        สเตฟาเน่(สเตฟาเน็ตต์): อย่าลืมสิ... ว่าสุดท้ายนาย คือดาวไร้ชื่อที่อยู่บนฟ้าผู้แบกรับ ความเจ็บปวด เพื่อทุกคน...
         ```
 
         ---
@@ -16198,7 +16198,7 @@
 
         ```
         Prudish K Corp. Executive: With the passing of Ms. Stephanette... We at K Corp. would like to take a moment to express our condolences, honoring her noble will...
-        ผู้บริหารบริษัทเคคอร์ปผู้เคร่งครัดในศีลธรรม:
+        ผู้บริหารเคคอร์ปผู้เคร่งครัดในศีลธรรม: ด้วยการจากไปอย่างอาลัยของคุณสเตฟาเน็ตต์... พวกเราที่อยู่เคคอร์ป อยากที่จะใช้ช่วงเวลานี้เพื่อแสดงความเสียใจ และให้เกียรติแด่ความปราถณาสูงส่งของเธอ... <*ช่วงท้ายประโยคจะยาวกว่าพากย์ต้นฉบับ>
         ```
 
         ---
@@ -16207,11 +16207,11 @@
 
         ```
         Alfonso: What's the need to be so roundabout?
-        อัลฟอนโซ: 
+        อัลฟอนโซ: จะพูดอ้อมค้อมไปทำไมอีกกันล่ะ?
         ```
         ```
         Alfonso: You know there's something you really want to say: which one of us will be the next chief executive...
-        อัลฟอนโซ: 
+        อัลฟอนโซ: ทั้ง ๆ ที่จริง ๆ แล้วนายก็อยากพูด: ว่าใครกันน้าในหมู่พวกเราจะได้เป็นผู้บริหารคนต่อไปกัน...   
         ```
 
         ---
@@ -16220,25 +16220,34 @@
 
         ```
         Prudish K Corp. Executive: ...Mm.
-        ผู้บริหารบริษัทเคคอร์ปผู้เคร่งครัดในศีลธรรม:
+        ผู้บริหารเคคอร์ปผู้เคร่งครัดในศีลธรรม: ...อึก หื้มมมม *ถอนหายใจจากคำพูดที่แทงใจดำอย่างแม่นยำ*
         ```
 
         ---
+
+        <img src="../images/None_Extra.png" alt="ImpulsiveExecutive" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Impulsive K Corp. Executive: Kehm…
+        ผู้บริหารเคคอร์ปผู้หุนหันพลันแล่น: หื้อ *ถอนหายใจ*
         ```
 
         ---
+
+        <img src="../images/Alfonso.png" alt="Alfonso" width="100" style="display: block; margin: 0 auto;">
 
         ```
         Alfonso: Well... The nomination should be simple, right? What did each of us do, and how much did it help to contribute to the growth of this Wing and its Nest...
+        อัลฟอนโซ: ก็... การเสนอชื่อผู้เหมาะสมมันก็คงจะง่าย ๆ ใช่ไหมล่ะ? ก็แค่นับว่าพวกเราแต่ละคนทำอะไรบ้างและมันช่วยให้วิงส์กับเนสนี้เติมโตขึ้นมากแค่ไหน...
         ```
 
         ---
 
+        <img src="../images/None_Extra.png" alt="ImpulsiveExecutive" width="100" style="display: block; margin: 0 auto;">
+
         ```
         Impulsive K Corp. Executive: Ever since Ms. Stephanette began struggling to even speak due to her age... I started extracting the tears in her stead.
+        ผู้บริหารเคคอร์ปผู้หุนหันพลันแล่น: ตั้งแต่ที่คุณสเตฟาเน็ตต์ เริ่มที่จะพูดไม่ได้จากสภาพร่างกายเธอที่อายุเพิ่มมากขึ้น... ฉันก็เริ่มที่จะเก็บน้ำตาแทนเธอ <*ถีงนี้,กินข้าวเที่ยง>
         ```
 
         ---
